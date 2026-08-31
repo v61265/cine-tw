@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>CineTW · 全台影院場次</title>
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+<header class="site-header">
+  <h1>CineTW</h1>
+  <p class="tagline">全台商業與獨立影院排片一次看，沒有廣告，點了直接訂票</p>
+  <p class="meta" id="meta-line">資料載入中…</p>
+</header>
+
+<div class="layout">
+  <aside class="filters">
+    <section class="filter-group">
+      <h2>日期</h2>
+      <div id="date-tabs" class="date-tabs"></div>
+    </section>
+
+    <section class="filter-group">
+      <h2>語言</h2>
+      <div id="language-filters" class="checkbox-list"></div>
+      <p class="filter-note">目前只有國賓影城的資料有標語言，其他來源尚未支援</p>
+    </section>
+
+    <section class="filter-group">
+      <h2>影院</h2>
+      <div class="cinema-section">
+        <h3>連鎖</h3>
+        <div id="chain-cinema-filters" class="checkbox-list"></div>
+      </div>
+      <div class="cinema-section">
+        <h3>獨立</h3>
+        <div id="indie-cinema-filters" class="checkbox-list"></div>
+      </div>
+    </section>
+  </aside>
+
+  <main class="results" id="results">
+    <p class="loading">載入中…</p>
+  </main>
+</div>
+
+<footer class="site-footer">
+  <p>資料來自各影院官方網站，僅供參考，實際場次請以官方為準。想拿到紙本票或折扣，還是推薦線下購票。</p>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>

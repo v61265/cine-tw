@@ -66,6 +66,21 @@ def film_id_for(normalized_title: str) -> str:
     return hashlib.md5(normalized_title.encode("utf-8")).hexdigest()[:12]
 
 
+LANGUAGE_RE = re.compile(r"([一-鿿]{1,2}文版)")
+
+
+def extract_language(format_raw: str | None) -> str | None:
+    """Best-effort language extraction. Only 國賓's format_raw currently
+    carries this (e.g. "(數位‧英文版)片名") — other sources don't expose
+    language at all, so this returns None for them. Known gap: the
+    frontend's language filter will only be meaningful for that source
+    until the other scrapers are extended to capture it too."""
+    if not format_raw:
+        return None
+    match = LANGUAGE_RE.search(format_raw)
+    return match.group(1) if match else None
+
+
 def main():
     cinemas: dict[str, dict] = {}
     films: dict[str, dict] = {}
@@ -113,6 +128,7 @@ def main():
                     "cinema_id": cinema_id,
                     "datetime_start": s["datetime_start"],
                     "format_raw": s.get("format_raw"),
+                    "language": extract_language(s.get("format_raw")),
                     "booking_url": s.get("booking_url"),
                     "booking_platform": s.get("booking_platform"),
                     "source": s["source"],
