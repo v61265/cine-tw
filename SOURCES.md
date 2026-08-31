@@ -8,12 +8,12 @@
 |---|---|---|
 | 光點台北 SPOT | spot.org.tw | 純靜態月曆頁 |
 | 全美戲院（台南） | cm-movie.com.tw | WordPress，時刻表純靜態 |
+| **國賓影城** | ambassador.com.tw | **2026-09-01 修正**：Stage 0 判斷為「AJAX 動態載入」是誤判（regex 用 `&amp;` 找連結，實際原始碼是沒轉義的 `&`，導致沒抓到）。首頁與 `/home/MovieContent?MID=..&DT=..` 都是純伺服器渲染 HTML，不需要無頭瀏覽器。已驗證抓到全台 9 家分館、49 部片、1309 筆場次 |
 
 ## 可爬但需無頭瀏覽器（JS/AJAX 渲染，站台本身無防護）
 
 | 來源 | 網域 | 備註 |
 |---|---|---|
-| 國賓影城 | ambassador.com.tw | 場次為 AJAX 載入 |
 | 真善美劇院（台北/台南） | wonderful.movie.com.tw | 訂票導向 ezding.com.tw |
 | 國家電影及視聽文化中心 TFAI | tfai.org.tw | 訂票導向 KKTIX |
 | 高雄市電影館 | kfa.kcg.gov.tw | 政府共用 CMS |
