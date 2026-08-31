@@ -14,7 +14,6 @@
 
 | 來源 | 網域 | 備註 |
 |---|---|---|
-| 樂聲影城 | luxcinema.com.tw | 訂票子網域 tix.luxcinema.com.tw，尚未測試 |
 | 真善美劇院（台南） | tainanwonderful.movie.com.tw | 台北站已驗證不需要無頭瀏覽器，台南站假設同結構，待驗證 |
 
 ## 已驗證：純伺服器渲染，不需無頭瀏覽器（比 Stage 0 判斷更樂觀）
@@ -24,6 +23,7 @@
 | 國賓影城 | ambassador.com.tw | 見上方「可自動爬取」表 |
 | 真善美劇院（台北） | wonderful.movie.com.tw | 電影頁 `/movie/inner?id=X` 給片名，場次在獨立的靜態 fragment route `/lightbox/index?id=X`（給「時刻查詢」彈窗用），兩者都是 plain HTTP 可讀。訂票導向 ezding.com.tw，直接連結就在 fragment 裡 |
 | 高雄市電影館 | kfa.kcg.gov.tw | 政府共用 CMS，`/tw/movies-content/{id}` 頁面裡就是一個乾淨的 `<table>` 場次表，訂票導向 ticket.com.tw。注意根網域會 404，要跟隨轉址到 `/tw/` |
+| 樂聲影城 | luxcinema.com.tw | 裸網域是 JS meta-refresh 導到 `/web`，過去即可，不用無頭瀏覽器。每個場次的訂票連結本身就帶完整日期（`showtime=YYYY-MM-DD`），是目前抓到最精準的直接訂票深連結 |
 
 ## 需要談官方資料合作，暫不自動爬取（會主動偵測/擋自動化工具）
 
