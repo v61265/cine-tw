@@ -24,10 +24,14 @@ import hashlib
 import json
 import re
 import unicodedata
+from datetime import datetime, timezone
 from pathlib import Path
 
-DATA_DIR = Path(__file__).resolve().parent.parent / "data"
-OUT_DIR = DATA_DIR / "normalized"
+ROOT = Path(__file__).resolve().parent.parent
+DATA_DIR = ROOT / "data"
+# public/ (not data/) so CI can commit the merged output for the frontend
+# to fetch, while raw per-source scrapes in data/ stay gitignored.
+OUT_DIR = ROOT / "public" / "data"
 
 # 秀泰 (showtime_screenings.json) deliberately excluded — see SOURCES.md.
 SOURCE_FILES = [
@@ -66,6 +70,7 @@ def main():
     cinemas: dict[str, dict] = {}
     films: dict[str, dict] = {}
     screenings: list[dict] = []
+    source_meta: dict[str, dict] = {}
 
     for filename in SOURCE_FILES:
         path = DATA_DIR / filename
@@ -74,6 +79,10 @@ def main():
             continue
 
         payload = json.loads(path.read_text(encoding="utf-8"))
+        source_meta[payload["source"]] = {
+            "scraped_at": payload["scraped_at"],
+            "screening_count": payload["count"],
+        }
         for s in payload["screenings"]:
             cinema_id = s["cinema_id"]
             cinemas.setdefault(
@@ -121,6 +130,17 @@ def main():
     )
     (OUT_DIR / "screenings.json").write_text(
         json.dumps(screenings, ensure_ascii=False, indent=2), encoding="utf-8"
+    )
+    (OUT_DIR / "meta.json").write_text(
+        json.dumps(
+            {
+                "generated_at": datetime.now(timezone.utc).isoformat(),
+                "sources": source_meta,
+            },
+            ensure_ascii=False,
+            indent=2,
+        ),
+        encoding="utf-8",
     )
 
     print(f"\n{len(cinemas)} cinemas, {len(films)} distinct films, {len(screenings)} screenings")

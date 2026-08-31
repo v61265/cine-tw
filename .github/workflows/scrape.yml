@@ -1,0 +1,46 @@
+name: Scrape and update showtimes
+
+on:
+  schedule:
+    # 22:00 UTC = 06:00 Taipei time
+    - cron: "0 22 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run scrapers
+        # Each scraper hits a different, independently flaky site — one
+        # failing shouldn't block the others or the whole job. normalize.py
+        # already skips any source file that didn't get produced.
+        run: |
+          mkdir -p data
+          for scraper in spot_taipei ambassador wonderful_taipei kaohsiung_film_archive lux_cinema; do
+            echo "::group::$scraper"
+            python3 scrapers/$scraper.py || echo "$scraper FAILED, continuing"
+            echo "::endgroup::"
+          done
+
+      - name: Normalize
+        run: python3 pipeline/normalize.py
+
+      - name: Commit updated data
+        run: |
+          git config user.name "cine-tw-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add public/data
+          git diff --cached --quiet && echo "no changes" || git commit -m "Update showtimes data $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git push

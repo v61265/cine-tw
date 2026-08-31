@@ -1,0 +1,25 @@
+{
+  "generated_at": "2026-08-31T21:47:53.395160+00:00",
+  "sources": {
+    "spot.org.tw": {
+      "scraped_at": "2026-08-31T20:44:08.441060+00:00",
+      "screening_count": 21
+    },
+    "ambassador.com.tw": {
+      "scraped_at": "2026-08-31T21:12:55.172286+00:00",
+      "screening_count": 1309
+    },
+    "wonderful.movie.com.tw": {
+      "scraped_at": "2026-08-31T21:18:12.442146+00:00",
+      "screening_count": 38
+    },
+    "kfa.kcg.gov.tw": {
+      "scraped_at": "2026-08-31T21:21:40.163772+00:00",
+      "screening_count": 31
+    },
+    "luxcinema.com.tw": {
+      "scraped_at": "2026-08-31T21:24:40.412484+00:00",
+      "screening_count": 87
+    }
+  }
+}
