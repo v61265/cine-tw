@@ -10,11 +10,11 @@
 | 全美戲院（台南） | cm-movie.com.tw | WordPress，時刻表純靜態 |
 | **國賓影城** | ambassador.com.tw | **2026-09-01 修正**：Stage 0 判斷為「AJAX 動態載入」是誤判（regex 用 `&amp;` 找連結，實際原始碼是沒轉義的 `&`，導致沒抓到）。首頁與 `/home/MovieContent?MID=..&DT=..` 都是純伺服器渲染 HTML，不需要無頭瀏覽器。已驗證抓到全台 9 家分館、49 部片、1309 筆場次 |
 
-## 可爬但需無頭瀏覽器（JS/AJAX 渲染，站台本身無防護）
+## 暫緩：對方網站本身異常，非抓取方式問題
 
 | 來源 | 網域 | 備註 |
 |---|---|---|
-| 真善美劇院（台南） | tainanwonderful.movie.com.tw | 台北站已驗證不需要無頭瀏覽器，台南站假設同結構，待驗證 |
+| 真善美劇院（台南） | tainanwonderful.movie.com.tw | **2026-09-01 確認**：跟台北站同平台架構，但站台本身狀況不佳——首頁顯示的是 2024 年舊片、「即將上映」區塊空白，`/movie/inner` 與 `/lightbox/index` 都直接回傳 internal server error。先不強行修 parser，等對方網站恢復正常再重新驗證 |
 
 ## 已驗證：純伺服器渲染，不需無頭瀏覽器（比 Stage 0 判斷更樂觀）
 
