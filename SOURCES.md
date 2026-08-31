@@ -14,9 +14,7 @@
 
 | 來源 | 網域 | 備註 |
 |---|---|---|
-| 國家電影及視聽文化中心 TFAI | tfai.org.tw | 訂票導向 KKTIX |
-| 高雄市電影館 | kfa.kcg.gov.tw | 政府共用 CMS |
-| 樂聲影城 | luxcinema.com.tw | 訂票子網域 tix.luxcinema.com.tw |
+| 樂聲影城 | luxcinema.com.tw | 訂票子網域 tix.luxcinema.com.tw，尚未測試 |
 | 真善美劇院（台南） | tainanwonderful.movie.com.tw | 台北站已驗證不需要無頭瀏覽器，台南站假設同結構，待驗證 |
 
 ## 已驗證：純伺服器渲染，不需無頭瀏覽器（比 Stage 0 判斷更樂觀）
@@ -25,6 +23,7 @@
 |---|---|---|
 | 國賓影城 | ambassador.com.tw | 見上方「可自動爬取」表 |
 | 真善美劇院（台北） | wonderful.movie.com.tw | 電影頁 `/movie/inner?id=X` 給片名，場次在獨立的靜態 fragment route `/lightbox/index?id=X`（給「時刻查詢」彈窗用），兩者都是 plain HTTP 可讀。訂票導向 ezding.com.tw，直接連結就在 fragment 裡 |
+| 高雄市電影館 | kfa.kcg.gov.tw | 政府共用 CMS，`/tw/movies-content/{id}` 頁面裡就是一個乾淨的 `<table>` 場次表，訂票導向 ticket.com.tw。注意根網域會 404，要跟隨轉址到 `/tw/` |
 
 ## 需要談官方資料合作，暫不自動爬取（會主動偵測/擋自動化工具）
 
@@ -34,6 +33,7 @@
 | 新光影城 | skcinemas.com | 疑似 TLS 指紋層級封鎖 |
 | 誠品電影院 | arthouse.eslite.com | Cloudflare 人機驗證 |
 | **秀泰影城** | showtimes.com.tw | **2026-09-01 確認**：靜態 HTML 殼裡的 JSON-LD 是停在 8/24 的舊資料（SEO fallback），即時資料走 `capi.showtimes.com.tw`，該 API 對自動化瀏覽器回傳空結果、對真人瀏覽器正常回傳場次，判定為主動區分人類與程式的防護，比照威秀/新光/誠品處理，不硬繞過去 |
+| **國家電影及視聽文化中心 TFAI** | tfai.org.tw | **2026-09-01 確認**：真的 Cloudflare 機器人驗證（「正在執行安全驗證」），連完整瀏覽器都要先過驗證頁，不是單純 JS 渲染問題，比照上述來源處理 |
 
 ## 已確認停業／不收錄
 
