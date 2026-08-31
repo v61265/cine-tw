@@ -1,3 +1,5 @@
+const CHAIN_LABELS = { ambassador: "國賓影城" };
+
 const state = {
   cinemas: {},
   films: {},
@@ -5,6 +7,7 @@ const state = {
   selectedDate: null,
   selectedLanguages: new Set(),
   selectedCinemas: new Set(),
+  selectedCities: new Set(),
 };
 
 async function loadData() {
@@ -79,34 +82,73 @@ function buildLanguageFilters() {
   }
 }
 
-function buildCinemaFilters() {
-  const chainIds = Object.entries(state.cinemas)
-    .filter(([, c]) => c.chain)
-    .map(([id]) => id);
-  const indieIds = Object.entries(state.cinemas)
-    .filter(([, c]) => !c.chain)
-    .map(([id]) => id);
+function cinemaCheckboxLabel(id) {
+  const label = document.createElement("label");
+  const checkbox = document.createElement("input");
+  checkbox.type = "checkbox";
+  checkbox.checked = true;
+  checkbox.onchange = () => {
+    checkbox.checked ? state.selectedCinemas.add(id) : state.selectedCinemas.delete(id);
+    render();
+  };
+  label.append(checkbox, document.createTextNode(state.cinemas[id].name));
+  return label;
+}
 
+function byZhName(ids) {
+  return ids.sort((a, b) => state.cinemas[a].name.localeCompare(state.cinemas[b].name, "zh-Hant"));
+}
+
+function buildCinemaFilters() {
   state.selectedCinemas = new Set(Object.keys(state.cinemas));
 
-  const renderGroup = (containerId, ids) => {
-    const container = document.getElementById(containerId);
-    container.innerHTML = "";
-    for (const id of ids.sort((a, b) => state.cinemas[a].name.localeCompare(state.cinemas[b].name, "zh-Hant"))) {
-      const label = document.createElement("label");
-      const checkbox = document.createElement("input");
-      checkbox.type = "checkbox";
-      checkbox.checked = true;
-      checkbox.onchange = () => {
-        checkbox.checked ? state.selectedCinemas.add(id) : state.selectedCinemas.delete(id);
-        render();
-      };
-      label.append(checkbox, document.createTextNode(state.cinemas[id].name));
-      container.appendChild(label);
+  const chains = new Map(); // chain key -> [cinema ids]
+  const indieIds = [];
+  for (const [id, c] of Object.entries(state.cinemas)) {
+    if (c.chain) {
+      if (!chains.has(c.chain)) chains.set(c.chain, []);
+      chains.get(c.chain).push(id);
+    } else {
+      indieIds.push(id);
     }
-  };
-  renderGroup("chain-cinema-filters", chainIds);
-  renderGroup("indie-cinema-filters", indieIds);
+  }
+
+  const chainContainer = document.getElementById("chain-cinema-filters");
+  chainContainer.innerHTML = "";
+  for (const [chainKey, ids] of chains) {
+    const details = document.createElement("details");
+    const summary = document.createElement("summary");
+    summary.textContent = `${CHAIN_LABELS[chainKey] ?? chainKey}（${ids.length}）`;
+    details.appendChild(summary);
+    for (const id of byZhName(ids)) details.appendChild(cinemaCheckboxLabel(id));
+    chainContainer.appendChild(details);
+  }
+
+  const indieContainer = document.getElementById("indie-cinema-filters");
+  indieContainer.innerHTML = "";
+  for (const id of byZhName(indieIds)) indieContainer.appendChild(cinemaCheckboxLabel(id));
+}
+
+function buildCityFilters() {
+  const cities = [...new Set(Object.values(state.cinemas).map((c) => c.city || "未知"))].sort((a, b) =>
+    a.localeCompare(b, "zh-Hant")
+  );
+  state.selectedCities = new Set(cities);
+
+  const container = document.getElementById("city-filters");
+  container.innerHTML = "";
+  for (const city of cities) {
+    const label = document.createElement("label");
+    const checkbox = document.createElement("input");
+    checkbox.type = "checkbox";
+    checkbox.checked = true;
+    checkbox.onchange = () => {
+      checkbox.checked ? state.selectedCities.add(city) : state.selectedCities.delete(city);
+      render();
+    };
+    label.append(checkbox, document.createTextNode(city));
+    container.appendChild(label);
+  }
 }
 
 function render() {
@@ -114,7 +156,8 @@ function render() {
     (s) =>
       localDateKey(s.datetime_start) === state.selectedDate &&
       state.selectedLanguages.has(s.language || "未知") &&
-      state.selectedCinemas.has(s.cinema_id)
+      state.selectedCinemas.has(s.cinema_id) &&
+      state.selectedCities.has(state.cinemas[s.cinema_id]?.city || "未知")
   );
 
   const byFilm = new Map();
@@ -203,6 +246,7 @@ function render() {
 loadData().then(() => {
   buildDateTabs();
   buildLanguageFilters();
+  buildCityFilters();
   buildCinemaFilters();
   render();
 });

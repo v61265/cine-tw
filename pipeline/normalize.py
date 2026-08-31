@@ -4,7 +4,7 @@ Reads data/<source>_screenings.json for every trusted source (see
 SOURCE_FILES — 秀泰's output is intentionally excluded, see SOURCES.md)
 and writes three normalized tables to data/normalized/:
 
-- cinemas.json:   cinema_id -> {name, chain, is_indie, address}
+- cinemas.json:   cinema_id -> {name, chain, is_indie, address, city}
 - films.json:     film_id   -> {normalized_title, raw_titles seen, sources}
 - screenings.json: flat list of {film_id, cinema_id, datetime_start,
                     format_raw, booking_url, booking_platform, source}
@@ -41,6 +41,29 @@ SOURCE_FILES = [
     "kaohsiung_film_archive_screenings.json",
     "lux_cinema_screenings.json",
 ]
+
+# Single-location indie cinemas don't carry an address field from their
+# scraper (there's only ever one branch, so it felt redundant) — hardcode
+# their city here instead of inventing an address-parsing path for one
+# field each.
+INDIE_CITY_OVERRIDES = {
+    "spot-taipei": "台北市",
+    "wonderful-taipei": "台北市",
+    "kaohsiung-film-archive": "高雄市",
+    "lux-cinema": "台北市",
+}
+CITY_RE = re.compile(r"^(\S+?[市縣])")
+
+
+def city_for(cinema_id: str, address: str | None) -> str | None:
+    if cinema_id in INDIE_CITY_OVERRIDES:
+        return INDIE_CITY_OVERRIDES[cinema_id]
+    if address:
+        match = CITY_RE.match(address)
+        if match:
+            return match.group(1)
+    return None
+
 
 BRACKET_GROUP = r"[\(（][^\(\)（）]*[\)）]"
 LEADING_BRACKETS = re.compile(rf"^(?:{BRACKET_GROUP}\s*)+")
@@ -107,6 +130,7 @@ def main():
                     "chain": s.get("chain"),
                     "is_indie": s.get("is_indie"),
                     "address": s.get("cinema_address"),
+                    "city": city_for(cinema_id, s.get("cinema_address")),
                 },
             )
 
