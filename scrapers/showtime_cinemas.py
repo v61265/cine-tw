@@ -1,8 +1,25 @@
-"""Prototype scraper for 秀泰影城 (showtimes.com.tw).
+"""NOT PRODUCTION-READY — see caveat below.
 
 Each screening is embedded as a schema.org ScreeningEvent JSON-LD block
-directly in the server-rendered HTML, so this needs no headless browser —
-plain HTTP + regex/json extraction is enough.
+directly in the server-rendered HTML. That part of the pipeline (fetch ->
+extract JSON-LD -> normalize -> write JSON) works and is exercised end to
+end by this script.
+
+However: the JSON-LD is stale SEO fallback content baked into the static
+HTML shell, not live data. Verified 2026-09-01 — a real browser hitting
+the same cinema pages shows "目前沒有可預訂的場次" (no bookable screenings)
+across multiple branches, fetched via the site's real API at
+capi.showtimes.com.tw, while curl/this script's plain HTTP request still
+returns a full week of screenings frozen at 2026-08-24. The live API
+distinguishes automated clients from real browsers and serves them
+different data.
+
+Getting current data would require passing that bot detection, which is
+the same category of risk we're deliberately avoiding for 威秀/新光/誠品
+(see SOURCES.md). So this source is parked pending an official data
+partnership conversation, not patched to evade detection. Kept here as a
+reference implementation of the JSON-LD extraction pattern in case a
+future source uses the same technique honestly.
 """
 import json
 import re
