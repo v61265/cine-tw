@@ -183,13 +183,19 @@ function render() {
     const film = state.films[filmId];
     showtimes.sort((a, b) => (a.datetime_start < b.datetime_start ? -1 : 1));
 
-    const card = document.createElement("div");
+    const card = document.createElement("details");
     card.className = "film-card";
 
-    const title = document.createElement("h3");
+    const summary = document.createElement("summary");
+    const title = document.createElement("span");
     title.className = "film-title";
     title.textContent = film.normalized_title;
-    card.appendChild(title);
+    summary.appendChild(title);
+    const count = document.createElement("span");
+    count.className = "film-count";
+    count.textContent = `${showtimes.length} 場`;
+    summary.appendChild(count);
+    card.appendChild(summary);
 
     const metaBits = [];
     if (film.director) metaBits.push(film.director);
