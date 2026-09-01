@@ -36,6 +36,17 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: actions/configure-pages@v5
+
+      - name: Cache-bust CSS/JS references
+        # GitHub Pages serves style.css/app.js with cache-control: max-age=600,
+        # so without this a viewer's browser (and even a fresh re-navigate,
+        # confirmed while testing) can keep showing pre-deploy assets for up
+        # to 10 minutes. Appending the commit SHA changes the URL on every
+        # deploy, so it's always a cache miss against anything older.
+        run: |
+          sed -i "s/style.css/style.css?v=${GITHUB_SHA}/" public/index.html
+          sed -i "s/app.js/app.js?v=${GITHUB_SHA}/" public/index.html
+
       - uses: actions/upload-pages-artifact@v3
         with:
           path: public
