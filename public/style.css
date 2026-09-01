@@ -122,8 +122,9 @@ body {
 .summary-top {
   display: flex;
   align-items: baseline;
-  justify-content: space-between;
+  justify-content: center;
   gap: 10px;
+  text-align: center;
 }
 .summary-top::before {
   content: "▶";
@@ -149,9 +150,10 @@ body {
   color: var(--text-muted);
 }
 .film-meta {
-  margin: 4px 0 0 18px;
+  margin: 4px 0 0;
   font-size: 0.82rem;
   color: var(--text-muted);
+  text-align: center;
 }
 .letterboxd-link {
   color: var(--accent);
