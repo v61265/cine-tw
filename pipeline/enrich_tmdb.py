@@ -30,10 +30,20 @@ REQUEST_DELAY_SECONDS = 0.3
 
 
 def tmdb_get(path: str, token: str, params: dict | None = None) -> dict:
+    # Supports both TMDB auth styles: a v3 "API Key" (~32-char string) goes
+    # as an api_key query param, a v4 "API Read Access Token" (long JWT) goes
+    # as a Bearer header.
+    params = dict(params or {})
+    headers = {"Accept": "application/json"}
+    if len(token) > 40:
+        headers["Authorization"] = f"Bearer {token}"
+    else:
+        params["api_key"] = token
+
     url = f"{API_BASE}{path}"
     if params:
         url += f"?{urlencode(params)}"
-    req = Request(url, headers={"Authorization": f"Bearer {token}", "Accept": "application/json"})
+    req = Request(url, headers=headers)
     with urlopen(req, timeout=15) as resp:
         return json.loads(resp.read().decode("utf-8"))
 

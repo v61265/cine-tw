@@ -37,6 +37,11 @@ jobs:
       - name: Normalize
         run: python3 pipeline/normalize.py
 
+      - name: Fill in missing director/year via TMDB
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+        run: python3 pipeline/enrich_tmdb.py || echo "TMDB enrichment FAILED, continuing"
+
       - name: Commit updated data
         run: |
           git config user.name "cine-tw-bot"
