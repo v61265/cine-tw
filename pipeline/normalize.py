@@ -5,7 +5,8 @@ SOURCE_FILES — 秀泰's output is intentionally excluded, see SOURCES.md)
 and writes three normalized tables to data/normalized/:
 
 - cinemas.json:   cinema_id -> {name, chain, is_indie, address, city}
-- films.json:     film_id   -> {normalized_title, raw_titles seen, sources}
+- films.json:     film_id   -> {normalized_title, raw_titles seen, sources,
+                    director, year, original_title}
 - screenings.json: flat list of {film_id, cinema_id, datetime_start,
                     format_raw, booking_url, booking_platform, source}
 
@@ -139,12 +140,32 @@ def main():
             fid = film_id_for(normalized_title)
             film = films.setdefault(
                 fid,
-                {"normalized_title": normalized_title, "raw_titles": [], "sources": []},
+                {
+                    "normalized_title": normalized_title,
+                    "raw_titles": [],
+                    "sources": [],
+                    "director": None,
+                    "original_title": None,
+                    # "year" is whichever a source publishes first — often a
+                    # Taiwan release/screening date, not the film's original
+                    # production year (only 高雄市電影館's explicit 年份
+                    # field and 光點's "YYYY | language | ..." line are
+                    # likely true production years; 真善美/樂聲 give a
+                    # release date instead). Good enough for display, not
+                    # for anything that needs the distinction.
+                    "year": None,
+                },
             )
             if raw_title not in film["raw_titles"]:
                 film["raw_titles"].append(raw_title)
             if s["source"] not in film["sources"]:
                 film["sources"].append(s["source"])
+            if not film["director"] and s.get("director"):
+                film["director"] = s["director"]
+            if not film["year"] and s.get("film_year"):
+                film["year"] = s["film_year"]
+            if not film["original_title"] and s.get("original_title"):
+                film["original_title"] = s["original_title"]
 
             screenings.append(
                 {

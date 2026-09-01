@@ -21,6 +21,7 @@ BASE = "https://www.luxcinema.com.tw/web"
 UA = "Mozilla/5.0 (research prototype; contact: v61265@gmail.com)"
 FILM_ID_RE = re.compile(r"2020-movie_item\.php\?film_id=(\d+)")
 SHOWTIME_LINK_RE = re.compile(r"showtime=(\d{4}-\d{2}-\d{2})")
+RELEASE_DATE_RE = re.compile(r"^(\d{4})/\d{2}/\d{2}$")
 
 
 def fetch(url: str) -> str:
@@ -46,6 +47,17 @@ def parse_film_page(film_id: str) -> list[dict]:
     h3 = h1.find_next("h3") if h1 else None
     original_title = h3.get_text(strip=True) if h3 else None
 
+    director = None
+    film_year = None
+    for tag in (h1.find_next_siblings("h3") if h1 else []):
+        text = tag.get_text(strip=True)
+        if text.startswith("導演"):
+            director = text.split("|", 1)[-1].strip()
+        else:
+            release_match = RELEASE_DATE_RE.match(text)
+            if release_match:
+                film_year = int(release_match.group(1))
+
     screenings = []
     for a in soup.find_all("a", href=SHOWTIME_LINK_RE):
         date_match = SHOWTIME_LINK_RE.search(a["href"])
@@ -64,6 +76,8 @@ def parse_film_page(film_id: str) -> list[dict]:
                 "is_indie": True,
                 "raw_title": title,
                 "original_title": original_title,
+                "director": director,
+                "film_year": film_year,
                 "datetime_start": dt.isoformat(),
                 "booking_url": booking_url,
                 "booking_platform": "self",

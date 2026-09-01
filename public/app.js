@@ -192,6 +192,22 @@ function render() {
     title.textContent = film.normalized_title;
     card.appendChild(title);
 
+    const metaBits = [];
+    if (film.director) metaBits.push(film.director);
+    if (film.year) metaBits.push(String(film.year));
+
+    const filmMeta = document.createElement("p");
+    filmMeta.className = "film-meta";
+    if (metaBits.length) filmMeta.append(document.createTextNode(metaBits.join(" · ") + " · "));
+    const lbLink = document.createElement("a");
+    lbLink.className = "letterboxd-link";
+    lbLink.href = `https://letterboxd.com/search/${encodeURIComponent(film.original_title || film.normalized_title)}/`;
+    lbLink.target = "_blank";
+    lbLink.rel = "noopener";
+    lbLink.textContent = "Letterboxd ↗";
+    filmMeta.appendChild(lbLink);
+    card.appendChild(filmMeta);
+
     const altTitles = film.raw_titles.filter((t) => t !== film.normalized_title);
     if (altTitles.length) {
       const alt = document.createElement("p");

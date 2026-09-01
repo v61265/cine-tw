@@ -51,6 +51,16 @@ def parse_movie_page(url: str) -> list[dict]:
     booking_link = soup.find("a", href=re.compile(r"ticket\.com\.tw"))
     booking_url = booking_link["href"] if booking_link else None
 
+    spec = {}
+    for item in soup.select("li.film-spec__list__item"):
+        name = item.find(class_="film-spec__list__item__attribute-name")
+        value = item.find(class_="film-spec__list__item__value")
+        if name and value:
+            spec[name.get_text(strip=True)] = value.get_text(strip=True)
+    director = spec.get("導演")
+    film_year_match = re.match(r"(\d{4})", spec.get("年份", ""))
+    film_year = int(film_year_match.group(1)) if film_year_match else None
+
     screenings = []
     for row in table.find("tbody").find_all("tr"):
         cells = [c.get_text(strip=True) for c in row.find_all("td")]
@@ -71,6 +81,8 @@ def parse_movie_page(url: str) -> list[dict]:
                 "chain": None,
                 "is_indie": True,
                 "raw_title": title,
+                "director": director,
+                "film_year": film_year,
                 "datetime_start": dt.isoformat(),
                 "booking_url": booking_url,
                 "booking_platform": "ticket.com.tw",

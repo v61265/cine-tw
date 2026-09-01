@@ -10,7 +10,10 @@
       "ambassador.com.tw",
       "wonderful.movie.com.tw",
       "kfa.kcg.gov.tw"
-    ]
+    ],
+    "director": "松居大悟 MATSUI Daigo",
+    "original_title": "Meets the World",
+    "year": 2025
   },
   "c3956763b92d": {
     "normalized_title": "開放性邀請",
@@ -21,7 +24,10 @@
       "spot.org.tw",
       "ambassador.com.tw",
       "wonderful.movie.com.tw"
-    ]
+    ],
+    "director": "奧莉薇亞魏爾德 Olivia Wilde",
+    "original_title": "The Invite",
+    "year": 2026
   },
   "0e3becbfd989": {
     "normalized_title": "把哥哥變成可以攜帶的尺寸",
@@ -30,7 +36,10 @@
     ],
     "sources": [
       "spot.org.tw"
-    ]
+    ],
+    "director": "NAKANO Ryota",
+    "original_title": "Bring Him Down to a Portable Size",
+    "year": 2025
   },
   "5ddb00025b4a": {
     "normalized_title": "粽邪4:坤蒂拉娜",
@@ -40,7 +49,10 @@
     "sources": [
       "ambassador.com.tw",
       "luxcinema.com.tw"
-    ]
+    ],
+    "director": "廖士涵",
+    "original_title": "The Rope Curse 4",
+    "year": 2026
   },
   "91276bb5cec3": {
     "normalized_title": "超拖樂團之我要幹大事啦!",
@@ -50,7 +62,10 @@
     "sources": [
       "ambassador.com.tw",
       "wonderful.movie.com.tw"
-    ]
+    ],
+    "director": "麥特強生MattJohnson",
+    "original_title": null,
+    "year": 2026
   },
   "0a5aacb9a2b3": {
     "normalized_title": "汪汪隊立大功:恐龍大電影",
@@ -59,7 +74,10 @@
     ],
     "sources": [
       "ambassador.com.tw"
-    ]
+    ],
+    "director": null,
+    "original_title": null,
+    "year": null
   },
   "74397369239c": {
     "normalized_title": "愛你致死不渝",
@@ -69,7 +87,10 @@
     "sources": [
       "ambassador.com.tw",
       "wonderful.movie.com.tw"
-    ]
+    ],
+    "director": "柯瑞巴克",
+    "original_title": null,
+    "year": 2026
   },
   "53361c35df1d": {
     "normalized_title": "劇場版 吉伊卡哇 人魚島的秘密",
@@ -78,7 +99,10 @@
     ],
     "sources": [
       "ambassador.com.tw"
-    ]
+    ],
+    "director": null,
+    "original_title": null,
+    "year": null
   },
   "9875a1945541": {
     "normalized_title": "蜘蛛人:重生日",
@@ -87,7 +111,10 @@
     ],
     "sources": [
       "ambassador.com.tw"
-    ]
+    ],
+    "director": null,
+    "original_title": null,
+    "year": null
   },
   "8203b3ac343e": {
     "normalized_title": "奧德賽",
@@ -97,7 +124,10 @@
     "sources": [
       "ambassador.com.tw",
       "wonderful.movie.com.tw"
-    ]
+    ],
+    "director": "克里斯多夫諾蘭",
+    "original_title": null,
+    "year": 2026
   },
   "614d07ac9f2a": {
     "normalized_title": "炎上",
@@ -109,7 +139,10 @@
       "ambassador.com.tw",
       "wonderful.movie.com.tw",
       "kfa.kcg.gov.tw"
-    ]
+    ],
+    "director": "長久允",
+    "original_title": null,
+    "year": 2026
   },
   "2c57df340f42": {
     "normalized_title": "八月三十一日,我在奧斯陸..",
@@ -118,7 +151,10 @@
     ],
     "sources": [
       "ambassador.com.tw"
-    ]
+    ],
+    "director": null,
+    "original_title": null,
+    "year": null
   },
   "14bd9297bcc9": {
     "normalized_title": "最終樂章 吹響吧!上低音號 前篇",
@@ -127,7 +163,10 @@
     ],
     "sources": [
       "ambassador.com.tw"
-    ]
+    ],
+    "director": null,
+    "original_title": null,
+    "year": null
   },
   "19c744bdd35b": {
     "normalized_title": "尪某殺必死",
@@ -137,7 +176,10 @@
     "sources": [
       "ambassador.com.tw",
       "luxcinema.com.tw"
-    ]
+    ],
+    "director": "《007首部曲：皇家夜總會》馬丁坎貝爾",
+    "original_title": "Just Play Dead",
+    "year": 2026
   },
   "db382bbfb363": {
     "normalized_title": "寂地",
@@ -147,7 +189,10 @@
     "sources": [
       "ambassador.com.tw",
       "luxcinema.com.tw"
-    ]
+    ],
+    "director": "雷利史考特",
+    "original_title": "The Dog Stars",
+    "year": 2026
   },
   "31cf6619f5a3": {
     "normalized_title": "網紅老爸",
@@ -158,7 +203,10 @@
       "ambassador.com.tw",
       "wonderful.movie.com.tw",
       "luxcinema.com.tw"
-    ]
+    ],
+    "director": "范揚仲",
+    "original_title": "Pa Pa Go",
+    "year": 2026
   },
   "6b6797a49dde": {
     "normalized_title": "驀然回首.",
@@ -167,7 +215,10 @@
     ],
     "sources": [
       "ambassador.com.tw"
-    ]
+    ],
+    "director": null,
+    "original_title": null,
+    "year": null
   },
   "ba4f3ff18405": {
     "normalized_title": "名偵探柯南 高速公路的墮天使",
@@ -176,7 +227,10 @@
     ],
     "sources": [
       "ambassador.com.tw"
-    ]
+    ],
+    "director": null,
+    "original_title": null,
+    "year": null
   },
   "0729ef561a58": {
     "normalized_title": "玩具總動員5",
@@ -185,7 +239,10 @@
     ],
     "sources": [
       "ambassador.com.tw"
-    ]
+    ],
+    "director": null,
+    "original_title": null,
+    "year": null
   },
   "66bb5b46c7e4": {
     "normalized_title": "愛重奏.",
@@ -194,7 +251,10 @@
     ],
     "sources": [
       "ambassador.com.tw"
-    ]
+    ],
+    "director": null,
+    "original_title": null,
+    "year": null
   },
   "b928547c0418": {
     "normalized_title": "野生狂廚",
@@ -204,7 +264,10 @@
     "sources": [
       "ambassador.com.tw",
       "wonderful.movie.com.tw"
-    ]
+    ],
+    "director": "麥特強森",
+    "original_title": null,
+    "year": 2026
   },
   "8d1c007dc997": {
     "normalized_title": "父親回來的那一天",
@@ -213,7 +276,10 @@
     ],
     "sources": [
       "ambassador.com.tw"
-    ]
+    ],
+    "director": null,
+    "original_title": null,
+    "year": null
   },
   "2e08d7363529": {
     "normalized_title": "Last Man ー 全盲搜查官 ー 劇場版",
@@ -222,7 +288,10 @@
     ],
     "sources": [
       "ambassador.com.tw"
-    ]
+    ],
+    "director": null,
+    "original_title": null,
+    "year": null
   },
   "107289c40f80": {
     "normalized_title": "一夜限定",
@@ -231,7 +300,10 @@
     ],
     "sources": [
       "ambassador.com.tw"
-    ]
+    ],
+    "director": null,
+    "original_title": null,
+    "year": null
   },
   "39f5e74a95a4": {
     "normalized_title": "玩命航線",
@@ -241,7 +313,10 @@
     "sources": [
       "ambassador.com.tw",
       "luxcinema.com.tw"
-    ]
+    ],
+    "director": "《迫降危機》強法蘭柯瑞西",
+    "original_title": "Mutiny",
+    "year": 2026
   },
   "0ea24faa45ee": {
     "normalized_title": "愛的魔樣",
@@ -251,7 +326,10 @@
     "sources": [
       "ambassador.com.tw",
       "wonderful.movie.com.tw"
-    ]
+    ],
+    "director": "阿德里安基雷拉",
+    "original_title": null,
+    "year": 2026
   },
   "073d457102a9": {
     "normalized_title": "終戰那一天",
@@ -261,7 +339,10 @@
     "sources": [
       "ambassador.com.tw",
       "wonderful.movie.com.tw"
-    ]
+    ],
+    "director": "盧慈穎",
+    "original_title": null,
+    "year": 2026
   },
   "ac75f5690346": {
     "normalized_title": "陰兒房:穿越陰深處",
@@ -270,7 +351,10 @@
     ],
     "sources": [
       "ambassador.com.tw"
-    ]
+    ],
+    "director": null,
+    "original_title": null,
+    "year": null
   },
   "c544463a3052": {
     "normalized_title": "橡樹街末日",
@@ -280,7 +364,10 @@
     "sources": [
       "ambassador.com.tw",
       "luxcinema.com.tw"
-    ]
+    ],
+    "director": "大衛羅伯特米切爾",
+    "original_title": "The End of Oak Street",
+    "year": 2026
   },
   "18f435c8f6f0": {
     "normalized_title": "藍色監獄",
@@ -289,7 +376,10 @@
     ],
     "sources": [
       "ambassador.com.tw"
-    ]
+    ],
+    "director": null,
+    "original_title": null,
+    "year": null
   },
   "de5e13d74f88": {
     "normalized_title": "電影蠟筆小新:奇奇怪怪!我的妖怪假期",
@@ -301,7 +391,10 @@
     "sources": [
       "ambassador.com.tw",
       "luxcinema.com.tw"
-    ]
+    ],
+    "director": "渡邊正樹",
+    "original_title": "Crayon Shinchan the Movie：Spooky! My Yokai Vacation",
+    "year": 2026
   },
   "479d5fee78fc": {
     "normalized_title": "電影哆啦A夢:新.大雄的海底鬼岩城",
@@ -310,7 +403,10 @@
     ],
     "sources": [
       "ambassador.com.tw"
-    ]
+    ],
+    "director": null,
+    "original_title": null,
+    "year": null
   },
   "aa4a5e9a818f": {
     "normalized_title": "禍禍女",
@@ -321,7 +417,10 @@
     "sources": [
       "wonderful.movie.com.tw",
       "kfa.kcg.gov.tw"
-    ]
+    ],
+    "director": "有里金毛",
+    "original_title": null,
+    "year": 2026
   },
   "d969e80b44f4": {
     "normalized_title": "我們要回家",
@@ -330,7 +429,10 @@
     ],
     "sources": [
       "wonderful.movie.com.tw"
-    ]
+    ],
+    "director": "尼拉吉蓋萬",
+    "original_title": null,
+    "year": 2026
   },
   "23dd8232bbdc": {
     "normalized_title": "18顆鑽石",
@@ -341,7 +443,10 @@
     "sources": [
       "wonderful.movie.com.tw",
       "kfa.kcg.gov.tw"
-    ]
+    ],
+    "director": "佛森歐茲派特",
+    "original_title": null,
+    "year": 2026
   },
   "a9b1eeb6bee6": {
     "normalized_title": "Last Man ー全盲搜查官ー 劇場版",
@@ -350,7 +455,10 @@
     ],
     "sources": [
       "wonderful.movie.com.tw"
-    ]
+    ],
+    "director": "平野俊一",
+    "original_title": null,
+    "year": 2026
   },
   "a71b75bf352c": {
     "normalized_title": "世界末日愛上你",
@@ -361,7 +469,22 @@
     "sources": [
       "wonderful.movie.com.tw",
       "kfa.kcg.gov.tw"
-    ]
+    ],
+    "director": "安娜艾蒙",
+    "original_title": null,
+    "year": 2026
+  },
+  "70daa6a56d65": {
+    "normalized_title": "希望:末日血戰",
+    "raw_titles": [
+      "希望：末日血戰"
+    ],
+    "sources": [
+      "wonderful.movie.com.tw"
+    ],
+    "director": "羅泓軫",
+    "original_title": null,
+    "year": 2026
   },
   "377764c6ecb1": {
     "normalized_title": "驀然回首",
@@ -372,7 +495,46 @@
     "sources": [
       "wonderful.movie.com.tw",
       "kfa.kcg.gov.tw"
-    ]
+    ],
+    "director": "押山清高",
+    "original_title": null,
+    "year": 2026
+  },
+  "a6681dc0b827": {
+    "normalized_title": "超人力霸王.起源",
+    "raw_titles": [
+      "超人力霸王．起源"
+    ],
+    "sources": [
+      "wonderful.movie.com.tw"
+    ],
+    "director": "中村裕、吉田一貴",
+    "original_title": null,
+    "year": 2026
+  },
+  "ead23610038d": {
+    "normalized_title": "今晚我想來點棒的",
+    "raw_titles": [
+      "今晚我想來點棒的"
+    ],
+    "sources": [
+      "wonderful.movie.com.tw"
+    ],
+    "director": "《巴黎限時簽》蕾米柯里希",
+    "original_title": null,
+    "year": 2026
+  },
+  "c5d0063d04a7": {
+    "normalized_title": "愛在記憶褪色時",
+    "raw_titles": [
+      "愛在記憶褪色時"
+    ],
+    "sources": [
+      "wonderful.movie.com.tw"
+    ],
+    "director": "韋夫．萊因哈特",
+    "original_title": null,
+    "year": 2026
   },
   "3808e10cd4f4": {
     "normalized_title": "八月三十一日,我在奧斯陸",
@@ -381,7 +543,10 @@
     ],
     "sources": [
       "kfa.kcg.gov.tw"
-    ]
+    ],
+    "director": "尤沃金提爾 Joachim TRIER",
+    "original_title": null,
+    "year": 2011
   },
   "d128d104edc5": {
     "normalized_title": "撒旦的探戈 4K修復(中)Sátántangó 4K Restoration Part II",
@@ -390,7 +555,10 @@
     ],
     "sources": [
       "kfa.kcg.gov.tw"
-    ]
+    ],
+    "director": "貝拉塔爾 Béla TARR",
+    "original_title": null,
+    "year": 1994
   },
   "9d147f4ed76f": {
     "normalized_title": "她復出的那天",
@@ -399,7 +567,10 @@
     ],
     "sources": [
       "kfa.kcg.gov.tw"
-    ]
+    ],
+    "director": "洪常秀 HONG Sangsoo",
+    "original_title": null,
+    "year": 2026
   },
   "09595d11889b": {
     "normalized_title": "撒旦的探戈 4K修復(上) Sátántangó 4K Restoration Part I",
@@ -408,7 +579,10 @@
     ],
     "sources": [
       "kfa.kcg.gov.tw"
-    ]
+    ],
+    "director": "貝拉塔爾 Béla TARR",
+    "original_title": null,
+    "year": 1994
   },
   "c6fd732ff131": {
     "normalized_title": "鯨魚馬戲團 4K修復",
@@ -417,7 +591,10 @@
     ],
     "sources": [
       "kfa.kcg.gov.tw"
-    ]
+    ],
+    "director": "貝拉塔爾 Béla TARR",
+    "original_title": null,
+    "year": 2000
   },
   "19baffb46f9a": {
     "normalized_title": "撒旦的探戈 4K修復(下)Sátántangó 4K Restoration Part III",
@@ -426,7 +603,10 @@
     ],
     "sources": [
       "kfa.kcg.gov.tw"
-    ]
+    ],
+    "director": "貝拉塔爾 Béla TARR",
+    "original_title": null,
+    "year": 1994
   },
   "8b84c9021a6c": {
     "normalized_title": "電影哆啦A夢:新‧大雄的海底鬼岩城",
@@ -435,7 +615,10 @@
     ],
     "sources": [
       "luxcinema.com.tw"
-    ]
+    ],
+    "director": "《寶可夢：皮卡丘和可可的冒險》矢嶋哲生",
+    "original_title": "New Nobita and the Castle of the Undersea Devil",
+    "year": 2026
   },
   "a842543a68c2": {
     "normalized_title": "你的名字。",
@@ -444,7 +627,10 @@
     ],
     "sources": [
       "luxcinema.com.tw"
-    ]
+    ],
+    "director": "新海誠",
+    "original_title": "Your Name.",
+    "year": 2026
   },
   "cc2e2220ced7": {
     "normalized_title": "劇場版 境界的彼方 -I'LL BE HERE- 未來篇",
@@ -453,7 +639,10 @@
     ],
     "sources": [
       "luxcinema.com.tw"
-    ]
+    ],
+    "director": "《紫羅蘭永恆花園》石立太一",
+    "original_title": "Beyond the Boundary -I'LL BE HERE- The Future",
+    "year": 2026
   },
   "2d66f1175529": {
     "normalized_title": "特務搞飛機2",
@@ -462,7 +651,10 @@
     ],
     "sources": [
       "luxcinema.com.tw"
-    ]
+    ],
+    "director": "《特務搞飛機》李澈河",
+    "original_title": "OK! Madam: Bon Voyage",
+    "year": 2026
   },
   "41b8bd3357a9": {
     "normalized_title": "血鬼村",
@@ -471,6 +663,9 @@
     ],
     "sources": [
       "luxcinema.com.tw"
-    ]
+    ],
+    "director": "杜國忠",
+    "original_title": "Phi Phong: The Blood Demon",
+    "year": 2026
   }
 }

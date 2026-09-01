@@ -17,6 +17,7 @@ BASE = "https://www.spot.org.tw"
 UA = "Mozilla/5.0 (research prototype; contact: v61265@gmail.com)"
 LISTING_PAGE_RE = re.compile(r"/movies/\d{6}/m\d/movies\d{6}_m\d\.html")
 DATE_RE = re.compile(r"(\d{1,2})/(\d{1,2})")
+FILM_YEAR_RE = re.compile(r"^(19|20)\d{2}(?=\s*\|)")
 
 
 def fetch(url: str) -> str:
@@ -42,6 +43,15 @@ def parse_listing_page(url: str, year_hint: int) -> list[dict]:
 
         eng_cell = title_cell.find_next(class_="movie_title_eng")
         original_title = eng_cell.get_text(strip=True) if eng_cell else None
+
+        director_cell = title_cell.find_next("p", class_="movie_dir")
+        director = director_cell.get_text(strip=True) if director_cell else None
+
+        # the "2025 | Japanese | Color | Japan | 127min | ..." line
+        meta_line = title_cell.find_next(
+            string=lambda s: s and FILM_YEAR_RE.match(s.strip())
+        )
+        film_year = int(meta_line.strip()[:4]) if meta_line else None
 
         # schedule table is the next <table> after a "本片放映時刻" marker
         marker = title_cell.find_next(string=re.compile("本片放映時刻"))
@@ -69,6 +79,8 @@ def parse_listing_page(url: str, year_hint: int) -> list[dict]:
                     "is_indie": True,
                     "raw_title": raw_title,
                     "original_title": original_title,
+                    "director": director,
+                    "film_year": film_year,
                     "datetime_start": dt.isoformat(),
                     "booking_url": None,
                     "booking_platform": "onsite",

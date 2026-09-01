@@ -38,15 +38,31 @@ def list_movie_ids() -> list[str]:
     return sorted(set(MOVIE_ID_RE.findall(html)), key=int)
 
 
-def get_title(movie_id: str) -> str | None:
+def get_movie_meta(movie_id: str) -> dict:
+    """Title plus whatever's in the label/value info list (導演, 上映日期, ...)."""
     soup = BeautifulSoup(fetch(f"{BASE}/movie/inner?id={movie_id}"), "html.parser")
     h2 = soup.find("h2", class_="page-title-1")
-    if not h2:
-        return None
-    return h2.get_text(strip=True)
+    title = h2.get_text(strip=True) if h2 else None
+
+    info = {}
+    for row in soup.select("ul.list_info li.row"):
+        label = row.find("div", class_="label_block")
+        value = row.find("div", class_="content_block")
+        if not label or not value:
+            continue
+        key = re.sub(r"[\s　：:]+", "", label.get_text())
+        info[key] = value.get_text(strip=True)
+
+    film_year = None
+    release_date = info.get("上映日期")
+    if release_date:
+        year_match = re.match(r"(\d{4})", release_date)
+        film_year = int(year_match.group(1)) if year_match else None
+
+    return {"title": title, "director": info.get("導演"), "film_year": film_year}
 
 
-def get_screenings(movie_id: str, title: str, year_hint: int) -> list[dict]:
+def get_screenings(movie_id: str, title: str, director: str | None, film_year: int | None, year_hint: int) -> list[dict]:
     soup = BeautifulSoup(fetch(f"{BASE}/lightbox/index?id={movie_id}"), "html.parser")
 
     booking_link = soup.find("a", class_="btn_buy")
@@ -77,6 +93,8 @@ def get_screenings(movie_id: str, title: str, year_hint: int) -> list[dict]:
                     "chain": None,
                     "is_indie": True,
                     "raw_title": title,
+                    "director": director,
+                    "film_year": film_year,
                     "datetime_start": dt.isoformat(),
                     "booking_url": booking_url,
                     "booking_platform": "ezding",
@@ -93,12 +111,14 @@ def main():
     year_hint = datetime.now().year
     all_screenings = []
     for movie_id in movie_ids:
-        title = get_title(movie_id)
-        if not title:
+        meta = get_movie_meta(movie_id)
+        if not meta["title"]:
             print(f"  id={movie_id}: no title found, skipping")
             continue
-        screenings = get_screenings(movie_id, title, year_hint)
-        print(f"  {title}: {len(screenings)} screenings")
+        screenings = get_screenings(
+            movie_id, meta["title"], meta["director"], meta["film_year"], year_hint
+        )
+        print(f"  {meta['title']}: {len(screenings)} screenings")
         all_screenings.extend(screenings)
 
     out = {

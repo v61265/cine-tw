@@ -136,6 +136,16 @@ body {
   font-size: 0.82rem;
   color: var(--text-muted);
 }
+.film-meta {
+  margin: 0 0 6px;
+  font-size: 0.82rem;
+  color: var(--text-muted);
+}
+.letterboxd-link {
+  color: var(--accent);
+  text-decoration: none;
+}
+.letterboxd-link:hover { text-decoration: underline; }
 
 .showtime-row {
   display: flex;
