@@ -6,6 +6,13 @@ on:
     paths:
       - "public/**"
       - ".github/workflows/deploy-pages.yml"
+  # Covers the daily scrape workflow's own data commits: a push made with
+  # the default GITHUB_TOKEN (as that workflow's commit step does) does NOT
+  # trigger other workflows' `on: push` — GitHub's anti-recursion guard —
+  # so without this, a fresh scrape would never get republished.
+  workflow_run:
+    workflows: ["Scrape and update showtimes"]
+    types: [completed]
   workflow_dispatch: {}
 
 permissions:
@@ -19,6 +26,9 @@ concurrency:
 
 jobs:
   deploy:
+    # Only deploy for a workflow_run if the scrape actually succeeded —
+    # otherwise we'd republish on top of a failed/partial run.
+    if: ${{ github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success' }}
     runs-on: ubuntu-latest
     environment:
       name: github-pages
