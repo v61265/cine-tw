@@ -65,24 +65,15 @@ body {
 }
 .cinema-section:first-child h3 { margin-top: 0; }
 
-.date-tabs {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 6px;
-}
-.date-tab {
+.date-select {
+  width: 100%;
   border: 1px solid var(--border);
   background: var(--panel);
   border-radius: 8px;
-  padding: 6px 10px;
-  font-size: 0.85rem;
-  cursor: pointer;
+  padding: 8px 10px;
+  font-size: 0.9rem;
   color: var(--text);
-}
-.date-tab.active {
-  background: var(--accent);
-  border-color: var(--accent);
-  color: #fff;
+  cursor: pointer;
 }
 
 .checkbox-list { display: flex; flex-direction: column; gap: 6px; }

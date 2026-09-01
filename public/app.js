@@ -44,22 +44,21 @@ function buildDateTabs() {
   const todayKey = taipeiTodayKey();
   state.selectedDate = dates.includes(todayKey) ? todayKey : dates[0];
 
-  const container = document.getElementById("date-tabs");
-  container.innerHTML = "";
+  const select = document.getElementById("date-tabs");
+  select.innerHTML = "";
   for (const dateKey of dates) {
     const d = new Date(dateKey + "T00:00:00");
     const label = `${d.getMonth() + 1}/${d.getDate()}(${"日一二三四五六"[d.getDay()]})`;
-    const btn = document.createElement("button");
-    btn.className = "date-tab" + (dateKey === state.selectedDate ? " active" : "");
-    btn.textContent = label;
-    btn.onclick = () => {
-      state.selectedDate = dateKey;
-      container.querySelectorAll(".date-tab").forEach((el) => el.classList.remove("active"));
-      btn.classList.add("active");
-      render();
-    };
-    container.appendChild(btn);
+    const option = document.createElement("option");
+    option.value = dateKey;
+    option.textContent = label;
+    if (dateKey === state.selectedDate) option.selected = true;
+    select.appendChild(option);
   }
+  select.onchange = () => {
+    state.selectedDate = select.value;
+    render();
+  };
 }
 
 function buildLanguageFilters() {
