@@ -187,15 +187,18 @@ function render() {
     card.className = "film-card";
 
     const summary = document.createElement("summary");
+
+    const summaryTop = document.createElement("div");
+    summaryTop.className = "summary-top";
     const title = document.createElement("span");
     title.className = "film-title";
     title.textContent = film.normalized_title;
-    summary.appendChild(title);
+    summaryTop.appendChild(title);
     const count = document.createElement("span");
     count.className = "film-count";
     count.textContent = `${showtimes.length} 場`;
-    summary.appendChild(count);
-    card.appendChild(summary);
+    summaryTop.appendChild(count);
+    summary.appendChild(summaryTop);
 
     const metaBits = [];
     if (film.director) metaBits.push(film.director);
@@ -211,7 +214,9 @@ function render() {
     lbLink.rel = "noopener";
     lbLink.textContent = "Letterboxd ↗";
     filmMeta.appendChild(lbLink);
-    card.appendChild(filmMeta);
+    summary.appendChild(filmMeta);
+
+    card.appendChild(summary);
 
     const altTitles = film.raw_titles.filter((t) => t !== film.normalized_title);
     if (altTitles.length) {

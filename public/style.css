@@ -38,10 +38,6 @@ body {
 }
 
 .filters {
-  position: sticky;
-  top: 20px;
-  max-height: calc(100vh - 40px);
-  overflow-y: auto;
   background: var(--panel);
   border: 1px solid var(--border);
   border-radius: 12px;
@@ -118,15 +114,18 @@ body {
   margin-bottom: 14px;
 }
 .film-card summary {
-  display: flex;
-  align-items: baseline;
-  justify-content: space-between;
-  gap: 10px;
   cursor: pointer;
   list-style: none;
 }
 .film-card summary::-webkit-details-marker { display: none; }
-.film-card summary::before {
+.film-card[open] summary { margin-bottom: 10px; }
+.summary-top {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 10px;
+}
+.summary-top::before {
   content: "▶";
   display: inline-block;
   font-size: 0.7em;
@@ -134,8 +133,7 @@ body {
   color: var(--text-muted);
   transition: transform 0.15s ease;
 }
-.film-card[open] summary::before { transform: rotate(90deg); }
-.film-card[open] summary { margin-bottom: 10px; }
+.film-card[open] .summary-top::before { transform: rotate(90deg); }
 .film-title {
   font-size: 1.05rem;
   font-weight: 700;
@@ -151,7 +149,7 @@ body {
   color: var(--text-muted);
 }
 .film-meta {
-  margin: 0 0 6px;
+  margin: 4px 0 0 18px;
   font-size: 0.82rem;
   color: var(--text-muted);
 }
@@ -202,7 +200,6 @@ body {
 
 @media (max-width: 720px) {
   .layout { grid-template-columns: 1fr; }
-  .filters { position: static; max-height: none; overflow-y: visible; }
 }
 
 @media (prefers-color-scheme: dark) {
