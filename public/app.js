@@ -40,6 +40,25 @@ function taipeiTodayKey() {
   return new Intl.DateTimeFormat("en-CA", { timeZone: "Asia/Taipei" }).format(new Date());
 }
 
+function taipeiNowKey() {
+  // Same reasoning as taipeiTodayKey but down to the second, so it can be
+  // string-compared directly against a naive "YYYY-MM-DDTHH:MM:SS"
+  // datetime_start (lexicographic order matches chronological order for
+  // zero-padded ISO-shaped strings).
+  const parts = new Intl.DateTimeFormat("en-CA", {
+    timeZone: "Asia/Taipei",
+    year: "numeric",
+    month: "2-digit",
+    day: "2-digit",
+    hour: "2-digit",
+    minute: "2-digit",
+    second: "2-digit",
+    hourCycle: "h23",
+  }).formatToParts(new Date());
+  const get = (type) => parts.find((p) => p.type === type).value;
+  return `${get("year")}-${get("month")}-${get("day")}T${get("hour")}:${get("minute")}:${get("second")}`;
+}
+
 function buildTitleSearch() {
   const input = document.getElementById("title-search");
   input.oninput = () => {
@@ -184,9 +203,11 @@ function filmMatchesSearch(film, query) {
 }
 
 function render() {
+  const nowKey = taipeiNowKey();
   const filtered = state.screenings.filter(
     (s) =>
       localDateKey(s.datetime_start) === state.selectedDate &&
+      s.datetime_start >= nowKey &&
       state.selectedLanguages.has(s.language || OTHER_LANGUAGE) &&
       state.selectedCinemas.has(s.cinema_id) &&
       state.selectedCities.has(state.cinemas[s.cinema_id]?.city || "未知")
@@ -203,7 +224,8 @@ function render() {
   results.innerHTML = "";
 
   if (byFilm.size === 0) {
-    results.innerHTML = '<p class="empty">這天沒有符合篩選條件的場次</p>';
+    results.innerHTML =
+      '<p class="empty">這天沒有符合篩選條件的場次，可能已經全部開始播放了，換個日期看看？</p>';
     return;
   }
 
