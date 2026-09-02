@@ -41,6 +41,57 @@
     "original_title": "Bring Him Down to a Portable Size",
     "year": 2025
   },
+  "5b10e510f2d1": {
+    "normalized_title": "蜘蛛人:重生日.",
+    "raw_titles": [
+      "（DBOX特別場）蜘蛛人：重生日."
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": null,
+    "original_title": null,
+    "year": null
+  },
+  "eef7c2e7af93": {
+    "normalized_title": "劇場版 魔法少女小圓〈瓦爾普吉斯的迴天〉",
+    "raw_titles": [
+      "劇場版 魔法少女小圓〈瓦爾普吉斯的迴天〉"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": null,
+    "original_title": null,
+    "year": null
+  },
+  "70daa6a56d65": {
+    "normalized_title": "希望:末日血戰",
+    "raw_titles": [
+      "希望：末日血戰"
+    ],
+    "sources": [
+      "ambassador.com.tw",
+      "wonderful.movie.com.tw"
+    ],
+    "director": "羅泓軫",
+    "original_title": null,
+    "year": 2026
+  },
+  "31cf6619f5a3": {
+    "normalized_title": "網紅老爸",
+    "raw_titles": [
+      "網紅老爸"
+    ],
+    "sources": [
+      "ambassador.com.tw",
+      "wonderful.movie.com.tw",
+      "luxcinema.com.tw"
+    ],
+    "director": "范揚仲",
+    "original_title": "Pa Pa Go",
+    "year": 2026
+  },
   "5ddb00025b4a": {
     "normalized_title": "粽邪4:坤蒂拉娜",
     "raw_titles": [
@@ -75,10 +126,9 @@
     "sources": [
       "ambassador.com.tw"
     ],
-    "director": "Cal Brunker",
+    "director": null,
     "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1185806
+    "year": null
   },
   "74397369239c": {
     "normalized_title": "愛你致死不渝",
@@ -101,10 +151,9 @@
     "sources": [
       "ambassador.com.tw"
     ],
-    "director": "及川啓",
+    "director": null,
     "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1586876
+    "year": null
   },
   "9875a1945541": {
     "normalized_title": "蜘蛛人:重生日",
@@ -114,10 +163,9 @@
     "sources": [
       "ambassador.com.tw"
     ],
-    "director": "德斯汀·丹尼爾·克雷頓",
+    "director": null,
     "original_title": null,
-    "year": 2026,
-    "tmdb_id": 969681
+    "year": null
   },
   "8203b3ac343e": {
     "normalized_title": "奧德賽",
@@ -129,6 +177,93 @@
       "wonderful.movie.com.tw"
     ],
     "director": "克里斯多夫諾蘭",
+    "original_title": null,
+    "year": 2026
+  },
+  "a2a9be16def7": {
+    "normalized_title": "世界上最爛的人.",
+    "raw_titles": [
+      "世界上最爛的人."
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": null,
+    "original_title": null,
+    "year": null
+  },
+  "01d3ae9cfe76": {
+    "normalized_title": "墜2",
+    "raw_titles": [
+      "墜２"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": null,
+    "original_title": null,
+    "year": null
+  },
+  "7303932a360c": {
+    "normalized_title": "我的爸爸是死刑犯",
+    "raw_titles": [
+      "我的爸爸是死刑犯"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": null,
+    "original_title": null,
+    "year": null
+  },
+  "8e967dbb5101": {
+    "normalized_title": "天鵝與蝙蝠",
+    "raw_titles": [
+      "天鵝與蝙蝠"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": null,
+    "original_title": null,
+    "year": null
+  },
+  "a6681dc0b827": {
+    "normalized_title": "超人力霸王.起源",
+    "raw_titles": [
+      "超人力霸王．起源"
+    ],
+    "sources": [
+      "ambassador.com.tw",
+      "wonderful.movie.com.tw"
+    ],
+    "director": "中村裕、吉田一貴",
+    "original_title": null,
+    "year": 2026
+  },
+  "c5d0063d04a7": {
+    "normalized_title": "愛在記憶褪色時",
+    "raw_titles": [
+      "愛在記憶褪色時"
+    ],
+    "sources": [
+      "ambassador.com.tw",
+      "wonderful.movie.com.tw"
+    ],
+    "director": "韋夫．萊因哈特",
+    "original_title": null,
+    "year": 2026
+  },
+  "ead23610038d": {
+    "normalized_title": "今晚我想來點棒的",
+    "raw_titles": [
+      "今晚我想來點棒的"
+    ],
+    "sources": [
+      "ambassador.com.tw",
+      "wonderful.movie.com.tw"
+    ],
+    "director": "《巴黎限時簽》蕾米柯里希",
     "original_title": null,
     "year": 2026
   },
@@ -147,18 +282,19 @@
     "original_title": null,
     "year": 2026
   },
-  "2c57df340f42": {
-    "normalized_title": "八月三十一日,我在奧斯陸..",
+  "3808e10cd4f4": {
+    "normalized_title": "八月三十一日,我在奧斯陸",
     "raw_titles": [
-      "八月三十一日，我在奧斯陸.."
+      "八月三十一日，我在奧斯陸..",
+      "八月三十一日，我在奧斯陸 Oslo, August 31st"
     ],
     "sources": [
-      "ambassador.com.tw"
+      "ambassador.com.tw",
+      "kfa.kcg.gov.tw"
     ],
-    "director": "Joachim Trier",
+    "director": "尤沃金提爾 Joachim TRIER",
     "original_title": null,
-    "year": 2011,
-    "tmdb_id": 75233
+    "year": 2011
   },
   "14bd9297bcc9": {
     "normalized_title": "最終樂章 吹響吧!上低音號 前篇",
@@ -168,10 +304,9 @@
     "sources": [
       "ambassador.com.tw"
     ],
-    "director": "小川太一",
+    "director": null,
     "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1449433
+    "year": null
   },
   "19c744bdd35b": {
     "normalized_title": "尪某殺必死",
@@ -199,20 +334,6 @@
     "original_title": "The Dog Stars",
     "year": 2026
   },
-  "31cf6619f5a3": {
-    "normalized_title": "網紅老爸",
-    "raw_titles": [
-      "網紅老爸"
-    ],
-    "sources": [
-      "ambassador.com.tw",
-      "wonderful.movie.com.tw",
-      "luxcinema.com.tw"
-    ],
-    "director": "范揚仲",
-    "original_title": "Pa Pa Go",
-    "year": 2026
-  },
   "6b6797a49dde": {
     "normalized_title": "驀然回首.",
     "raw_titles": [
@@ -221,10 +342,9 @@
     "sources": [
       "ambassador.com.tw"
     ],
-    "director": "押山清高",
+    "director": null,
     "original_title": null,
-    "year": 2024,
-    "tmdb_id": 1244492
+    "year": null
   },
   "ba4f3ff18405": {
     "normalized_title": "名偵探柯南 高速公路的墮天使",
@@ -234,10 +354,9 @@
     "sources": [
       "ambassador.com.tw"
     ],
-    "director": "蓮井隆弘",
+    "director": null,
     "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1545621
+    "year": null
   },
   "0729ef561a58": {
     "normalized_title": "玩具總動員5",
@@ -247,10 +366,9 @@
     "sources": [
       "ambassador.com.tw"
     ],
-    "director": "安德魯·斯坦頓",
+    "director": null,
     "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1084244
+    "year": null
   },
   "66bb5b46c7e4": {
     "normalized_title": "愛重奏.",
@@ -260,10 +378,9 @@
     "sources": [
       "ambassador.com.tw"
     ],
-    "director": "Joachim Trier",
+    "director": null,
     "original_title": null,
-    "year": 2006,
-    "tmdb_id": 12197
+    "year": null
   },
   "b928547c0418": {
     "normalized_title": "野生狂廚",
@@ -286,10 +403,9 @@
     "sources": [
       "ambassador.com.tw"
     ],
-    "director": "Akinola Davies Jr.",
+    "director": null,
     "original_title": null,
-    "year": 2025,
-    "tmdb_id": 1432605
+    "year": null
   },
   "2e08d7363529": {
     "normalized_title": "Last Man ー 全盲搜查官 ー 劇場版",
@@ -299,10 +415,9 @@
     "sources": [
       "ambassador.com.tw"
     ],
-    "director": "平野俊一",
+    "director": null,
     "original_title": null,
-    "year": 2025,
-    "tmdb_id": 1437156
+    "year": null
   },
   "107289c40f80": {
     "normalized_title": "一夜限定",
@@ -312,10 +427,9 @@
     "sources": [
       "ambassador.com.tw"
     ],
-    "director": "威爾·古勒",
+    "director": null,
     "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1433367
+    "year": null
   },
   "39f5e74a95a4": {
     "normalized_title": "玩命航線",
@@ -364,10 +478,9 @@
     "sources": [
       "ambassador.com.tw"
     ],
-    "director": "Jacob Chase",
+    "director": null,
     "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1291595
+    "year": null
   },
   "c544463a3052": {
     "normalized_title": "橡樹街末日",
@@ -390,10 +503,9 @@
     "sources": [
       "ambassador.com.tw"
     ],
-    "director": "瀧悠輔",
+    "director": null,
     "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1623376
+    "year": null
   },
   "de5e13d74f88": {
     "normalized_title": "電影蠟筆小新:奇奇怪怪!我的妖怪假期",
@@ -418,10 +530,9 @@
     "sources": [
       "ambassador.com.tw"
     ],
-    "director": "矢嶋哲生",
+    "director": null,
     "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1542261
+    "year": null
   },
   "aa4a5e9a818f": {
     "normalized_title": "禍禍女",
@@ -489,18 +600,6 @@
     "original_title": null,
     "year": 2026
   },
-  "70daa6a56d65": {
-    "normalized_title": "希望:末日血戰",
-    "raw_titles": [
-      "希望：末日血戰"
-    ],
-    "sources": [
-      "wonderful.movie.com.tw"
-    ],
-    "director": "羅泓軫",
-    "original_title": null,
-    "year": 2026
-  },
   "377764c6ecb1": {
     "normalized_title": "驀然回首",
     "raw_titles": [
@@ -514,54 +613,6 @@
     "director": "押山清高",
     "original_title": null,
     "year": 2026
-  },
-  "a6681dc0b827": {
-    "normalized_title": "超人力霸王.起源",
-    "raw_titles": [
-      "超人力霸王．起源"
-    ],
-    "sources": [
-      "wonderful.movie.com.tw"
-    ],
-    "director": "中村裕、吉田一貴",
-    "original_title": null,
-    "year": 2026
-  },
-  "ead23610038d": {
-    "normalized_title": "今晚我想來點棒的",
-    "raw_titles": [
-      "今晚我想來點棒的"
-    ],
-    "sources": [
-      "wonderful.movie.com.tw"
-    ],
-    "director": "《巴黎限時簽》蕾米柯里希",
-    "original_title": null,
-    "year": 2026
-  },
-  "c5d0063d04a7": {
-    "normalized_title": "愛在記憶褪色時",
-    "raw_titles": [
-      "愛在記憶褪色時"
-    ],
-    "sources": [
-      "wonderful.movie.com.tw"
-    ],
-    "director": "韋夫．萊因哈特",
-    "original_title": null,
-    "year": 2026
-  },
-  "3808e10cd4f4": {
-    "normalized_title": "八月三十一日,我在奧斯陸",
-    "raw_titles": [
-      "八月三十一日，我在奧斯陸 Oslo, August 31st"
-    ],
-    "sources": [
-      "kfa.kcg.gov.tw"
-    ],
-    "director": "尤沃金提爾 Joachim TRIER",
-    "original_title": null,
-    "year": 2011
   },
   "d128d104edc5": {
     "normalized_title": "撒旦的探戈 4K修復(中)Sátántangó 4K Restoration Part II",

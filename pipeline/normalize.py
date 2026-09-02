@@ -74,6 +74,11 @@ TRAILING_BRACKETS = re.compile(rf"(?:\s*{BRACKET_GROUP})+$")
 TRAILING_LATIN_TITLE = re.compile(
     r"^(.*[一-鿿぀-ヿ])\s+[A-Za-z][A-Za-z0-9 ,.:'’\-]*$"
 )
+# A stylistic trailing ellipsis ("..", "...", "…") some sources add for a
+# wistful effect — inconsistently, which was enough on its own to split a
+# film into two entries (one source had it, another didn't). Not stripping
+# single "!"/"?"/"。" since those are usually genuine title punctuation.
+TRAILING_ELLIPSIS = re.compile(r"(\.{2,}|…+)$")
 
 
 def clean_title(raw: str) -> str:
@@ -83,6 +88,7 @@ def clean_title(raw: str) -> str:
     match = TRAILING_LATIN_TITLE.match(text)
     if match:
         text = match.group(1)
+    text = TRAILING_ELLIPSIS.sub("", text)
     return re.sub(r"\s+", " ", text).strip()
 
 

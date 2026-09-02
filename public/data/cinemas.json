@@ -6,6 +6,34 @@
     "address": null,
     "city": "台北市"
   },
+  "ambassador-8fda9934-73d4-4c14-b1c4-386c2b81045c": {
+    "name": "八德廣豐國賓影城",
+    "chain": "ambassador",
+    "is_indie": false,
+    "address": "桃園市八德區介壽路一段728號",
+    "city": "桃園市"
+  },
+  "ambassador-f760950a-94b6-4e04-9573-831ed7283c5c": {
+    "name": "高雄草衙道國賓影城",
+    "chain": "ambassador",
+    "is_indie": false,
+    "address": "高雄市前鎮區中山四路100號3樓",
+    "city": "高雄市"
+  },
+  "ambassador-41aae717-4464-49f4-ac26-fec2d16acbd6": {
+    "name": "屏東環球國賓影城",
+    "chain": "ambassador",
+    "is_indie": false,
+    "address": "屏東市仁愛路90號6樓",
+    "city": "屏東市"
+  },
+  "ambassador-3301d822-b385-4aa8-a9eb-aa59d58e95c9": {
+    "name": "新莊晶冠國賓影城",
+    "chain": "ambassador",
+    "is_indie": false,
+    "address": "新北市新莊區五工路66號3樓",
+    "city": "新北市"
+  },
   "ambassador-453b2966-f7c2-44a9-b2eb-687493855d0e": {
     "name": "台北長春國賓影城",
     "chain": "ambassador",
@@ -34,40 +62,12 @@
     "address": "新北市淡水區中正路一段2號",
     "city": "新北市"
   },
-  "ambassador-3301d822-b385-4aa8-a9eb-aa59d58e95c9": {
-    "name": "新莊晶冠國賓影城",
-    "chain": "ambassador",
-    "is_indie": false,
-    "address": "新北市新莊區五工路66號3樓",
-    "city": "新北市"
-  },
-  "ambassador-8fda9934-73d4-4c14-b1c4-386c2b81045c": {
-    "name": "八德廣豐國賓影城",
-    "chain": "ambassador",
-    "is_indie": false,
-    "address": "桃園市八德區介壽路一段728號",
-    "city": "桃園市"
-  },
-  "ambassador-f760950a-94b6-4e04-9573-831ed7283c5c": {
-    "name": "高雄草衙道國賓影城",
-    "chain": "ambassador",
-    "is_indie": false,
-    "address": "高雄市前鎮區中山四路100號3樓",
-    "city": "高雄市"
-  },
   "ambassador-ec07626b-b382-474e-be39-ad45eac5cd1c": {
     "name": "高雄義大國賓影城",
     "chain": "ambassador",
     "is_indie": false,
     "address": "高雄市大樹區學城路一段12號3樓",
     "city": "高雄市"
-  },
-  "ambassador-41aae717-4464-49f4-ac26-fec2d16acbd6": {
-    "name": "屏東環球國賓影城",
-    "chain": "ambassador",
-    "is_indie": false,
-    "address": "屏東市仁愛路90號6樓",
-    "city": "屏東市"
   },
   "wonderful-taipei": {
     "name": "真善美劇院（台北）",
