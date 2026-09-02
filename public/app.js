@@ -71,9 +71,17 @@ function buildDateTabs() {
 }
 
 const OTHER_LANGUAGE = "其他";
+const LANGUAGE_ORDER = ["中文版", "英文版", "日文版"]; // OTHER_LANGUAGE always sorts last
+
+function rankIn(list, value) {
+  const i = list.indexOf(value);
+  return i === -1 ? list.length : i;
+}
 
 function buildLanguageFilters() {
-  const langs = [...new Set(state.screenings.map((s) => s.language || OTHER_LANGUAGE))].sort();
+  const langs = [...new Set(state.screenings.map((s) => s.language || OTHER_LANGUAGE))].sort(
+    (a, b) => rankIn(LANGUAGE_ORDER, a) - rankIn(LANGUAGE_ORDER, b) || a.localeCompare(b, "zh-Hant")
+  );
   state.selectedLanguages = new Set(langs);
 
   const container = document.getElementById("language-filters");
@@ -139,9 +147,18 @@ function buildCinemaFilters() {
   for (const id of byZhName(indieIds)) indieContainer.appendChild(cinemaCheckboxLabel(id));
 }
 
+// North to south, 台北市 pinned first per request even though 基隆市 is
+// arguably just as far north — everything else follows rough geography.
+const CITY_ORDER = [
+  "台北市", "基隆市", "新北市", "桃園市", "新竹市", "新竹縣", "苗栗縣",
+  "台中市", "彰化縣", "南投縣", "雲林縣", "嘉義市", "嘉義縣", "台南市",
+  "高雄市", "屏東縣", "屏東市", "宜蘭縣", "花蓮縣", "台東縣",
+  "澎湖縣", "金門縣", "連江縣",
+];
+
 function buildCityFilters() {
-  const cities = [...new Set(Object.values(state.cinemas).map((c) => c.city || "未知"))].sort((a, b) =>
-    a.localeCompare(b, "zh-Hant")
+  const cities = [...new Set(Object.values(state.cinemas).map((c) => c.city || "未知"))].sort(
+    (a, b) => rankIn(CITY_ORDER, a) - rankIn(CITY_ORDER, b) || a.localeCompare(b, "zh-Hant")
   );
   state.selectedCities = new Set(cities);
 
