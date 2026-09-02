@@ -8,6 +8,7 @@ const state = {
   selectedLanguages: new Set(),
   selectedCinemas: new Set(),
   selectedCities: new Set(),
+  searchQuery: "",
 };
 
 async function loadData() {
@@ -39,6 +40,14 @@ function taipeiTodayKey() {
   return new Intl.DateTimeFormat("en-CA", { timeZone: "Asia/Taipei" }).format(new Date());
 }
 
+function buildTitleSearch() {
+  const input = document.getElementById("title-search");
+  input.oninput = () => {
+    state.searchQuery = input.value.trim().toLowerCase();
+    render();
+  };
+}
+
 function buildDateTabs() {
   const dates = [...new Set(state.screenings.map((s) => localDateKey(s.datetime_start)))].sort();
   const todayKey = taipeiTodayKey();
@@ -61,8 +70,10 @@ function buildDateTabs() {
   };
 }
 
+const OTHER_LANGUAGE = "其他";
+
 function buildLanguageFilters() {
-  const langs = [...new Set(state.screenings.map((s) => s.language || "未知"))].sort();
+  const langs = [...new Set(state.screenings.map((s) => s.language || OTHER_LANGUAGE))].sort();
   state.selectedLanguages = new Set(langs);
 
   const container = document.getElementById("language-filters");
@@ -150,17 +161,23 @@ function buildCityFilters() {
   }
 }
 
+function filmMatchesSearch(film, query) {
+  const haystacks = [film.normalized_title, film.original_title, ...film.raw_titles];
+  return haystacks.some((t) => t && t.toLowerCase().includes(query));
+}
+
 function render() {
   const filtered = state.screenings.filter(
     (s) =>
       localDateKey(s.datetime_start) === state.selectedDate &&
-      state.selectedLanguages.has(s.language || "未知") &&
+      state.selectedLanguages.has(s.language || OTHER_LANGUAGE) &&
       state.selectedCinemas.has(s.cinema_id) &&
       state.selectedCities.has(state.cinemas[s.cinema_id]?.city || "未知")
   );
 
   const byFilm = new Map();
   for (const s of filtered) {
+    if (state.searchQuery && !filmMatchesSearch(state.films[s.film_id], state.searchQuery)) continue;
     if (!byFilm.has(s.film_id)) byFilm.set(s.film_id, []);
     byFilm.get(s.film_id).push(s);
   }
@@ -270,6 +287,7 @@ function render() {
 }
 
 loadData().then(() => {
+  buildTitleSearch();
   buildDateTabs();
   buildLanguageFilters();
   buildCityFilters();
