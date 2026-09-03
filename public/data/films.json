@@ -3,12 +3,12 @@
     "normalized_title": "在世界的盡頭相遇",
     "raw_titles": [
       "在世界的盡頭相遇",
+      "（海報場）在世界的盡頭相遇",
       "在世界的盡頭相遇 Meets the World"
     ],
     "sources": [
       "spot.org.tw",
       "ambassador.com.tw",
-      "wonderful.movie.com.tw",
       "kfa.kcg.gov.tw"
     ],
     "director": "松居大悟 MATSUI Daigo",
@@ -49,9 +49,10 @@
     "sources": [
       "ambassador.com.tw"
     ],
-    "director": null,
+    "director": "德斯汀·丹尼爾·克雷頓",
     "original_title": null,
-    "year": null
+    "year": 2026,
+    "tmdb_id": 969681
   },
   "eef7c2e7af93": {
     "normalized_title": "劇場版 魔法少女小圓〈瓦爾普吉斯的迴天〉",
@@ -61,9 +62,10 @@
     "sources": [
       "ambassador.com.tw"
     ],
-    "director": null,
+    "director": "宮本幸裕",
     "original_title": null,
-    "year": null
+    "year": 2026,
+    "tmdb_id": 822653
   },
   "70daa6a56d65": {
     "normalized_title": "希望:末日血戰",
@@ -95,6 +97,7 @@
   "5ddb00025b4a": {
     "normalized_title": "粽邪4:坤蒂拉娜",
     "raw_titles": [
+      "（Q&A場）粽邪4：坤蒂拉娜",
       "粽邪4：坤蒂拉娜"
     ],
     "sources": [
@@ -126,9 +129,10 @@
     "sources": [
       "ambassador.com.tw"
     ],
-    "director": null,
+    "director": "Cal Brunker",
     "original_title": null,
-    "year": null
+    "year": 2026,
+    "tmdb_id": 1185806
   },
   "74397369239c": {
     "normalized_title": "愛你致死不渝",
@@ -151,9 +155,10 @@
     "sources": [
       "ambassador.com.tw"
     ],
-    "director": null,
+    "director": "及川啓",
     "original_title": null,
-    "year": null
+    "year": 2026,
+    "tmdb_id": 1586876
   },
   "9875a1945541": {
     "normalized_title": "蜘蛛人:重生日",
@@ -163,9 +168,10 @@
     "sources": [
       "ambassador.com.tw"
     ],
-    "director": null,
+    "director": "德斯汀·丹尼爾·克雷頓",
     "original_title": null,
-    "year": null
+    "year": 2026,
+    "tmdb_id": 969681
   },
   "8203b3ac343e": {
     "normalized_title": "奧德賽",
@@ -173,12 +179,12 @@
       "奧德賽"
     ],
     "sources": [
-      "ambassador.com.tw",
-      "wonderful.movie.com.tw"
+      "ambassador.com.tw"
     ],
-    "director": "克里斯多夫諾蘭",
+    "director": "克里斯多夫·諾蘭",
     "original_title": null,
-    "year": 2026
+    "year": 2026,
+    "tmdb_id": 1368337
   },
   "a2a9be16def7": {
     "normalized_title": "世界上最爛的人.",
@@ -188,21 +194,24 @@
     "sources": [
       "ambassador.com.tw"
     ],
-    "director": null,
+    "director": "Joachim Trier",
     "original_title": null,
-    "year": null
+    "year": 2021,
+    "tmdb_id": 660120
   },
   "01d3ae9cfe76": {
     "normalized_title": "墜2",
     "raw_titles": [
-      "墜２"
+      "墜２",
+      "墜2"
     ],
     "sources": [
-      "ambassador.com.tw"
+      "ambassador.com.tw",
+      "luxcinema.com.tw"
     ],
-    "director": null,
-    "original_title": null,
-    "year": null
+    "director": "《超時空攔截》麥可斯派瑞格、《超時空攔截》彼得斯派瑞格",
+    "original_title": "Fall 2",
+    "year": 2026
   },
   "7303932a360c": {
     "normalized_title": "我的爸爸是死刑犯",
@@ -212,9 +221,10 @@
     "sources": [
       "ambassador.com.tw"
     ],
-    "director": null,
+    "director": "李家驊",
     "original_title": null,
-    "year": null
+    "year": 2026,
+    "tmdb_id": 1564172
   },
   "8e967dbb5101": {
     "normalized_title": "天鵝與蝙蝠",
@@ -222,11 +232,12 @@
       "天鵝與蝙蝠"
     ],
     "sources": [
-      "ambassador.com.tw"
+      "ambassador.com.tw",
+      "luxcinema.com.tw"
     ],
-    "director": null,
-    "original_title": null,
-    "year": null
+    "director": "《啊，荒野》岸善幸",
+    "original_title": "Guilt",
+    "year": 2026
   },
   "a6681dc0b827": {
     "normalized_title": "超人力霸王.起源",
@@ -302,11 +313,12 @@
       "最終樂章 吹響吧！上低音號 前篇"
     ],
     "sources": [
-      "ambassador.com.tw"
+      "ambassador.com.tw",
+      "luxcinema.com.tw"
     ],
-    "director": null,
-    "original_title": null,
-    "year": null
+    "director": "石原立也（總導演）、小川太一（導演）",
+    "original_title": "Sound! Euphonium, The Final Movie Part 1",
+    "year": 2026
   },
   "19c744bdd35b": {
     "normalized_title": "尪某殺必死",
@@ -342,9 +354,10 @@
     "sources": [
       "ambassador.com.tw"
     ],
-    "director": null,
+    "director": "押山清高",
     "original_title": null,
-    "year": null
+    "year": 2024,
+    "tmdb_id": 1244492
   },
   "ba4f3ff18405": {
     "normalized_title": "名偵探柯南 高速公路的墮天使",
@@ -354,9 +367,10 @@
     "sources": [
       "ambassador.com.tw"
     ],
-    "director": null,
+    "director": "蓮井隆弘",
     "original_title": null,
-    "year": null
+    "year": 2026,
+    "tmdb_id": 1545621
   },
   "0729ef561a58": {
     "normalized_title": "玩具總動員5",
@@ -366,9 +380,10 @@
     "sources": [
       "ambassador.com.tw"
     ],
-    "director": null,
+    "director": "安德魯·斯坦頓",
     "original_title": null,
-    "year": null
+    "year": 2026,
+    "tmdb_id": 1084244
   },
   "66bb5b46c7e4": {
     "normalized_title": "愛重奏.",
@@ -378,9 +393,10 @@
     "sources": [
       "ambassador.com.tw"
     ],
-    "director": null,
+    "director": "Joachim Trier",
     "original_title": null,
-    "year": null
+    "year": 2006,
+    "tmdb_id": 12197
   },
   "b928547c0418": {
     "normalized_title": "野生狂廚",
@@ -403,9 +419,10 @@
     "sources": [
       "ambassador.com.tw"
     ],
-    "director": null,
+    "director": "Akinola Davies Jr.",
     "original_title": null,
-    "year": null
+    "year": 2025,
+    "tmdb_id": 1432605
   },
   "2e08d7363529": {
     "normalized_title": "Last Man ー 全盲搜查官 ー 劇場版",
@@ -415,9 +432,10 @@
     "sources": [
       "ambassador.com.tw"
     ],
-    "director": null,
+    "director": "平野俊一",
     "original_title": null,
-    "year": null
+    "year": 2025,
+    "tmdb_id": 1437156
   },
   "107289c40f80": {
     "normalized_title": "一夜限定",
@@ -427,9 +445,10 @@
     "sources": [
       "ambassador.com.tw"
     ],
-    "director": null,
+    "director": "威爾·古勒",
     "original_title": null,
-    "year": null
+    "year": 2026,
+    "tmdb_id": 1433367
   },
   "39f5e74a95a4": {
     "normalized_title": "玩命航線",
@@ -478,9 +497,10 @@
     "sources": [
       "ambassador.com.tw"
     ],
-    "director": null,
+    "director": "Jacob Chase",
     "original_title": null,
-    "year": null
+    "year": 2026,
+    "tmdb_id": 1291595
   },
   "c544463a3052": {
     "normalized_title": "橡樹街末日",
@@ -503,9 +523,10 @@
     "sources": [
       "ambassador.com.tw"
     ],
-    "director": null,
+    "director": "瀧悠輔",
     "original_title": null,
-    "year": null
+    "year": 2026,
+    "tmdb_id": 1623376
   },
   "de5e13d74f88": {
     "normalized_title": "電影蠟筆小新:奇奇怪怪!我的妖怪假期",
@@ -530,9 +551,10 @@
     "sources": [
       "ambassador.com.tw"
     ],
-    "director": null,
+    "director": "矢嶋哲生",
     "original_title": null,
-    "year": null
+    "year": 2026,
+    "tmdb_id": 1542261
   },
   "aa4a5e9a818f": {
     "normalized_title": "禍禍女",
@@ -677,6 +699,7 @@
   "8b84c9021a6c": {
     "normalized_title": "電影哆啦A夢:新‧大雄的海底鬼岩城",
     "raw_titles": [
+      "(國語)電影哆啦A夢：新‧大雄的海底鬼岩城",
       "(日語)電影哆啦A夢：新‧大雄的海底鬼岩城"
     ],
     "sources": [
@@ -732,6 +755,18 @@
     ],
     "director": "杜國忠",
     "original_title": "Phi Phong: The Blood Demon",
+    "year": 2026
+  },
+  "093990f37ea5": {
+    "normalized_title": "魯冰花",
+    "raw_titles": [
+      "魯冰花(缺一不可場)"
+    ],
+    "sources": [
+      "luxcinema.com.tw"
+    ],
+    "director": "楊立國",
+    "original_title": "The Dull-Ice Flower",
     "year": 2026
   }
 }
