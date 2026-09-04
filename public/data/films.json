@@ -508,12 +508,12 @@
       "橡樹街末日"
     ],
     "sources": [
-      "ambassador.com.tw",
-      "luxcinema.com.tw"
+      "ambassador.com.tw"
     ],
-    "director": "大衛羅伯特米切爾",
-    "original_title": "The End of Oak Street",
-    "year": 2026
+    "director": "David Robert Mitchell",
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 1101383
   },
   "18f435c8f6f0": {
     "normalized_title": "藍色監獄",
@@ -556,20 +556,6 @@
     "year": 2026,
     "tmdb_id": 1542261
   },
-  "aa4a5e9a818f": {
-    "normalized_title": "禍禍女",
-    "raw_titles": [
-      "禍禍女",
-      "禍禍女 Mag Mag"
-    ],
-    "sources": [
-      "wonderful.movie.com.tw",
-      "kfa.kcg.gov.tw"
-    ],
-    "director": "有里金毛",
-    "original_title": null,
-    "year": 2026
-  },
   "d969e80b44f4": {
     "normalized_title": "我們要回家",
     "raw_titles": [
@@ -579,46 +565,6 @@
       "wonderful.movie.com.tw"
     ],
     "director": "尼拉吉蓋萬",
-    "original_title": null,
-    "year": 2026
-  },
-  "23dd8232bbdc": {
-    "normalized_title": "18顆鑽石",
-    "raw_titles": [
-      "18顆鑽石",
-      "18顆鑽石 Diamonds"
-    ],
-    "sources": [
-      "wonderful.movie.com.tw",
-      "kfa.kcg.gov.tw"
-    ],
-    "director": "佛森歐茲派特",
-    "original_title": null,
-    "year": 2026
-  },
-  "a9b1eeb6bee6": {
-    "normalized_title": "Last Man ー全盲搜查官ー 劇場版",
-    "raw_titles": [
-      "Last Man ー全盲搜查官ー 劇場版"
-    ],
-    "sources": [
-      "wonderful.movie.com.tw"
-    ],
-    "director": "平野俊一",
-    "original_title": null,
-    "year": 2026
-  },
-  "a71b75bf352c": {
-    "normalized_title": "世界末日愛上你",
-    "raw_titles": [
-      "世界末日愛上你",
-      "世界末日愛上你 Peak Everything"
-    ],
-    "sources": [
-      "wonderful.movie.com.tw",
-      "kfa.kcg.gov.tw"
-    ],
-    "director": "安娜艾蒙",
     "original_title": null,
     "year": 2026
   },
@@ -696,6 +642,42 @@
     "original_title": null,
     "year": 1994
   },
+  "aa4a5e9a818f": {
+    "normalized_title": "禍禍女",
+    "raw_titles": [
+      "禍禍女 Mag Mag"
+    ],
+    "sources": [
+      "kfa.kcg.gov.tw"
+    ],
+    "director": "有里金毛 Yuriyan Retriever",
+    "original_title": null,
+    "year": 2025
+  },
+  "23dd8232bbdc": {
+    "normalized_title": "18顆鑽石",
+    "raw_titles": [
+      "18顆鑽石 Diamonds"
+    ],
+    "sources": [
+      "kfa.kcg.gov.tw"
+    ],
+    "director": "佛森歐茲派特 Ferzan ÖZPETEK",
+    "original_title": null,
+    "year": 2024
+  },
+  "a71b75bf352c": {
+    "normalized_title": "世界末日愛上你",
+    "raw_titles": [
+      "世界末日愛上你 Peak Everything"
+    ],
+    "sources": [
+      "kfa.kcg.gov.tw"
+    ],
+    "director": "安艾蒙 Anne ÉMOND",
+    "original_title": null,
+    "year": 2025
+  },
   "8b84c9021a6c": {
     "normalized_title": "電影哆啦A夢:新‧大雄的海底鬼岩城",
     "raw_titles": [
@@ -743,18 +725,6 @@
     ],
     "director": "《特務搞飛機》李澈河",
     "original_title": "OK! Madam: Bon Voyage",
-    "year": 2026
-  },
-  "41b8bd3357a9": {
-    "normalized_title": "血鬼村",
-    "raw_titles": [
-      "血鬼村"
-    ],
-    "sources": [
-      "luxcinema.com.tw"
-    ],
-    "director": "杜國忠",
-    "original_title": "Phi Phong: The Blood Demon",
     "year": 2026
   },
   "093990f37ea5": {
