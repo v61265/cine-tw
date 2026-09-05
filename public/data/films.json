@@ -186,6 +186,19 @@
     "year": 2026,
     "tmdb_id": 1368337
   },
+  "8dde6f04230c": {
+    "normalized_title": "怎麼可能我家的祖先是你家的鬼",
+    "raw_titles": [
+      "怎麼可能我家的祖先是你家的鬼"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "蘇達",
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 1193673
+  },
   "a2a9be16def7": {
     "normalized_title": "世界上最爛的人.",
     "raw_titles": [
@@ -307,32 +320,6 @@
     "original_title": null,
     "year": 2011
   },
-  "14bd9297bcc9": {
-    "normalized_title": "最終樂章 吹響吧!上低音號 前篇",
-    "raw_titles": [
-      "最終樂章 吹響吧！上低音號 前篇"
-    ],
-    "sources": [
-      "ambassador.com.tw",
-      "luxcinema.com.tw"
-    ],
-    "director": "石原立也（總導演）、小川太一（導演）",
-    "original_title": "Sound! Euphonium, The Final Movie Part 1",
-    "year": 2026
-  },
-  "19c744bdd35b": {
-    "normalized_title": "尪某殺必死",
-    "raw_titles": [
-      "尪某殺必死"
-    ],
-    "sources": [
-      "ambassador.com.tw",
-      "luxcinema.com.tw"
-    ],
-    "director": "《007首部曲：皇家夜總會》馬丁坎貝爾",
-    "original_title": "Just Play Dead",
-    "year": 2026
-  },
   "db382bbfb363": {
     "normalized_title": "寂地",
     "raw_titles": [
@@ -385,19 +372,6 @@
     "year": 2026,
     "tmdb_id": 1084244
   },
-  "66bb5b46c7e4": {
-    "normalized_title": "愛重奏.",
-    "raw_titles": [
-      "愛重奏."
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "Joachim Trier",
-    "original_title": null,
-    "year": 2006,
-    "tmdb_id": 12197
-  },
   "b928547c0418": {
     "normalized_title": "野生狂廚",
     "raw_titles": [
@@ -423,19 +397,6 @@
     "original_title": null,
     "year": 2025,
     "tmdb_id": 1432605
-  },
-  "2e08d7363529": {
-    "normalized_title": "Last Man ー 全盲搜查官 ー 劇場版",
-    "raw_titles": [
-      "Last Man ー 全盲搜查官 ー 劇場版"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "平野俊一",
-    "original_title": null,
-    "year": 2025,
-    "tmdb_id": 1437156
   },
   "107289c40f80": {
     "normalized_title": "一夜限定",
@@ -725,6 +686,30 @@
     ],
     "director": "《特務搞飛機》李澈河",
     "original_title": "OK! Madam: Bon Voyage",
+    "year": 2026
+  },
+  "14bd9297bcc9": {
+    "normalized_title": "最終樂章 吹響吧!上低音號 前篇",
+    "raw_titles": [
+      "最終樂章 吹響吧！上低音號 前篇"
+    ],
+    "sources": [
+      "luxcinema.com.tw"
+    ],
+    "director": "石原立也（總導演）、小川太一（導演）",
+    "original_title": "Sound! Euphonium, The Final Movie Part 1",
+    "year": 2026
+  },
+  "19c744bdd35b": {
+    "normalized_title": "尪某殺必死",
+    "raw_titles": [
+      "尪某殺必死"
+    ],
+    "sources": [
+      "luxcinema.com.tw"
+    ],
+    "director": "《007首部曲：皇家夜總會》馬丁坎貝爾",
+    "original_title": "Just Play Dead",
     "year": 2026
   },
   "093990f37ea5": {
