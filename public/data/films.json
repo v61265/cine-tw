@@ -3,7 +3,6 @@
     "normalized_title": "在世界的盡頭相遇",
     "raw_titles": [
       "在世界的盡頭相遇",
-      "（海報場）在世界的盡頭相遇",
       "在世界的盡頭相遇 Meets the World"
     ],
     "sources": [
@@ -41,18 +40,18 @@
     "original_title": "Bring Him Down to a Portable Size",
     "year": 2025
   },
-  "5b10e510f2d1": {
-    "normalized_title": "蜘蛛人:重生日.",
+  "443f0eb55a2f": {
+    "normalized_title": "超異能快感:魔法之書",
     "raw_titles": [
-      "（DBOX特別場）蜘蛛人：重生日."
+      "（特別場）超異能快感：魔法之書"
     ],
     "sources": [
       "ambassador.com.tw"
     ],
-    "director": "德斯汀·丹尼爾·克雷頓",
+    "director": "Susanne Bier",
     "original_title": null,
     "year": 2026,
-    "tmdb_id": 969681
+    "tmdb_id": 1302904
   },
   "eef7c2e7af93": {
     "normalized_title": "劇場版 魔法少女小圓〈瓦爾普吉斯的迴天〉",
@@ -97,7 +96,6 @@
   "5ddb00025b4a": {
     "normalized_title": "粽邪4:坤蒂拉娜",
     "raw_titles": [
-      "（Q&A場）粽邪4：坤蒂拉娜",
       "粽邪4：坤蒂拉娜"
     ],
     "sources": [
@@ -215,16 +213,15 @@
   "01d3ae9cfe76": {
     "normalized_title": "墜2",
     "raw_titles": [
-      "墜２",
-      "墜2"
+      "墜２"
     ],
     "sources": [
-      "ambassador.com.tw",
-      "luxcinema.com.tw"
+      "ambassador.com.tw"
     ],
-    "director": "《超時空攔截》麥可斯派瑞格、《超時空攔截》彼得斯派瑞格",
-    "original_title": "Fall 2",
-    "year": 2026
+    "director": "Michael Spierig",
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 1101412
   },
   "7303932a360c": {
     "normalized_title": "我的爸爸是死刑犯",
@@ -493,7 +490,6 @@
     "normalized_title": "電影蠟筆小新:奇奇怪怪!我的妖怪假期",
     "raw_titles": [
       "電影蠟筆小新：奇奇怪怪！我的妖怪假期",
-      "(國語)電影蠟筆小新：奇奇怪怪！我的妖怪假期",
       "(日語)電影蠟筆小新：奇奇怪怪！我的妖怪假期"
     ],
     "sources": [
@@ -642,7 +638,6 @@
   "8b84c9021a6c": {
     "normalized_title": "電影哆啦A夢:新‧大雄的海底鬼岩城",
     "raw_titles": [
-      "(國語)電影哆啦A夢：新‧大雄的海底鬼岩城",
       "(日語)電影哆啦A夢：新‧大雄的海底鬼岩城"
     ],
     "sources": [
@@ -710,18 +705,6 @@
     ],
     "director": "《007首部曲：皇家夜總會》馬丁坎貝爾",
     "original_title": "Just Play Dead",
-    "year": 2026
-  },
-  "093990f37ea5": {
-    "normalized_title": "魯冰花",
-    "raw_titles": [
-      "魯冰花(缺一不可場)"
-    ],
-    "sources": [
-      "luxcinema.com.tw"
-    ],
-    "director": "楊立國",
-    "original_title": "The Dull-Ice Flower",
     "year": 2026
   }
 }
