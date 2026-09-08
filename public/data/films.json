@@ -1,19 +1,4 @@
 {
-  "3fe4bedee7c4": {
-    "normalized_title": "在世界的盡頭相遇",
-    "raw_titles": [
-      "在世界的盡頭相遇",
-      "在世界的盡頭相遇 Meets the World"
-    ],
-    "sources": [
-      "spot.org.tw",
-      "ambassador.com.tw",
-      "kfa.kcg.gov.tw"
-    ],
-    "director": "松居大悟 MATSUI Daigo",
-    "original_title": "Meets the World",
-    "year": 2025
-  },
   "c3956763b92d": {
     "normalized_title": "開放性邀請",
     "raw_titles": [
@@ -28,17 +13,18 @@
     "original_title": "The Invite",
     "year": 2026
   },
-  "0e3becbfd989": {
-    "normalized_title": "把哥哥變成可以攜帶的尺寸",
+  "de23c9251a16": {
+    "normalized_title": "怎麼不去死?",
     "raw_titles": [
-      "把哥哥變成可以攜帶的尺寸"
+      "（搶先場）怎麼不去死？"
     ],
     "sources": [
-      "spot.org.tw"
+      "ambassador.com.tw"
     ],
-    "director": "NAKANO Ryota",
-    "original_title": "Bring Him Down to a Portable Size",
-    "year": 2025
+    "director": "金井純一",
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 1651166
   },
   "443f0eb55a2f": {
     "normalized_title": "超異能快感:魔法之書",
@@ -395,6 +381,20 @@
     "year": 2025,
     "tmdb_id": 1432605
   },
+  "3fe4bedee7c4": {
+    "normalized_title": "在世界的盡頭相遇",
+    "raw_titles": [
+      "在世界的盡頭相遇",
+      "在世界的盡頭相遇 Meets the World"
+    ],
+    "sources": [
+      "ambassador.com.tw",
+      "kfa.kcg.gov.tw"
+    ],
+    "director": "松居大悟 MATSUI Daigo",
+    "original_title": null,
+    "year": 2025
+  },
   "107289c40f80": {
     "normalized_title": "一夜限定",
     "raw_titles": [
@@ -427,12 +427,12 @@
       "愛的魔樣"
     ],
     "sources": [
-      "ambassador.com.tw",
-      "wonderful.movie.com.tw"
+      "ambassador.com.tw"
     ],
-    "director": "阿德里安基雷拉",
+    "director": "Adrian Chiarella",
     "original_title": null,
-    "year": 2026
+    "year": 2026,
+    "tmdb_id": 1564614
   },
   "073d457102a9": {
     "normalized_title": "終戰那一天",
@@ -499,19 +499,6 @@
     "director": "渡邊正樹",
     "original_title": "Crayon Shinchan the Movie：Spooky! My Yokai Vacation",
     "year": 2026
-  },
-  "479d5fee78fc": {
-    "normalized_title": "電影哆啦A夢:新.大雄的海底鬼岩城",
-    "raw_titles": [
-      "電影哆啦A夢：新．大雄的海底鬼岩城"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "矢嶋哲生",
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1542261
   },
   "d969e80b44f4": {
     "normalized_title": "我們要回家",

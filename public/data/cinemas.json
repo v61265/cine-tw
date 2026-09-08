@@ -13,6 +13,13 @@
     "address": "台北市中山區長春路176號",
     "city": "台北市"
   },
+  "ambassador-f760950a-94b6-4e04-9573-831ed7283c5c": {
+    "name": "高雄草衙道國賓影城",
+    "chain": "ambassador",
+    "is_indie": false,
+    "address": "高雄市前鎮區中山四路100號3樓",
+    "city": "高雄市"
+  },
   "ambassador-3301d822-b385-4aa8-a9eb-aa59d58e95c9": {
     "name": "新莊晶冠國賓影城",
     "chain": "ambassador",
@@ -54,13 +61,6 @@
     "is_indie": false,
     "address": "新北市淡水區中正路一段2號",
     "city": "新北市"
-  },
-  "ambassador-f760950a-94b6-4e04-9573-831ed7283c5c": {
-    "name": "高雄草衙道國賓影城",
-    "chain": "ambassador",
-    "is_indie": false,
-    "address": "高雄市前鎮區中山四路100號3樓",
-    "city": "高雄市"
   },
   "ambassador-ec07626b-b382-474e-be39-ad45eac5cd1c": {
     "name": "高雄義大國賓影城",
