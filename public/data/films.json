@@ -13,6 +13,18 @@
     "original_title": "The Invite",
     "year": 2026
   },
+  "adff42da7372": {
+    "normalized_title": "草間∞彌生",
+    "raw_titles": [
+      "草間∞彌生"
+    ],
+    "sources": [
+      "spot.org.tw"
+    ],
+    "director": "希瑟冷次 Heather Lenz",
+    "original_title": "Kusama: Infinity",
+    "year": 2018
+  },
   "de23c9251a16": {
     "normalized_title": "怎麼不去死?",
     "raw_titles": [
@@ -26,10 +38,28 @@
     "year": 2026,
     "tmdb_id": 1651166
   },
+  "377764c6ecb1": {
+    "normalized_title": "驀然回首",
+    "raw_titles": [
+      "（特別場）驀然回首（真人版）",
+      "驀然回首（真人版）",
+      "驀然回首",
+      "驀然回首 Look Back"
+    ],
+    "sources": [
+      "ambassador.com.tw",
+      "wonderful.movie.com.tw",
+      "kfa.kcg.gov.tw"
+    ],
+    "director": "押山清高",
+    "original_title": null,
+    "year": 2026
+  },
   "443f0eb55a2f": {
     "normalized_title": "超異能快感:魔法之書",
     "raw_titles": [
-      "（特別場）超異能快感：魔法之書"
+      "（特別場）超異能快感：魔法之書",
+      "超異能快感：魔法之書"
     ],
     "sources": [
       "ambassador.com.tw"
@@ -38,19 +68,6 @@
     "original_title": null,
     "year": 2026,
     "tmdb_id": 1302904
-  },
-  "eef7c2e7af93": {
-    "normalized_title": "劇場版 魔法少女小圓〈瓦爾普吉斯的迴天〉",
-    "raw_titles": [
-      "劇場版 魔法少女小圓〈瓦爾普吉斯的迴天〉"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "宮本幸裕",
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 822653
   },
   "70daa6a56d65": {
     "normalized_title": "希望:末日血戰",
@@ -77,19 +94,6 @@
     ],
     "director": "范揚仲",
     "original_title": "Pa Pa Go",
-    "year": 2026
-  },
-  "5ddb00025b4a": {
-    "normalized_title": "粽邪4:坤蒂拉娜",
-    "raw_titles": [
-      "粽邪4：坤蒂拉娜"
-    ],
-    "sources": [
-      "ambassador.com.tw",
-      "luxcinema.com.tw"
-    ],
-    "director": "廖士涵",
-    "original_title": "The Rope Curse 4",
     "year": 2026
   },
   "91276bb5cec3": {
@@ -131,19 +135,6 @@
     "original_title": null,
     "year": 2026
   },
-  "53361c35df1d": {
-    "normalized_title": "劇場版 吉伊卡哇 人魚島的秘密",
-    "raw_titles": [
-      "劇場版 吉伊卡哇 人魚島的秘密"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "及川啓",
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1586876
-  },
   "9875a1945541": {
     "normalized_title": "蜘蛛人:重生日",
     "raw_titles": [
@@ -170,18 +161,121 @@
     "year": 2026,
     "tmdb_id": 1368337
   },
+  "6b1ca6fb0791": {
+    "normalized_title": "颱風俱樂部 4K修復版",
+    "raw_titles": [
+      "颱風俱樂部 4K修復版"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": null,
+    "original_title": null,
+    "year": null
+  },
+  "d1fd8cb944e0": {
+    "normalized_title": "被偷走的情歌",
+    "raw_titles": [
+      "被偷走的情歌"
+    ],
+    "sources": [
+      "ambassador.com.tw",
+      "wonderful.movie.com.tw"
+    ],
+    "director": "約翰卡尼",
+    "original_title": null,
+    "year": 2026
+  },
+  "b132b88c5ed8": {
+    "normalized_title": "鬼附體",
+    "raw_titles": [
+      "鬼附體"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "กษิดิ์เดช สุนทรารชุน",
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 1664760
+  },
+  "92214a257785": {
+    "normalized_title": "大起義",
+    "raw_titles": [
+      "大起義"
+    ],
+    "sources": [
+      "ambassador.com.tw",
+      "wonderful.movie.com.tw"
+    ],
+    "director": "安妮瑪麗·賈西爾",
+    "original_title": null,
+    "year": 2026
+  },
+  "c163158d879a": {
+    "normalized_title": "大仙尪仔",
+    "raw_titles": [
+      "大仙尪仔"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "凌柏瑋",
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 1467519
+  },
+  "008b3c4c10e3": {
+    "normalized_title": "慶州殺遊紀",
+    "raw_titles": [
+      "慶州殺遊紀"
+    ],
+    "sources": [
+      "ambassador.com.tw",
+      "wonderful.movie.com.tw"
+    ],
+    "director": "金美助",
+    "original_title": null,
+    "year": 2026
+  },
   "8dde6f04230c": {
     "normalized_title": "怎麼可能我家的祖先是你家的鬼",
     "raw_titles": [
       "怎麼可能我家的祖先是你家的鬼"
     ],
     "sources": [
-      "ambassador.com.tw"
+      "ambassador.com.tw",
+      "luxcinema.com.tw"
     ],
     "director": "蘇達",
+    "original_title": "The Journey to Gyeongju",
+    "year": 2026
+  },
+  "479d5fee78fc": {
+    "normalized_title": "電影哆啦A夢:新.大雄的海底鬼岩城",
+    "raw_titles": [
+      "電影哆啦A夢：新．大雄的海底鬼岩城"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "矢嶋哲生",
     "original_title": null,
     "year": 2026,
-    "tmdb_id": 1193673
+    "tmdb_id": 1542261
+  },
+  "eef7c2e7af93": {
+    "normalized_title": "劇場版 魔法少女小圓〈瓦爾普吉斯的迴天〉",
+    "raw_titles": [
+      "劇場版 魔法少女小圓〈瓦爾普吉斯的迴天〉"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "宮本幸裕",
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 822653
   },
   "a2a9be16def7": {
     "normalized_title": "世界上最爛的人.",
@@ -199,15 +293,16 @@
   "01d3ae9cfe76": {
     "normalized_title": "墜2",
     "raw_titles": [
-      "墜２"
+      "墜２",
+      "墜2"
     ],
     "sources": [
-      "ambassador.com.tw"
+      "ambassador.com.tw",
+      "luxcinema.com.tw"
     ],
-    "director": "Michael Spierig",
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1101412
+    "director": "《超時空攔截》麥可斯派瑞格、《超時空攔截》彼得斯派瑞格",
+    "original_title": "Fall 2",
+    "year": 2026
   },
   "7303932a360c": {
     "normalized_title": "我的爸爸是死刑犯",
@@ -314,6 +409,19 @@
     ],
     "director": "雷利史考特",
     "original_title": "The Dog Stars",
+    "year": 2026
+  },
+  "5ddb00025b4a": {
+    "normalized_title": "粽邪4:坤蒂拉娜",
+    "raw_titles": [
+      "粽邪4：坤蒂拉娜"
+    ],
+    "sources": [
+      "ambassador.com.tw",
+      "luxcinema.com.tw"
+    ],
+    "director": "廖士涵",
+    "original_title": "The Rope Curse 4",
     "year": 2026
   },
   "6b6797a49dde": {
@@ -500,6 +608,19 @@
     "original_title": "Crayon Shinchan the Movie：Spooky! My Yokai Vacation",
     "year": 2026
   },
+  "53361c35df1d": {
+    "normalized_title": "劇場版 吉伊卡哇 人魚島的秘密",
+    "raw_titles": [
+      "劇場版 吉伊卡哇 人魚島的秘密"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "及川啓",
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 1586876
+  },
   "d969e80b44f4": {
     "normalized_title": "我們要回家",
     "raw_titles": [
@@ -512,17 +633,15 @@
     "original_title": null,
     "year": 2026
   },
-  "377764c6ecb1": {
-    "normalized_title": "驀然回首",
+  "5821c5ca7bfe": {
+    "normalized_title": "颱風俱樂部4K修復版",
     "raw_titles": [
-      "驀然回首",
-      "驀然回首 Look Back"
+      "颱風俱樂部4K修復版"
     ],
     "sources": [
-      "wonderful.movie.com.tw",
-      "kfa.kcg.gov.tw"
+      "wonderful.movie.com.tw"
     ],
-    "director": "押山清高",
+    "director": "相米慎二",
     "original_title": null,
     "year": 2026
   },
