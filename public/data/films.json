@@ -192,12 +192,12 @@
       "鬼附體"
     ],
     "sources": [
-      "ambassador.com.tw"
+      "ambassador.com.tw",
+      "luxcinema.com.tw"
     ],
-    "director": "กษิดิ์เดช สุนทรารชุน",
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1664760
+    "director": "卡西德桑達拉爾俊",
+    "original_title": "Possessed",
+    "year": 2026
   },
   "92214a257785": {
     "normalized_title": "大起義",
@@ -232,10 +232,11 @@
     ],
     "sources": [
       "ambassador.com.tw",
-      "wonderful.movie.com.tw"
+      "wonderful.movie.com.tw",
+      "luxcinema.com.tw"
     ],
     "director": "金美助",
-    "original_title": null,
+    "original_title": "The Journey to Gyeong-ju",
     "year": 2026
   },
   "8dde6f04230c": {
@@ -404,12 +405,12 @@
       "寂地"
     ],
     "sources": [
-      "ambassador.com.tw",
-      "luxcinema.com.tw"
+      "ambassador.com.tw"
     ],
-    "director": "雷利史考特",
-    "original_title": "The Dog Stars",
-    "year": 2026
+    "director": "雷利·史考特",
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 1384216
   },
   "5ddb00025b4a": {
     "normalized_title": "粽邪4:坤蒂拉娜",
@@ -469,12 +470,12 @@
       "野生狂廚"
     ],
     "sources": [
-      "ambassador.com.tw",
-      "wonderful.movie.com.tw"
+      "ambassador.com.tw"
     ],
-    "director": "麥特強森",
+    "director": "Matt Johnson",
     "original_title": null,
-    "year": 2026
+    "year": 2026,
+    "tmdb_id": 1329016
   },
   "8d1c007dc997": {
     "normalized_title": "父親回來的那一天",
@@ -548,12 +549,12 @@
       "終戰那一天"
     ],
     "sources": [
-      "ambassador.com.tw",
-      "wonderful.movie.com.tw"
+      "ambassador.com.tw"
     ],
-    "director": "盧慈穎",
+    "director": "Maxine Lu",
     "original_title": null,
-    "year": 2026
+    "year": 2026,
+    "tmdb_id": 1732733
   },
   "ac75f5690346": {
     "normalized_title": "陰兒房:穿越陰深處",
@@ -763,18 +764,6 @@
     ],
     "director": "新海誠",
     "original_title": "Your Name.",
-    "year": 2026
-  },
-  "cc2e2220ced7": {
-    "normalized_title": "劇場版 境界的彼方 -I'LL BE HERE- 未來篇",
-    "raw_titles": [
-      "劇場版 境界的彼方 -I'LL BE HERE- 未來篇"
-    ],
-    "sources": [
-      "luxcinema.com.tw"
-    ],
-    "director": "《紫羅蘭永恆花園》石立太一",
-    "original_title": "Beyond the Boundary -I'LL BE HERE- The Future",
     "year": 2026
   },
   "2d66f1175529": {
