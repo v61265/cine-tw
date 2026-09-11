@@ -89,7 +89,6 @@
     ],
     "sources": [
       "ambassador.com.tw",
-      "wonderful.movie.com.tw",
       "luxcinema.com.tw"
     ],
     "director": "范揚仲",
@@ -337,12 +336,12 @@
       "超人力霸王．起源"
     ],
     "sources": [
-      "ambassador.com.tw",
-      "wonderful.movie.com.tw"
+      "ambassador.com.tw"
     ],
-    "director": "中村裕、吉田一貴",
+    "director": "中村裕",
     "original_title": null,
-    "year": 2026
+    "year": 2026,
+    "tmdb_id": 1677118
   },
   "c5d0063d04a7": {
     "normalized_title": "愛在記憶褪色時",
@@ -378,10 +377,9 @@
     ],
     "sources": [
       "ambassador.com.tw",
-      "wonderful.movie.com.tw",
       "kfa.kcg.gov.tw"
     ],
-    "director": "長久允",
+    "director": "長久允 NAGAHISA Makoto",
     "original_title": null,
     "year": 2026
   },
@@ -490,20 +488,6 @@
     "year": 2025,
     "tmdb_id": 1432605
   },
-  "3fe4bedee7c4": {
-    "normalized_title": "在世界的盡頭相遇",
-    "raw_titles": [
-      "在世界的盡頭相遇",
-      "在世界的盡頭相遇 Meets the World"
-    ],
-    "sources": [
-      "ambassador.com.tw",
-      "kfa.kcg.gov.tw"
-    ],
-    "director": "松居大悟 MATSUI Daigo",
-    "original_title": null,
-    "year": 2025
-  },
   "107289c40f80": {
     "normalized_title": "一夜限定",
     "raw_titles": [
@@ -581,19 +565,6 @@
     "original_title": null,
     "year": 2026,
     "tmdb_id": 1101383
-  },
-  "18f435c8f6f0": {
-    "normalized_title": "藍色監獄",
-    "raw_titles": [
-      "藍色監獄"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "瀧悠輔",
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1623376
   },
   "de5e13d74f88": {
     "normalized_title": "電影蠟筆小新:奇奇怪怪!我的妖怪假期",
@@ -730,6 +701,18 @@
     "original_title": null,
     "year": 2024
   },
+  "3fe4bedee7c4": {
+    "normalized_title": "在世界的盡頭相遇",
+    "raw_titles": [
+      "在世界的盡頭相遇 Meets the World"
+    ],
+    "sources": [
+      "kfa.kcg.gov.tw"
+    ],
+    "director": "松居大悟 MATSUI Daigo",
+    "original_title": null,
+    "year": 2025
+  },
   "a71b75bf352c": {
     "normalized_title": "世界末日愛上你",
     "raw_titles": [
@@ -754,30 +737,6 @@
     "original_title": "New Nobita and the Castle of the Undersea Devil",
     "year": 2026
   },
-  "a842543a68c2": {
-    "normalized_title": "你的名字。",
-    "raw_titles": [
-      "(日語)你的名字。(10週年重映)"
-    ],
-    "sources": [
-      "luxcinema.com.tw"
-    ],
-    "director": "新海誠",
-    "original_title": "Your Name.",
-    "year": 2026
-  },
-  "2d66f1175529": {
-    "normalized_title": "特務搞飛機2",
-    "raw_titles": [
-      "特務搞飛機2"
-    ],
-    "sources": [
-      "luxcinema.com.tw"
-    ],
-    "director": "《特務搞飛機》李澈河",
-    "original_title": "OK! Madam: Bon Voyage",
-    "year": 2026
-  },
   "14bd9297bcc9": {
     "normalized_title": "最終樂章 吹響吧!上低音號 前篇",
     "raw_titles": [
@@ -788,18 +747,6 @@
     ],
     "director": "石原立也（總導演）、小川太一（導演）",
     "original_title": "Sound! Euphonium, The Final Movie Part 1",
-    "year": 2026
-  },
-  "19c744bdd35b": {
-    "normalized_title": "尪某殺必死",
-    "raw_titles": [
-      "尪某殺必死"
-    ],
-    "sources": [
-      "luxcinema.com.tw"
-    ],
-    "director": "《007首部曲：皇家夜總會》馬丁坎貝爾",
-    "original_title": "Just Play Dead",
     "year": 2026
   }
 }
