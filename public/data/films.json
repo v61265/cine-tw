@@ -25,6 +25,19 @@
     "original_title": "Kusama: Infinity",
     "year": 2018
   },
+  "650a1ea2e6ff": {
+    "normalized_title": "惡靈古堡:爆發夜",
+    "raw_titles": [
+      "惡靈古堡：爆發夜"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "札克·克瑞格",
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 1423191
+  },
   "de23c9251a16": {
     "normalized_title": "怎麼不去死?",
     "raw_titles": [
@@ -62,12 +75,12 @@
       "超異能快感：魔法之書"
     ],
     "sources": [
-      "ambassador.com.tw"
+      "ambassador.com.tw",
+      "luxcinema.com.tw"
     ],
-    "director": "Susanne Bier",
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1302904
+    "director": "蘇珊娜畢爾",
+    "original_title": "Practical Magic 2",
+    "year": 2026
   },
   "70daa6a56d65": {
     "normalized_title": "希望:末日血戰",
@@ -304,19 +317,6 @@
     "original_title": "Fall 2",
     "year": 2026
   },
-  "7303932a360c": {
-    "normalized_title": "我的爸爸是死刑犯",
-    "raw_titles": [
-      "我的爸爸是死刑犯"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "李家驊",
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1564172
-  },
   "8e967dbb5101": {
     "normalized_title": "天鵝與蝙蝠",
     "raw_titles": [
@@ -353,19 +353,6 @@
       "wonderful.movie.com.tw"
     ],
     "director": "韋夫．萊因哈特",
-    "original_title": null,
-    "year": 2026
-  },
-  "ead23610038d": {
-    "normalized_title": "今晚我想來點棒的",
-    "raw_titles": [
-      "今晚我想來點棒的"
-    ],
-    "sources": [
-      "ambassador.com.tw",
-      "wonderful.movie.com.tw"
-    ],
-    "director": "《巴黎限時簽》蕾米柯里希",
     "original_title": null,
     "year": 2026
   },
@@ -449,32 +436,6 @@
     "year": 2026,
     "tmdb_id": 1545621
   },
-  "0729ef561a58": {
-    "normalized_title": "玩具總動員5",
-    "raw_titles": [
-      "玩具總動員５（中）"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "安德魯·斯坦頓",
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1084244
-  },
-  "b928547c0418": {
-    "normalized_title": "野生狂廚",
-    "raw_titles": [
-      "野生狂廚"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "Matt Johnson",
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1329016
-  },
   "8d1c007dc997": {
     "normalized_title": "父親回來的那一天",
     "raw_titles": [
@@ -488,31 +449,18 @@
     "year": 2025,
     "tmdb_id": 1432605
   },
-  "107289c40f80": {
-    "normalized_title": "一夜限定",
-    "raw_titles": [
-      "一夜限定"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "威爾·古勒",
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1433367
-  },
   "39f5e74a95a4": {
     "normalized_title": "玩命航線",
     "raw_titles": [
       "玩命航線"
     ],
     "sources": [
-      "ambassador.com.tw",
-      "luxcinema.com.tw"
+      "ambassador.com.tw"
     ],
-    "director": "《迫降危機》強法蘭柯瑞西",
-    "original_title": "Mutiny",
-    "year": 2026
+    "director": "Jean-François Richet",
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 1288445
   },
   "0ea24faa45ee": {
     "normalized_title": "愛的魔樣",
@@ -570,6 +518,7 @@
     "normalized_title": "電影蠟筆小新:奇奇怪怪!我的妖怪假期",
     "raw_titles": [
       "電影蠟筆小新：奇奇怪怪！我的妖怪假期",
+      "(國語)電影蠟筆小新：奇奇怪怪！我的妖怪假期",
       "(日語)電影蠟筆小新：奇奇怪怪！我的妖怪假期"
     ],
     "sources": [
@@ -602,6 +551,18 @@
       "wonderful.movie.com.tw"
     ],
     "director": "尼拉吉蓋萬",
+    "original_title": null,
+    "year": 2026
+  },
+  "ead23610038d": {
+    "normalized_title": "今晚我想來點棒的",
+    "raw_titles": [
+      "今晚我想來點棒的"
+    ],
+    "sources": [
+      "wonderful.movie.com.tw"
+    ],
+    "director": "《巴黎限時簽》蕾米柯里希",
     "original_title": null,
     "year": 2026
   },
@@ -728,7 +689,7 @@
   "8b84c9021a6c": {
     "normalized_title": "電影哆啦A夢:新‧大雄的海底鬼岩城",
     "raw_titles": [
-      "(日語)電影哆啦A夢：新‧大雄的海底鬼岩城"
+      "(國語)電影哆啦A夢：新‧大雄的海底鬼岩城"
     ],
     "sources": [
       "luxcinema.com.tw"
@@ -747,6 +708,18 @@
     ],
     "director": "石原立也（總導演）、小川太一（導演）",
     "original_title": "Sound! Euphonium, The Final Movie Part 1",
+    "year": 2026
+  },
+  "19c744bdd35b": {
+    "normalized_title": "尪某殺必死",
+    "raw_titles": [
+      "尪某殺必死"
+    ],
+    "sources": [
+      "luxcinema.com.tw"
+    ],
+    "director": "《007首部曲：皇家夜總會》馬丁坎貝爾",
+    "original_title": "Just Play Dead",
     "year": 2026
   }
 }

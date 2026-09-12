@@ -13,11 +13,25 @@
     "address": "台北市中山區長春路176號",
     "city": "台北市"
   },
+  "ambassador-9383c5fa-b4f3-4ba8-ba7a-c25c7df95fd0": {
+    "name": "林口昕境國賓影城",
+    "chain": "ambassador",
+    "is_indie": false,
+    "address": "新北市林口區文化三路一段402巷2號4F",
+    "city": "新北市"
+  },
   "ambassador-1e42d235-c3cf-4f75-a382-af60f67a4aad": {
     "name": "淡水禮萊國賓影城",
     "chain": "ambassador",
     "is_indie": false,
     "address": "新北市淡水區中正路一段2號",
+    "city": "新北市"
+  },
+  "ambassador-3301d822-b385-4aa8-a9eb-aa59d58e95c9": {
+    "name": "新莊晶冠國賓影城",
+    "chain": "ambassador",
+    "is_indie": false,
+    "address": "新北市新莊區五工路66號3樓",
     "city": "新北市"
   },
   "ambassador-8fda9934-73d4-4c14-b1c4-386c2b81045c": {
@@ -33,20 +47,6 @@
     "is_indie": false,
     "address": "高雄市前鎮區中山四路100號3樓",
     "city": "高雄市"
-  },
-  "ambassador-9383c5fa-b4f3-4ba8-ba7a-c25c7df95fd0": {
-    "name": "林口昕境國賓影城",
-    "chain": "ambassador",
-    "is_indie": false,
-    "address": "新北市林口區文化三路一段402巷2號4F",
-    "city": "新北市"
-  },
-  "ambassador-3301d822-b385-4aa8-a9eb-aa59d58e95c9": {
-    "name": "新莊晶冠國賓影城",
-    "chain": "ambassador",
-    "is_indie": false,
-    "address": "新北市新莊區五工路66號3樓",
-    "city": "新北市"
   },
   "ambassador-ec07626b-b382-474e-be39-ad45eac5cd1c": {
     "name": "高雄義大國賓影城",
