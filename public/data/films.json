@@ -62,10 +62,11 @@
     "sources": [
       "ambassador.com.tw",
       "wonderful.movie.com.tw",
-      "kfa.kcg.gov.tw"
+      "kfa.kcg.gov.tw",
+      "luxcinema.com.tw"
     ],
     "director": "押山清高",
-    "original_title": null,
+    "original_title": "LOOK BACK",
     "year": 2026
   },
   "443f0eb55a2f": {
@@ -172,6 +173,19 @@
     "original_title": null,
     "year": 2026,
     "tmdb_id": 1368337
+  },
+  "f923e8f81426": {
+    "normalized_title": "婚・紗・罩",
+    "raw_titles": [
+      "婚・紗・罩"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "陳昱伶",
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 1537122
   },
   "6b1ca6fb0791": {
     "normalized_title": "颱風俱樂部 4K修復版",
@@ -689,7 +703,8 @@
   "8b84c9021a6c": {
     "normalized_title": "電影哆啦A夢:新‧大雄的海底鬼岩城",
     "raw_titles": [
-      "(國語)電影哆啦A夢：新‧大雄的海底鬼岩城"
+      "(國語)電影哆啦A夢：新‧大雄的海底鬼岩城",
+      "(日語)電影哆啦A夢：新‧大雄的海底鬼岩城"
     ],
     "sources": [
       "luxcinema.com.tw"
