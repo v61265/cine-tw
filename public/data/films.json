@@ -1,4 +1,17 @@
 {
+  "fc2607b05346": {
+    "normalized_title": "懺悔",
+    "raw_titles": [
+      "懺悔"
+    ],
+    "sources": [
+      "spot.org.tw",
+      "wonderful.movie.com.tw"
+    ],
+    "director": "中島哲也 NAKASHIMA Tetsuya",
+    "original_title": "The Brightest Sun",
+    "year": 2025
+  },
   "adff42da7372": {
     "normalized_title": "草間∞彌生",
     "raw_titles": [
@@ -11,30 +24,18 @@
     "original_title": "Kusama: Infinity",
     "year": 2018
   },
-  "650a1ea2e6ff": {
-    "normalized_title": "惡靈古堡:爆發夜",
+  "7742cb9ea519": {
+    "normalized_title": "黑牢城",
     "raw_titles": [
-      "惡靈古堡：爆發夜"
+      "黑牢城",
+      "（搶先場）黑牢城"
     ],
     "sources": [
+      "spot.org.tw",
       "ambassador.com.tw"
     ],
-    "director": "札克·克瑞格",
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1423191
-  },
-  "443f0eb55a2f": {
-    "normalized_title": "超異能快感:魔法之書",
-    "raw_titles": [
-      "超異能快感：魔法之書"
-    ],
-    "sources": [
-      "ambassador.com.tw",
-      "luxcinema.com.tw"
-    ],
-    "director": "蘇珊娜畢爾",
-    "original_title": "Practical Magic 2",
+    "director": "黑澤清 KUROSAWA Kiyoshi",
+    "original_title": "The Samurai And The Prisoner",
     "year": 2026
   },
   "d2c4490c841f": {
@@ -49,6 +50,59 @@
     "original_title": null,
     "year": 2026,
     "tmdb_id": 1465063
+  },
+  "1f1612c21c59": {
+    "normalized_title": "再見機器人",
+    "raw_titles": [
+      "（相遇紀念場）再見機器人",
+      "再見機器人"
+    ],
+    "sources": [
+      "ambassador.com.tw",
+      "wonderful.movie.com.tw"
+    ],
+    "director": "帕布羅貝嘉",
+    "original_title": null,
+    "year": 2026
+  },
+  "650a1ea2e6ff": {
+    "normalized_title": "惡靈古堡:爆發夜",
+    "raw_titles": [
+      "惡靈古堡：爆發夜"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "札克·克瑞格",
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 1423191
+  },
+  "8203b3ac343e": {
+    "normalized_title": "奧德賽",
+    "raw_titles": [
+      "奧德賽"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "克里斯多夫·諾蘭",
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 1368337
+  },
+  "443f0eb55a2f": {
+    "normalized_title": "超異能快感:魔法之書",
+    "raw_titles": [
+      "超異能快感：魔法之書"
+    ],
+    "sources": [
+      "ambassador.com.tw",
+      "luxcinema.com.tw"
+    ],
+    "director": "蘇珊娜畢爾",
+    "original_title": "Practical Magic 2",
+    "year": 2026
   },
   "377764c6ecb1": {
     "normalized_title": "驀然回首",
@@ -145,31 +199,57 @@
     "year": 2026,
     "tmdb_id": 969681
   },
-  "8203b3ac343e": {
-    "normalized_title": "奧德賽",
+  "f9e59223cce3": {
+    "normalized_title": "獵殺荒島",
     "raw_titles": [
-      "奧德賽"
+      "獵殺荒島"
     ],
     "sources": [
       "ambassador.com.tw"
     ],
-    "director": "克里斯多夫·諾蘭",
+    "director": "Gonzalo Gutiérrez",
     "original_title": null,
     "year": 2026,
-    "tmdb_id": 1368337
+    "tmdb_id": 890216
   },
-  "7742cb9ea519": {
-    "normalized_title": "黑牢城",
+  "9be95946c546": {
+    "normalized_title": "成人童話",
     "raw_titles": [
-      "（搶先場）黑牢城"
+      "成人童話"
     ],
     "sources": [
       "ambassador.com.tw"
     ],
-    "director": "黒沢清",
+    "director": "Geethu Mohandas",
     "original_title": null,
     "year": 2026,
-    "tmdb_id": 1620313
+    "tmdb_id": 1213243
+  },
+  "74d91b339ead": {
+    "normalized_title": "LOVE ≠ COMEDY",
+    "raw_titles": [
+      "LOVE ≠ COMEDY"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "紙谷楓",
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 1701409
+  },
+  "ba3d125ff1aa": {
+    "normalized_title": "夢想出擊",
+    "raw_titles": [
+      "夢想出擊"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "김성호",
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 1617484
   },
   "f923e8f81426": {
     "normalized_title": "婚・紗・罩",
@@ -183,6 +263,33 @@
     "original_title": null,
     "year": 2026,
     "tmdb_id": 1537122
+  },
+  "89d0fb119c57": {
+    "normalized_title": "喵咪總動員",
+    "raw_titles": [
+      "喵咪總動員"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": null,
+    "original_title": null,
+    "year": null
+  },
+  "a277c4867245": {
+    "normalized_title": "野獸之心",
+    "raw_titles": [
+      "（口碑場）野獸之心",
+      "野獸之心(口碑場)",
+      "野獸之心"
+    ],
+    "sources": [
+      "ambassador.com.tw",
+      "wonderful.movie.com.tw"
+    ],
+    "director": "大衛艾亞",
+    "original_title": null,
+    "year": 2026
   },
   "6b1ca6fb0791": {
     "normalized_title": "颱風俱樂部 4K修復版",
@@ -340,19 +447,6 @@
     "director": "《啊，荒野》岸善幸",
     "original_title": "Guilt",
     "year": 2026
-  },
-  "a6681dc0b827": {
-    "normalized_title": "超人力霸王.起源",
-    "raw_titles": [
-      "超人力霸王．起源"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "中村裕",
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1677118
   },
   "c5d0063d04a7": {
     "normalized_title": "愛在記憶褪色時",
@@ -601,10 +695,23 @@
     "original_title": null,
     "year": 2026
   },
+  "df575d9b4df9": {
+    "normalized_title": "盜墓奇美拉",
+    "raw_titles": [
+      "盜墓奇美拉"
+    ],
+    "sources": [
+      "wonderful.movie.com.tw"
+    ],
+    "director": "艾莉絲羅爾瓦雀",
+    "original_title": null,
+    "year": 2026
+  },
   "de23c9251a16": {
     "normalized_title": "怎麼不去死?",
     "raw_titles": [
-      "怎麼不去死？(海報場)"
+      "怎麼不去死？(海報場)",
+      "怎麼不去死？"
     ],
     "sources": [
       "wonderful.movie.com.tw"
