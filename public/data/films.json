@@ -6,6 +6,7 @@
     ],
     "sources": [
       "spot.org.tw",
+      "ambassador.com.tw",
       "wonderful.movie.com.tw"
     ],
     "director": "中島哲也 NAKASHIMA Tetsuya",
@@ -38,18 +39,20 @@
     "original_title": "The Samurai And The Prisoner",
     "year": 2026
   },
-  "d2c4490c841f": {
-    "normalized_title": "誤闖遺忘島",
+  "a277c4867245": {
+    "normalized_title": "野獸之心",
     "raw_titles": [
-      "（口碑特別場）誤闖遺忘島"
+      "（口碑場）野獸之心",
+      "野獸之心(口碑場)",
+      "野獸之心"
     ],
     "sources": [
-      "ambassador.com.tw"
+      "ambassador.com.tw",
+      "wonderful.movie.com.tw"
     ],
-    "director": "哈努爾·梅卡度",
+    "director": "大衛艾亞",
     "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1465063
+    "year": 2026
   },
   "1f1612c21c59": {
     "normalized_title": "再見機器人",
@@ -78,19 +81,6 @@
     "year": 2026,
     "tmdb_id": 1423191
   },
-  "8203b3ac343e": {
-    "normalized_title": "奧德賽",
-    "raw_titles": [
-      "奧德賽"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "克里斯多夫·諾蘭",
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1368337
-  },
   "443f0eb55a2f": {
     "normalized_title": "超異能快感:魔法之書",
     "raw_titles": [
@@ -108,16 +98,14 @@
     "normalized_title": "驀然回首",
     "raw_titles": [
       "驀然回首（真人版）",
-      "驀然回首",
-      "驀然回首 Look Back"
+      "驀然回首"
     ],
     "sources": [
       "ambassador.com.tw",
       "wonderful.movie.com.tw",
-      "kfa.kcg.gov.tw",
       "luxcinema.com.tw"
     ],
-    "director": "押山清高",
+    "director": "是枝裕和",
     "original_title": "LOOK BACK",
     "year": 2026
   },
@@ -186,6 +174,19 @@
     "original_title": null,
     "year": 2026
   },
+  "8203b3ac343e": {
+    "normalized_title": "奧德賽",
+    "raw_titles": [
+      "奧德賽"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "克里斯多夫·諾蘭",
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 1368337
+  },
   "9875a1945541": {
     "normalized_title": "蜘蛛人:重生日",
     "raw_titles": [
@@ -199,6 +200,19 @@
     "year": 2026,
     "tmdb_id": 969681
   },
+  "d2c4490c841f": {
+    "normalized_title": "誤闖遺忘島",
+    "raw_titles": [
+      "（口碑特別場）誤闖遺忘島"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "哈努爾·梅卡度",
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 1465063
+  },
   "f9e59223cce3": {
     "normalized_title": "獵殺荒島",
     "raw_titles": [
@@ -207,10 +221,10 @@
     "sources": [
       "ambassador.com.tw"
     ],
-    "director": "Gonzalo Gutiérrez",
+    "director": "Mike Wiluan",
     "original_title": null,
-    "year": 2026,
-    "tmdb_id": 890216
+    "year": 2025,
+    "tmdb_id": 1214140
   },
   "9be95946c546": {
     "normalized_title": "成人童話",
@@ -218,12 +232,26 @@
       "成人童話"
     ],
     "sources": [
-      "ambassador.com.tw"
+      "ambassador.com.tw",
+      "luxcinema.com.tw"
     ],
-    "director": "Geethu Mohandas",
+    "director": "《極智對決》李鍾錫",
+    "original_title": "Forbidden Fairytale",
+    "year": 2026
+  },
+  "de23c9251a16": {
+    "normalized_title": "怎麼不去死?",
+    "raw_titles": [
+      "怎麼不去死？",
+      "怎麼不去死？(海報場)"
+    ],
+    "sources": [
+      "ambassador.com.tw",
+      "wonderful.movie.com.tw"
+    ],
+    "director": "金井純一",
     "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1213243
+    "year": 2026
   },
   "74d91b339ead": {
     "normalized_title": "LOVE ≠ COMEDY",
@@ -231,12 +259,12 @@
       "LOVE ≠ COMEDY"
     ],
     "sources": [
-      "ambassador.com.tw"
+      "ambassador.com.tw",
+      "luxcinema.com.tw"
     ],
-    "director": "紙谷楓",
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1701409
+    "director": "《她很漂亮》(TV)紙谷楓",
+    "original_title": "LOVE ≠ COMEDY",
+    "year": 2026
   },
   "ba3d125ff1aa": {
     "normalized_title": "夢想出擊",
@@ -272,24 +300,10 @@
     "sources": [
       "ambassador.com.tw"
     ],
-    "director": null,
+    "director": "Mohammad Pirzadi",
     "original_title": null,
-    "year": null
-  },
-  "a277c4867245": {
-    "normalized_title": "野獸之心",
-    "raw_titles": [
-      "（口碑場）野獸之心",
-      "野獸之心(口碑場)",
-      "野獸之心"
-    ],
-    "sources": [
-      "ambassador.com.tw",
-      "wonderful.movie.com.tw"
-    ],
-    "director": "大衛艾亞",
-    "original_title": null,
-    "year": 2026
+    "year": 2026,
+    "tmdb_id": 1425552
   },
   "6b1ca6fb0791": {
     "normalized_title": "颱風俱樂部 4K修復版",
@@ -461,20 +475,6 @@
     "original_title": null,
     "year": 2026
   },
-  "614d07ac9f2a": {
-    "normalized_title": "炎上",
-    "raw_titles": [
-      "炎上",
-      "炎上 BURN"
-    ],
-    "sources": [
-      "ambassador.com.tw",
-      "kfa.kcg.gov.tw"
-    ],
-    "director": "長久允 NAGAHISA Makoto",
-    "original_title": null,
-    "year": 2026
-  },
   "c3956763b92d": {
     "normalized_title": "開放性邀請",
     "raw_titles": [
@@ -573,12 +573,12 @@
       "玩命航線"
     ],
     "sources": [
-      "ambassador.com.tw"
+      "ambassador.com.tw",
+      "luxcinema.com.tw"
     ],
-    "director": "Jean-François Richet",
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1288445
+    "director": "《迫降危機》強法蘭柯瑞西",
+    "original_title": "Mutiny",
+    "year": 2026
   },
   "0ea24faa45ee": {
     "normalized_title": "愛的魔樣",
@@ -659,18 +659,6 @@
     "year": 2026,
     "tmdb_id": 1586876
   },
-  "d969e80b44f4": {
-    "normalized_title": "我們要回家",
-    "raw_titles": [
-      "我們要回家"
-    ],
-    "sources": [
-      "wonderful.movie.com.tw"
-    ],
-    "director": "尼拉吉蓋萬",
-    "original_title": null,
-    "year": 2026
-  },
   "ead23610038d": {
     "normalized_title": "今晚我想來點棒的",
     "raw_titles": [
@@ -704,19 +692,6 @@
       "wonderful.movie.com.tw"
     ],
     "director": "艾莉絲羅爾瓦雀",
-    "original_title": null,
-    "year": 2026
-  },
-  "de23c9251a16": {
-    "normalized_title": "怎麼不去死?",
-    "raw_titles": [
-      "怎麼不去死？(海報場)",
-      "怎麼不去死？"
-    ],
-    "sources": [
-      "wonderful.movie.com.tw"
-    ],
-    "director": "金井純一",
     "original_title": null,
     "year": 2026
   },
@@ -815,6 +790,18 @@
     "director": "安艾蒙 Anne ÉMOND",
     "original_title": null,
     "year": 2025
+  },
+  "614d07ac9f2a": {
+    "normalized_title": "炎上",
+    "raw_titles": [
+      "炎上 BURN"
+    ],
+    "sources": [
+      "kfa.kcg.gov.tw"
+    ],
+    "director": "長久允 NAGAHISA Makoto",
+    "original_title": null,
+    "year": 2026
   },
   "8b84c9021a6c": {
     "normalized_title": "電影哆啦A夢:新‧大雄的海底鬼岩城",
