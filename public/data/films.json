@@ -81,19 +81,6 @@
     "year": 2026,
     "tmdb_id": 1423191
   },
-  "443f0eb55a2f": {
-    "normalized_title": "超異能快感:魔法之書",
-    "raw_titles": [
-      "超異能快感：魔法之書"
-    ],
-    "sources": [
-      "ambassador.com.tw",
-      "luxcinema.com.tw"
-    ],
-    "director": "蘇珊娜畢爾",
-    "original_title": "Practical Magic 2",
-    "year": 2026
-  },
   "377764c6ecb1": {
     "normalized_title": "驀然回首",
     "raw_titles": [
@@ -115,25 +102,12 @@
       "希望：末日血戰"
     ],
     "sources": [
-      "ambassador.com.tw",
-      "wonderful.movie.com.tw"
+      "ambassador.com.tw"
     ],
-    "director": "羅泓軫",
+    "director": "나홍진",
     "original_title": null,
-    "year": 2026
-  },
-  "31cf6619f5a3": {
-    "normalized_title": "網紅老爸",
-    "raw_titles": [
-      "網紅老爸"
-    ],
-    "sources": [
-      "ambassador.com.tw",
-      "luxcinema.com.tw"
-    ],
-    "director": "范揚仲",
-    "original_title": "Pa Pa Go",
-    "year": 2026
+    "year": 2026,
+    "tmdb_id": 1058424
   },
   "91276bb5cec3": {
     "normalized_title": "超拖樂團之我要幹大事啦!",
@@ -141,12 +115,12 @@
       "超拖樂團之我要幹大事啦！"
     ],
     "sources": [
-      "ambassador.com.tw",
-      "wonderful.movie.com.tw"
+      "ambassador.com.tw"
     ],
-    "director": "麥特強生MattJohnson",
+    "director": "Matt Johnson",
     "original_title": null,
-    "year": 2026
+    "year": 2026,
+    "tmdb_id": 1154538
   },
   "0a5aacb9a2b3": {
     "normalized_title": "汪汪隊立大功:恐龍大電影",
@@ -167,12 +141,12 @@
       "愛你致死不渝"
     ],
     "sources": [
-      "ambassador.com.tw",
-      "wonderful.movie.com.tw"
+      "ambassador.com.tw"
     ],
-    "director": "柯瑞巴克",
+    "director": "柯瑞·巴克",
     "original_title": null,
-    "year": 2026
+    "year": 2026,
+    "tmdb_id": 1339713
   },
   "8203b3ac343e": {
     "normalized_title": "奧德賽",
@@ -304,6 +278,19 @@
     "original_title": null,
     "year": 2026,
     "tmdb_id": 1425552
+  },
+  "443f0eb55a2f": {
+    "normalized_title": "超異能快感:魔法之書",
+    "raw_titles": [
+      "超異能快感：魔法之書"
+    ],
+    "sources": [
+      "ambassador.com.tw",
+      "luxcinema.com.tw"
+    ],
+    "director": "蘇珊娜畢爾",
+    "original_title": "Practical Magic 2",
+    "year": 2026
   },
   "6b1ca6fb0791": {
     "normalized_title": "颱風俱樂部 4K修復版",
@@ -502,6 +489,19 @@
     "original_title": null,
     "year": 2011
   },
+  "31cf6619f5a3": {
+    "normalized_title": "網紅老爸",
+    "raw_titles": [
+      "網紅老爸"
+    ],
+    "sources": [
+      "ambassador.com.tw",
+      "luxcinema.com.tw"
+    ],
+    "director": "范揚仲",
+    "original_title": "Pa Pa Go",
+    "year": 2026
+  },
   "db382bbfb363": {
     "normalized_title": "寂地",
     "raw_titles": [
@@ -580,19 +580,6 @@
     "original_title": "Mutiny",
     "year": 2026
   },
-  "0ea24faa45ee": {
-    "normalized_title": "愛的魔樣",
-    "raw_titles": [
-      "愛的魔樣"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "Adrian Chiarella",
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1564614
-  },
   "073d457102a9": {
     "normalized_title": "終戰那一天",
     "raw_titles": [
@@ -619,23 +606,11 @@
     "year": 2026,
     "tmdb_id": 1291595
   },
-  "c544463a3052": {
-    "normalized_title": "橡樹街末日",
-    "raw_titles": [
-      "橡樹街末日"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "David Robert Mitchell",
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1101383
-  },
   "de5e13d74f88": {
     "normalized_title": "電影蠟筆小新:奇奇怪怪!我的妖怪假期",
     "raw_titles": [
       "電影蠟筆小新：奇奇怪怪！我的妖怪假期",
+      "(國語)電影蠟筆小新：奇奇怪怪！我的妖怪假期",
       "(日語)電影蠟筆小新：奇奇怪怪！我的妖怪假期"
     ],
     "sources": [
@@ -658,18 +633,6 @@
     "original_title": null,
     "year": 2026,
     "tmdb_id": 1586876
-  },
-  "ead23610038d": {
-    "normalized_title": "今晚我想來點棒的",
-    "raw_titles": [
-      "今晚我想來點棒的"
-    ],
-    "sources": [
-      "wonderful.movie.com.tw"
-    ],
-    "director": "《巴黎限時簽》蕾米柯里希",
-    "original_title": null,
-    "year": 2026
   },
   "5821c5ca7bfe": {
     "normalized_title": "颱風俱樂部4K修復版",
@@ -806,6 +769,7 @@
   "8b84c9021a6c": {
     "normalized_title": "電影哆啦A夢:新‧大雄的海底鬼岩城",
     "raw_titles": [
+      "(國語)電影哆啦A夢：新‧大雄的海底鬼岩城",
       "(日語)電影哆啦A夢：新‧大雄的海底鬼岩城"
     ],
     "sources": [
@@ -813,18 +777,6 @@
     ],
     "director": "《寶可夢：皮卡丘和可可的冒險》矢嶋哲生",
     "original_title": "New Nobita and the Castle of the Undersea Devil",
-    "year": 2026
-  },
-  "14bd9297bcc9": {
-    "normalized_title": "最終樂章 吹響吧!上低音號 前篇",
-    "raw_titles": [
-      "最終樂章 吹響吧！上低音號 前篇"
-    ],
-    "sources": [
-      "luxcinema.com.tw"
-    ],
-    "director": "石原立也（總導演）、小川太一（導演）",
-    "original_title": "Sound! Euphonium, The Final Movie Part 1",
     "year": 2026
   }
 }
