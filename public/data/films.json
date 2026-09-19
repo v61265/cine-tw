@@ -39,12 +39,26 @@
     "original_title": "The Samurai And The Prisoner",
     "year": 2026
   },
+  "35c1dedea3eb": {
+    "normalized_title": "復仇者聯盟:終局之戰 加碼重映",
+    "raw_titles": [
+      "（INFINITY VISION）復仇者聯盟：終局之戰  加碼重映",
+      "復仇者聯盟：終局之戰 加碼重映"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "Anthony Russo",
+    "original_title": null,
+    "year": 2019,
+    "tmdb_id": 299534
+  },
   "a277c4867245": {
     "normalized_title": "野獸之心",
     "raw_titles": [
       "（口碑場）野獸之心",
-      "野獸之心(口碑場)",
-      "野獸之心"
+      "野獸之心",
+      "野獸之心(口碑場)"
     ],
     "sources": [
       "ambassador.com.tw",
@@ -81,21 +95,6 @@
     "year": 2026,
     "tmdb_id": 1423191
   },
-  "377764c6ecb1": {
-    "normalized_title": "驀然回首",
-    "raw_titles": [
-      "驀然回首（真人版）",
-      "驀然回首"
-    ],
-    "sources": [
-      "ambassador.com.tw",
-      "wonderful.movie.com.tw",
-      "luxcinema.com.tw"
-    ],
-    "director": "是枝裕和",
-    "original_title": "LOOK BACK",
-    "year": 2026
-  },
   "70daa6a56d65": {
     "normalized_title": "希望:末日血戰",
     "raw_titles": [
@@ -108,19 +107,6 @@
     "original_title": null,
     "year": 2026,
     "tmdb_id": 1058424
-  },
-  "91276bb5cec3": {
-    "normalized_title": "超拖樂團之我要幹大事啦!",
-    "raw_titles": [
-      "超拖樂團之我要幹大事啦！"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "Matt Johnson",
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1154538
   },
   "0a5aacb9a2b3": {
     "normalized_title": "汪汪隊立大功:恐龍大電影",
@@ -173,6 +159,122 @@
     "original_title": null,
     "year": 2026,
     "tmdb_id": 969681
+  },
+  "cef2208477e6": {
+    "normalized_title": "實境誘捕",
+    "raw_titles": [
+      "實境誘捕"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "Lance Oppenheim",
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 1375441
+  },
+  "80d23007b656": {
+    "normalized_title": "青春電幻物語:數位修復版.",
+    "raw_titles": [
+      "青春電幻物語：數位修復版."
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": null,
+    "original_title": null,
+    "year": null
+  },
+  "6dbcb4a9a7fe": {
+    "normalized_title": "猛鬼大學:4不瞑目",
+    "raw_titles": [
+      "猛鬼大學：4不瞑目"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "สาลินี เขมจรัส",
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 1610936
+  },
+  "3e79e14ce35a": {
+    "normalized_title": "5秒生成完美犯罪",
+    "raw_titles": [
+      "5秒生成完美犯罪"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "近藤亮太",
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 1705721
+  },
+  "3460c1a0fdc5": {
+    "normalized_title": "特種快遞",
+    "raw_titles": [
+      "特種快遞"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "Scott Waugh",
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 1377237
+  },
+  "7f1f070b20ac": {
+    "normalized_title": "最後的單車上路",
+    "raw_titles": [
+      "最後的單車上路"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "麥西亞斯·馬雷庫",
+    "original_title": null,
+    "year": 2025,
+    "tmdb_id": 1321412
+  },
+  "0a9c6277b5cf": {
+    "normalized_title": "Perfume \"Cold Sleep\" -25 years Document-",
+    "raw_titles": [
+      "Perfume \"Cold Sleep\" -25 years Document-"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "佐渡岳利",
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 1603232
+  },
+  "5ac843829dfa": {
+    "normalized_title": "親愛的星上人",
+    "raw_titles": [
+      "親愛的星上人"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "Kid Koala",
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 1404169
+  },
+  "97d6dfefec0d": {
+    "normalized_title": "劇場版 鋼之鍊金術師 香巴拉的征服者",
+    "raw_titles": [
+      "劇場版 鋼之鍊金術師 香巴拉的征服者"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "水島精二",
+    "original_title": null,
+    "year": 2005,
+    "tmdb_id": 14003
   },
   "d2c4490c841f": {
     "normalized_title": "誤闖遺忘島",
@@ -292,6 +394,21 @@
     "original_title": "Practical Magic 2",
     "year": 2026
   },
+  "377764c6ecb1": {
+    "normalized_title": "驀然回首",
+    "raw_titles": [
+      "驀然回首（真人版）",
+      "驀然回首"
+    ],
+    "sources": [
+      "ambassador.com.tw",
+      "wonderful.movie.com.tw",
+      "luxcinema.com.tw"
+    ],
+    "director": "是枝裕和",
+    "original_title": "LOOK BACK",
+    "year": 2026
+  },
   "6b1ca6fb0791": {
     "normalized_title": "颱風俱樂部 4K修復版",
     "raw_titles": [
@@ -303,32 +420,6 @@
     "director": null,
     "original_title": null,
     "year": null
-  },
-  "d1fd8cb944e0": {
-    "normalized_title": "被偷走的情歌",
-    "raw_titles": [
-      "被偷走的情歌"
-    ],
-    "sources": [
-      "ambassador.com.tw",
-      "wonderful.movie.com.tw"
-    ],
-    "director": "約翰卡尼",
-    "original_title": null,
-    "year": 2026
-  },
-  "b132b88c5ed8": {
-    "normalized_title": "鬼附體",
-    "raw_titles": [
-      "鬼附體"
-    ],
-    "sources": [
-      "ambassador.com.tw",
-      "luxcinema.com.tw"
-    ],
-    "director": "卡西德桑達拉爾俊",
-    "original_title": "Possessed",
-    "year": 2026
   },
   "92214a257785": {
     "normalized_title": "大起義",
@@ -383,19 +474,6 @@
     "original_title": "The Journey to Gyeongju",
     "year": 2026
   },
-  "479d5fee78fc": {
-    "normalized_title": "電影哆啦A夢:新.大雄的海底鬼岩城",
-    "raw_titles": [
-      "電影哆啦A夢：新．大雄的海底鬼岩城"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "矢嶋哲生",
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1542261
-  },
   "eef7c2e7af93": {
     "normalized_title": "劇場版 魔法少女小圓〈瓦爾普吉斯的迴天〉",
     "raw_titles": [
@@ -449,19 +527,6 @@
     "original_title": "Guilt",
     "year": 2026
   },
-  "c5d0063d04a7": {
-    "normalized_title": "愛在記憶褪色時",
-    "raw_titles": [
-      "愛在記憶褪色時"
-    ],
-    "sources": [
-      "ambassador.com.tw",
-      "wonderful.movie.com.tw"
-    ],
-    "director": "韋夫．萊因哈特",
-    "original_title": null,
-    "year": 2026
-  },
   "c3956763b92d": {
     "normalized_title": "開放性邀請",
     "raw_titles": [
@@ -502,19 +567,6 @@
     "original_title": "Pa Pa Go",
     "year": 2026
   },
-  "db382bbfb363": {
-    "normalized_title": "寂地",
-    "raw_titles": [
-      "寂地"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "雷利·史考特",
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1384216
-  },
   "5ddb00025b4a": {
     "normalized_title": "粽邪4:坤蒂拉娜",
     "raw_titles": [
@@ -554,31 +606,18 @@
     "year": 2026,
     "tmdb_id": 1545621
   },
-  "8d1c007dc997": {
-    "normalized_title": "父親回來的那一天",
+  "91276bb5cec3": {
+    "normalized_title": "超拖樂團之我要幹大事啦!",
     "raw_titles": [
-      "父親回來的那一天"
+      "超拖樂團之我要幹大事啦！"
     ],
     "sources": [
       "ambassador.com.tw"
     ],
-    "director": "Akinola Davies Jr.",
+    "director": "Matt Johnson",
     "original_title": null,
-    "year": 2025,
-    "tmdb_id": 1432605
-  },
-  "39f5e74a95a4": {
-    "normalized_title": "玩命航線",
-    "raw_titles": [
-      "玩命航線"
-    ],
-    "sources": [
-      "ambassador.com.tw",
-      "luxcinema.com.tw"
-    ],
-    "director": "《迫降危機》強法蘭柯瑞西",
-    "original_title": "Mutiny",
-    "year": 2026
+    "year": 2026,
+    "tmdb_id": 1154538
   },
   "073d457102a9": {
     "normalized_title": "終戰那一天",
@@ -592,19 +631,6 @@
     "original_title": null,
     "year": 2026,
     "tmdb_id": 1732733
-  },
-  "ac75f5690346": {
-    "normalized_title": "陰兒房:穿越陰深處",
-    "raw_titles": [
-      "陰兒房：穿越陰深處"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "Jacob Chase",
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1291595
   },
   "de5e13d74f88": {
     "normalized_title": "電影蠟筆小新:奇奇怪怪!我的妖怪假期",
@@ -633,6 +659,30 @@
     "original_title": null,
     "year": 2026,
     "tmdb_id": 1586876
+  },
+  "c5d0063d04a7": {
+    "normalized_title": "愛在記憶褪色時",
+    "raw_titles": [
+      "愛在記憶褪色時"
+    ],
+    "sources": [
+      "wonderful.movie.com.tw"
+    ],
+    "director": "韋夫．萊因哈特",
+    "original_title": null,
+    "year": 2026
+  },
+  "d1fd8cb944e0": {
+    "normalized_title": "被偷走的情歌",
+    "raw_titles": [
+      "被偷走的情歌"
+    ],
+    "sources": [
+      "wonderful.movie.com.tw"
+    ],
+    "director": "約翰卡尼",
+    "original_title": null,
+    "year": 2026
   },
   "5821c5ca7bfe": {
     "normalized_title": "颱風俱樂部4K修復版",
@@ -777,6 +827,30 @@
     ],
     "director": "《寶可夢：皮卡丘和可可的冒險》矢嶋哲生",
     "original_title": "New Nobita and the Castle of the Undersea Devil",
+    "year": 2026
+  },
+  "39f5e74a95a4": {
+    "normalized_title": "玩命航線",
+    "raw_titles": [
+      "玩命航線"
+    ],
+    "sources": [
+      "luxcinema.com.tw"
+    ],
+    "director": "《迫降危機》強法蘭柯瑞西",
+    "original_title": "Mutiny",
+    "year": 2026
+  },
+  "b132b88c5ed8": {
+    "normalized_title": "鬼附體",
+    "raw_titles": [
+      "鬼附體"
+    ],
+    "sources": [
+      "luxcinema.com.tw"
+    ],
+    "director": "卡西德桑達拉爾俊",
+    "original_title": "Possessed",
     "year": 2026
   }
 }
