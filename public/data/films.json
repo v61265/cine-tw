@@ -53,21 +53,6 @@
     "year": 2019,
     "tmdb_id": 299534
   },
-  "a277c4867245": {
-    "normalized_title": "野獸之心",
-    "raw_titles": [
-      "（口碑場）野獸之心",
-      "野獸之心",
-      "野獸之心(口碑場)"
-    ],
-    "sources": [
-      "ambassador.com.tw",
-      "wonderful.movie.com.tw"
-    ],
-    "director": "大衛艾亞",
-    "original_title": null,
-    "year": 2026
-  },
   "1f1612c21c59": {
     "normalized_title": "再見機器人",
     "raw_titles": [
@@ -159,6 +144,35 @@
     "original_title": null,
     "year": 2026,
     "tmdb_id": 969681
+  },
+  "d2c4490c841f": {
+    "normalized_title": "誤闖遺忘島",
+    "raw_titles": [
+      "誤闖遺忘島",
+      "（口碑特別場）誤闖遺忘島"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "哈努爾·梅卡度",
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 1465063
+  },
+  "a277c4867245": {
+    "normalized_title": "野獸之心",
+    "raw_titles": [
+      "野獸之心",
+      "（口碑場）野獸之心",
+      "野獸之心(口碑場)"
+    ],
+    "sources": [
+      "ambassador.com.tw",
+      "wonderful.movie.com.tw"
+    ],
+    "director": "大衛艾亞",
+    "original_title": null,
+    "year": 2026
   },
   "cef2208477e6": {
     "normalized_title": "實境誘捕",
@@ -276,19 +290,6 @@
     "year": 2005,
     "tmdb_id": 14003
   },
-  "d2c4490c841f": {
-    "normalized_title": "誤闖遺忘島",
-    "raw_titles": [
-      "（口碑特別場）誤闖遺忘島"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "哈努爾·梅卡度",
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1465063
-  },
   "f9e59223cce3": {
     "normalized_title": "獵殺荒島",
     "raw_titles": [
@@ -318,8 +319,7 @@
   "de23c9251a16": {
     "normalized_title": "怎麼不去死?",
     "raw_titles": [
-      "怎麼不去死？",
-      "怎麼不去死？(海報場)"
+      "怎麼不去死？"
     ],
     "sources": [
       "ambassador.com.tw",
