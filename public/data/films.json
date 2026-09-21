@@ -28,8 +28,7 @@
   "7742cb9ea519": {
     "normalized_title": "黑牢城",
     "raw_titles": [
-      "黑牢城",
-      "（搶先場）黑牢城"
+      "黑牢城"
     ],
     "sources": [
       "spot.org.tw",
@@ -37,6 +36,21 @@
     ],
     "director": "黑澤清 KUROSAWA Kiyoshi",
     "original_title": "The Samurai And The Prisoner",
+    "year": 2026
+  },
+  "a277c4867245": {
+    "normalized_title": "野獸之心",
+    "raw_titles": [
+      "（DBOX特別場）野獸之心",
+      "野獸之心",
+      "（口碑場）野獸之心"
+    ],
+    "sources": [
+      "ambassador.com.tw",
+      "wonderful.movie.com.tw"
+    ],
+    "director": "大衛艾亞",
+    "original_title": null,
     "year": 2026
   },
   "35c1dedea3eb": {
@@ -158,21 +172,6 @@
     "original_title": null,
     "year": 2026,
     "tmdb_id": 1465063
-  },
-  "a277c4867245": {
-    "normalized_title": "野獸之心",
-    "raw_titles": [
-      "野獸之心",
-      "（口碑場）野獸之心",
-      "野獸之心(口碑場)"
-    ],
-    "sources": [
-      "ambassador.com.tw",
-      "wonderful.movie.com.tw"
-    ],
-    "director": "大衛艾亞",
-    "original_title": null,
-    "year": 2026
   },
   "cef2208477e6": {
     "normalized_title": "實境誘捕",
@@ -636,7 +635,6 @@
     "normalized_title": "電影蠟筆小新:奇奇怪怪!我的妖怪假期",
     "raw_titles": [
       "電影蠟筆小新：奇奇怪怪！我的妖怪假期",
-      "(國語)電影蠟筆小新：奇奇怪怪！我的妖怪假期",
       "(日語)電影蠟筆小新：奇奇怪怪！我的妖怪假期"
     ],
     "sources": [
@@ -819,7 +817,6 @@
   "8b84c9021a6c": {
     "normalized_title": "電影哆啦A夢:新‧大雄的海底鬼岩城",
     "raw_titles": [
-      "(國語)電影哆啦A夢：新‧大雄的海底鬼岩城",
       "(日語)電影哆啦A夢：新‧大雄的海底鬼岩城"
     ],
     "sources": [
