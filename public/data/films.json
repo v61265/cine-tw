@@ -42,8 +42,7 @@
     "normalized_title": "野獸之心",
     "raw_titles": [
       "（DBOX特別場）野獸之心",
-      "野獸之心",
-      "（口碑場）野獸之心"
+      "野獸之心"
     ],
     "sources": [
       "ambassador.com.tw",
@@ -52,6 +51,20 @@
     "director": "大衛艾亞",
     "original_title": null,
     "year": 2026
+  },
+  "d2c4490c841f": {
+    "normalized_title": "誤闖遺忘島",
+    "raw_titles": [
+      "（友情萬歲特別場）誤闖遺忘島",
+      "誤闖遺忘島"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "哈努爾·梅卡度",
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 1465063
   },
   "35c1dedea3eb": {
     "normalized_title": "復仇者聯盟:終局之戰 加碼重映",
@@ -67,20 +80,6 @@
     "year": 2019,
     "tmdb_id": 299534
   },
-  "1f1612c21c59": {
-    "normalized_title": "再見機器人",
-    "raw_titles": [
-      "（相遇紀念場）再見機器人",
-      "再見機器人"
-    ],
-    "sources": [
-      "ambassador.com.tw",
-      "wonderful.movie.com.tw"
-    ],
-    "director": "帕布羅貝嘉",
-    "original_title": null,
-    "year": 2026
-  },
   "650a1ea2e6ff": {
     "normalized_title": "惡靈古堡:爆發夜",
     "raw_titles": [
@@ -93,19 +92,6 @@
     "original_title": null,
     "year": 2026,
     "tmdb_id": 1423191
-  },
-  "70daa6a56d65": {
-    "normalized_title": "希望:末日血戰",
-    "raw_titles": [
-      "希望：末日血戰"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "나홍진",
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1058424
   },
   "0a5aacb9a2b3": {
     "normalized_title": "汪汪隊立大功:恐龍大電影",
@@ -158,20 +144,6 @@
     "original_title": null,
     "year": 2026,
     "tmdb_id": 969681
-  },
-  "d2c4490c841f": {
-    "normalized_title": "誤闖遺忘島",
-    "raw_titles": [
-      "誤闖遺忘島",
-      "（口碑特別場）誤闖遺忘島"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "哈努爾·梅卡度",
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1465063
   },
   "cef2208477e6": {
     "normalized_title": "實境誘捕",
@@ -485,6 +457,19 @@
     "original_title": null,
     "year": 2026,
     "tmdb_id": 822653
+  },
+  "70daa6a56d65": {
+    "normalized_title": "希望:末日血戰",
+    "raw_titles": [
+      "希望：末日血戰"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "나홍진",
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 1058424
   },
   "a2a9be16def7": {
     "normalized_title": "世界上最爛的人.",
