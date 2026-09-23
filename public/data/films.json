@@ -32,7 +32,8 @@
     ],
     "sources": [
       "spot.org.tw",
-      "ambassador.com.tw"
+      "ambassador.com.tw",
+      "wonderful.movie.com.tw"
     ],
     "director": "黑澤清 KUROSAWA Kiyoshi",
     "original_title": "The Samurai And The Prisoner",
@@ -75,7 +76,7 @@
     "sources": [
       "ambassador.com.tw"
     ],
-    "director": "Anthony Russo",
+    "director": "Joe Russo",
     "original_title": null,
     "year": 2019,
     "tmdb_id": 299534
@@ -92,6 +93,22 @@
     "original_title": null,
     "year": 2026,
     "tmdb_id": 1423191
+  },
+  "377764c6ecb1": {
+    "normalized_title": "驀然回首",
+    "raw_titles": [
+      "（特別場）驀然回首（真人版）",
+      "驀然回首（真人版）",
+      "驀然回首"
+    ],
+    "sources": [
+      "ambassador.com.tw",
+      "wonderful.movie.com.tw",
+      "luxcinema.com.tw"
+    ],
+    "director": "是枝裕和",
+    "original_title": "LOOK BACK",
+    "year": 2026
   },
   "0a5aacb9a2b3": {
     "normalized_title": "汪汪隊立大功:恐龍大電影",
@@ -151,12 +168,12 @@
       "實境誘捕"
     ],
     "sources": [
-      "ambassador.com.tw"
+      "ambassador.com.tw",
+      "wonderful.movie.com.tw"
     ],
-    "director": "Lance Oppenheim",
+    "director": "蘭斯奧本海姆",
     "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1375441
+    "year": 2026
   },
   "80d23007b656": {
     "normalized_title": "青春電幻物語:數位修復版.",
@@ -176,12 +193,12 @@
       "猛鬼大學：4不瞑目"
     ],
     "sources": [
-      "ambassador.com.tw"
+      "ambassador.com.tw",
+      "luxcinema.com.tw"
     ],
-    "director": "สาลินี เขมจรัส",
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1610936
+    "director": "薩利尼克姆查拉特, 帕帝邦蘇考, 查空柴普里查, 塔穆亞塔薩納努庫爾基",
+    "original_title": "Haunted Universities",
+    "year": 2026
   },
   "3e79e14ce35a": {
     "normalized_title": "5秒生成完美犯罪",
@@ -189,12 +206,12 @@
       "5秒生成完美犯罪"
     ],
     "sources": [
-      "ambassador.com.tw"
+      "ambassador.com.tw",
+      "wonderful.movie.com.tw"
     ],
-    "director": "近藤亮太",
+    "director": "岡田道尚",
     "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1705721
+    "year": 2026
   },
   "3460c1a0fdc5": {
     "normalized_title": "特種快遞",
@@ -202,12 +219,12 @@
       "特種快遞"
     ],
     "sources": [
-      "ambassador.com.tw"
+      "ambassador.com.tw",
+      "luxcinema.com.tw"
     ],
-    "director": "Scott Waugh",
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1377237
+    "director": "《浴血任務4》史考特沃爾",
+    "original_title": "Runner",
+    "year": 2026
   },
   "7f1f070b20ac": {
     "normalized_title": "最後的單車上路",
@@ -215,12 +232,12 @@
       "最後的單車上路"
     ],
     "sources": [
-      "ambassador.com.tw"
+      "ambassador.com.tw",
+      "wonderful.movie.com.tw"
     ],
-    "director": "麥西亞斯·馬雷庫",
+    "director": "馬提亞斯姆萊庫茲",
     "original_title": null,
-    "year": 2025,
-    "tmdb_id": 1321412
+    "year": 2026
   },
   "0a9c6277b5cf": {
     "normalized_title": "Perfume \"Cold Sleep\" -25 years Document-",
@@ -365,21 +382,6 @@
     "original_title": "Practical Magic 2",
     "year": 2026
   },
-  "377764c6ecb1": {
-    "normalized_title": "驀然回首",
-    "raw_titles": [
-      "驀然回首（真人版）",
-      "驀然回首"
-    ],
-    "sources": [
-      "ambassador.com.tw",
-      "wonderful.movie.com.tw",
-      "luxcinema.com.tw"
-    ],
-    "director": "是枝裕和",
-    "original_title": "LOOK BACK",
-    "year": 2026
-  },
   "6b1ca6fb0791": {
     "normalized_title": "颱風俱樂部 4K修復版",
     "raw_titles": [
@@ -517,12 +519,12 @@
       "開放性邀請"
     ],
     "sources": [
-      "ambassador.com.tw",
-      "wonderful.movie.com.tw"
+      "ambassador.com.tw"
     ],
-    "director": "奧莉薇亞魏爾德",
+    "director": "奧莉薇亞·魏爾德",
     "original_title": null,
-    "year": 2026
+    "year": 2026,
+    "tmdb_id": 950028
   },
   "3808e10cd4f4": {
     "normalized_title": "八月三十一日,我在奧斯陸",
@@ -821,6 +823,18 @@
     ],
     "director": "《迫降危機》強法蘭柯瑞西",
     "original_title": "Mutiny",
+    "year": 2026
+  },
+  "14bd9297bcc9": {
+    "normalized_title": "最終樂章 吹響吧!上低音號 前篇",
+    "raw_titles": [
+      "最終樂章 吹響吧！上低音號 前篇"
+    ],
+    "sources": [
+      "luxcinema.com.tw"
+    ],
+    "director": "石原立也（總導演）、小川太一（導演）",
+    "original_title": "Sound! Euphonium, The Final Movie Part 1",
     "year": 2026
   },
   "b132b88c5ed8": {
