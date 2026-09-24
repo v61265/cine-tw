@@ -6,6 +6,13 @@
     "address": null,
     "city": "台北市"
   },
+  "ambassador-84b87b82-b936-4a39-b91f-e88328d33b4e": {
+    "name": "國賓大戲院",
+    "chain": "ambassador",
+    "is_indie": false,
+    "address": "台北市成都路88號",
+    "city": "台北市"
+  },
   "ambassador-f760950a-94b6-4e04-9573-831ed7283c5c": {
     "name": "高雄草衙道國賓影城",
     "chain": "ambassador",
@@ -26,20 +33,6 @@
     "is_indie": false,
     "address": "屏東市仁愛路90號6樓",
     "city": "屏東市"
-  },
-  "ambassador-84b87b82-b936-4a39-b91f-e88328d33b4e": {
-    "name": "國賓大戲院",
-    "chain": "ambassador",
-    "is_indie": false,
-    "address": "台北市成都路88號",
-    "city": "台北市"
-  },
-  "ambassador-ec07626b-b382-474e-be39-ad45eac5cd1c": {
-    "name": "高雄義大國賓影城",
-    "chain": "ambassador",
-    "is_indie": false,
-    "address": "高雄市大樹區學城路一段12號3樓",
-    "city": "高雄市"
   },
   "ambassador-453b2966-f7c2-44a9-b2eb-687493855d0e": {
     "name": "台北長春國賓影城",
@@ -68,6 +61,13 @@
     "is_indie": false,
     "address": "新北市新莊區五工路66號3樓",
     "city": "新北市"
+  },
+  "ambassador-ec07626b-b382-474e-be39-ad45eac5cd1c": {
+    "name": "高雄義大國賓影城",
+    "chain": "ambassador",
+    "is_indie": false,
+    "address": "高雄市大樹區學城路一段12號3樓",
+    "city": "高雄市"
   },
   "wonderful-taipei": {
     "name": "真善美劇院（台北）",

@@ -53,11 +53,27 @@
     "original_title": null,
     "year": 2026
   },
+  "377764c6ecb1": {
+    "normalized_title": "驀然回首",
+    "raw_titles": [
+      "（特別場）驀然回首（真人版）",
+      "驀然回首（真人版）",
+      "驀然回首"
+    ],
+    "sources": [
+      "ambassador.com.tw",
+      "wonderful.movie.com.tw",
+      "luxcinema.com.tw"
+    ],
+    "director": "是枝裕和",
+    "original_title": "LOOK BACK",
+    "year": 2026
+  },
   "d2c4490c841f": {
     "normalized_title": "誤闖遺忘島",
     "raw_titles": [
-      "（友情萬歲特別場）誤闖遺忘島",
-      "誤闖遺忘島"
+      "誤闖遺忘島",
+      "（友情萬歲特別場）誤闖遺忘島"
     ],
     "sources": [
       "ambassador.com.tw"
@@ -66,6 +82,18 @@
     "original_title": null,
     "year": 2026,
     "tmdb_id": 1465063
+  },
+  "80d23007b656": {
+    "normalized_title": "青春電幻物語:數位修復版.",
+    "raw_titles": [
+      "青春電幻物語：數位修復版."
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": null,
+    "original_title": null,
+    "year": null
   },
   "35c1dedea3eb": {
     "normalized_title": "復仇者聯盟:終局之戰 加碼重映",
@@ -94,22 +122,6 @@
     "year": 2026,
     "tmdb_id": 1423191
   },
-  "377764c6ecb1": {
-    "normalized_title": "驀然回首",
-    "raw_titles": [
-      "（特別場）驀然回首（真人版）",
-      "驀然回首（真人版）",
-      "驀然回首"
-    ],
-    "sources": [
-      "ambassador.com.tw",
-      "wonderful.movie.com.tw",
-      "luxcinema.com.tw"
-    ],
-    "director": "是枝裕和",
-    "original_title": "LOOK BACK",
-    "year": 2026
-  },
   "0a5aacb9a2b3": {
     "normalized_title": "汪汪隊立大功:恐龍大電影",
     "raw_titles": [
@@ -123,44 +135,19 @@
     "year": 2026,
     "tmdb_id": 1185806
   },
-  "74397369239c": {
-    "normalized_title": "愛你致死不渝",
+  "de23c9251a16": {
+    "normalized_title": "怎麼不去死?",
     "raw_titles": [
-      "愛你致死不渝"
+      "（海報場）怎麼不去死？",
+      "怎麼不去死？"
     ],
     "sources": [
-      "ambassador.com.tw"
+      "ambassador.com.tw",
+      "wonderful.movie.com.tw"
     ],
-    "director": "柯瑞·巴克",
+    "director": "金井純一",
     "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1339713
-  },
-  "8203b3ac343e": {
-    "normalized_title": "奧德賽",
-    "raw_titles": [
-      "奧德賽"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "克里斯多夫·諾蘭",
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1368337
-  },
-  "9875a1945541": {
-    "normalized_title": "蜘蛛人:重生日",
-    "raw_titles": [
-      "蜘蛛人：重生日"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "德斯汀·丹尼爾·克雷頓",
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 969681
+    "year": 2026
   },
   "cef2208477e6": {
     "normalized_title": "實境誘捕",
@@ -174,18 +161,6 @@
     "director": "蘭斯奧本海姆",
     "original_title": null,
     "year": 2026
-  },
-  "80d23007b656": {
-    "normalized_title": "青春電幻物語:數位修復版.",
-    "raw_titles": [
-      "青春電幻物語：數位修復版."
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": null,
-    "original_title": null,
-    "year": null
   },
   "6dbcb4a9a7fe": {
     "normalized_title": "猛鬼大學:4不瞑目",
@@ -304,19 +279,6 @@
     "original_title": "Forbidden Fairytale",
     "year": 2026
   },
-  "de23c9251a16": {
-    "normalized_title": "怎麼不去死?",
-    "raw_titles": [
-      "怎麼不去死？"
-    ],
-    "sources": [
-      "ambassador.com.tw",
-      "wonderful.movie.com.tw"
-    ],
-    "director": "金井純一",
-    "original_title": null,
-    "year": 2026
-  },
   "74d91b339ead": {
     "normalized_title": "LOVE ≠ COMEDY",
     "raw_titles": [
@@ -375,12 +337,12 @@
       "超異能快感：魔法之書"
     ],
     "sources": [
-      "ambassador.com.tw",
-      "luxcinema.com.tw"
+      "ambassador.com.tw"
     ],
-    "director": "蘇珊娜畢爾",
-    "original_title": "Practical Magic 2",
-    "year": 2026
+    "director": "Susanne Bier",
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 1302904
   },
   "6b1ca6fb0791": {
     "normalized_title": "颱風俱樂部 4K修復版",
@@ -426,13 +388,12 @@
       "慶州殺遊紀"
     ],
     "sources": [
-      "ambassador.com.tw",
-      "wonderful.movie.com.tw",
-      "luxcinema.com.tw"
+      "ambassador.com.tw"
     ],
-    "director": "金美助",
-    "original_title": "The Journey to Gyeong-ju",
-    "year": 2026
+    "director": "김미조",
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 1235769
   },
   "8dde6f04230c": {
     "normalized_title": "怎麼可能我家的祖先是你家的鬼",
@@ -440,12 +401,12 @@
       "怎麼可能我家的祖先是你家的鬼"
     ],
     "sources": [
-      "ambassador.com.tw",
-      "luxcinema.com.tw"
+      "ambassador.com.tw"
     ],
     "director": "蘇達",
-    "original_title": "The Journey to Gyeongju",
-    "year": 2026
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 1193673
   },
   "eef7c2e7af93": {
     "normalized_title": "劇場版 魔法少女小圓〈瓦爾普吉斯的迴天〉",
@@ -506,12 +467,12 @@
       "天鵝與蝙蝠"
     ],
     "sources": [
-      "ambassador.com.tw",
-      "luxcinema.com.tw"
+      "ambassador.com.tw"
     ],
-    "director": "《啊，荒野》岸善幸",
-    "original_title": "Guilt",
-    "year": 2026
+    "director": "岸善幸",
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 1621964
   },
   "c3956763b92d": {
     "normalized_title": "開放性邀請",
@@ -618,6 +579,19 @@
     "year": 2026,
     "tmdb_id": 1732733
   },
+  "74397369239c": {
+    "normalized_title": "愛你致死不渝",
+    "raw_titles": [
+      "愛你致死不渝"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "柯瑞·巴克",
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 1339713
+  },
   "de5e13d74f88": {
     "normalized_title": "電影蠟筆小新:奇奇怪怪!我的妖怪假期",
     "raw_titles": [
@@ -645,17 +619,31 @@
     "year": 2026,
     "tmdb_id": 1586876
   },
-  "c5d0063d04a7": {
-    "normalized_title": "愛在記憶褪色時",
+  "8203b3ac343e": {
+    "normalized_title": "奧德賽",
     "raw_titles": [
-      "愛在記憶褪色時"
+      "奧德賽"
     ],
     "sources": [
-      "wonderful.movie.com.tw"
+      "ambassador.com.tw"
     ],
-    "director": "韋夫．萊因哈特",
+    "director": "克里斯多夫·諾蘭",
     "original_title": null,
-    "year": 2026
+    "year": 2026,
+    "tmdb_id": 1368337
+  },
+  "9875a1945541": {
+    "normalized_title": "蜘蛛人:重生日",
+    "raw_titles": [
+      "蜘蛛人：重生日"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "德斯汀·丹尼爾·克雷頓",
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 969681
   },
   "d1fd8cb944e0": {
     "normalized_title": "被偷走的情歌",
@@ -799,18 +787,6 @@
     ],
     "director": "長久允 NAGAHISA Makoto",
     "original_title": null,
-    "year": 2026
-  },
-  "8b84c9021a6c": {
-    "normalized_title": "電影哆啦A夢:新‧大雄的海底鬼岩城",
-    "raw_titles": [
-      "(日語)電影哆啦A夢：新‧大雄的海底鬼岩城"
-    ],
-    "sources": [
-      "luxcinema.com.tw"
-    ],
-    "director": "《寶可夢：皮卡丘和可可的冒險》矢嶋哲生",
-    "original_title": "New Nobita and the Castle of the Undersea Devil",
     "year": 2026
   },
   "39f5e74a95a4": {
