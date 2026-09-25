@@ -104,7 +104,7 @@
     "sources": [
       "ambassador.com.tw"
     ],
-    "director": "Joe Russo",
+    "director": "Anthony Russo",
     "original_title": null,
     "year": 2019,
     "tmdb_id": 299534
@@ -134,6 +134,32 @@
     "original_title": null,
     "year": 2026,
     "tmdb_id": 1185806
+  },
+  "945ec5e9f5db": {
+    "normalized_title": "復活男",
+    "raw_titles": [
+      "復活男"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "백",
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 961214
+  },
+  "756ea6d55545": {
+    "normalized_title": "挖掘者",
+    "raw_titles": [
+      "（口碑場）挖掘者"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "阿利安卓·崗札雷·伊納利圖",
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 1248832
   },
   "de23c9251a16": {
     "normalized_title": "怎麼不去死?",
@@ -253,19 +279,6 @@
     "year": 2005,
     "tmdb_id": 14003
   },
-  "f9e59223cce3": {
-    "normalized_title": "獵殺荒島",
-    "raw_titles": [
-      "獵殺荒島"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "Mike Wiluan",
-    "original_title": null,
-    "year": 2025,
-    "tmdb_id": 1214140
-  },
   "9be95946c546": {
     "normalized_title": "成人童話",
     "raw_titles": [
@@ -278,32 +291,6 @@
     "director": "《極智對決》李鍾錫",
     "original_title": "Forbidden Fairytale",
     "year": 2026
-  },
-  "74d91b339ead": {
-    "normalized_title": "LOVE ≠ COMEDY",
-    "raw_titles": [
-      "LOVE ≠ COMEDY"
-    ],
-    "sources": [
-      "ambassador.com.tw",
-      "luxcinema.com.tw"
-    ],
-    "director": "《她很漂亮》(TV)紙谷楓",
-    "original_title": "LOVE ≠ COMEDY",
-    "year": 2026
-  },
-  "ba3d125ff1aa": {
-    "normalized_title": "夢想出擊",
-    "raw_titles": [
-      "夢想出擊"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "김성호",
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1617484
   },
   "f923e8f81426": {
     "normalized_title": "婚・紗・罩",
@@ -318,19 +305,6 @@
     "year": 2026,
     "tmdb_id": 1537122
   },
-  "89d0fb119c57": {
-    "normalized_title": "喵咪總動員",
-    "raw_titles": [
-      "喵咪總動員"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "Mohammad Pirzadi",
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1425552
-  },
   "443f0eb55a2f": {
     "normalized_title": "超異能快感:魔法之書",
     "raw_titles": [
@@ -343,57 +317,6 @@
     "original_title": null,
     "year": 2026,
     "tmdb_id": 1302904
-  },
-  "6b1ca6fb0791": {
-    "normalized_title": "颱風俱樂部 4K修復版",
-    "raw_titles": [
-      "颱風俱樂部 4K修復版"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": null,
-    "original_title": null,
-    "year": null
-  },
-  "92214a257785": {
-    "normalized_title": "大起義",
-    "raw_titles": [
-      "大起義"
-    ],
-    "sources": [
-      "ambassador.com.tw",
-      "wonderful.movie.com.tw"
-    ],
-    "director": "安妮瑪麗·賈西爾",
-    "original_title": null,
-    "year": 2026
-  },
-  "c163158d879a": {
-    "normalized_title": "大仙尪仔",
-    "raw_titles": [
-      "大仙尪仔"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "凌柏瑋",
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1467519
-  },
-  "008b3c4c10e3": {
-    "normalized_title": "慶州殺遊紀",
-    "raw_titles": [
-      "慶州殺遊紀"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "김미조",
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1235769
   },
   "8dde6f04230c": {
     "normalized_title": "怎麼可能我家的祖先是你家的鬼",
@@ -434,46 +357,6 @@
     "year": 2026,
     "tmdb_id": 1058424
   },
-  "a2a9be16def7": {
-    "normalized_title": "世界上最爛的人.",
-    "raw_titles": [
-      "世界上最爛的人."
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "Joachim Trier",
-    "original_title": null,
-    "year": 2021,
-    "tmdb_id": 660120
-  },
-  "01d3ae9cfe76": {
-    "normalized_title": "墜2",
-    "raw_titles": [
-      "墜２",
-      "墜2"
-    ],
-    "sources": [
-      "ambassador.com.tw",
-      "luxcinema.com.tw"
-    ],
-    "director": "《超時空攔截》麥可斯派瑞格、《超時空攔截》彼得斯派瑞格",
-    "original_title": "Fall 2",
-    "year": 2026
-  },
-  "8e967dbb5101": {
-    "normalized_title": "天鵝與蝙蝠",
-    "raw_titles": [
-      "天鵝與蝙蝠"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "岸善幸",
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1621964
-  },
   "c3956763b92d": {
     "normalized_title": "開放性邀請",
     "raw_titles": [
@@ -486,20 +369,6 @@
     "original_title": null,
     "year": 2026,
     "tmdb_id": 950028
-  },
-  "3808e10cd4f4": {
-    "normalized_title": "八月三十一日,我在奧斯陸",
-    "raw_titles": [
-      "八月三十一日，我在奧斯陸..",
-      "八月三十一日，我在奧斯陸 Oslo, August 31st"
-    ],
-    "sources": [
-      "ambassador.com.tw",
-      "kfa.kcg.gov.tw"
-    ],
-    "director": "尤沃金提爾 Joachim TRIER",
-    "original_title": null,
-    "year": 2011
   },
   "31cf6619f5a3": {
     "normalized_title": "網紅老爸",
@@ -526,32 +395,6 @@
     "director": "廖士涵",
     "original_title": "The Rope Curse 4",
     "year": 2026
-  },
-  "6b6797a49dde": {
-    "normalized_title": "驀然回首.",
-    "raw_titles": [
-      "驀然回首."
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "押山清高",
-    "original_title": null,
-    "year": 2024,
-    "tmdb_id": 1244492
-  },
-  "ba4f3ff18405": {
-    "normalized_title": "名偵探柯南 高速公路的墮天使",
-    "raw_titles": [
-      "名偵探柯南 高速公路的墮天使"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "蓮井隆弘",
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1545621
   },
   "91276bb5cec3": {
     "normalized_title": "超拖樂團之我要幹大事啦!",
@@ -596,6 +439,7 @@
     "normalized_title": "電影蠟筆小新:奇奇怪怪!我的妖怪假期",
     "raw_titles": [
       "電影蠟筆小新：奇奇怪怪！我的妖怪假期",
+      "(國語)電影蠟筆小新：奇奇怪怪！我的妖怪假期",
       "(日語)電影蠟筆小新：奇奇怪怪！我的妖怪假期"
     ],
     "sources": [
@@ -645,6 +489,18 @@
     "year": 2026,
     "tmdb_id": 969681
   },
+  "92214a257785": {
+    "normalized_title": "大起義",
+    "raw_titles": [
+      "大起義"
+    ],
+    "sources": [
+      "wonderful.movie.com.tw"
+    ],
+    "director": "安妮瑪麗·賈西爾",
+    "original_title": null,
+    "year": 2026
+  },
   "d1fd8cb944e0": {
     "normalized_title": "被偷走的情歌",
     "raw_titles": [
@@ -680,6 +536,18 @@
     "director": "艾莉絲羅爾瓦雀",
     "original_title": null,
     "year": 2026
+  },
+  "3808e10cd4f4": {
+    "normalized_title": "八月三十一日,我在奧斯陸",
+    "raw_titles": [
+      "八月三十一日，我在奧斯陸 Oslo, August 31st"
+    ],
+    "sources": [
+      "kfa.kcg.gov.tw"
+    ],
+    "director": "尤沃金提爾 Joachim TRIER",
+    "original_title": null,
+    "year": 2011
   },
   "d128d104edc5": {
     "normalized_title": "撒旦的探戈 4K修復(中)Sátántangó 4K Restoration Part II",
@@ -801,6 +669,18 @@
     "original_title": "Mutiny",
     "year": 2026
   },
+  "01d3ae9cfe76": {
+    "normalized_title": "墜2",
+    "raw_titles": [
+      "墜2"
+    ],
+    "sources": [
+      "luxcinema.com.tw"
+    ],
+    "director": "《超時空攔截》麥可斯派瑞格、《超時空攔截》彼得斯派瑞格",
+    "original_title": "Fall 2",
+    "year": 2026
+  },
   "14bd9297bcc9": {
     "normalized_title": "最終樂章 吹響吧!上低音號 前篇",
     "raw_titles": [
@@ -823,6 +703,18 @@
     ],
     "director": "卡西德桑達拉爾俊",
     "original_title": "Possessed",
+    "year": 2026
+  },
+  "74d91b339ead": {
+    "normalized_title": "LOVE ≠ COMEDY",
+    "raw_titles": [
+      "LOVE ≠ COMEDY"
+    ],
+    "sources": [
+      "luxcinema.com.tw"
+    ],
+    "director": "《她很漂亮》(TV)紙谷楓",
+    "original_title": "LOVE ≠ COMEDY",
     "year": 2026
   }
 }
