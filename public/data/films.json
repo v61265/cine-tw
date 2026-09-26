@@ -104,7 +104,7 @@
     "sources": [
       "ambassador.com.tw"
     ],
-    "director": "Anthony Russo",
+    "director": "Joe Russo",
     "original_title": null,
     "year": 2019,
     "tmdb_id": 299534
@@ -135,22 +135,10 @@
     "year": 2026,
     "tmdb_id": 1185806
   },
-  "945ec5e9f5db": {
-    "normalized_title": "復活男",
-    "raw_titles": [
-      "復活男"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "백",
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 961214
-  },
   "756ea6d55545": {
     "normalized_title": "挖掘者",
     "raw_titles": [
+      "挖掘者",
       "（口碑場）挖掘者"
     ],
     "sources": [
@@ -160,6 +148,19 @@
     "original_title": null,
     "year": 2026,
     "tmdb_id": 1248832
+  },
+  "945ec5e9f5db": {
+    "normalized_title": "復活男",
+    "raw_titles": [
+      "復活男"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "백종열",
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 961214
   },
   "de23c9251a16": {
     "normalized_title": "怎麼不去死?",
