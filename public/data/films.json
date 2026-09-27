@@ -104,7 +104,7 @@
     "sources": [
       "ambassador.com.tw"
     ],
-    "director": "Joe Russo",
+    "director": "Anthony Russo",
     "original_title": null,
     "year": 2019,
     "tmdb_id": 299534
@@ -161,20 +161,6 @@
     "original_title": null,
     "year": 2026,
     "tmdb_id": 961214
-  },
-  "de23c9251a16": {
-    "normalized_title": "怎麼不去死?",
-    "raw_titles": [
-      "（海報場）怎麼不去死？",
-      "怎麼不去死？"
-    ],
-    "sources": [
-      "ambassador.com.tw",
-      "wonderful.movie.com.tw"
-    ],
-    "director": "金井純一",
-    "original_title": null,
-    "year": 2026
   },
   "cef2208477e6": {
     "normalized_title": "實境誘捕",
@@ -535,6 +521,18 @@
       "wonderful.movie.com.tw"
     ],
     "director": "艾莉絲羅爾瓦雀",
+    "original_title": null,
+    "year": 2026
+  },
+  "de23c9251a16": {
+    "normalized_title": "怎麼不去死?",
+    "raw_titles": [
+      "怎麼不去死？"
+    ],
+    "sources": [
+      "wonderful.movie.com.tw"
+    ],
+    "director": "金井純一",
     "original_title": null,
     "year": 2026
   },
