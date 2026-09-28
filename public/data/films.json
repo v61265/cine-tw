@@ -39,20 +39,6 @@
     "original_title": "The Samurai And The Prisoner",
     "year": 2026
   },
-  "a277c4867245": {
-    "normalized_title": "野獸之心",
-    "raw_titles": [
-      "（DBOX特別場）野獸之心",
-      "野獸之心"
-    ],
-    "sources": [
-      "ambassador.com.tw",
-      "wonderful.movie.com.tw"
-    ],
-    "director": "大衛艾亞",
-    "original_title": null,
-    "year": 2026
-  },
   "377764c6ecb1": {
     "normalized_title": "驀然回首",
     "raw_titles": [
@@ -83,17 +69,18 @@
     "year": 2026,
     "tmdb_id": 1465063
   },
-  "80d23007b656": {
-    "normalized_title": "青春電幻物語:數位修復版.",
+  "a277c4867245": {
+    "normalized_title": "野獸之心",
     "raw_titles": [
-      "青春電幻物語：數位修復版."
+      "野獸之心"
     ],
     "sources": [
-      "ambassador.com.tw"
+      "ambassador.com.tw",
+      "wonderful.movie.com.tw"
     ],
-    "director": null,
+    "director": "大衛艾亞",
     "original_title": null,
-    "year": null
+    "year": 2026
   },
   "35c1dedea3eb": {
     "normalized_title": "復仇者聯盟:終局之戰 加碼重映",
@@ -174,6 +161,18 @@
     "director": "蘭斯奧本海姆",
     "original_title": null,
     "year": 2026
+  },
+  "80d23007b656": {
+    "normalized_title": "青春電幻物語:數位修復版.",
+    "raw_titles": [
+      "青春電幻物語：數位修復版."
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": null,
+    "original_title": null,
+    "year": null
   },
   "6dbcb4a9a7fe": {
     "normalized_title": "猛鬼大學:4不瞑目",
@@ -278,19 +277,6 @@
     "director": "《極智對決》李鍾錫",
     "original_title": "Forbidden Fairytale",
     "year": 2026
-  },
-  "f923e8f81426": {
-    "normalized_title": "婚・紗・罩",
-    "raw_titles": [
-      "婚・紗・罩"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "陳昱伶",
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1537122
   },
   "443f0eb55a2f": {
     "normalized_title": "超異能快感:魔法之書",
@@ -449,32 +435,6 @@
     "original_title": null,
     "year": 2026,
     "tmdb_id": 1586876
-  },
-  "8203b3ac343e": {
-    "normalized_title": "奧德賽",
-    "raw_titles": [
-      "奧德賽"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "克里斯多夫·諾蘭",
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1368337
-  },
-  "9875a1945541": {
-    "normalized_title": "蜘蛛人:重生日",
-    "raw_titles": [
-      "蜘蛛人：重生日"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "德斯汀·丹尼爾·克雷頓",
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 969681
   },
   "92214a257785": {
     "normalized_title": "大起義",
