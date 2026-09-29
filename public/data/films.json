@@ -39,27 +39,24 @@
     "original_title": "The Samurai And The Prisoner",
     "year": 2026
   },
-  "377764c6ecb1": {
-    "normalized_title": "驀然回首",
+  "756ea6d55545": {
+    "normalized_title": "挖掘者",
     "raw_titles": [
-      "（特別場）驀然回首（真人版）",
-      "驀然回首（真人版）",
-      "驀然回首"
+      "挖掘者",
+      "（口碑場）挖掘者"
     ],
     "sources": [
-      "ambassador.com.tw",
-      "wonderful.movie.com.tw",
-      "luxcinema.com.tw"
+      "ambassador.com.tw"
     ],
-    "director": "是枝裕和",
-    "original_title": "LOOK BACK",
-    "year": 2026
+    "director": "阿利安卓·崗札雷·伊納利圖",
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 1248832
   },
   "d2c4490c841f": {
     "normalized_title": "誤闖遺忘島",
     "raw_titles": [
-      "誤闖遺忘島",
-      "（友情萬歲特別場）誤闖遺忘島"
+      "誤闖遺忘島"
     ],
     "sources": [
       "ambassador.com.tw"
@@ -121,20 +118,6 @@
     "original_title": null,
     "year": 2026,
     "tmdb_id": 1185806
-  },
-  "756ea6d55545": {
-    "normalized_title": "挖掘者",
-    "raw_titles": [
-      "挖掘者",
-      "（口碑場）挖掘者"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "阿利安卓·崗札雷·伊納利圖",
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1248832
   },
   "945ec5e9f5db": {
     "normalized_title": "復活男",
@@ -291,6 +274,21 @@
     "year": 2026,
     "tmdb_id": 1302904
   },
+  "377764c6ecb1": {
+    "normalized_title": "驀然回首",
+    "raw_titles": [
+      "驀然回首（真人版）",
+      "驀然回首"
+    ],
+    "sources": [
+      "ambassador.com.tw",
+      "wonderful.movie.com.tw",
+      "luxcinema.com.tw"
+    ],
+    "director": "是枝裕和",
+    "original_title": "LOOK BACK",
+    "year": 2026
+  },
   "8dde6f04230c": {
     "normalized_title": "怎麼可能我家的祖先是你家的鬼",
     "raw_titles": [
@@ -369,6 +367,32 @@
     "original_title": "The Rope Curse 4",
     "year": 2026
   },
+  "8203b3ac343e": {
+    "normalized_title": "奧德賽",
+    "raw_titles": [
+      "奧德賽"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "克里斯多夫·諾蘭",
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 1368337
+  },
+  "9875a1945541": {
+    "normalized_title": "蜘蛛人:重生日",
+    "raw_titles": [
+      "蜘蛛人：重生日"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "德斯汀·丹尼爾·克雷頓",
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 969681
+  },
   "91276bb5cec3": {
     "normalized_title": "超拖樂團之我要幹大事啦!",
     "raw_titles": [
@@ -412,7 +436,6 @@
     "normalized_title": "電影蠟筆小新:奇奇怪怪!我的妖怪假期",
     "raw_titles": [
       "電影蠟筆小新：奇奇怪怪！我的妖怪假期",
-      "(國語)電影蠟筆小新：奇奇怪怪！我的妖怪假期",
       "(日語)電影蠟筆小新：奇奇怪怪！我的妖怪假期"
     ],
     "sources": [
