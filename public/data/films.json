@@ -13,18 +13,6 @@
     "original_title": "The Brightest Sun",
     "year": 2025
   },
-  "adff42da7372": {
-    "normalized_title": "草間∞彌生",
-    "raw_titles": [
-      "草間∞彌生"
-    ],
-    "sources": [
-      "spot.org.tw"
-    ],
-    "director": "希瑟冷次 Heather Lenz",
-    "original_title": "Kusama: Infinity",
-    "year": 2018
-  },
   "7742cb9ea519": {
     "normalized_title": "黑牢城",
     "raw_titles": [
@@ -38,6 +26,18 @@
     "director": "黑澤清 KUROSAWA Kiyoshi",
     "original_title": "The Samurai And The Prisoner",
     "year": 2026
+  },
+  "a06b03034b5b": {
+    "normalized_title": "花神咖啡館",
+    "raw_titles": [
+      "花神咖啡館"
+    ],
+    "sources": [
+      "spot.org.tw"
+    ],
+    "director": "尚馬克瓦利 Jean-Marc Vallee",
+    "original_title": "Cafe de Flore",
+    "year": 2011
   },
   "756ea6d55545": {
     "normalized_title": "挖掘者",
@@ -445,19 +445,6 @@
     "director": "渡邊正樹",
     "original_title": "Crayon Shinchan the Movie：Spooky! My Yokai Vacation",
     "year": 2026
-  },
-  "53361c35df1d": {
-    "normalized_title": "劇場版 吉伊卡哇 人魚島的秘密",
-    "raw_titles": [
-      "劇場版 吉伊卡哇 人魚島的秘密"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "及川啓",
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1586876
   },
   "92214a257785": {
     "normalized_title": "大起義",
