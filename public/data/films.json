@@ -16,7 +16,8 @@
   "7742cb9ea519": {
     "normalized_title": "黑牢城",
     "raw_titles": [
-      "黑牢城"
+      "黑牢城",
+      "（海報場）黑牢城"
     ],
     "sources": [
       "spot.org.tw",
@@ -33,7 +34,8 @@
       "花神咖啡館"
     ],
     "sources": [
-      "spot.org.tw"
+      "spot.org.tw",
+      "wonderful.movie.com.tw"
     ],
     "director": "尚馬克瓦利 Jean-Marc Vallee",
     "original_title": "Cafe de Flore",
@@ -46,25 +48,12 @@
       "（口碑場）挖掘者"
     ],
     "sources": [
-      "ambassador.com.tw"
+      "ambassador.com.tw",
+      "wonderful.movie.com.tw"
     ],
-    "director": "阿利安卓·崗札雷·伊納利圖",
+    "director": "阿利安卓崗札雷伊納利圖",
     "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1248832
-  },
-  "d2c4490c841f": {
-    "normalized_title": "誤闖遺忘島",
-    "raw_titles": [
-      "誤闖遺忘島"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "哈努爾·梅卡度",
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1465063
+    "year": 2026
   },
   "a277c4867245": {
     "normalized_title": "野獸之心",
@@ -119,6 +108,99 @@
     "year": 2026,
     "tmdb_id": 1185806
   },
+  "177294a73f3f": {
+    "normalized_title": "與畢諾許共舞",
+    "raw_titles": [
+      "與畢諾許共舞"
+    ],
+    "sources": [
+      "ambassador.com.tw",
+      "wonderful.movie.com.tw"
+    ],
+    "director": "茱麗葉畢諾許",
+    "original_title": null,
+    "year": 2026
+  },
+  "3181959bda8b": {
+    "normalized_title": "神鬼劫案2:偷天換日",
+    "raw_titles": [
+      " 神鬼劫案2：偷天換日",
+      "神鬼劫案2：偷天換日"
+    ],
+    "sources": [
+      "ambassador.com.tw",
+      "luxcinema.com.tw"
+    ],
+    "director": "《神鬼劫案：瞞天過海》藍道爾艾米特",
+    "original_title": "The Gentleman Thief",
+    "year": 2026
+  },
+  "1e9fb048a272": {
+    "normalized_title": "我們不是什麼",
+    "raw_titles": [
+      "我們不是什麼"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "邱禮濤",
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 1509632
+  },
+  "faf61e042631": {
+    "normalized_title": "鬼6咒",
+    "raw_titles": [
+      "鬼６咒",
+      "鬼6咒"
+    ],
+    "sources": [
+      "ambassador.com.tw",
+      "luxcinema.com.tw"
+    ],
+    "director": "邢瑟佑,高熙燮, 李相玟,宣宗勳,孫敏俊, 金承泰",
+    "original_title": "App The Horror",
+    "year": 2026
+  },
+  "4220e61dca3d": {
+    "normalized_title": "遠離祖靈的孩子",
+    "raw_titles": [
+      "遠離祖靈的孩子"
+    ],
+    "sources": [
+      "ambassador.com.tw",
+      "wonderful.movie.com.tw"
+    ],
+    "director": "黃開璟",
+    "original_title": null,
+    "year": 2026
+  },
+  "a501b5656f89": {
+    "normalized_title": "人吶,為什麼要跑步?",
+    "raw_titles": [
+      "人吶，為什麼要跑步？"
+    ],
+    "sources": [
+      "ambassador.com.tw",
+      "wonderful.movie.com.tw"
+    ],
+    "director": "林修齊",
+    "original_title": null,
+    "year": 2026
+  },
+  "15dd651a4e2d": {
+    "normalized_title": "反對普丁的無名先生",
+    "raw_titles": [
+      "反對普丁的無名先生"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "David Borenstein",
+    "original_title": null,
+    "year": 2025,
+    "tmdb_id": 1393151
+  },
   "945ec5e9f5db": {
     "normalized_title": "復活男",
     "raw_titles": [
@@ -131,6 +213,32 @@
     "original_title": null,
     "year": 2026,
     "tmdb_id": 961214
+  },
+  "53361c35df1d": {
+    "normalized_title": "劇場版 吉伊卡哇 人魚島的秘密",
+    "raw_titles": [
+      "劇場版 吉伊卡哇 人魚島的秘密"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "及川啓",
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 1586876
+  },
+  "d2c4490c841f": {
+    "normalized_title": "誤闖遺忘島",
+    "raw_titles": [
+      "誤闖遺忘島"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "哈努爾·梅卡度",
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 1465063
   },
   "cef2208477e6": {
     "normalized_title": "實境誘捕",
@@ -446,18 +554,6 @@
     "original_title": "Crayon Shinchan the Movie：Spooky! My Yokai Vacation",
     "year": 2026
   },
-  "92214a257785": {
-    "normalized_title": "大起義",
-    "raw_titles": [
-      "大起義"
-    ],
-    "sources": [
-      "wonderful.movie.com.tw"
-    ],
-    "director": "安妮瑪麗·賈西爾",
-    "original_title": null,
-    "year": 2026
-  },
   "d1fd8cb944e0": {
     "normalized_title": "被偷走的情歌",
     "raw_titles": [
@@ -491,18 +587,6 @@
       "wonderful.movie.com.tw"
     ],
     "director": "艾莉絲羅爾瓦雀",
-    "original_title": null,
-    "year": 2026
-  },
-  "de23c9251a16": {
-    "normalized_title": "怎麼不去死?",
-    "raw_titles": [
-      "怎麼不去死？"
-    ],
-    "sources": [
-      "wonderful.movie.com.tw"
-    ],
-    "director": "金井純一",
     "original_title": null,
     "year": 2026
   },
@@ -660,18 +744,6 @@
     ],
     "director": "石原立也（總導演）、小川太一（導演）",
     "original_title": "Sound! Euphonium, The Final Movie Part 1",
-    "year": 2026
-  },
-  "b132b88c5ed8": {
-    "normalized_title": "鬼附體",
-    "raw_titles": [
-      "鬼附體"
-    ],
-    "sources": [
-      "luxcinema.com.tw"
-    ],
-    "director": "卡西德桑達拉爾俊",
-    "original_title": "Possessed",
     "year": 2026
   },
   "74d91b339ead": {
