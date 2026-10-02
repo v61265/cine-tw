@@ -41,18 +41,31 @@
     "original_title": "Cafe de Flore",
     "year": 2011
   },
+  "ac001c4683ae": {
+    "normalized_title": "另一個媽咪",
+    "raw_titles": [
+      "另一個媽咪"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "Rob Savage",
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 1400837
+  },
   "756ea6d55545": {
     "normalized_title": "挖掘者",
     "raw_titles": [
-      "挖掘者",
-      "（口碑場）挖掘者"
+      "挖掘者"
     ],
     "sources": [
       "ambassador.com.tw",
-      "wonderful.movie.com.tw"
+      "wonderful.movie.com.tw",
+      "luxcinema.com.tw"
     ],
     "director": "阿利安卓崗札雷伊納利圖",
-    "original_title": null,
+    "original_title": "Digger",
     "year": 2026
   },
   "a277c4867245": {
@@ -108,6 +121,96 @@
     "year": 2026,
     "tmdb_id": 1185806
   },
+  "4bcebc93147a": {
+    "normalized_title": "金劫任務",
+    "raw_titles": [
+      "金劫任務"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "蓋·瑞奇",
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 1122573
+  },
+  "b1017873cdda": {
+    "normalized_title": "紐約藝術家的性與愛",
+    "raw_titles": [
+      "紐約藝術家的性與愛"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "Lucio Castro",
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 1462889
+  },
+  "cd3db976eec7": {
+    "normalized_title": "不存在的罪人",
+    "raw_titles": [
+      "不存在的罪人"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "麥可·休瓦特",
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 1283515
+  },
+  "6aac3b071342": {
+    "normalized_title": "拾荒法師",
+    "raw_titles": [
+      "拾荒法師"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "彭發",
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 1386467
+  },
+  "7a4c79795bee": {
+    "normalized_title": "驚天劫機",
+    "raw_titles": [
+      "驚天劫機"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "Hàm Trần",
+    "original_title": null,
+    "year": 2025,
+    "tmdb_id": 1479953
+  },
+  "b301267ccc67": {
+    "normalized_title": "角落小夥伴電影版:從天而降的雲之冒險",
+    "raw_titles": [
+      "角落小夥伴電影版：從天而降的雲之冒險"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "イワタナオミ",
+    "original_title": null,
+    "year": 2025,
+    "tmdb_id": 1504111
+  },
+  "a275940d7e24": {
+    "normalized_title": "鬼入室",
+    "raw_titles": [
+      "鬼入室"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": null,
+    "original_title": null,
+    "year": null
+  },
   "177294a73f3f": {
     "normalized_title": "與畢諾許共舞",
     "raw_titles": [
@@ -124,7 +227,6 @@
   "3181959bda8b": {
     "normalized_title": "神鬼劫案2:偷天換日",
     "raw_titles": [
-      " 神鬼劫案2：偷天換日",
       "神鬼劫案2：偷天換日"
     ],
     "sources": [
@@ -265,32 +367,6 @@
     "original_title": null,
     "year": null
   },
-  "6dbcb4a9a7fe": {
-    "normalized_title": "猛鬼大學:4不瞑目",
-    "raw_titles": [
-      "猛鬼大學：4不瞑目"
-    ],
-    "sources": [
-      "ambassador.com.tw",
-      "luxcinema.com.tw"
-    ],
-    "director": "薩利尼克姆查拉特, 帕帝邦蘇考, 查空柴普里查, 塔穆亞塔薩納努庫爾基",
-    "original_title": "Haunted Universities",
-    "year": 2026
-  },
-  "3e79e14ce35a": {
-    "normalized_title": "5秒生成完美犯罪",
-    "raw_titles": [
-      "5秒生成完美犯罪"
-    ],
-    "sources": [
-      "ambassador.com.tw",
-      "wonderful.movie.com.tw"
-    ],
-    "director": "岡田道尚",
-    "original_title": null,
-    "year": 2026
-  },
   "3460c1a0fdc5": {
     "normalized_title": "特種快遞",
     "raw_titles": [
@@ -317,71 +393,6 @@
     "original_title": null,
     "year": 2026
   },
-  "0a9c6277b5cf": {
-    "normalized_title": "Perfume \"Cold Sleep\" -25 years Document-",
-    "raw_titles": [
-      "Perfume \"Cold Sleep\" -25 years Document-"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "佐渡岳利",
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1603232
-  },
-  "5ac843829dfa": {
-    "normalized_title": "親愛的星上人",
-    "raw_titles": [
-      "親愛的星上人"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "Kid Koala",
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1404169
-  },
-  "97d6dfefec0d": {
-    "normalized_title": "劇場版 鋼之鍊金術師 香巴拉的征服者",
-    "raw_titles": [
-      "劇場版 鋼之鍊金術師 香巴拉的征服者"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "水島精二",
-    "original_title": null,
-    "year": 2005,
-    "tmdb_id": 14003
-  },
-  "9be95946c546": {
-    "normalized_title": "成人童話",
-    "raw_titles": [
-      "成人童話"
-    ],
-    "sources": [
-      "ambassador.com.tw",
-      "luxcinema.com.tw"
-    ],
-    "director": "《極智對決》李鍾錫",
-    "original_title": "Forbidden Fairytale",
-    "year": 2026
-  },
-  "443f0eb55a2f": {
-    "normalized_title": "超異能快感:魔法之書",
-    "raw_titles": [
-      "超異能快感：魔法之書"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "Susanne Bier",
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1302904
-  },
   "377764c6ecb1": {
     "normalized_title": "驀然回首",
     "raw_titles": [
@@ -396,19 +407,6 @@
     "director": "是枝裕和",
     "original_title": "LOOK BACK",
     "year": 2026
-  },
-  "8dde6f04230c": {
-    "normalized_title": "怎麼可能我家的祖先是你家的鬼",
-    "raw_titles": [
-      "怎麼可能我家的祖先是你家的鬼"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "蘇達",
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1193673
   },
   "eef7c2e7af93": {
     "normalized_title": "劇場版 魔法少女小圓〈瓦爾普吉斯的迴天〉",
@@ -475,6 +473,19 @@
     "original_title": "The Rope Curse 4",
     "year": 2026
   },
+  "74397369239c": {
+    "normalized_title": "愛你致死不渝",
+    "raw_titles": [
+      "愛你致死不渝"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "柯瑞·巴克",
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 1339713
+  },
   "8203b3ac343e": {
     "normalized_title": "奧德賽",
     "raw_titles": [
@@ -527,23 +538,11 @@
     "year": 2026,
     "tmdb_id": 1732733
   },
-  "74397369239c": {
-    "normalized_title": "愛你致死不渝",
-    "raw_titles": [
-      "愛你致死不渝"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "柯瑞·巴克",
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1339713
-  },
   "de5e13d74f88": {
     "normalized_title": "電影蠟筆小新:奇奇怪怪!我的妖怪假期",
     "raw_titles": [
       "電影蠟筆小新：奇奇怪怪！我的妖怪假期",
+      "(國語)電影蠟筆小新：奇奇怪怪！我的妖怪假期",
       "(日語)電影蠟筆小新：奇奇怪怪！我的妖怪假期"
     ],
     "sources": [
@@ -552,18 +551,6 @@
     ],
     "director": "渡邊正樹",
     "original_title": "Crayon Shinchan the Movie：Spooky! My Yokai Vacation",
-    "year": 2026
-  },
-  "d1fd8cb944e0": {
-    "normalized_title": "被偷走的情歌",
-    "raw_titles": [
-      "被偷走的情歌"
-    ],
-    "sources": [
-      "wonderful.movie.com.tw"
-    ],
-    "director": "約翰卡尼",
-    "original_title": null,
     "year": 2026
   },
   "5821c5ca7bfe": {
@@ -578,15 +565,15 @@
     "original_title": null,
     "year": 2026
   },
-  "df575d9b4df9": {
-    "normalized_title": "盜墓奇美拉",
+  "3e79e14ce35a": {
+    "normalized_title": "5秒生成完美犯罪",
     "raw_titles": [
-      "盜墓奇美拉"
+      "5秒生成完美犯罪"
     ],
     "sources": [
       "wonderful.movie.com.tw"
     ],
-    "director": "艾莉絲羅爾瓦雀",
+    "director": "岡田道尚",
     "original_title": null,
     "year": 2026
   },
@@ -746,16 +733,28 @@
     "original_title": "Sound! Euphonium, The Final Movie Part 1",
     "year": 2026
   },
-  "74d91b339ead": {
-    "normalized_title": "LOVE ≠ COMEDY",
+  "9be95946c546": {
+    "normalized_title": "成人童話",
     "raw_titles": [
-      "LOVE ≠ COMEDY"
+      "成人童話"
     ],
     "sources": [
       "luxcinema.com.tw"
     ],
-    "director": "《她很漂亮》(TV)紙谷楓",
-    "original_title": "LOVE ≠ COMEDY",
+    "director": "《極智對決》李鍾錫",
+    "original_title": "Forbidden Fairytale",
+    "year": 2026
+  },
+  "6dbcb4a9a7fe": {
+    "normalized_title": "猛鬼大學:4不瞑目",
+    "raw_titles": [
+      "猛鬼大學：4不瞑目"
+    ],
+    "sources": [
+      "luxcinema.com.tw"
+    ],
+    "director": "薩利尼克姆查拉特, 帕帝邦蘇考, 查空柴普里查, 塔穆亞塔薩納努庫爾基",
+    "original_title": "Haunted Universities",
     "year": 2026
   }
 }
