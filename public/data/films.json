@@ -51,7 +51,7 @@
     ],
     "director": "Rob Savage",
     "original_title": null,
-    "year": 2023,
+    "year": 2026,
     "tmdb_id": 1400837
   },
   "756ea6d55545": {
@@ -61,11 +61,10 @@
     ],
     "sources": [
       "ambassador.com.tw",
-      "wonderful.movie.com.tw",
-      "luxcinema.com.tw"
+      "wonderful.movie.com.tw"
     ],
     "director": "阿利安卓崗札雷伊納利圖",
-    "original_title": "Digger",
+    "original_title": null,
     "year": 2026
   },
   "a277c4867245": {
@@ -160,6 +159,19 @@
     "year": 2026,
     "tmdb_id": 1283515
   },
+  "c82bd44247b2": {
+    "normalized_title": "獨裁大明星",
+    "raw_titles": [
+      "獨裁大明星"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "塔里克·沙利赫",
+    "original_title": null,
+    "year": 2025,
+    "tmdb_id": 1220566
+  },
   "6aac3b071342": {
     "normalized_title": "拾荒法師",
     "raw_titles": [
@@ -207,9 +219,10 @@
     "sources": [
       "ambassador.com.tw"
     ],
-    "director": null,
+    "director": "Trương Dũng",
     "original_title": null,
-    "year": null
+    "year": 2025,
+    "tmdb_id": 1558497
   },
   "177294a73f3f": {
     "normalized_title": "與畢諾許共舞",
