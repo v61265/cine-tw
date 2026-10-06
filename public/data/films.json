@@ -1,18 +1,4 @@
 {
-  "fc2607b05346": {
-    "normalized_title": "懺悔",
-    "raw_titles": [
-      "懺悔"
-    ],
-    "sources": [
-      "spot.org.tw",
-      "ambassador.com.tw",
-      "wonderful.movie.com.tw"
-    ],
-    "director": "中島哲也 NAKASHIMA Tetsuya",
-    "original_title": "The Brightest Sun",
-    "year": 2025
-  },
   "7742cb9ea519": {
     "normalized_title": "黑牢城",
     "raw_titles": [
@@ -39,6 +25,19 @@
     "director": "尚馬克瓦利 Jean-Marc Vallee",
     "original_title": "Cafe de Flore",
     "year": 2011
+  },
+  "b1017873cdda": {
+    "normalized_title": "紐約藝術家的性與愛",
+    "raw_titles": [
+      "紐約藝術家的性與愛"
+    ],
+    "sources": [
+      "spot.org.tw",
+      "ambassador.com.tw"
+    ],
+    "director": "路奇歐卡斯楚 Lucio Castro",
+    "original_title": "Drunken Noodles",
+    "year": 2025
   },
   "ac001c4683ae": {
     "normalized_title": "另一個媽咪",
@@ -131,19 +130,6 @@
     "original_title": null,
     "year": 2026,
     "tmdb_id": 1122573
-  },
-  "b1017873cdda": {
-    "normalized_title": "紐約藝術家的性與愛",
-    "raw_titles": [
-      "紐約藝術家的性與愛"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "Lucio Castro",
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1462889
   },
   "cd3db976eec7": {
     "normalized_title": "不存在的罪人",
@@ -402,6 +388,19 @@
       "wonderful.movie.com.tw"
     ],
     "director": "馬提亞斯姆萊庫茲",
+    "original_title": null,
+    "year": 2026
+  },
+  "fc2607b05346": {
+    "normalized_title": "懺悔",
+    "raw_titles": [
+      "懺悔"
+    ],
+    "sources": [
+      "ambassador.com.tw",
+      "wonderful.movie.com.tw"
+    ],
+    "director": "中島哲也",
     "original_title": null,
     "year": 2026
   },
