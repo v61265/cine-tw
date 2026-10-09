@@ -224,19 +224,6 @@
     "original_title": "Digger",
     "year": 2026
   },
-  "177294a73f3f": {
-    "normalized_title": "與畢諾許共舞",
-    "raw_titles": [
-      "與畢諾許共舞"
-    ],
-    "sources": [
-      "ambassador.com.tw",
-      "wonderful.movie.com.tw"
-    ],
-    "director": "茱麗葉畢諾許",
-    "original_title": null,
-    "year": 2026
-  },
   "3181959bda8b": {
     "normalized_title": "神鬼劫案2:偷天換日",
     "raw_titles": [
@@ -363,7 +350,7 @@
     "sources": [
       "ambassador.com.tw"
     ],
-    "director": "Joe Russo",
+    "director": "Anthony Russo",
     "original_title": null,
     "year": 2019,
     "tmdb_id": 299534
@@ -434,19 +421,6 @@
     "original_title": null,
     "year": 2026,
     "tmdb_id": 822653
-  },
-  "70daa6a56d65": {
-    "normalized_title": "希望:末日血戰",
-    "raw_titles": [
-      "希望：末日血戰"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "나홍진",
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1058424
   },
   "c3956763b92d": {
     "normalized_title": "開放性邀請",
@@ -561,6 +535,18 @@
       "wonderful.movie.com.tw"
     ],
     "director": "相米慎二",
+    "original_title": null,
+    "year": 2026
+  },
+  "177294a73f3f": {
+    "normalized_title": "與畢諾許共舞",
+    "raw_titles": [
+      "與畢諾許共舞"
+    ],
+    "sources": [
+      "wonderful.movie.com.tw"
+    ],
+    "director": "茱麗葉畢諾許",
     "original_title": null,
     "year": 2026
   },
