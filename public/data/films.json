@@ -41,6 +41,19 @@
     "original_title": "Drunken Noodles",
     "year": 2025
   },
+  "1743962b4041": {
+    "normalized_title": "快打旋風",
+    "raw_titles": [
+      "快打旋風"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "櫻井北尾",
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 1153576
+  },
   "b301267ccc67": {
     "normalized_title": "角落小夥伴電影版:從天而降的雲之冒險",
     "raw_titles": [
@@ -66,6 +79,20 @@
     "original_title": null,
     "year": 2026,
     "tmdb_id": 1400837
+  },
+  "756ea6d55545": {
+    "normalized_title": "挖掘者",
+    "raw_titles": [
+      "挖掘者"
+    ],
+    "sources": [
+      "ambassador.com.tw",
+      "wonderful.movie.com.tw",
+      "luxcinema.com.tw"
+    ],
+    "director": "阿利安卓崗札雷伊納利圖",
+    "original_title": "Digger",
+    "year": 2026
   },
   "53361c35df1d": {
     "normalized_title": "劇場版 吉伊卡哇 人魚島的秘密",
@@ -208,20 +235,6 @@
     ],
     "director": "張勇 Truong Dung",
     "original_title": "The House It Keeps",
-    "year": 2026
-  },
-  "756ea6d55545": {
-    "normalized_title": "挖掘者",
-    "raw_titles": [
-      "挖掘者"
-    ],
-    "sources": [
-      "ambassador.com.tw",
-      "wonderful.movie.com.tw",
-      "luxcinema.com.tw"
-    ],
-    "director": "阿利安卓崗札雷伊納利圖",
-    "original_title": "Digger",
     "year": 2026
   },
   "3181959bda8b": {
@@ -460,6 +473,19 @@
     "director": "廖士涵",
     "original_title": "The Rope Curse 4",
     "year": 2026
+  },
+  "de5e13d74f88": {
+    "normalized_title": "電影蠟筆小新:奇奇怪怪!我的妖怪假期",
+    "raw_titles": [
+      "電影蠟筆小新：奇奇怪怪！我的妖怪假期"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "渡辺正樹",
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 1598766
   },
   "74397369239c": {
     "normalized_title": "愛你致死不渝",
