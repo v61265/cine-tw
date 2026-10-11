@@ -44,6 +44,8 @@
   "1743962b4041": {
     "normalized_title": "快打旋風",
     "raw_titles": [
+      "（DBOX特別場）快打旋風",
+      "（電競特別場）快打旋風",
       "快打旋風"
     ],
     "sources": [
@@ -53,6 +55,19 @@
     "original_title": null,
     "year": 2026,
     "tmdb_id": 1153576
+  },
+  "f60f3db2cd86": {
+    "normalized_title": "進擊的鼓手",
+    "raw_titles": [
+      "（特別場）進擊的鼓手"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "Damien Chazelle",
+    "original_title": null,
+    "year": 2014,
+    "tmdb_id": 244786
   },
   "b301267ccc67": {
     "normalized_title": "角落小夥伴電影版:從天而降的雲之冒險",
