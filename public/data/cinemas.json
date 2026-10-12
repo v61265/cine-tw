@@ -13,13 +13,6 @@
     "address": "桃園市八德區介壽路一段728號",
     "city": "桃園市"
   },
-  "ambassador-84b87b82-b936-4a39-b91f-e88328d33b4e": {
-    "name": "國賓大戲院",
-    "chain": "ambassador",
-    "is_indie": false,
-    "address": "台北市成都路88號",
-    "city": "台北市"
-  },
   "ambassador-f760950a-94b6-4e04-9573-831ed7283c5c": {
     "name": "高雄草衙道國賓影城",
     "chain": "ambassador",
@@ -32,6 +25,13 @@
     "chain": "ambassador",
     "is_indie": false,
     "address": "台北市中山區長春路176號",
+    "city": "台北市"
+  },
+  "ambassador-84b87b82-b936-4a39-b91f-e88328d33b4e": {
+    "name": "國賓大戲院",
+    "chain": "ambassador",
+    "is_indie": false,
+    "address": "台北市成都路88號",
     "city": "台北市"
   },
   "ambassador-9383c5fa-b4f3-4ba8-ba7a-c25c7df95fd0": {
