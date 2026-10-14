@@ -27,13 +27,6 @@
     "address": "台北市中山區長春路176號",
     "city": "台北市"
   },
-  "ambassador-84b87b82-b936-4a39-b91f-e88328d33b4e": {
-    "name": "國賓大戲院",
-    "chain": "ambassador",
-    "is_indie": false,
-    "address": "台北市成都路88號",
-    "city": "台北市"
-  },
   "ambassador-9383c5fa-b4f3-4ba8-ba7a-c25c7df95fd0": {
     "name": "林口昕境國賓影城",
     "chain": "ambassador",
@@ -68,6 +61,13 @@
     "is_indie": false,
     "address": "屏東市仁愛路90號6樓",
     "city": "屏東市"
+  },
+  "ambassador-84b87b82-b936-4a39-b91f-e88328d33b4e": {
+    "name": "國賓大戲院",
+    "chain": "ambassador",
+    "is_indie": false,
+    "address": "台北市成都路88號",
+    "city": "台北市"
   },
   "wonderful-taipei": {
     "name": "真善美劇院（台北）",
