@@ -66,46 +66,8 @@
     ],
     "director": "櫻井北尾",
     "original_title": null,
-    "year": 2023,
-    "tmdb_id": 1153576
-  },
-  "8d3eddf56c59": {
-    "normalized_title": "逃出鯨吞",
-    "raw_titles": [
-      "逃出鯨吞"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "Brian Duffield",
-    "original_title": null,
     "year": 2026,
-    "tmdb_id": 1255833
-  },
-  "afa618657865": {
-    "normalized_title": "高年級實習生.",
-    "raw_titles": [
-      "高年級實習生."
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "Nancy Meyers",
-    "original_title": null,
-    "year": 2015,
-    "tmdb_id": 257211
-  },
-  "4bc9f60144a6": {
-    "normalized_title": "進擊的鼓手 4K重映",
-    "raw_titles": [
-      "進擊的鼓手  4K重映"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": null,
-    "original_title": null,
-    "year": null
+    "tmdb_id": 1153576
   },
   "f60f3db2cd86": {
     "normalized_title": "進擊的鼓手",
@@ -121,17 +83,17 @@
     "original_title": null,
     "year": 2026
   },
-  "d5394313c49b": {
-    "normalized_title": "宛如星辰的你",
+  "8d3eddf56c59": {
+    "normalized_title": "逃出鯨吞",
     "raw_titles": [
-      "宛如星辰的你"
+      "逃出鯨吞"
     ],
     "sources": [
       "ambassador.com.tw",
-      "wonderful.movie.com.tw"
+      "luxcinema.com.tw"
     ],
-    "director": "藤井道人",
-    "original_title": null,
+    "director": "布萊恩杜菲爾德",
+    "original_title": "Whalefall",
     "year": 2026
   },
   "80a53c39a2dc": {
@@ -147,18 +109,173 @@
     "original_title": null,
     "year": 2026
   },
+  "1c7363a5ead3": {
+    "normalized_title": "跳越時空的愛戀特別版",
+    "raw_titles": [
+      "跳越時空的愛戀特別版"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": null,
+    "original_title": null,
+    "year": null
+  },
+  "4bc9f60144a6": {
+    "normalized_title": "進擊的鼓手 4K重映",
+    "raw_titles": [
+      "進擊的鼓手  4K重映"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": null,
+    "original_title": null,
+    "year": null
+  },
+  "242c21eecf41": {
+    "normalized_title": "紐約攝影師的日與夜",
+    "raw_titles": [
+      "紐約攝影師的日與夜"
+    ],
+    "sources": [
+      "ambassador.com.tw",
+      "wonderful.movie.com.tw"
+    ],
+    "director": "艾拉薩克斯（Ira Sachs）",
+    "original_title": null,
+    "year": 2026
+  },
+  "afa618657865": {
+    "normalized_title": "高年級實習生.",
+    "raw_titles": [
+      "高年級實習生."
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "Nancy Meyers",
+    "original_title": null,
+    "year": 2015,
+    "tmdb_id": 257211
+  },
+  "b578f298bdf7": {
+    "normalized_title": "鼠一般的你",
+    "raw_titles": [
+      "鼠一般的你"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "真壁幸紀",
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 1370545
+  },
+  "d5394313c49b": {
+    "normalized_title": "宛如星辰的你",
+    "raw_titles": [
+      "宛如星辰的你"
+    ],
+    "sources": [
+      "ambassador.com.tw",
+      "wonderful.movie.com.tw",
+      "luxcinema.com.tw"
+    ],
+    "director": "藤井道人",
+    "original_title": "You, Like a Star",
+    "year": 2026
+  },
+  "957052adeeb5": {
+    "normalized_title": "麵包超人電影版:潘坦與約定之星",
+    "raw_titles": [
+      "麵包超人電影版：潘坦與約定之星"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "矢野博之",
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 1729116
+  },
   "79357e826455": {
     "normalized_title": "駭速劫案",
     "raw_titles": [
       "駭速劫案"
     ],
     "sources": [
+      "ambassador.com.tw",
+      "luxcinema.com.tw"
+    ],
+    "director": "《81號檔案》(TV) 雷貝嘉湯瑪斯",
+    "original_title": "Wardriver",
+    "year": 2026
+  },
+  "8203b3ac343e": {
+    "normalized_title": "奧德賽",
+    "raw_titles": [
+      "奧德賽"
+    ],
+    "sources": [
       "ambassador.com.tw"
     ],
-    "director": "Rebecca Thomas",
+    "director": "克里斯多夫·諾蘭",
     "original_title": null,
     "year": 2026,
-    "tmdb_id": 938150
+    "tmdb_id": 1368337
+  },
+  "91276bb5cec3": {
+    "normalized_title": "超拖樂團之我要幹大事啦!",
+    "raw_titles": [
+      "超拖樂團之我要幹大事啦！"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "Matt Johnson",
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 1154538
+  },
+  "9875a1945541": {
+    "normalized_title": "蜘蛛人:重生日",
+    "raw_titles": [
+      "蜘蛛人：重生日"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "德斯汀·丹尼爾·克雷頓",
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 969681
+  },
+  "0a5aacb9a2b3": {
+    "normalized_title": "汪汪隊立大功:恐龍大電影",
+    "raw_titles": [
+      "汪汪隊立大功：恐龍大電影"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "Cal Brunker",
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 1185806
+  },
+  "073d457102a9": {
+    "normalized_title": "終戰那一天",
+    "raw_titles": [
+      "終戰那一天"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "Maxine Lu",
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 1732733
   },
   "e5de2d02658a": {
     "normalized_title": "劇場版 鋼之鍊金術師 嘆息之丘的聖星",
@@ -269,12 +386,12 @@
       "金劫任務"
     ],
     "sources": [
-      "ambassador.com.tw"
+      "ambassador.com.tw",
+      "luxcinema.com.tw"
     ],
-    "director": "蓋·瑞奇",
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1122573
+    "director": "《玩命鈔劫》蓋瑞奇",
+    "original_title": "In the Grey",
+    "year": 2026
   },
   "756ea6d55545": {
     "normalized_title": "挖掘者",
@@ -283,10 +400,11 @@
     ],
     "sources": [
       "ambassador.com.tw",
-      "wonderful.movie.com.tw"
+      "wonderful.movie.com.tw",
+      "luxcinema.com.tw"
     ],
     "director": "阿利安卓崗札雷伊納利圖",
-    "original_title": null,
+    "original_title": "Digger",
     "year": 2026
   },
   "3181959bda8b": {
@@ -348,12 +466,12 @@
       "人吶，為什麼要跑步？"
     ],
     "sources": [
-      "ambassador.com.tw",
-      "wonderful.movie.com.tw"
+      "ambassador.com.tw"
     ],
     "director": "林修齊",
     "original_title": null,
-    "year": 2026
+    "year": 2026,
+    "tmdb_id": 1758564
   },
   "15dd651a4e2d": {
     "normalized_title": "反對普丁的無名先生",
@@ -490,12 +608,12 @@
       "懺悔"
     ],
     "sources": [
-      "ambassador.com.tw",
-      "wonderful.movie.com.tw"
+      "ambassador.com.tw"
     ],
     "director": "中島哲也",
     "original_title": null,
-    "year": 2026
+    "year": 2026,
+    "tmdb_id": 1410587
   },
   "650a1ea2e6ff": {
     "normalized_title": "惡靈古堡:爆發夜",
@@ -518,10 +636,9 @@
     ],
     "sources": [
       "ambassador.com.tw",
-      "wonderful.movie.com.tw",
       "luxcinema.com.tw"
     ],
-    "director": "是枝裕和",
+    "director": "《怪物》是枝裕和",
     "original_title": "LOOK BACK",
     "year": 2026
   },
@@ -603,32 +720,6 @@
     "year": 2026,
     "tmdb_id": 1339713
   },
-  "8203b3ac343e": {
-    "normalized_title": "奧德賽",
-    "raw_titles": [
-      "奧德賽"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "克里斯多夫·諾蘭",
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1368337
-  },
-  "9875a1945541": {
-    "normalized_title": "蜘蛛人:重生日",
-    "raw_titles": [
-      "蜘蛛人：重生日"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "德斯汀·丹尼爾·克雷頓",
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 969681
-  },
   "5821c5ca7bfe": {
     "normalized_title": "颱風俱樂部4K修復版",
     "raw_titles": [
@@ -641,18 +732,6 @@
     "original_title": null,
     "year": 2026
   },
-  "177294a73f3f": {
-    "normalized_title": "與畢諾許共舞",
-    "raw_titles": [
-      "與畢諾許共舞"
-    ],
-    "sources": [
-      "wonderful.movie.com.tw"
-    ],
-    "director": "茱麗葉畢諾許",
-    "original_title": null,
-    "year": 2026
-  },
   "d5935da42a74": {
     "normalized_title": "一個人旅行",
     "raw_titles": [
@@ -662,18 +741,6 @@
       "wonderful.movie.com.tw"
     ],
     "director": "石橋夕帆",
-    "original_title": null,
-    "year": 2026
-  },
-  "242c21eecf41": {
-    "normalized_title": "紐約攝影師的日與夜",
-    "raw_titles": [
-      "紐約攝影師的日與夜"
-    ],
-    "sources": [
-      "wonderful.movie.com.tw"
-    ],
-    "director": "艾拉薩克斯（Ira Sachs）",
     "original_title": null,
     "year": 2026
   },
@@ -700,6 +767,18 @@
     "director": "貝拉塔爾 Béla TARR",
     "original_title": null,
     "year": 1994
+  },
+  "b387b6d7f86c": {
+    "normalized_title": "特別放映|比如父子",
+    "raw_titles": [
+      "特別放映｜比如父子 My Father's Son（10/18 現場免費索票與放映）"
+    ],
+    "sources": [
+      "kfa.kcg.gov.tw"
+    ],
+    "director": "仇晟 QIU Sheng",
+    "original_title": null,
+    "year": 2025
   },
   "9d147f4ed76f": {
     "normalized_title": "她復出的那天",
@@ -760,18 +839,6 @@
     "director": "佛森歐茲派特 Ferzan ÖZPETEK",
     "original_title": null,
     "year": 2024
-  },
-  "3fe4bedee7c4": {
-    "normalized_title": "在世界的盡頭相遇",
-    "raw_titles": [
-      "在世界的盡頭相遇 Meets the World"
-    ],
-    "sources": [
-      "kfa.kcg.gov.tw"
-    ],
-    "director": "松居大悟 MATSUI Daigo",
-    "original_title": null,
-    "year": 2025
   },
   "a71b75bf352c": {
     "normalized_title": "世界末日愛上你",
@@ -843,6 +910,18 @@
     ],
     "director": "薩利尼克姆查拉特, 帕帝邦蘇考, 查空柴普里查, 塔穆亞塔薩納努庫爾基",
     "original_title": "Haunted Universities",
+    "year": 2026
+  },
+  "f8b908814d7f": {
+    "normalized_title": "高年級實習生",
+    "raw_titles": [
+      "高年級實習生"
+    ],
+    "sources": [
+      "luxcinema.com.tw"
+    ],
+    "director": "《82年生的金智英》金到映",
+    "original_title": "The Intern",
     "year": 2026
   }
 }
