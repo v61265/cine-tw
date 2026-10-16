@@ -5,9 +5,7 @@
       "黑牢城"
     ],
     "sources": [
-      "spot.org.tw",
-      "ambassador.com.tw",
-      "wonderful.movie.com.tw"
+      "spot.org.tw"
     ],
     "director": "黑澤清 KUROSAWA Kiyoshi",
     "original_title": "The Samurai And The Prisoner",
@@ -19,8 +17,7 @@
       "花神咖啡館"
     ],
     "sources": [
-      "spot.org.tw",
-      "wonderful.movie.com.tw"
+      "spot.org.tw"
     ],
     "director": "尚馬克瓦利 Jean-Marc Vallee",
     "original_title": "Cafe de Flore",
@@ -33,7 +30,6 @@
     ],
     "sources": [
       "spot.org.tw",
-      "ambassador.com.tw",
       "wonderful.movie.com.tw"
     ],
     "director": "路奇歐卡斯楚 Lucio Castro",
@@ -68,6 +64,19 @@
     "original_title": null,
     "year": 2026,
     "tmdb_id": 1153576
+  },
+  "cea22efb829d": {
+    "normalized_title": "泥面人",
+    "raw_titles": [
+      "泥面人"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "James Watkins",
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 1400940
   },
   "f60f3db2cd86": {
     "normalized_title": "進擊的鼓手",
@@ -212,71 +221,6 @@
     "original_title": "Wardriver",
     "year": 2026
   },
-  "8203b3ac343e": {
-    "normalized_title": "奧德賽",
-    "raw_titles": [
-      "奧德賽"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "克里斯多夫·諾蘭",
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1368337
-  },
-  "91276bb5cec3": {
-    "normalized_title": "超拖樂團之我要幹大事啦!",
-    "raw_titles": [
-      "超拖樂團之我要幹大事啦！"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "Matt Johnson",
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1154538
-  },
-  "9875a1945541": {
-    "normalized_title": "蜘蛛人:重生日",
-    "raw_titles": [
-      "蜘蛛人：重生日"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "德斯汀·丹尼爾·克雷頓",
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 969681
-  },
-  "0a5aacb9a2b3": {
-    "normalized_title": "汪汪隊立大功:恐龍大電影",
-    "raw_titles": [
-      "汪汪隊立大功：恐龍大電影"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "Cal Brunker",
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1185806
-  },
-  "073d457102a9": {
-    "normalized_title": "終戰那一天",
-    "raw_titles": [
-      "終戰那一天"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "Maxine Lu",
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1732733
-  },
   "e5de2d02658a": {
     "normalized_title": "劇場版 鋼之鍊金術師 嘆息之丘的聖星",
     "raw_titles": [
@@ -327,32 +271,6 @@
     "director": "麥可休瓦特",
     "original_title": null,
     "year": 2026
-  },
-  "c82bd44247b2": {
-    "normalized_title": "獨裁大明星",
-    "raw_titles": [
-      "獨裁大明星"
-    ],
-    "sources": [
-      "ambassador.com.tw",
-      "wonderful.movie.com.tw"
-    ],
-    "director": "塔利克薩利赫",
-    "original_title": null,
-    "year": 2026
-  },
-  "6aac3b071342": {
-    "normalized_title": "拾荒法師",
-    "raw_titles": [
-      "拾荒法師"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "彭發",
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1386467
   },
   "7a4c79795bee": {
     "normalized_title": "驚天劫機",
@@ -406,72 +324,6 @@
     "director": "阿利安卓崗札雷伊納利圖",
     "original_title": "Digger",
     "year": 2026
-  },
-  "3181959bda8b": {
-    "normalized_title": "神鬼劫案2:偷天換日",
-    "raw_titles": [
-      "神鬼劫案2：偷天換日"
-    ],
-    "sources": [
-      "ambassador.com.tw",
-      "luxcinema.com.tw"
-    ],
-    "director": "《神鬼劫案：瞞天過海》藍道爾艾米特",
-    "original_title": "The Gentleman Thief",
-    "year": 2026
-  },
-  "1e9fb048a272": {
-    "normalized_title": "我們不是什麼",
-    "raw_titles": [
-      "我們不是什麼"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "邱禮濤",
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1509632
-  },
-  "faf61e042631": {
-    "normalized_title": "鬼6咒",
-    "raw_titles": [
-      "鬼６咒",
-      "鬼6咒"
-    ],
-    "sources": [
-      "ambassador.com.tw",
-      "luxcinema.com.tw"
-    ],
-    "director": "邢瑟佑,高熙燮, 李相玟,宣宗勳,孫敏俊, 金承泰",
-    "original_title": "App The Horror",
-    "year": 2026
-  },
-  "4220e61dca3d": {
-    "normalized_title": "遠離祖靈的孩子",
-    "raw_titles": [
-      "遠離祖靈的孩子"
-    ],
-    "sources": [
-      "ambassador.com.tw",
-      "wonderful.movie.com.tw"
-    ],
-    "director": "黃開璟",
-    "original_title": null,
-    "year": 2026
-  },
-  "a501b5656f89": {
-    "normalized_title": "人吶,為什麼要跑步?",
-    "raw_titles": [
-      "人吶，為什麼要跑步？"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "林修齊",
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1758564
   },
   "15dd651a4e2d": {
     "normalized_title": "反對普丁的無名先生",
@@ -544,12 +396,12 @@
       "實境誘捕"
     ],
     "sources": [
-      "ambassador.com.tw",
-      "wonderful.movie.com.tw"
+      "ambassador.com.tw"
     ],
-    "director": "蘭斯奧本海姆",
+    "director": "Lance Oppenheim",
     "original_title": null,
-    "year": 2026
+    "year": 2026,
+    "tmdb_id": 1375441
   },
   "80d23007b656": {
     "normalized_title": "青春電幻物語:數位修復版.",
@@ -562,45 +414,6 @@
     "director": null,
     "original_title": null,
     "year": null
-  },
-  "35c1dedea3eb": {
-    "normalized_title": "復仇者聯盟:終局之戰 加碼重映",
-    "raw_titles": [
-      "復仇者聯盟：終局之戰 加碼重映"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "Joe Russo",
-    "original_title": null,
-    "year": 2019,
-    "tmdb_id": 299534
-  },
-  "3460c1a0fdc5": {
-    "normalized_title": "特種快遞",
-    "raw_titles": [
-      "特種快遞"
-    ],
-    "sources": [
-      "ambassador.com.tw",
-      "luxcinema.com.tw"
-    ],
-    "director": "《浴血任務4》史考特沃爾",
-    "original_title": "Runner",
-    "year": 2026
-  },
-  "7f1f070b20ac": {
-    "normalized_title": "最後的單車上路",
-    "raw_titles": [
-      "最後的單車上路"
-    ],
-    "sources": [
-      "ambassador.com.tw",
-      "wonderful.movie.com.tw"
-    ],
-    "director": "馬提亞斯姆萊庫茲",
-    "original_title": null,
-    "year": 2026
   },
   "fc2607b05346": {
     "normalized_title": "懺悔",
@@ -642,18 +455,57 @@
     "original_title": "LOOK BACK",
     "year": 2026
   },
-  "eef7c2e7af93": {
-    "normalized_title": "劇場版 魔法少女小圓〈瓦爾普吉斯的迴天〉",
+  "8203b3ac343e": {
+    "normalized_title": "奧德賽",
     "raw_titles": [
-      "劇場版 魔法少女小圓〈瓦爾普吉斯的迴天〉"
+      "奧德賽"
     ],
     "sources": [
       "ambassador.com.tw"
     ],
-    "director": "宮本幸裕",
+    "director": "克里斯多夫·諾蘭",
     "original_title": null,
     "year": 2026,
-    "tmdb_id": 822653
+    "tmdb_id": 1368337
+  },
+  "9875a1945541": {
+    "normalized_title": "蜘蛛人:重生日",
+    "raw_titles": [
+      "蜘蛛人：重生日"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "德斯汀·丹尼爾·克雷頓",
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 969681
+  },
+  "0a5aacb9a2b3": {
+    "normalized_title": "汪汪隊立大功:恐龍大電影",
+    "raw_titles": [
+      "汪汪隊立大功：恐龍大電影"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "Cal Brunker",
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 1185806
+  },
+  "073d457102a9": {
+    "normalized_title": "終戰那一天",
+    "raw_titles": [
+      "終戰那一天"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "Maxine Lu",
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 1732733
   },
   "c3956763b92d": {
     "normalized_title": "開放性邀請",
@@ -668,58 +520,6 @@
     "year": 2026,
     "tmdb_id": 950028
   },
-  "31cf6619f5a3": {
-    "normalized_title": "網紅老爸",
-    "raw_titles": [
-      "網紅老爸"
-    ],
-    "sources": [
-      "ambassador.com.tw",
-      "luxcinema.com.tw"
-    ],
-    "director": "范揚仲",
-    "original_title": "Pa Pa Go",
-    "year": 2026
-  },
-  "5ddb00025b4a": {
-    "normalized_title": "粽邪4:坤蒂拉娜",
-    "raw_titles": [
-      "粽邪4：坤蒂拉娜"
-    ],
-    "sources": [
-      "ambassador.com.tw",
-      "luxcinema.com.tw"
-    ],
-    "director": "廖士涵",
-    "original_title": "The Rope Curse 4",
-    "year": 2026
-  },
-  "de5e13d74f88": {
-    "normalized_title": "電影蠟筆小新:奇奇怪怪!我的妖怪假期",
-    "raw_titles": [
-      "電影蠟筆小新：奇奇怪怪！我的妖怪假期"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "渡辺正樹",
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1598766
-  },
-  "74397369239c": {
-    "normalized_title": "愛你致死不渝",
-    "raw_titles": [
-      "愛你致死不渝"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "柯瑞·巴克",
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1339713
-  },
   "5821c5ca7bfe": {
     "normalized_title": "颱風俱樂部4K修復版",
     "raw_titles": [
@@ -732,6 +532,18 @@
     "original_title": null,
     "year": 2026
   },
+  "4220e61dca3d": {
+    "normalized_title": "遠離祖靈的孩子",
+    "raw_titles": [
+      "遠離祖靈的孩子"
+    ],
+    "sources": [
+      "wonderful.movie.com.tw"
+    ],
+    "director": "黃開璟",
+    "original_title": null,
+    "year": 2026
+  },
   "d5935da42a74": {
     "normalized_title": "一個人旅行",
     "raw_titles": [
@@ -741,6 +553,18 @@
       "wonderful.movie.com.tw"
     ],
     "director": "石橋夕帆",
+    "original_title": null,
+    "year": 2026
+  },
+  "c82bd44247b2": {
+    "normalized_title": "獨裁大明星",
+    "raw_titles": [
+      "獨裁大明星"
+    ],
+    "sources": [
+      "wonderful.movie.com.tw"
+    ],
+    "director": "塔利克薩利赫",
     "original_title": null,
     "year": 2026
   },
@@ -864,28 +688,16 @@
     "original_title": null,
     "year": 2026
   },
-  "01d3ae9cfe76": {
-    "normalized_title": "墜2",
+  "3460c1a0fdc5": {
+    "normalized_title": "特種快遞",
     "raw_titles": [
-      "墜2"
+      "特種快遞"
     ],
     "sources": [
       "luxcinema.com.tw"
     ],
-    "director": "《超時空攔截》麥可斯派瑞格、《超時空攔截》彼得斯派瑞格",
-    "original_title": "Fall 2",
-    "year": 2026
-  },
-  "90a41e262fed": {
-    "normalized_title": "復仇者聯盟:終局之戰",
-    "raw_titles": [
-      "復仇者聯盟：終局之戰(加碼重映)"
-    ],
-    "sources": [
-      "luxcinema.com.tw"
-    ],
-    "director": "安東尼魯索(Anthony Russo) 、 喬羅素(Joe Russo)",
-    "original_title": "Avengers: Endgame(Re-Release)",
+    "director": "《浴血任務4》史考特沃爾",
+    "original_title": "Runner",
     "year": 2026
   },
   "9be95946c546": {
@@ -900,16 +712,28 @@
     "original_title": "Forbidden Fairytale",
     "year": 2026
   },
-  "6dbcb4a9a7fe": {
-    "normalized_title": "猛鬼大學:4不瞑目",
+  "faf61e042631": {
+    "normalized_title": "鬼6咒",
     "raw_titles": [
-      "猛鬼大學：4不瞑目"
+      "鬼6咒"
     ],
     "sources": [
       "luxcinema.com.tw"
     ],
-    "director": "薩利尼克姆查拉特, 帕帝邦蘇考, 查空柴普里查, 塔穆亞塔薩納努庫爾基",
-    "original_title": "Haunted Universities",
+    "director": "邢瑟佑,高熙燮, 李相玟,宣宗勳,孫敏俊, 金承泰",
+    "original_title": "App The Horror",
+    "year": 2026
+  },
+  "3181959bda8b": {
+    "normalized_title": "神鬼劫案2:偷天換日",
+    "raw_titles": [
+      "神鬼劫案2：偷天換日"
+    ],
+    "sources": [
+      "luxcinema.com.tw"
+    ],
+    "director": "《神鬼劫案：瞞天過海》藍道爾艾米特",
+    "original_title": "The Gentleman Thief",
     "year": 2026
   },
   "f8b908814d7f": {
