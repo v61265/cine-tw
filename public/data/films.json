@@ -50,11 +50,23 @@
     "original_title": "Virginia Woolf's Night and Day",
     "year": 2026
   },
+  "cd1a8ea08abd": {
+    "normalized_title": "太空百合戰鬥姬",
+    "raw_titles": [
+      "（特別場）太空百合戰鬥姬"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "Leela Varghese",
+    "original_title": null,
+    "year": 2025,
+    "tmdb_id": 1333141
+  },
   "1743962b4041": {
     "normalized_title": "快打旋風",
     "raw_titles": [
       "（DBOX特別場）快打旋風",
-      "（電競特別場）快打旋風",
       "快打旋風"
     ],
     "sources": [
@@ -318,11 +330,10 @@
     ],
     "sources": [
       "ambassador.com.tw",
-      "wonderful.movie.com.tw",
-      "luxcinema.com.tw"
+      "wonderful.movie.com.tw"
     ],
     "director": "阿利安卓崗札雷伊納利圖",
-    "original_title": "Digger",
+    "original_title": null,
     "year": 2026
   },
   "15dd651a4e2d": {
@@ -710,18 +721,6 @@
     ],
     "director": "《極智對決》李鍾錫",
     "original_title": "Forbidden Fairytale",
-    "year": 2026
-  },
-  "faf61e042631": {
-    "normalized_title": "鬼6咒",
-    "raw_titles": [
-      "鬼6咒"
-    ],
-    "sources": [
-      "luxcinema.com.tw"
-    ],
-    "director": "邢瑟佑,高熙燮, 李相玟,宣宗勳,孫敏俊, 金承泰",
-    "original_title": "App The Horror",
     "year": 2026
   },
   "3181959bda8b": {
