@@ -1,16 +1,4 @@
 {
-  "7742cb9ea519": {
-    "normalized_title": "黑牢城",
-    "raw_titles": [
-      "黑牢城"
-    ],
-    "sources": [
-      "spot.org.tw"
-    ],
-    "director": "黑澤清 KUROSAWA Kiyoshi",
-    "original_title": "The Samurai And The Prisoner",
-    "year": 2026
-  },
   "a06b03034b5b": {
     "normalized_title": "花神咖啡館",
     "raw_titles": [
@@ -50,6 +38,19 @@
     "original_title": "Virginia Woolf's Night and Day",
     "year": 2026
   },
+  "2245b5b16798": {
+    "normalized_title": "麥特與麥斯",
+    "raw_titles": [
+      "（特別場）麥特與麥斯"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "Xavier Dolan",
+    "original_title": null,
+    "year": 2019,
+    "tmdb_id": 519141
+  },
   "cd1a8ea08abd": {
     "normalized_title": "太空百合戰鬥姬",
     "raw_titles": [
@@ -66,7 +67,6 @@
   "1743962b4041": {
     "normalized_title": "快打旋風",
     "raw_titles": [
-      "（DBOX特別場）快打旋風",
       "快打旋風"
     ],
     "sources": [
@@ -89,20 +89,6 @@
     "original_title": null,
     "year": 2026,
     "tmdb_id": 1400940
-  },
-  "f60f3db2cd86": {
-    "normalized_title": "進擊的鼓手",
-    "raw_titles": [
-      "（特別場）進擊的鼓手",
-      "進擊的鼓手(4K重映)"
-    ],
-    "sources": [
-      "ambassador.com.tw",
-      "wonderful.movie.com.tw"
-    ],
-    "director": "達米恩查澤雷 Damien Chazelle",
-    "original_title": null,
-    "year": 2026
   },
   "8d3eddf56c59": {
     "normalized_title": "逃出鯨吞",
@@ -330,24 +316,12 @@
     ],
     "sources": [
       "ambassador.com.tw",
-      "wonderful.movie.com.tw"
+      "wonderful.movie.com.tw",
+      "luxcinema.com.tw"
     ],
     "director": "阿利安卓崗札雷伊納利圖",
-    "original_title": null,
+    "original_title": "Digger",
     "year": 2026
-  },
-  "15dd651a4e2d": {
-    "normalized_title": "反對普丁的無名先生",
-    "raw_titles": [
-      "反對普丁的無名先生"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "David Borenstein",
-    "original_title": null,
-    "year": 2025,
-    "tmdb_id": 1393151
   },
   "945ec5e9f5db": {
     "normalized_title": "復活男",
@@ -479,19 +453,6 @@
     "year": 2026,
     "tmdb_id": 1368337
   },
-  "9875a1945541": {
-    "normalized_title": "蜘蛛人:重生日",
-    "raw_titles": [
-      "蜘蛛人：重生日"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "德斯汀·丹尼爾·克雷頓",
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 969681
-  },
   "0a5aacb9a2b3": {
     "normalized_title": "汪汪隊立大功:恐龍大電影",
     "raw_titles": [
@@ -576,6 +537,18 @@
       "wonderful.movie.com.tw"
     ],
     "director": "塔利克薩利赫",
+    "original_title": null,
+    "year": 2026
+  },
+  "f60f3db2cd86": {
+    "normalized_title": "進擊的鼓手",
+    "raw_titles": [
+      "進擊的鼓手(4K重映)"
+    ],
+    "sources": [
+      "wonderful.movie.com.tw"
+    ],
+    "director": "達米恩查澤雷 Damien Chazelle",
     "original_title": null,
     "year": 2026
   },
@@ -721,6 +694,18 @@
     ],
     "director": "《極智對決》李鍾錫",
     "original_title": "Forbidden Fairytale",
+    "year": 2026
+  },
+  "faf61e042631": {
+    "normalized_title": "鬼6咒",
+    "raw_titles": [
+      "鬼6咒"
+    ],
+    "sources": [
+      "luxcinema.com.tw"
+    ],
+    "director": "邢瑟佑,高熙燮, 李相玟,宣宗勳,孫敏俊, 金承泰",
+    "original_title": "App The Horror",
     "year": 2026
   },
   "3181959bda8b": {
