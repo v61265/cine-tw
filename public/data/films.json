@@ -38,6 +38,18 @@
     "original_title": "Virginia Woolf's Night and Day",
     "year": 2026
   },
+  "efa5738201ed": {
+    "normalized_title": "蕭邦!蕭邦!",
+    "raw_titles": [
+      "蕭邦！蕭邦！"
+    ],
+    "sources": [
+      "spot.org.tw"
+    ],
+    "director": "米哈烏克維欽斯基 Michał KWIECIŃSKI",
+    "original_title": "CHOPIN, CHOPIN!",
+    "year": 2025
+  },
   "2245b5b16798": {
     "normalized_title": "麥特與麥斯",
     "raw_titles": [
@@ -83,12 +95,12 @@
       "泥面人"
     ],
     "sources": [
-      "ambassador.com.tw"
+      "ambassador.com.tw",
+      "luxcinema.com.tw"
     ],
-    "director": "James Watkins",
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1400940
+    "director": "詹姆士瓦金斯",
+    "original_title": "Clayface",
+    "year": 2026
   },
   "8d3eddf56c59": {
     "normalized_title": "逃出鯨吞",
@@ -491,30 +503,6 @@
     "original_title": null,
     "year": 2026,
     "tmdb_id": 950028
-  },
-  "5821c5ca7bfe": {
-    "normalized_title": "颱風俱樂部4K修復版",
-    "raw_titles": [
-      "颱風俱樂部4K修復版"
-    ],
-    "sources": [
-      "wonderful.movie.com.tw"
-    ],
-    "director": "相米慎二",
-    "original_title": null,
-    "year": 2026
-  },
-  "4220e61dca3d": {
-    "normalized_title": "遠離祖靈的孩子",
-    "raw_titles": [
-      "遠離祖靈的孩子"
-    ],
-    "sources": [
-      "wonderful.movie.com.tw"
-    ],
-    "director": "黃開璟",
-    "original_title": null,
-    "year": 2026
   },
   "d5935da42a74": {
     "normalized_title": "一個人旅行",
