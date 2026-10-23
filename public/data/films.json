@@ -74,7 +74,7 @@
     "sources": [
       "ambassador.com.tw"
     ],
-    "director": "Emma Hough Hobbs",
+    "director": "Leela Varghese",
     "original_title": null,
     "year": 2025,
     "tmdb_id": 1333141
@@ -99,12 +99,12 @@
       "泥面人"
     ],
     "sources": [
-      "ambassador.com.tw",
-      "luxcinema.com.tw"
+      "ambassador.com.tw"
     ],
-    "director": "詹姆士瓦金斯",
-    "original_title": "Clayface",
-    "year": 2026
+    "director": "James Watkins",
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 1400940
   },
   "1743962b4041": {
     "normalized_title": "快打旋風",
@@ -118,6 +118,19 @@
     "original_title": null,
     "year": 2026,
     "tmdb_id": 1153576
+  },
+  "22bb158c4023": {
+    "normalized_title": "消失的金鳳娜",
+    "raw_titles": [
+      "消失的金鳳娜"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "謝庭菡",
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 1481451
   },
   "029fef000be7": {
     "normalized_title": "社群清算",
@@ -138,12 +151,12 @@
       "活命水特弓隊"
     ],
     "sources": [
-      "ambassador.com.tw",
-      "luxcinema.com.tw"
+      "ambassador.com.tw"
     ],
-    "director": "《極速引爆》金昌柱",
-    "original_title": "Amazon Bullseye",
-    "year": 2026
+    "director": "김창주",
+    "original_title": null,
+    "year": 2024,
+    "tmdb_id": 1148558
   },
   "bd905e974a51": {
     "normalized_title": "蒙克聲音拼貼",
@@ -174,16 +187,15 @@
   "35fb989347d9": {
     "normalized_title": "煙囪小鎮的普佩2:約定的鐘樓",
     "raw_titles": [
-      "煙囪小鎮的普佩2：約定的鐘樓",
-      "(國語)煙囪小鎮的普佩2：約定的鐘樓"
+      "煙囪小鎮的普佩2：約定的鐘樓"
     ],
     "sources": [
-      "ambassador.com.tw",
-      "luxcinema.com.tw"
+      "ambassador.com.tw"
     ],
-    "director": "《煙囪小鎮的普佩》廣田裕介",
-    "original_title": "Chimey Town: Frozen in Time",
-    "year": 2026
+    "director": "廣田裕介",
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 1464639
   },
   "9891feb111f6": {
     "normalized_title": "加速世界 劇場版",
@@ -204,12 +216,12 @@
       "樂園的孩子"
     ],
     "sources": [
-      "ambassador.com.tw",
-      "luxcinema.com.tw"
+      "ambassador.com.tw"
     ],
     "director": "延尚昊",
-    "original_title": "Paradise Lost",
-    "year": 2026
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 1584855
   },
   "214657120f91": {
     "normalized_title": "鬼降靈",
@@ -243,12 +255,12 @@
       "逃出鯨吞"
     ],
     "sources": [
-      "ambassador.com.tw",
-      "luxcinema.com.tw"
+      "ambassador.com.tw"
     ],
-    "director": "布萊恩杜菲爾德",
-    "original_title": "Whalefall",
-    "year": 2026
+    "director": "Brian Duffield",
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 1255833
   },
   "80a53c39a2dc": {
     "normalized_title": "沙央",
@@ -287,19 +299,6 @@
     "original_title": null,
     "year": null
   },
-  "242c21eecf41": {
-    "normalized_title": "紐約攝影師的日與夜",
-    "raw_titles": [
-      "紐約攝影師的日與夜"
-    ],
-    "sources": [
-      "ambassador.com.tw",
-      "wonderful.movie.com.tw"
-    ],
-    "director": "艾拉薩克斯（Ira Sachs）",
-    "original_title": null,
-    "year": 2026
-  },
   "afa618657865": {
     "normalized_title": "高年級實習生.",
     "raw_titles": [
@@ -333,11 +332,10 @@
     ],
     "sources": [
       "ambassador.com.tw",
-      "wonderful.movie.com.tw",
-      "luxcinema.com.tw"
+      "wonderful.movie.com.tw"
     ],
     "director": "藤井道人",
-    "original_title": "You, Like a Star",
+    "original_title": null,
     "year": 2026
   },
   "957052adeeb5": {
@@ -359,12 +357,12 @@
       "駭速劫案"
     ],
     "sources": [
-      "ambassador.com.tw",
-      "luxcinema.com.tw"
+      "ambassador.com.tw"
     ],
-    "director": "《81號檔案》(TV) 雷貝嘉湯瑪斯",
-    "original_title": "Wardriver",
-    "year": 2026
+    "director": "Rebecca Thomas",
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 938150
   },
   "e5de2d02658a": {
     "normalized_title": "劇場版 鋼之鍊金術師 嘆息之丘的聖星",
@@ -430,32 +428,6 @@
     "year": 2025,
     "tmdb_id": 1479953
   },
-  "a275940d7e24": {
-    "normalized_title": "鬼入室",
-    "raw_titles": [
-      "鬼入室"
-    ],
-    "sources": [
-      "ambassador.com.tw",
-      "luxcinema.com.tw"
-    ],
-    "director": "張勇 Truong Dung",
-    "original_title": "The House It Keeps",
-    "year": 2026
-  },
-  "4bcebc93147a": {
-    "normalized_title": "金劫任務",
-    "raw_titles": [
-      "金劫任務"
-    ],
-    "sources": [
-      "ambassador.com.tw",
-      "luxcinema.com.tw"
-    ],
-    "director": "《玩命鈔劫》蓋瑞奇",
-    "original_title": "In the Grey",
-    "year": 2026
-  },
   "756ea6d55545": {
     "normalized_title": "挖掘者",
     "raw_titles": [
@@ -468,19 +440,6 @@
     "director": "阿利安卓崗札雷伊納利圖",
     "original_title": null,
     "year": 2026
-  },
-  "945ec5e9f5db": {
-    "normalized_title": "復活男",
-    "raw_titles": [
-      "復活男"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "백종열",
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 961214
   },
   "53361c35df1d": {
     "normalized_title": "劇場版 吉伊卡哇 人魚島的秘密",
@@ -546,19 +505,6 @@
     "original_title": null,
     "year": null
   },
-  "fc2607b05346": {
-    "normalized_title": "懺悔",
-    "raw_titles": [
-      "懺悔"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "中島哲也",
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1410587
-  },
   "650a1ea2e6ff": {
     "normalized_title": "惡靈古堡:爆發夜",
     "raw_titles": [
@@ -575,29 +521,15 @@
   "377764c6ecb1": {
     "normalized_title": "驀然回首",
     "raw_titles": [
-      "驀然回首（真人版）",
-      "驀然回首"
-    ],
-    "sources": [
-      "ambassador.com.tw",
-      "luxcinema.com.tw"
-    ],
-    "director": "《怪物》是枝裕和",
-    "original_title": "LOOK BACK",
-    "year": 2026
-  },
-  "8203b3ac343e": {
-    "normalized_title": "奧德賽",
-    "raw_titles": [
-      "奧德賽"
+      "驀然回首（真人版）"
     ],
     "sources": [
       "ambassador.com.tw"
     ],
-    "director": "克里斯多夫·諾蘭",
+    "director": "押山清高",
     "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1368337
+    "year": 2024,
+    "tmdb_id": 1244492
   },
   "9875a1945541": {
     "normalized_title": "蜘蛛人:重生日",
@@ -625,32 +557,6 @@
     "year": 2026,
     "tmdb_id": 1185806
   },
-  "073d457102a9": {
-    "normalized_title": "終戰那一天",
-    "raw_titles": [
-      "終戰那一天"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "Maxine Lu",
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1732733
-  },
-  "c3956763b92d": {
-    "normalized_title": "開放性邀請",
-    "raw_titles": [
-      "開放性邀請"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "奧莉薇亞·魏爾德",
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 950028
-  },
   "d5935da42a74": {
     "normalized_title": "一個人旅行",
     "raw_titles": [
@@ -672,6 +578,18 @@
       "wonderful.movie.com.tw"
     ],
     "director": "塔利克薩利赫",
+    "original_title": null,
+    "year": 2026
+  },
+  "242c21eecf41": {
+    "normalized_title": "紐約攝影師的日與夜",
+    "raw_titles": [
+      "紐約攝影師的日與夜"
+    ],
+    "sources": [
+      "wonderful.movie.com.tw"
+    ],
+    "director": "艾拉薩克斯（Ira Sachs）",
     "original_title": null,
     "year": 2026
   },
@@ -805,54 +723,6 @@
     ],
     "director": "長久允 NAGAHISA Makoto",
     "original_title": null,
-    "year": 2026
-  },
-  "3460c1a0fdc5": {
-    "normalized_title": "特種快遞",
-    "raw_titles": [
-      "特種快遞"
-    ],
-    "sources": [
-      "luxcinema.com.tw"
-    ],
-    "director": "《浴血任務4》史考特沃爾",
-    "original_title": "Runner",
-    "year": 2026
-  },
-  "9be95946c546": {
-    "normalized_title": "成人童話",
-    "raw_titles": [
-      "成人童話"
-    ],
-    "sources": [
-      "luxcinema.com.tw"
-    ],
-    "director": "《極智對決》李鍾錫",
-    "original_title": "Forbidden Fairytale",
-    "year": 2026
-  },
-  "3181959bda8b": {
-    "normalized_title": "神鬼劫案2:偷天換日",
-    "raw_titles": [
-      "神鬼劫案2：偷天換日"
-    ],
-    "sources": [
-      "luxcinema.com.tw"
-    ],
-    "director": "《神鬼劫案：瞞天過海》藍道爾艾米特",
-    "original_title": "The Gentleman Thief",
-    "year": 2026
-  },
-  "f8b908814d7f": {
-    "normalized_title": "高年級實習生",
-    "raw_titles": [
-      "高年級實習生"
-    ],
-    "sources": [
-      "luxcinema.com.tw"
-    ],
-    "director": "《82年生的金智英》金到映",
-    "original_title": "The Intern",
     "year": 2026
   }
 }

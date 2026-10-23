@@ -82,12 +82,5 @@
     "is_indie": true,
     "address": null,
     "city": "高雄市"
-  },
-  "lux-cinema": {
-    "name": "樂聲影城",
-    "chain": null,
-    "is_indie": true,
-    "address": null,
-    "city": "台北市"
   }
 }
