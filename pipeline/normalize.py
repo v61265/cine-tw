@@ -41,6 +41,7 @@ SOURCE_FILES = [
     "wonderful_taipei_screenings.json",
     "kaohsiung_film_archive_screenings.json",
     "lux_cinema_screenings.json",
+    "tfai_screenings.json",
 ]
 
 # Single-location indie cinemas don't carry an address field from their

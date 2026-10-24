@@ -28,7 +28,7 @@ jobs:
         # already skips any source file that didn't get produced.
         run: |
           mkdir -p data
-          for scraper in spot_taipei ambassador wonderful_taipei kaohsiung_film_archive lux_cinema; do
+          for scraper in spot_taipei ambassador wonderful_taipei kaohsiung_film_archive lux_cinema tfai_opendata; do
             echo "::group::$scraper"
             python3 scrapers/$scraper.py || echo "$scraper FAILED, continuing"
             echo "::endgroup::"
