@@ -26968,5 +26968,555 @@
     "booking_url": "https://ticket.com.tw/application/UTK02/UTK0201_.aspx?PRODUCT_ID=P1EBP6V0",
     "booking_platform": "ticket.com.tw",
     "source": "kfa.kcg.gov.tw"
+  },
+  {
+    "film_id": "cbe59a45efc2",
+    "cinema_id": "tfai-xinzhuang",
+    "datetime_start": "2026-10-31T14:00:00",
+    "format_raw": null,
+    "language": null,
+    "booking_url": "https://www.opentix.life/program/2095360473036955648",
+    "booking_platform": "opentix",
+    "source": "cloud.culture.tw"
+  },
+  {
+    "film_id": "72e5a16ca363",
+    "cinema_id": "tfai-xinzhuang",
+    "datetime_start": "2026-11-08T19:30:00",
+    "format_raw": null,
+    "language": null,
+    "booking_url": "https://www.opentix.life/program/2095360944500580353",
+    "booking_platform": "opentix",
+    "source": "cloud.culture.tw"
+  },
+  {
+    "film_id": "c57542137a94",
+    "cinema_id": "tfai-xinzhuang",
+    "datetime_start": "2026-11-14T17:00:00",
+    "format_raw": null,
+    "language": null,
+    "booking_url": "https://www.opentix.life/program/2095361606066839553",
+    "booking_platform": "opentix",
+    "source": "cloud.culture.tw"
+  },
+  {
+    "film_id": "d1b5df78f88a",
+    "cinema_id": "tfai-xinzhuang",
+    "datetime_start": "2026-11-07T16:00:00",
+    "format_raw": null,
+    "language": null,
+    "booking_url": "https://www.opentix.life/program/2095392638782611457",
+    "booking_platform": "opentix",
+    "source": "cloud.culture.tw"
+  },
+  {
+    "film_id": "d1b5df78f88a",
+    "cinema_id": "tfai-xinzhuang",
+    "datetime_start": "2026-11-22T16:20:00",
+    "format_raw": null,
+    "language": null,
+    "booking_url": "https://www.opentix.life/program/2095392638782611457",
+    "booking_platform": "opentix",
+    "source": "cloud.culture.tw"
+  },
+  {
+    "film_id": "5a53038e6558",
+    "cinema_id": "tfai-xinzhuang",
+    "datetime_start": "2026-10-31T18:40:00",
+    "format_raw": null,
+    "language": null,
+    "booking_url": "https://www.opentix.life/program/2095393173567381505",
+    "booking_platform": "opentix",
+    "source": "cloud.culture.tw"
+  },
+  {
+    "film_id": "ba989e9c598e",
+    "cinema_id": "tfai-xinzhuang",
+    "datetime_start": "2026-11-01T14:10:00",
+    "format_raw": null,
+    "language": null,
+    "booking_url": "https://www.opentix.life/program/2095393645000335360",
+    "booking_platform": "opentix",
+    "source": "cloud.culture.tw"
+  },
+  {
+    "film_id": "6d5a996c3fe5",
+    "cinema_id": "tfai-xinzhuang",
+    "datetime_start": "2026-10-25T18:00:00",
+    "format_raw": null,
+    "language": null,
+    "booking_url": "https://www.opentix.life/program/2095394246953787392",
+    "booking_platform": "opentix",
+    "source": "cloud.culture.tw"
+  },
+  {
+    "film_id": "9610a4beecb1",
+    "cinema_id": "tfai-xinzhuang",
+    "datetime_start": "2026-11-01T17:40:00",
+    "format_raw": null,
+    "language": null,
+    "booking_url": "https://www.opentix.life/program/2095394872812838913",
+    "booking_platform": "opentix",
+    "source": "cloud.culture.tw"
+  },
+  {
+    "film_id": "58ad46d65bed",
+    "cinema_id": "tfai-xinzhuang",
+    "datetime_start": "2026-11-15T14:40:00",
+    "format_raw": null,
+    "language": null,
+    "booking_url": "https://www.opentix.life/program/2095395251191881729",
+    "booking_platform": "opentix",
+    "source": "cloud.culture.tw"
+  },
+  {
+    "film_id": "2c738e2b9dba",
+    "cinema_id": "tfai-xinzhuang",
+    "datetime_start": "2026-11-22T19:10:00",
+    "format_raw": null,
+    "language": null,
+    "booking_url": "https://www.opentix.life/program/2095395856831422465",
+    "booking_platform": "opentix",
+    "source": "cloud.culture.tw"
+  },
+  {
+    "film_id": "e373f60a470c",
+    "cinema_id": "tfai-xinzhuang",
+    "datetime_start": "2026-11-14T14:30:00",
+    "format_raw": null,
+    "language": null,
+    "booking_url": "https://www.opentix.life/program/2095398035209003008",
+    "booking_platform": "opentix",
+    "source": "cloud.culture.tw"
+  },
+  {
+    "film_id": "e373f60a470c",
+    "cinema_id": "tfai-xinzhuang",
+    "datetime_start": "2026-11-29T19:30:00",
+    "format_raw": null,
+    "language": null,
+    "booking_url": "https://www.opentix.life/program/2095398035209003008",
+    "booking_platform": "opentix",
+    "source": "cloud.culture.tw"
+  },
+  {
+    "film_id": "6fe1e8d05c78",
+    "cinema_id": "tfai-xinzhuang",
+    "datetime_start": "2026-11-29T14:10:00",
+    "format_raw": null,
+    "language": null,
+    "booking_url": "https://www.opentix.life/program/2095399623928782849",
+    "booking_platform": "opentix",
+    "source": "cloud.culture.tw"
+  },
+  {
+    "film_id": "d43b24564cb2",
+    "cinema_id": "tfai-xinzhuang",
+    "datetime_start": "2026-10-31T16:30:00",
+    "format_raw": null,
+    "language": null,
+    "booking_url": "https://www.opentix.life/program/2095400281441558529",
+    "booking_platform": "opentix",
+    "source": "cloud.culture.tw"
+  },
+  {
+    "film_id": "7c81ac0a23e4",
+    "cinema_id": "tfai-xinzhuang",
+    "datetime_start": "2026-11-07T13:50:00",
+    "format_raw": null,
+    "language": null,
+    "booking_url": "https://www.opentix.life/program/2095400807418765313",
+    "booking_platform": "opentix",
+    "source": "cloud.culture.tw"
+  },
+  {
+    "film_id": "7c81ac0a23e4",
+    "cinema_id": "tfai-xinzhuang",
+    "datetime_start": "2026-11-29T17:00:00",
+    "format_raw": null,
+    "language": null,
+    "booking_url": "https://www.opentix.life/program/2095400807418765313",
+    "booking_platform": "opentix",
+    "source": "cloud.culture.tw"
+  },
+  {
+    "film_id": "a120083f5622",
+    "cinema_id": "tfai-xinzhuang",
+    "datetime_start": "2026-10-25T15:10:00",
+    "format_raw": null,
+    "language": null,
+    "booking_url": "https://www.opentix.life/program/2095401287767031808",
+    "booking_platform": "opentix",
+    "source": "cloud.culture.tw"
+  },
+  {
+    "film_id": "aee373f25e7d",
+    "cinema_id": "tfai-xinzhuang",
+    "datetime_start": "2026-11-07T18:20:00",
+    "format_raw": null,
+    "language": null,
+    "booking_url": "https://www.opentix.life/program/2095402846518976512",
+    "booking_platform": "opentix",
+    "source": "cloud.culture.tw"
+  },
+  {
+    "film_id": "aee373f25e7d",
+    "cinema_id": "tfai-xinzhuang",
+    "datetime_start": "2026-11-28T15:00:00",
+    "format_raw": null,
+    "language": null,
+    "booking_url": "https://www.opentix.life/program/2095402846518976512",
+    "booking_platform": "opentix",
+    "source": "cloud.culture.tw"
+  },
+  {
+    "film_id": "deb21f24d723",
+    "cinema_id": "tfai-xinzhuang",
+    "datetime_start": "2026-11-14T19:10:00",
+    "format_raw": null,
+    "language": null,
+    "booking_url": "https://www.opentix.life/program/2095403433166110720",
+    "booking_platform": "opentix",
+    "source": "cloud.culture.tw"
+  },
+  {
+    "film_id": "deb21f24d723",
+    "cinema_id": "tfai-xinzhuang",
+    "datetime_start": "2026-11-21T19:20:00",
+    "format_raw": null,
+    "language": null,
+    "booking_url": "https://www.opentix.life/program/2095403433166110720",
+    "booking_platform": "opentix",
+    "source": "cloud.culture.tw"
+  },
+  {
+    "film_id": "495bb091747c",
+    "cinema_id": "tfai-xinzhuang",
+    "datetime_start": "2026-11-08T14:00:00",
+    "format_raw": null,
+    "language": null,
+    "booking_url": "https://www.opentix.life/program/2095404040986763265",
+    "booking_platform": "opentix",
+    "source": "cloud.culture.tw"
+  },
+  {
+    "film_id": "495bb091747c",
+    "cinema_id": "tfai-xinzhuang",
+    "datetime_start": "2026-11-21T19:30:00",
+    "format_raw": null,
+    "language": null,
+    "booking_url": "https://www.opentix.life/program/2095404040986763265",
+    "booking_platform": "opentix",
+    "source": "cloud.culture.tw"
+  },
+  {
+    "film_id": "3ca5de5a8329",
+    "cinema_id": "tfai-xinzhuang",
+    "datetime_start": "2026-11-08T16:20:00",
+    "format_raw": null,
+    "language": null,
+    "booking_url": "https://www.opentix.life/program/2095404943889080321",
+    "booking_platform": "opentix",
+    "source": "cloud.culture.tw"
+  },
+  {
+    "film_id": "3ca5de5a8329",
+    "cinema_id": "tfai-xinzhuang",
+    "datetime_start": "2026-11-14T19:35:00",
+    "format_raw": null,
+    "language": null,
+    "booking_url": "https://www.opentix.life/program/2095404943889080321",
+    "booking_platform": "opentix",
+    "source": "cloud.culture.tw"
+  },
+  {
+    "film_id": "b584e139dba3",
+    "cinema_id": "tfai-xinzhuang",
+    "datetime_start": "2026-11-15T16:50:00",
+    "format_raw": null,
+    "language": null,
+    "booking_url": "https://www.opentix.life/program/2095414820673495041",
+    "booking_platform": "opentix",
+    "source": "cloud.culture.tw"
+  },
+  {
+    "film_id": "b584e139dba3",
+    "cinema_id": "tfai-xinzhuang",
+    "datetime_start": "2026-11-21T17:10:00",
+    "format_raw": null,
+    "language": null,
+    "booking_url": "https://www.opentix.life/program/2095414820673495041",
+    "booking_platform": "opentix",
+    "source": "cloud.culture.tw"
+  },
+  {
+    "film_id": "c140a32bcb9c",
+    "cinema_id": "tfai-xinzhuang",
+    "datetime_start": "2026-11-15T19:20:00",
+    "format_raw": null,
+    "language": null,
+    "booking_url": "https://www.opentix.life/program/2095422073648439297",
+    "booking_platform": "opentix",
+    "source": "cloud.culture.tw"
+  },
+  {
+    "film_id": "c140a32bcb9c",
+    "cinema_id": "tfai-xinzhuang",
+    "datetime_start": "2026-11-21T14:30:00",
+    "format_raw": null,
+    "language": null,
+    "booking_url": "https://www.opentix.life/program/2095422073648439297",
+    "booking_platform": "opentix",
+    "source": "cloud.culture.tw"
+  },
+  {
+    "film_id": "1f9f16164df4",
+    "cinema_id": "tfai-xinzhuang",
+    "datetime_start": "2026-10-31T18:30:00",
+    "format_raw": null,
+    "language": null,
+    "booking_url": "https://www.opentix.life/program/2095725816302608385",
+    "booking_platform": "opentix",
+    "source": "cloud.culture.tw"
+  },
+  {
+    "film_id": "1f9f16164df4",
+    "cinema_id": "tfai-xinzhuang",
+    "datetime_start": "2026-11-08T16:30:00",
+    "format_raw": null,
+    "language": null,
+    "booking_url": "https://www.opentix.life/program/2095725816302608385",
+    "booking_platform": "opentix",
+    "source": "cloud.culture.tw"
+  },
+  {
+    "film_id": "774e8b9ea2a8",
+    "cinema_id": "tfai-xinzhuang",
+    "datetime_start": "2026-10-25T15:00:00",
+    "format_raw": null,
+    "language": null,
+    "booking_url": "https://www.opentix.life/program/2095726555267670017",
+    "booking_platform": "opentix",
+    "source": "cloud.culture.tw"
+  },
+  {
+    "film_id": "774e8b9ea2a8",
+    "cinema_id": "tfai-xinzhuang",
+    "datetime_start": "2026-11-14T17:10:00",
+    "format_raw": null,
+    "language": null,
+    "booking_url": "https://www.opentix.life/program/2095726555267670017",
+    "booking_platform": "opentix",
+    "source": "cloud.culture.tw"
+  },
+  {
+    "film_id": "774e8b9ea2a8",
+    "cinema_id": "tfai-xinzhuang",
+    "datetime_start": "2026-11-21T15:50:00",
+    "format_raw": null,
+    "language": null,
+    "booking_url": "https://www.opentix.life/program/2095726555267670017",
+    "booking_platform": "opentix",
+    "source": "cloud.culture.tw"
+  },
+  {
+    "film_id": "c4e7dad25073",
+    "cinema_id": "tfai-xinzhuang",
+    "datetime_start": "2026-11-01T14:00:00",
+    "format_raw": null,
+    "language": null,
+    "booking_url": "https://www.opentix.life/program/2095727457596678145",
+    "booking_platform": "opentix",
+    "source": "cloud.culture.tw"
+  },
+  {
+    "film_id": "c4e7dad25073",
+    "cinema_id": "tfai-xinzhuang",
+    "datetime_start": "2026-11-07T14:00:00",
+    "format_raw": null,
+    "language": null,
+    "booking_url": "https://www.opentix.life/program/2095727457596678145",
+    "booking_platform": "opentix",
+    "source": "cloud.culture.tw"
+  },
+  {
+    "film_id": "c4e7dad25073",
+    "cinema_id": "tfai-xinzhuang",
+    "datetime_start": "2026-11-15T16:40:00",
+    "format_raw": null,
+    "language": null,
+    "booking_url": "https://www.opentix.life/program/2095727457596678145",
+    "booking_platform": "opentix",
+    "source": "cloud.culture.tw"
+  },
+  {
+    "film_id": "ebfa1b7ceb0f",
+    "cinema_id": "tfai-xinzhuang",
+    "datetime_start": "2026-10-25T12:20:00",
+    "format_raw": null,
+    "language": null,
+    "booking_url": "https://www.opentix.life/program/2095728014641479681",
+    "booking_platform": "opentix",
+    "source": "cloud.culture.tw"
+  },
+  {
+    "film_id": "ebfa1b7ceb0f",
+    "cinema_id": "tfai-xinzhuang",
+    "datetime_start": "2026-11-28T19:10:00",
+    "format_raw": null,
+    "language": null,
+    "booking_url": "https://www.opentix.life/program/2095728014641479681",
+    "booking_platform": "opentix",
+    "source": "cloud.culture.tw"
+  },
+  {
+    "film_id": "c5acbefa2bc4",
+    "cinema_id": "tfai-xinzhuang",
+    "datetime_start": "2026-10-25T18:10:00",
+    "format_raw": null,
+    "language": null,
+    "booking_url": "https://www.opentix.life/program/2097144730492481537",
+    "booking_platform": "opentix",
+    "source": "cloud.culture.tw"
+  },
+  {
+    "film_id": "c5acbefa2bc4",
+    "cinema_id": "tfai-xinzhuang",
+    "datetime_start": "2026-11-01T18:30:00",
+    "format_raw": null,
+    "language": null,
+    "booking_url": "https://www.opentix.life/program/2097144730492481537",
+    "booking_platform": "opentix",
+    "source": "cloud.culture.tw"
+  },
+  {
+    "film_id": "f0603e1d2ac7",
+    "cinema_id": "tfai-xinzhuang",
+    "datetime_start": "2026-11-08T13:50:00",
+    "format_raw": null,
+    "language": null,
+    "booking_url": "https://www.opentix.life/program/2097148519143628801",
+    "booking_platform": "opentix",
+    "source": "cloud.culture.tw"
+  },
+  {
+    "film_id": "f0603e1d2ac7",
+    "cinema_id": "tfai-xinzhuang",
+    "datetime_start": "2026-11-15T19:30:00",
+    "format_raw": null,
+    "language": null,
+    "booking_url": "https://www.opentix.life/program/2097148519143628801",
+    "booking_platform": "opentix",
+    "source": "cloud.culture.tw"
+  },
+  {
+    "film_id": "f0603e1d2ac7",
+    "cinema_id": "tfai-xinzhuang",
+    "datetime_start": "2026-11-22T19:00:00",
+    "format_raw": null,
+    "language": null,
+    "booking_url": "https://www.opentix.life/program/2097148519143628801",
+    "booking_platform": "opentix",
+    "source": "cloud.culture.tw"
+  },
+  {
+    "film_id": "f0603e1d2ac7",
+    "cinema_id": "tfai-xinzhuang",
+    "datetime_start": "2026-11-28T18:30:00",
+    "format_raw": null,
+    "language": null,
+    "booking_url": "https://www.opentix.life/program/2097148519143628801",
+    "booking_platform": "opentix",
+    "source": "cloud.culture.tw"
+  },
+  {
+    "film_id": "91d6962e7a2d",
+    "cinema_id": "tfai-xinzhuang",
+    "datetime_start": "2026-11-22T14:00:00",
+    "format_raw": null,
+    "language": null,
+    "booking_url": "https://www.opentix.life/program/2097206460897038337",
+    "booking_platform": "opentix",
+    "source": "cloud.culture.tw"
+  },
+  {
+    "film_id": "e3e5b952aea6",
+    "cinema_id": "tfai-xinzhuang",
+    "datetime_start": "2026-10-25T13:00:00",
+    "format_raw": null,
+    "language": null,
+    "booking_url": "https://www.opentix.life/program/2097563194161696769",
+    "booking_platform": "opentix",
+    "source": "cloud.culture.tw"
+  },
+  {
+    "film_id": "e3e5b952aea6",
+    "cinema_id": "tfai-xinzhuang",
+    "datetime_start": "2026-11-01T16:30:00",
+    "format_raw": null,
+    "language": null,
+    "booking_url": "https://www.opentix.life/program/2097563194161696769",
+    "booking_platform": "opentix",
+    "source": "cloud.culture.tw"
+  },
+  {
+    "film_id": "88d0324a6d8c",
+    "cinema_id": "tfai-xinzhuang",
+    "datetime_start": "2026-10-31T14:30:00",
+    "format_raw": null,
+    "language": null,
+    "booking_url": "https://www.opentix.life/program/2097564172019970048",
+    "booking_platform": "opentix",
+    "source": "cloud.culture.tw"
+  },
+  {
+    "film_id": "6c65b2e0dd1f",
+    "cinema_id": "tfai-xinzhuang",
+    "datetime_start": "2026-11-14T15:00:00",
+    "format_raw": null,
+    "language": null,
+    "booking_url": "https://www.opentix.life/program/2097564883721314305",
+    "booking_platform": "opentix",
+    "source": "cloud.culture.tw"
+  },
+  {
+    "film_id": "6c65b2e0dd1f",
+    "cinema_id": "tfai-xinzhuang",
+    "datetime_start": "2026-11-22T16:10:00",
+    "format_raw": null,
+    "language": null,
+    "booking_url": "https://www.opentix.life/program/2097564883721314305",
+    "booking_platform": "opentix",
+    "source": "cloud.culture.tw"
+  },
+  {
+    "film_id": "173aaeaa9b53",
+    "cinema_id": "tfai-xinzhuang",
+    "datetime_start": "2026-11-15T14:50:00",
+    "format_raw": null,
+    "language": null,
+    "booking_url": "https://www.opentix.life/program/2097565579077521409",
+    "booking_platform": "opentix",
+    "source": "cloud.culture.tw"
+  },
+  {
+    "film_id": "173aaeaa9b53",
+    "cinema_id": "tfai-xinzhuang",
+    "datetime_start": "2026-11-21T14:00:00",
+    "format_raw": null,
+    "language": null,
+    "booking_url": "https://www.opentix.life/program/2097565579077521409",
+    "booking_platform": "opentix",
+    "source": "cloud.culture.tw"
+  },
+  {
+    "film_id": "173aaeaa9b53",
+    "cinema_id": "tfai-xinzhuang",
+    "datetime_start": "2026-11-28T16:30:00",
+    "format_raw": null,
+    "language": null,
+    "booking_url": "https://www.opentix.life/program/2097565579077521409",
+    "booking_platform": "opentix",
+    "source": "cloud.culture.tw"
   }
 ]

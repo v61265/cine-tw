@@ -82,5 +82,12 @@
     "is_indie": true,
     "address": null,
     "city": "高雄市"
+  },
+  "tfai-xinzhuang": {
+    "name": "國家電影及視聽文化中心",
+    "chain": null,
+    "is_indie": true,
+    "address": "新北市新莊區文藝路2號",
+    "city": "新北市"
   }
 }
