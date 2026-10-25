@@ -27,8 +27,7 @@
   "055442cbbbce": {
     "normalized_title": "吳爾芙的夜與日",
     "raw_titles": [
-      "吳爾芙的夜與日",
-      "（海報場）吳爾芙的夜與日"
+      "吳爾芙的夜與日"
     ],
     "sources": [
       "spot.org.tw",
@@ -53,6 +52,19 @@
     "original_title": "CHOPIN, CHOPIN!",
     "year": 2025
   },
+  "c244aa1e219b": {
+    "normalized_title": "讓子彈飛",
+    "raw_titles": [
+      "（特別場）讓子彈飛"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "姜文",
+    "original_title": null,
+    "year": 2010,
+    "tmdb_id": 51533
+  },
   "2245b5b16798": {
     "normalized_title": "麥特與麥斯",
     "raw_titles": [
@@ -65,19 +77,6 @@
     "original_title": null,
     "year": 2019,
     "tmdb_id": 519141
-  },
-  "cd1a8ea08abd": {
-    "normalized_title": "太空百合戰鬥姬",
-    "raw_titles": [
-      "（特別場）太空百合戰鬥姬"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "Leela Varghese",
-    "original_title": null,
-    "year": 2025,
-    "tmdb_id": 1333141
   },
   "ef4d61de7af4": {
     "normalized_title": "Jim Queen:肌情四射",
@@ -491,6 +490,18 @@
     "original_title": null,
     "year": 2026,
     "tmdb_id": 1375441
+  },
+  "80d23007b656": {
+    "normalized_title": "青春電幻物語:數位修復版.",
+    "raw_titles": [
+      "青春電幻物語：數位修復版."
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": null,
+    "original_title": null,
+    "year": null
   },
   "650a1ea2e6ff": {
     "normalized_title": "惡靈古堡:爆發夜",
@@ -974,7 +985,7 @@
     "sources": [
       "cloud.culture.tw"
     ],
-    "director": "Lucien Castaing-Taylor",
+    "director": "Véréna Paravel",
     "original_title": null,
     "year": 2023,
     "tmdb_id": 721232
