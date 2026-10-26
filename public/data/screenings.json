@@ -260,6 +260,26 @@
     "source": "ambassador.com.tw"
   },
   {
+    "film_id": "c244aa1e219b",
+    "cinema_id": "ambassador-8fda9934-73d4-4c14-b1c4-386c2b81045c",
+    "datetime_start": "2026-10-31T13:30:00",
+    "format_raw": "(數位‧中文版)（特別場）讓子彈飛",
+    "language": "中文版",
+    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=8fda9934-73d4-4c14-b1c4-386c2b81045c&DT=2026/10/31",
+    "booking_platform": "self",
+    "source": "ambassador.com.tw"
+  },
+  {
+    "film_id": "c244aa1e219b",
+    "cinema_id": "ambassador-f760950a-94b6-4e04-9573-831ed7283c5c",
+    "datetime_start": "2026-10-31T13:00:00",
+    "format_raw": "(數位‧中文版)（特別場）讓子彈飛",
+    "language": "中文版",
+    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=f760950a-94b6-4e04-9573-831ed7283c5c&DT=2026/10/31",
+    "booking_platform": "self",
+    "source": "ambassador.com.tw"
+  },
+  {
     "film_id": "2245b5b16798",
     "cinema_id": "ambassador-453b2966-f7c2-44a9-b2eb-687493855d0e",
     "datetime_start": "2026-10-25T13:30:00",
@@ -636,6 +656,16 @@
     "format_raw": "(數位‧中文版)Jim Queen：肌情四射",
     "language": "中文版",
     "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=3301d822-b385-4aa8-a9eb-aa59d58e95c9&DT=2026/10/29",
+    "booking_platform": "self",
+    "source": "ambassador.com.tw"
+  },
+  {
+    "film_id": "ef4d61de7af4",
+    "cinema_id": "ambassador-453b2966-f7c2-44a9-b2eb-687493855d0e",
+    "datetime_start": "2026-10-30T19:30:00",
+    "format_raw": "(數位‧法語版)（特別場）Jim Queen：肌情四射",
+    "language": null,
+    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=453b2966-f7c2-44a9-b2eb-687493855d0e&DT=2026/10/30",
     "booking_platform": "self",
     "source": "ambassador.com.tw"
   },
@@ -21642,16 +21672,6 @@
   {
     "film_id": "756ea6d55545",
     "cinema_id": "wonderful-taipei",
-    "datetime_start": "2026-10-25T20:30:00",
-    "format_raw": null,
-    "language": null,
-    "booking_url": "https://www.ezding.com.tw/cinemabooking?cinemaid=f644412efbb811e58858f2128151146f",
-    "booking_platform": "ezding",
-    "source": "wonderful.movie.com.tw"
-  },
-  {
-    "film_id": "756ea6d55545",
-    "cinema_id": "wonderful-taipei",
     "datetime_start": "2026-10-26T20:50:00",
     "format_raw": null,
     "language": null,
@@ -21702,16 +21722,6 @@
   {
     "film_id": "cd3db976eec7",
     "cinema_id": "wonderful-taipei",
-    "datetime_start": "2026-10-25T12:30:00",
-    "format_raw": null,
-    "language": null,
-    "booking_url": "https://www.ezding.com.tw/cinemabooking?cinemaid=f644412efbb811e58858f2128151146f",
-    "booking_platform": "ezding",
-    "source": "wonderful.movie.com.tw"
-  },
-  {
-    "film_id": "cd3db976eec7",
-    "cinema_id": "wonderful-taipei",
     "datetime_start": "2026-10-27T12:30:00",
     "format_raw": null,
     "language": null,
@@ -21733,16 +21743,6 @@
     "film_id": "b1017873cdda",
     "cinema_id": "wonderful-taipei",
     "datetime_start": "2026-10-26T10:30:00",
-    "format_raw": null,
-    "language": null,
-    "booking_url": "https://www.ezding.com.tw/cinemabooking?cinemaid=f644412efbb811e58858f2128151146f",
-    "booking_platform": "ezding",
-    "source": "wonderful.movie.com.tw"
-  },
-  {
-    "film_id": "c82bd44247b2",
-    "cinema_id": "wonderful-taipei",
-    "datetime_start": "2026-10-25T16:50:00",
     "format_raw": null,
     "language": null,
     "booking_url": "https://www.ezding.com.tw/cinemabooking?cinemaid=f644412efbb811e58858f2128151146f",
@@ -21792,16 +21792,6 @@
   {
     "film_id": "80a53c39a2dc",
     "cinema_id": "wonderful-taipei",
-    "datetime_start": "2026-10-25T20:45:00",
-    "format_raw": null,
-    "language": null,
-    "booking_url": "https://www.ezding.com.tw/cinemabooking?cinemaid=f644412efbb811e58858f2128151146f",
-    "booking_platform": "ezding",
-    "source": "wonderful.movie.com.tw"
-  },
-  {
-    "film_id": "80a53c39a2dc",
-    "cinema_id": "wonderful-taipei",
     "datetime_start": "2026-10-26T20:45:00",
     "format_raw": null,
     "language": null,
@@ -21833,16 +21823,6 @@
     "film_id": "80a53c39a2dc",
     "cinema_id": "wonderful-taipei",
     "datetime_start": "2026-10-29T20:45:00",
-    "format_raw": null,
-    "language": null,
-    "booking_url": "https://www.ezding.com.tw/cinemabooking?cinemaid=f644412efbb811e58858f2128151146f",
-    "booking_platform": "ezding",
-    "source": "wonderful.movie.com.tw"
-  },
-  {
-    "film_id": "055442cbbbce",
-    "cinema_id": "wonderful-taipei",
-    "datetime_start": "2026-10-25T15:10:00",
     "format_raw": null,
     "language": null,
     "booking_url": "https://www.ezding.com.tw/cinemabooking?cinemaid=f644412efbb811e58858f2128151146f",
@@ -21892,27 +21872,7 @@
   {
     "film_id": "242c21eecf41",
     "cinema_id": "wonderful-taipei",
-    "datetime_start": "2026-10-25T10:30:00",
-    "format_raw": null,
-    "language": null,
-    "booking_url": "https://www.ezding.com.tw/cinemabooking?cinemaid=f644412efbb811e58858f2128151146f",
-    "booking_platform": "ezding",
-    "source": "wonderful.movie.com.tw"
-  },
-  {
-    "film_id": "242c21eecf41",
-    "cinema_id": "wonderful-taipei",
     "datetime_start": "2026-10-28T10:30:00",
-    "format_raw": null,
-    "language": null,
-    "booking_url": "https://www.ezding.com.tw/cinemabooking?cinemaid=f644412efbb811e58858f2128151146f",
-    "booking_platform": "ezding",
-    "source": "wonderful.movie.com.tw"
-  },
-  {
-    "film_id": "f60f3db2cd86",
-    "cinema_id": "wonderful-taipei",
-    "datetime_start": "2026-10-25T14:30:00",
     "format_raw": null,
     "language": null,
     "booking_url": "https://www.ezding.com.tw/cinemabooking?cinemaid=f644412efbb811e58858f2128151146f",
@@ -21962,16 +21922,6 @@
   {
     "film_id": "d5394313c49b",
     "cinema_id": "wonderful-taipei",
-    "datetime_start": "2026-10-25T16:30:00",
-    "format_raw": null,
-    "language": null,
-    "booking_url": "https://www.ezding.com.tw/cinemabooking?cinemaid=f644412efbb811e58858f2128151146f",
-    "booking_platform": "ezding",
-    "source": "wonderful.movie.com.tw"
-  },
-  {
-    "film_id": "d5394313c49b",
-    "cinema_id": "wonderful-taipei",
     "datetime_start": "2026-10-26T16:30:00",
     "format_raw": null,
     "language": null,
@@ -22003,26 +21953,6 @@
     "film_id": "d5394313c49b",
     "cinema_id": "wonderful-taipei",
     "datetime_start": "2026-10-29T16:30:00",
-    "format_raw": null,
-    "language": null,
-    "booking_url": "https://www.ezding.com.tw/cinemabooking?cinemaid=f644412efbb811e58858f2128151146f",
-    "booking_platform": "ezding",
-    "source": "wonderful.movie.com.tw"
-  },
-  {
-    "film_id": "e1bd3379db3e",
-    "cinema_id": "wonderful-taipei",
-    "datetime_start": "2026-10-25T12:10:00",
-    "format_raw": null,
-    "language": null,
-    "booking_url": "https://www.ezding.com.tw/cinemabooking?cinemaid=f644412efbb811e58858f2128151146f",
-    "booking_platform": "ezding",
-    "source": "wonderful.movie.com.tw"
-  },
-  {
-    "film_id": "e1bd3379db3e",
-    "cinema_id": "wonderful-taipei",
-    "datetime_start": "2026-10-25T19:00:00",
     "format_raw": null,
     "language": null,
     "booking_url": "https://www.ezding.com.tw/cinemabooking?cinemaid=f644412efbb811e58858f2128151146f",
@@ -22112,16 +22042,6 @@
   {
     "film_id": "ef4d61de7af4",
     "cinema_id": "wonderful-taipei",
-    "datetime_start": "2026-10-25T13:40:00",
-    "format_raw": null,
-    "language": null,
-    "booking_url": "https://www.ezding.com.tw/cinemabooking?cinemaid=f644412efbb811e58858f2128151146f",
-    "booking_platform": "ezding",
-    "source": "wonderful.movie.com.tw"
-  },
-  {
-    "film_id": "ef4d61de7af4",
-    "cinema_id": "wonderful-taipei",
     "datetime_start": "2026-10-26T13:35:00",
     "format_raw": null,
     "language": null,
@@ -22153,26 +22073,6 @@
     "film_id": "ef4d61de7af4",
     "cinema_id": "wonderful-taipei",
     "datetime_start": "2026-10-29T16:10:00",
-    "format_raw": null,
-    "language": null,
-    "booking_url": "https://www.ezding.com.tw/cinemabooking?cinemaid=f644412efbb811e58858f2128151146f",
-    "booking_platform": "ezding",
-    "source": "wonderful.movie.com.tw"
-  },
-  {
-    "film_id": "efa5738201ed",
-    "cinema_id": "wonderful-taipei",
-    "datetime_start": "2026-10-25T10:30:00",
-    "format_raw": null,
-    "language": null,
-    "booking_url": "https://www.ezding.com.tw/cinemabooking?cinemaid=f644412efbb811e58858f2128151146f",
-    "booking_platform": "ezding",
-    "source": "wonderful.movie.com.tw"
-  },
-  {
-    "film_id": "efa5738201ed",
-    "cinema_id": "wonderful-taipei",
-    "datetime_start": "2026-10-25T18:50:00",
     "format_raw": null,
     "language": null,
     "booking_url": "https://www.ezding.com.tw/cinemabooking?cinemaid=f644412efbb811e58858f2128151146f",
@@ -22550,16 +22450,6 @@
     "source": "cloud.culture.tw"
   },
   {
-    "film_id": "6d5a996c3fe5",
-    "cinema_id": "tfai-xinzhuang",
-    "datetime_start": "2026-10-25T18:00:00",
-    "format_raw": null,
-    "language": null,
-    "booking_url": "https://www.opentix.life/program/2095394246953787392",
-    "booking_platform": "opentix",
-    "source": "cloud.culture.tw"
-  },
-  {
     "film_id": "9610a4beecb1",
     "cinema_id": "tfai-xinzhuang",
     "datetime_start": "2026-11-01T17:40:00",
@@ -22646,16 +22536,6 @@
     "format_raw": null,
     "language": null,
     "booking_url": "https://www.opentix.life/program/2095400807418765313",
-    "booking_platform": "opentix",
-    "source": "cloud.culture.tw"
-  },
-  {
-    "film_id": "a120083f5622",
-    "cinema_id": "tfai-xinzhuang",
-    "datetime_start": "2026-10-25T15:10:00",
-    "format_raw": null,
-    "language": null,
-    "booking_url": "https://www.opentix.life/program/2095401287767031808",
     "booking_platform": "opentix",
     "source": "cloud.culture.tw"
   },
@@ -22802,16 +22682,6 @@
   {
     "film_id": "774e8b9ea2a8",
     "cinema_id": "tfai-xinzhuang",
-    "datetime_start": "2026-10-25T15:00:00",
-    "format_raw": null,
-    "language": null,
-    "booking_url": "https://www.opentix.life/program/2095726555267670017",
-    "booking_platform": "opentix",
-    "source": "cloud.culture.tw"
-  },
-  {
-    "film_id": "774e8b9ea2a8",
-    "cinema_id": "tfai-xinzhuang",
     "datetime_start": "2026-11-14T17:10:00",
     "format_raw": null,
     "language": null,
@@ -22862,30 +22732,10 @@
   {
     "film_id": "ebfa1b7ceb0f",
     "cinema_id": "tfai-xinzhuang",
-    "datetime_start": "2026-10-25T12:20:00",
-    "format_raw": null,
-    "language": null,
-    "booking_url": "https://www.opentix.life/program/2095728014641479681",
-    "booking_platform": "opentix",
-    "source": "cloud.culture.tw"
-  },
-  {
-    "film_id": "ebfa1b7ceb0f",
-    "cinema_id": "tfai-xinzhuang",
     "datetime_start": "2026-11-28T19:10:00",
     "format_raw": null,
     "language": null,
     "booking_url": "https://www.opentix.life/program/2095728014641479681",
-    "booking_platform": "opentix",
-    "source": "cloud.culture.tw"
-  },
-  {
-    "film_id": "c5acbefa2bc4",
-    "cinema_id": "tfai-xinzhuang",
-    "datetime_start": "2026-10-25T18:10:00",
-    "format_raw": null,
-    "language": null,
-    "booking_url": "https://www.opentix.life/program/2097144730492481537",
     "booking_platform": "opentix",
     "source": "cloud.culture.tw"
   },
@@ -22946,16 +22796,6 @@
     "format_raw": null,
     "language": null,
     "booking_url": "https://www.opentix.life/program/2097206460897038337",
-    "booking_platform": "opentix",
-    "source": "cloud.culture.tw"
-  },
-  {
-    "film_id": "e3e5b952aea6",
-    "cinema_id": "tfai-xinzhuang",
-    "datetime_start": "2026-10-25T13:00:00",
-    "format_raw": null,
-    "language": null,
-    "booking_url": "https://www.opentix.life/program/2097563194161696769",
     "booking_platform": "opentix",
     "source": "cloud.culture.tw"
   },
