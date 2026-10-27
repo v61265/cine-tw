@@ -17,8 +17,7 @@
       "紐約藝術家的性與愛"
     ],
     "sources": [
-      "spot.org.tw",
-      "wonderful.movie.com.tw"
+      "spot.org.tw"
     ],
     "director": "路奇歐卡斯楚 Lucio Castro",
     "original_title": "Drunken Noodles",
@@ -52,6 +51,19 @@
     "original_title": "CHOPIN, CHOPIN!",
     "year": 2025
   },
+  "57a7b8a379a8": {
+    "normalized_title": "黑球",
+    "raw_titles": [
+      "（特別場）黑球"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "Javier Ambrossi",
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 1422041
+  },
   "c244aa1e219b": {
     "normalized_title": "讓子彈飛",
     "raw_titles": [
@@ -65,24 +77,11 @@
     "year": 2010,
     "tmdb_id": 51533
   },
-  "2245b5b16798": {
-    "normalized_title": "麥特與麥斯",
-    "raw_titles": [
-      "（特別場）麥特與麥斯"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "Xavier Dolan",
-    "original_title": null,
-    "year": 2019,
-    "tmdb_id": 519141
-  },
   "ef4d61de7af4": {
     "normalized_title": "Jim Queen:肌情四射",
     "raw_titles": [
-      "Jim Queen：肌情四射",
-      "（特別場）Jim Queen：肌情四射"
+      "（特別場）Jim Queen：肌情四射",
+      "Jim Queen：肌情四射"
     ],
     "sources": [
       "ambassador.com.tw",
