@@ -1,28 +1,4 @@
 {
-  "a06b03034b5b": {
-    "normalized_title": "花神咖啡館",
-    "raw_titles": [
-      "花神咖啡館"
-    ],
-    "sources": [
-      "spot.org.tw"
-    ],
-    "director": "尚馬克瓦利 Jean-Marc Vallee",
-    "original_title": "Cafe de Flore",
-    "year": 2011
-  },
-  "b1017873cdda": {
-    "normalized_title": "紐約藝術家的性與愛",
-    "raw_titles": [
-      "紐約藝術家的性與愛"
-    ],
-    "sources": [
-      "spot.org.tw"
-    ],
-    "director": "路奇歐卡斯楚 Lucio Castro",
-    "original_title": "Drunken Noodles",
-    "year": 2025
-  },
   "055442cbbbce": {
     "normalized_title": "吳爾芙的夜與日",
     "raw_titles": [
@@ -50,6 +26,18 @@
     "director": "米哈烏克維欽斯基 Michał KWIECIŃSKI",
     "original_title": "CHOPIN, CHOPIN!",
     "year": 2025
+  },
+  "5ab280726dfd": {
+    "normalized_title": "世紀初戀 楊麗花",
+    "raw_titles": [
+      "世紀初戀 楊麗花"
+    ],
+    "sources": [
+      "spot.org.tw"
+    ],
+    "director": "曾文珍 TSENG Wen-chen",
+    "original_title": "Emperor On Stage",
+    "year": 2026
   },
   "57a7b8a379a8": {
     "normalized_title": "黑球",
@@ -555,18 +543,6 @@
     "year": 2026,
     "tmdb_id": 1185806
   },
-  "d5935da42a74": {
-    "normalized_title": "一個人旅行",
-    "raw_titles": [
-      "一個人旅行"
-    ],
-    "sources": [
-      "wonderful.movie.com.tw"
-    ],
-    "director": "石橋夕帆",
-    "original_title": null,
-    "year": 2026
-  },
   "c82bd44247b2": {
     "normalized_title": "獨裁大明星",
     "raw_titles": [
@@ -933,7 +909,7 @@
     "sources": [
       "cloud.culture.tw"
     ],
-    "director": "J.P. Sniadecki",
+    "director": "Véréna Paravel",
     "original_title": null,
     "year": 2010,
     "tmdb_id": 81524
@@ -959,7 +935,7 @@
     "sources": [
       "cloud.culture.tw"
     ],
-    "director": "Véréna Paravel",
+    "director": "Lucien Castaing-Taylor",
     "original_title": null,
     "year": 2023,
     "tmdb_id": 721232
