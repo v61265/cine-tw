@@ -33,24 +33,27 @@
       "世紀初戀 楊麗花"
     ],
     "sources": [
-      "spot.org.tw"
+      "spot.org.tw",
+      "ambassador.com.tw",
+      "wonderful.movie.com.tw"
     ],
     "director": "曾文珍 TSENG Wen-chen",
     "original_title": "Emperor On Stage",
     "year": 2026
   },
-  "57a7b8a379a8": {
-    "normalized_title": "黑球",
+  "97f9f48afd46": {
+    "normalized_title": "雙雄起義",
     "raw_titles": [
-      "（特別場）黑球"
+      "（應援特別場）雙雄起義",
+      "雙雄起義"
     ],
     "sources": [
       "ambassador.com.tw"
     ],
-    "director": "Javier Ambrossi",
+    "director": "ఎస్.ఎస్. రాజమౌళి",
     "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1422041
+    "year": 2022,
+    "tmdb_id": 579974
   },
   "c244aa1e219b": {
     "normalized_title": "讓子彈飛",
@@ -64,6 +67,32 @@
     "original_title": null,
     "year": 2010,
     "tmdb_id": 51533
+  },
+  "d62a3d135985": {
+    "normalized_title": "屍控片場性愛死",
+    "raw_titles": [
+      "屍控片場性愛死"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "Jane Schoenbrun",
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 1240889
+  },
+  "cd1a8ea08abd": {
+    "normalized_title": "太空百合戰鬥姬",
+    "raw_titles": [
+      "（特別場）太空百合戰鬥姬"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "Leela Varghese",
+    "original_title": null,
+    "year": 2025,
+    "tmdb_id": 1333141
   },
   "ef4d61de7af4": {
     "normalized_title": "Jim Queen:肌情四射",
@@ -79,31 +108,137 @@
     "original_title": null,
     "year": 2026
   },
-  "cea22efb829d": {
-    "normalized_title": "泥面人",
+  "57a7b8a379a8": {
+    "normalized_title": "黑球",
     "raw_titles": [
-      "泥面人"
+      "（特別場）黑球"
     ],
     "sources": [
       "ambassador.com.tw"
     ],
-    "director": "James Watkins",
+    "director": "Javier Ambrossi",
     "original_title": null,
     "year": 2026,
-    "tmdb_id": 1400940
+    "tmdb_id": 1422041
   },
-  "1743962b4041": {
-    "normalized_title": "快打旋風",
+  "021da96d1123": {
+    "normalized_title": "完美配對謀殺案:真愛",
     "raw_titles": [
-      "快打旋風"
+      "完美配對謀殺案：真愛"
+    ],
+    "sources": [
+      "ambassador.com.tw",
+      "wonderful.movie.com.tw"
+    ],
+    "director": "內田英治",
+    "original_title": null,
+    "year": 2026
+  },
+  "4bb21075e153": {
+    "normalized_title": "致遙不可及彼方的你",
+    "raw_titles": [
+      "致遙不可及彼方的你"
     ],
     "sources": [
       "ambassador.com.tw"
     ],
-    "director": "櫻井北尾",
+    "director": "和田純一",
     "original_title": null,
     "year": 2026,
-    "tmdb_id": 1153576
+    "tmdb_id": 1632015
+  },
+  "dc8dfc00cd38": {
+    "normalized_title": "幸福路上",
+    "raw_titles": [
+      "幸福路上..",
+      "幸福路上"
+    ],
+    "sources": [
+      "ambassador.com.tw",
+      "wonderful.movie.com.tw"
+    ],
+    "director": "宋欣穎",
+    "original_title": null,
+    "year": 2026
+  },
+  "0021571b7c29": {
+    "normalized_title": "薩滿的最後告解",
+    "raw_titles": [
+      "薩滿的最後告解"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "Nattanont Cholumpi",
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 1536008
+  },
+  "c4928983b431": {
+    "normalized_title": "即刻狂飆",
+    "raw_titles": [
+      "即刻狂飆"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "Mark Vanselow",
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 1294189
+  },
+  "5fb96a178e6e": {
+    "normalized_title": "歡迎來到朵莉之家",
+    "raw_titles": [
+      "（Q&A場）歡迎來到朵莉之家",
+      "歡迎來到朵莉之家"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "Rady Fu",
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 1473553
+  },
+  "f56e2b6c299c": {
+    "normalized_title": "出賣影子的女人",
+    "raw_titles": [
+      "出賣影子的女人"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": null,
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 1797620
+  },
+  "06f7d5b5aa67": {
+    "normalized_title": "歐威爾:2+2=5",
+    "raw_titles": [
+      "歐威爾：2+2=5"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "勞爾·貝克",
+    "original_title": null,
+    "year": 2025,
+    "tmdb_id": 1098534
+  },
+  "f89dc85a021a": {
+    "normalized_title": "讓子彈飛.",
+    "raw_titles": [
+      "讓子彈飛."
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "姜文",
+    "original_title": null,
+    "year": 2010,
+    "tmdb_id": 51533
   },
   "22bb158c4023": {
     "normalized_title": "消失的金鳳娜",
@@ -235,6 +370,19 @@
     "year": 2026,
     "tmdb_id": 1718154
   },
+  "cea22efb829d": {
+    "normalized_title": "泥面人",
+    "raw_titles": [
+      "泥面人"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "James Watkins",
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 1400940
+  },
   "8d3eddf56c59": {
     "normalized_title": "逃出鯨吞",
     "raw_titles": [
@@ -247,6 +395,19 @@
     "original_title": null,
     "year": 2026,
     "tmdb_id": 1255833
+  },
+  "1743962b4041": {
+    "normalized_title": "快打旋風",
+    "raw_titles": [
+      "快打旋風"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "櫻井北尾",
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 1153576
   },
   "80a53c39a2dc": {
     "normalized_title": "沙央",
@@ -459,12 +620,12 @@
       "野獸之心"
     ],
     "sources": [
-      "ambassador.com.tw",
-      "wonderful.movie.com.tw"
+      "ambassador.com.tw"
     ],
-    "director": "大衛艾亞",
+    "director": "David Ayer",
     "original_title": null,
-    "year": 2026
+    "year": 2026,
+    "tmdb_id": 1263337
   },
   "cef2208477e6": {
     "normalized_title": "實境誘捕",
@@ -555,18 +716,6 @@
     "original_title": null,
     "year": 2026
   },
-  "242c21eecf41": {
-    "normalized_title": "紐約攝影師的日與夜",
-    "raw_titles": [
-      "紐約攝影師的日與夜"
-    ],
-    "sources": [
-      "wonderful.movie.com.tw"
-    ],
-    "director": "艾拉薩克斯（Ira Sachs）",
-    "original_title": null,
-    "year": 2026
-  },
   "f60f3db2cd86": {
     "normalized_title": "進擊的鼓手",
     "raw_titles": [
@@ -576,6 +725,18 @@
       "wonderful.movie.com.tw"
     ],
     "director": "達米恩查澤雷 Damien Chazelle",
+    "original_title": null,
+    "year": 2026
+  },
+  "6117f6d88984": {
+    "normalized_title": "水花四濺4K修復版",
+    "raw_titles": [
+      "水花四濺4K修復版"
+    ],
+    "sources": [
+      "wonderful.movie.com.tw"
+    ],
+    "director": "傑克·哈贊（Jack Hazan）",
     "original_title": null,
     "year": 2026
   },
