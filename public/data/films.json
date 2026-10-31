@@ -30,12 +30,14 @@
   "5ab280726dfd": {
     "normalized_title": "世紀初戀 楊麗花",
     "raw_titles": [
-      "世紀初戀 楊麗花"
+      "世紀初戀 楊麗花",
+      "世紀初戀 楊麗花 Emperor on Stage"
     ],
     "sources": [
       "spot.org.tw",
       "ambassador.com.tw",
-      "wonderful.movie.com.tw"
+      "wonderful.movie.com.tw",
+      "kfa.kcg.gov.tw"
     ],
     "director": "曾文珍 TSENG Wen-chen",
     "original_title": "Emperor On Stage",
@@ -44,6 +46,7 @@
   "cf2735859d4b": {
     "normalized_title": "哥吉拉-0.0",
     "raw_titles": [
+      "哥吉拉-0.0",
       "（全台聯合首映）哥吉拉-0.0"
     ],
     "sources": [
@@ -102,24 +105,10 @@
     "sources": [
       "ambassador.com.tw"
     ],
-    "director": "Emma Hough Hobbs",
+    "director": "Leela Varghese",
     "original_title": null,
     "year": 2025,
     "tmdb_id": 1333141
-  },
-  "ef4d61de7af4": {
-    "normalized_title": "Jim Queen:肌情四射",
-    "raw_titles": [
-      "（特別場）Jim Queen：肌情四射",
-      "Jim Queen：肌情四射"
-    ],
-    "sources": [
-      "ambassador.com.tw",
-      "wonderful.movie.com.tw"
-    ],
-    "director": "馬可紐恩Marco Nguyen / 尼古拉斯阿塔內Nicolas Athané",
-    "original_title": null,
-    "year": 2026
   },
   "57a7b8a379a8": {
     "normalized_title": "黑球",
@@ -292,6 +281,19 @@
     "year": 2024,
     "tmdb_id": 1148558
   },
+  "ef4d61de7af4": {
+    "normalized_title": "Jim Queen:肌情四射",
+    "raw_titles": [
+      "Jim Queen：肌情四射"
+    ],
+    "sources": [
+      "ambassador.com.tw",
+      "wonderful.movie.com.tw"
+    ],
+    "director": "馬可紐恩Marco Nguyen / 尼古拉斯阿塔內Nicolas Athané",
+    "original_title": null,
+    "year": 2026
+  },
   "9891feb111f6": {
     "normalized_title": "加速世界 劇場版",
     "raw_titles": [
@@ -360,11 +362,13 @@
   "80a53c39a2dc": {
     "normalized_title": "沙央",
     "raw_titles": [
-      "沙央"
+      "沙央",
+      "沙央 SAYANG"
     ],
     "sources": [
       "ambassador.com.tw",
-      "wonderful.movie.com.tw"
+      "wonderful.movie.com.tw",
+      "kfa.kcg.gov.tw"
     ],
     "director": "湯湘竹",
     "original_title": null,
@@ -584,125 +588,89 @@
     "original_title": null,
     "year": 2026
   },
-  "3808e10cd4f4": {
-    "normalized_title": "八月三十一日,我在奧斯陸",
+  "b46a151b4c24": {
+    "normalized_title": "與達賴喇嘛談心:尋找幸福的智慧",
     "raw_titles": [
-      "八月三十一日，我在奧斯陸 Oslo, August 31st"
+      "與達賴喇嘛談心：尋找幸福的智慧 Wisdom of Happiness"
     ],
     "sources": [
       "kfa.kcg.gov.tw"
     ],
-    "director": "尤沃金提爾 Joachim TRIER",
-    "original_title": null,
-    "year": 2011
-  },
-  "d128d104edc5": {
-    "normalized_title": "撒旦的探戈 4K修復(中)Sátántangó 4K Restoration Part II",
-    "raw_titles": [
-      "撒旦的探戈 4K修復（中）Sátántangó 4K Restoration Part II"
-    ],
-    "sources": [
-      "kfa.kcg.gov.tw"
-    ],
-    "director": "貝拉塔爾 Béla TARR",
-    "original_title": null,
-    "year": 1994
-  },
-  "b387b6d7f86c": {
-    "normalized_title": "特別放映|比如父子",
-    "raw_titles": [
-      "特別放映｜比如父子 My Father's Son（10/18 現場免費索票與放映）"
-    ],
-    "sources": [
-      "kfa.kcg.gov.tw"
-    ],
-    "director": "仇晟 QIU Sheng",
-    "original_title": null,
-    "year": 2025
-  },
-  "9d147f4ed76f": {
-    "normalized_title": "她復出的那天",
-    "raw_titles": [
-      "她復出的那天 The Day She Returns"
-    ],
-    "sources": [
-      "kfa.kcg.gov.tw"
-    ],
-    "director": "洪常秀 HONG Sangsoo",
-    "original_title": null,
-    "year": 2026
-  },
-  "09595d11889b": {
-    "normalized_title": "撒旦的探戈 4K修復(上) Sátántangó 4K Restoration Part I",
-    "raw_titles": [
-      "撒旦的探戈 4K修復（上） Sátántangó 4K Restoration Part I"
-    ],
-    "sources": [
-      "kfa.kcg.gov.tw"
-    ],
-    "director": "貝拉塔爾 Béla TARR",
-    "original_title": null,
-    "year": 1994
-  },
-  "c6fd732ff131": {
-    "normalized_title": "鯨魚馬戲團 4K修復",
-    "raw_titles": [
-      "鯨魚馬戲團 4K修復 Werckmeister Harmonies 4K Restoration"
-    ],
-    "sources": [
-      "kfa.kcg.gov.tw"
-    ],
-    "director": "貝拉塔爾 Béla TARR",
-    "original_title": null,
-    "year": 2000
-  },
-  "19baffb46f9a": {
-    "normalized_title": "撒旦的探戈 4K修復(下)Sátántangó 4K Restoration Part III",
-    "raw_titles": [
-      "撒旦的探戈 4K修復（下）Sátántangó 4K Restoration Part III"
-    ],
-    "sources": [
-      "kfa.kcg.gov.tw"
-    ],
-    "director": "貝拉塔爾 Béla TARR",
-    "original_title": null,
-    "year": 1994
-  },
-  "23dd8232bbdc": {
-    "normalized_title": "18顆鑽石",
-    "raw_titles": [
-      "18顆鑽石 Diamonds"
-    ],
-    "sources": [
-      "kfa.kcg.gov.tw"
-    ],
-    "director": "佛森歐茲派特 Ferzan ÖZPETEK",
+    "director": "芭芭拉米勒 Barbara MILLER、菲力浦德拉奎斯 Philip  DELAQUIS",
     "original_title": null,
     "year": 2024
   },
-  "a71b75bf352c": {
-    "normalized_title": "世界末日愛上你",
+  "2eaa5817f7cb": {
+    "normalized_title": "雙面薇若妮卡 The Double Life of Véronique",
     "raw_titles": [
-      "世界末日愛上你 Peak Everything"
+      "雙面薇若妮卡 The Double Life of Véronique"
     ],
     "sources": [
       "kfa.kcg.gov.tw"
     ],
-    "director": "安艾蒙 Anne ÉMOND",
+    "director": "克里斯多夫奇士勞斯基 Krzysztof KIESLOWSKI",
+    "original_title": null,
+    "year": 1991
+  },
+  "f4adefccdf74": {
+    "normalized_title": "紅色情深",
+    "raw_titles": [
+      "紅色情深 Three Colors: Red"
+    ],
+    "sources": [
+      "kfa.kcg.gov.tw"
+    ],
+    "director": "克里斯多夫奇士勞斯基 Krzysztof KIESLOWSKI",
+    "original_title": null,
+    "year": 1994
+  },
+  "177294a73f3f": {
+    "normalized_title": "與畢諾許共舞",
+    "raw_titles": [
+      "與畢諾許共舞 In-I in Motion"
+    ],
+    "sources": [
+      "kfa.kcg.gov.tw"
+    ],
+    "director": "茱麗葉畢諾許 Juliette BINOCHE",
     "original_title": null,
     "year": 2025
   },
-  "614d07ac9f2a": {
-    "normalized_title": "炎上",
+  "59944675b5e7": {
+    "normalized_title": "白色情迷",
     "raw_titles": [
-      "炎上 BURN"
+      "白色情迷 Three Colors: White"
     ],
     "sources": [
       "kfa.kcg.gov.tw"
     ],
-    "director": "長久允 NAGAHISA Makoto",
+    "director": "克里斯多夫奇士勞斯基 Krzysztof KIESLOWSKI",
+    "original_title": null,
+    "year": 1994
+  },
+  "7c6715516088": {
+    "normalized_title": "廚師發辦",
+    "raw_titles": [
+      "廚師發辦 The Dating Menu"
+    ],
+    "sources": [
+      "kfa.kcg.gov.tw"
+    ],
+    "director": "黃浩然 Amos WHY、鍾宏杰 Frankie CHUNG",
     "original_title": null,
     "year": 2026
+  },
+  "3a67b79e8017": {
+    "normalized_title": "藍色情挑",
+    "raw_titles": [
+      "藍色情挑 Three Colors: Blue"
+    ],
+    "sources": [
+      "kfa.kcg.gov.tw"
+    ],
+    "director": "克里斯多夫奇士勞斯基 Krzysztof KIESLOWSKI",
+    "original_title": null,
+    "year": 1993
   },
   "cbe59a45efc2": {
     "normalized_title": "默片音樂會 II:陰森森短片輯 + 延",
@@ -814,10 +782,10 @@
     "sources": [
       "cloud.culture.tw"
     ],
-    "director": "雷利·史考特",
+    "director": "Rina Wu",
     "original_title": null,
-    "year": 1991,
-    "tmdb_id": 1541
+    "year": 2024,
+    "tmdb_id": 1225862
   },
   "e373f60a470c": {
     "normalized_title": "運將幻遊",
@@ -914,7 +882,7 @@
     "sources": [
       "cloud.culture.tw"
     ],
-    "director": "J.P. Sniadecki",
+    "director": "Véréna Paravel",
     "original_title": null,
     "year": 2010,
     "tmdb_id": 81524
