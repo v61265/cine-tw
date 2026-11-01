@@ -97,19 +97,6 @@
     "year": 2026,
     "tmdb_id": 1240889
   },
-  "cd1a8ea08abd": {
-    "normalized_title": "太空百合戰鬥姬",
-    "raw_titles": [
-      "（特別場）太空百合戰鬥姬"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "Leela Varghese",
-    "original_title": null,
-    "year": 2025,
-    "tmdb_id": 1333141
-  },
   "57a7b8a379a8": {
     "normalized_title": "黑球",
     "raw_titles": [
@@ -189,20 +176,6 @@
     "year": 2026,
     "tmdb_id": 1294189
   },
-  "5fb96a178e6e": {
-    "normalized_title": "歡迎來到朵莉之家",
-    "raw_titles": [
-      "（Q&A場）歡迎來到朵莉之家",
-      "歡迎來到朵莉之家"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "Rady Fu",
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1473553
-  },
   "f56e2b6c299c": {
     "normalized_title": "出賣影子的女人",
     "raw_titles": [
@@ -215,6 +188,19 @@
     "original_title": null,
     "year": 2026,
     "tmdb_id": 1797620
+  },
+  "5fb96a178e6e": {
+    "normalized_title": "歡迎來到朵莉之家",
+    "raw_titles": [
+      "歡迎來到朵莉之家"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "Rady Fu",
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 1473553
   },
   "06f7d5b5aa67": {
     "normalized_title": "歐威爾:2+2=5",
@@ -672,18 +658,6 @@
     "original_title": null,
     "year": 1993
   },
-  "cbe59a45efc2": {
-    "normalized_title": "默片音樂會 II:陰森森短片輯 + 延",
-    "raw_titles": [
-      "默片音樂會 II：陰森森短片輯 + 延（數位修復版）"
-    ],
-    "sources": [
-      "cloud.culture.tw"
-    ],
-    "director": null,
-    "original_title": null,
-    "year": null
-  },
   "72e5a16ca363": {
     "normalized_title": "艾哈邁德王子歷險記+童話短片集",
     "raw_titles": [
@@ -721,19 +695,6 @@
     "original_title": null,
     "year": 1988,
     "tmdb_id": 428001
-  },
-  "5a53038e6558": {
-    "normalized_title": "黃色故事",
-    "raw_titles": [
-      "黃色故事（數位修復版）"
-    ],
-    "sources": [
-      "cloud.culture.tw"
-    ],
-    "director": "王小棣",
-    "original_title": null,
-    "year": 1987,
-    "tmdb_id": 436335
   },
   "ba989e9c598e": {
     "normalized_title": "愛情萬歲",
@@ -810,19 +771,6 @@
     "director": null,
     "original_title": null,
     "year": null
-  },
-  "d43b24564cb2": {
-    "normalized_title": "鐵律",
-    "raw_titles": [
-      "鐵律"
-    ],
-    "sources": [
-      "cloud.culture.tw"
-    ],
-    "director": "三隅研次",
-    "original_title": null,
-    "year": 1971,
-    "tmdb_id": 577716
   },
   "7c81ac0a23e4": {
     "normalized_title": "玉照情事",
@@ -908,7 +856,7 @@
     "sources": [
       "cloud.culture.tw"
     ],
-    "director": "Véréna Paravel",
+    "director": "Lucien Castaing-Taylor",
     "original_title": null,
     "year": 2023,
     "tmdb_id": 721232
@@ -1014,19 +962,6 @@
     "original_title": null,
     "year": 2025,
     "tmdb_id": 1245399
-  },
-  "88d0324a6d8c": {
-    "normalized_title": "小雨愛蜜莉",
-    "raw_titles": [
-      "小雨愛蜜莉"
-    ],
-    "sources": [
-      "cloud.culture.tw"
-    ],
-    "director": "Maïlys Vallade",
-    "original_title": null,
-    "year": 2025,
-    "tmdb_id": 682012
   },
   "6c65b2e0dd1f": {
     "normalized_title": "戰火下的小花",
