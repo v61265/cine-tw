@@ -57,33 +57,6 @@
     "year": 2026,
     "tmdb_id": 1381071
   },
-  "97f9f48afd46": {
-    "normalized_title": "雙雄起義",
-    "raw_titles": [
-      "（應援特別場）雙雄起義",
-      "雙雄起義"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "ఎస్.ఎస్. రాజమౌళి",
-    "original_title": null,
-    "year": 2022,
-    "tmdb_id": 579974
-  },
-  "c244aa1e219b": {
-    "normalized_title": "讓子彈飛",
-    "raw_titles": [
-      "（特別場）讓子彈飛"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "姜文",
-    "original_title": null,
-    "year": 2010,
-    "tmdb_id": 51533
-  },
   "d62a3d135985": {
     "normalized_title": "屍控片場性愛死",
     "raw_titles": [
@@ -97,18 +70,18 @@
     "year": 2026,
     "tmdb_id": 1240889
   },
-  "57a7b8a379a8": {
-    "normalized_title": "黑球",
+  "97f9f48afd46": {
+    "normalized_title": "雙雄起義",
     "raw_titles": [
-      "（特別場）黑球"
+      "雙雄起義"
     ],
     "sources": [
       "ambassador.com.tw"
     ],
-    "director": "Javier Ambrossi",
+    "director": "ఎస్.ఎస్. రాజమౌళి",
     "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1422041
+    "year": 2022,
+    "tmdb_id": 579974
   },
   "021da96d1123": {
     "normalized_title": "完美配對謀殺案:真愛",
@@ -696,32 +669,6 @@
     "year": 1988,
     "tmdb_id": 428001
   },
-  "ba989e9c598e": {
-    "normalized_title": "愛情萬歲",
-    "raw_titles": [
-      "愛情萬歲（4K數位修復版）"
-    ],
-    "sources": [
-      "cloud.culture.tw"
-    ],
-    "director": "蔡明亮",
-    "original_title": null,
-    "year": 1994,
-    "tmdb_id": 11985
-  },
-  "9610a4beecb1": {
-    "normalized_title": "新大陸",
-    "raw_titles": [
-      "新大陸"
-    ],
-    "sources": [
-      "cloud.culture.tw"
-    ],
-    "director": "Paul Wong",
-    "original_title": null,
-    "year": 1996,
-    "tmdb_id": 846020
-  },
   "58ad46d65bed": {
     "normalized_title": "夢想者四夜",
     "raw_titles": [
@@ -912,19 +859,6 @@
     "year": 1988,
     "tmdb_id": 47795
   },
-  "c5acbefa2bc4": {
-    "normalized_title": "今天不回家",
-    "raw_titles": [
-      "今天不回家（數位修復版）"
-    ],
-    "sources": [
-      "cloud.culture.tw"
-    ],
-    "director": "張艾嘉",
-    "original_title": null,
-    "year": 1996,
-    "tmdb_id": 255796
-  },
   "f0603e1d2ac7": {
     "normalized_title": "熱帶魚",
     "raw_titles": [
@@ -949,19 +883,6 @@
     "director": null,
     "original_title": null,
     "year": null
-  },
-  "e3e5b952aea6": {
-    "normalized_title": "小小畫家芙烈達",
-    "raw_titles": [
-      "小小畫家芙烈達"
-    ],
-    "sources": [
-      "cloud.culture.tw"
-    ],
-    "director": "Karine Vézina",
-    "original_title": null,
-    "year": 2025,
-    "tmdb_id": 1245399
   },
   "6c65b2e0dd1f": {
     "normalized_title": "戰火下的小花",
