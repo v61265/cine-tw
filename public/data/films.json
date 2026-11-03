@@ -1,18 +1,4 @@
 {
-  "055442cbbbce": {
-    "normalized_title": "吳爾芙的夜與日",
-    "raw_titles": [
-      "吳爾芙的夜與日"
-    ],
-    "sources": [
-      "spot.org.tw",
-      "ambassador.com.tw",
-      "wonderful.movie.com.tw"
-    ],
-    "director": "蒂娜加拉維 Tina Gharavi",
-    "original_title": "Virginia Woolf's Night and Day",
-    "year": 2026
-  },
   "efa5738201ed": {
     "normalized_title": "蕭邦!蕭邦!",
     "raw_titles": [
@@ -42,6 +28,18 @@
     "director": "曾文珍 TSENG Wen-chen",
     "original_title": "Emperor On Stage",
     "year": 2026
+  },
+  "fbc0b79f8c61": {
+    "normalized_title": "幸福的麵包",
+    "raw_titles": [
+      "幸福的麵包"
+    ],
+    "sources": [
+      "spot.org.tw"
+    ],
+    "director": "三島有紀子 MISHIMA Yukiko",
+    "original_title": "Bread Of Happiness",
+    "year": 2012
   },
   "cf2735859d4b": {
     "normalized_title": "哥吉拉-0.0",
@@ -370,6 +368,19 @@
     "year": 2015,
     "tmdb_id": 257211
   },
+  "055442cbbbce": {
+    "normalized_title": "吳爾芙的夜與日",
+    "raw_titles": [
+      "吳爾芙的夜與日"
+    ],
+    "sources": [
+      "ambassador.com.tw",
+      "wonderful.movie.com.tw"
+    ],
+    "director": "蒂娜•加拉維",
+    "original_title": null,
+    "year": 2026
+  },
   "d5394313c49b": {
     "normalized_title": "宛如星辰的你",
     "raw_titles": [
@@ -485,19 +496,6 @@
     "original_title": null,
     "year": 2026,
     "tmdb_id": 1423191
-  },
-  "9875a1945541": {
-    "normalized_title": "蜘蛛人:重生日",
-    "raw_titles": [
-      "蜘蛛人：重生日"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "德斯汀·丹尼爾·克雷頓",
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 969681
   },
   "c82bd44247b2": {
     "normalized_title": "獨裁大明星",
@@ -803,7 +801,7 @@
     "sources": [
       "cloud.culture.tw"
     ],
-    "director": "Lucien Castaing-Taylor",
+    "director": "Véréna Paravel",
     "original_title": null,
     "year": 2023,
     "tmdb_id": 721232
