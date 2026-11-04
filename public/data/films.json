@@ -41,6 +41,19 @@
     "original_title": "Bread Of Happiness",
     "year": 2012
   },
+  "537472b4b77e": {
+    "normalized_title": "名偵探柯南 第30號殺人事件",
+    "raw_titles": [
+      "名偵探柯南 第30號殺人事件"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "鎌仲史陽",
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 1777750
+  },
   "cf2735859d4b": {
     "normalized_title": "哥吉拉-0.0",
     "raw_titles": [
@@ -55,18 +68,83 @@
     "year": 2026,
     "tmdb_id": 1381071
   },
-  "d62a3d135985": {
-    "normalized_title": "屍控片場性愛死",
+  "cea22efb829d": {
+    "normalized_title": "泥面人",
     "raw_titles": [
-      "屍控片場性愛死"
+      "泥面人"
     ],
     "sources": [
       "ambassador.com.tw"
     ],
-    "director": "Jane Schoenbrun",
+    "director": "James Watkins",
     "original_title": null,
     "year": 2026,
-    "tmdb_id": 1240889
+    "tmdb_id": 1400940
+  },
+  "1255070838ea": {
+    "normalized_title": "同級生:十週年重映",
+    "raw_titles": [
+      "同級生：十週年重映"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": null,
+    "original_title": null,
+    "year": null
+  },
+  "480fadd15f7d": {
+    "normalized_title": "三個傻瓜.",
+    "raw_titles": [
+      "三個傻瓜."
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "Rajkumar Hirani",
+    "original_title": null,
+    "year": 2009,
+    "tmdb_id": 20453
+  },
+  "0415008f562d": {
+    "normalized_title": "UFO離奇命案",
+    "raw_titles": [
+      "UFO離奇命案"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "郭嘉熹",
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 1573705
+  },
+  "b46a151b4c24": {
+    "normalized_title": "與達賴喇嘛談心:尋找幸福的智慧",
+    "raw_titles": [
+      "與達賴喇嘛談心：尋找幸福的智慧",
+      "與達賴喇嘛談心：尋找幸福的智慧 Wisdom of Happiness"
+    ],
+    "sources": [
+      "ambassador.com.tw",
+      "kfa.kcg.gov.tw"
+    ],
+    "director": "芭芭拉米勒 Barbara MILLER、菲力浦德拉奎斯 Philip  DELAQUIS",
+    "original_title": null,
+    "year": 2024
+  },
+  "ee5349e8a7cc": {
+    "normalized_title": "暮光禁地",
+    "raw_titles": [
+      "暮光禁地"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "Justin Powell",
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 1634905
   },
   "97f9f48afd46": {
     "normalized_title": "雙雄起義",
@@ -212,6 +290,19 @@
     "year": 2026,
     "tmdb_id": 1481451
   },
+  "d62a3d135985": {
+    "normalized_title": "屍控片場性愛死",
+    "raw_titles": [
+      "屍控片場性愛死"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "Jane Schoenbrun",
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 1240889
+  },
   "029fef000be7": {
     "normalized_title": "社群清算",
     "raw_titles": [
@@ -276,19 +367,6 @@
     "original_title": null,
     "year": 2026,
     "tmdb_id": 1575667
-  },
-  "cea22efb829d": {
-    "normalized_title": "泥面人",
-    "raw_titles": [
-      "泥面人"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "James Watkins",
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1400940
   },
   "8d3eddf56c59": {
     "normalized_title": "逃出鯨吞",
@@ -545,17 +623,65 @@
     "original_title": null,
     "year": 2026
   },
-  "b46a151b4c24": {
-    "normalized_title": "與達賴喇嘛談心:尋找幸福的智慧",
+  "828c146c9234": {
+    "normalized_title": "全家就弒你家",
     "raw_titles": [
-      "與達賴喇嘛談心：尋找幸福的智慧 Wisdom of Happiness"
+      "全家就弒你家"
     ],
     "sources": [
-      "kfa.kcg.gov.tw"
+      "wonderful.movie.com.tw"
     ],
-    "director": "芭芭拉米勒 Barbara MILLER、菲力浦德拉奎斯 Philip  DELAQUIS",
+    "director": "岩崎裕介",
     "original_title": null,
-    "year": 2024
+    "year": 2026
+  },
+  "c867b35a9236": {
+    "normalized_title": "與達賴喇嘛談心:尋找幸福的智",
+    "raw_titles": [
+      "與達賴喇嘛談心：尋找幸福的智"
+    ],
+    "sources": [
+      "wonderful.movie.com.tw"
+    ],
+    "director": "芭芭拉米勒   菲力浦德拉奎斯",
+    "original_title": null,
+    "year": 2026
+  },
+  "15ad2346194c": {
+    "normalized_title": "我要當總統",
+    "raw_titles": [
+      "我要當總統"
+    ],
+    "sources": [
+      "wonderful.movie.com.tw"
+    ],
+    "director": "鳴瀨聖人",
+    "original_title": null,
+    "year": 2026
+  },
+  "75aa9b646538": {
+    "normalized_title": "貓貓影片節",
+    "raw_titles": [
+      "貓貓影片節"
+    ],
+    "sources": [
+      "wonderful.movie.com.tw"
+    ],
+    "director": "Will Braden",
+    "original_title": null,
+    "year": 2026
+  },
+  "8050004b6781": {
+    "normalized_title": "老千:惡魔之歌",
+    "raw_titles": [
+      "老千：惡魔之歌"
+    ],
+    "sources": [
+      "wonderful.movie.com.tw"
+    ],
+    "director": "崔國熙",
+    "original_title": null,
+    "year": 2026
   },
   "2eaa5817f7cb": {
     "normalized_title": "雙面薇若妮卡 The Double Life of Véronique",
