@@ -65,7 +65,7 @@
     "sources": [
       "ambassador.com.tw"
     ],
-    "director": "Marco Nguyen",
+    "director": "Nicolas Athané",
     "original_title": null,
     "year": 2026,
     "tmdb_id": 1061798
@@ -332,7 +332,8 @@
   "d62a3d135985": {
     "normalized_title": "屍控片場性愛死",
     "raw_titles": [
-      "屍控片場性愛死"
+      "屍控片場性愛死",
+      "（特別場）屍控片場性愛死"
     ],
     "sources": [
       "ambassador.com.tw"
@@ -458,6 +459,58 @@
     "original_title": null,
     "year": 2026,
     "tmdb_id": 1423191
+  },
+  "074ef29ad927": {
+    "normalized_title": "搶銀行先修班",
+    "raw_titles": [
+      "搶銀行先修班"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "大衛·雷奇",
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 1437511
+  },
+  "9199633a65cf": {
+    "normalized_title": "六個說謊的大學生",
+    "raw_titles": [
+      "六個說謊的大學生"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "김정훈",
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 1545057
+  },
+  "6a724fb32c14": {
+    "normalized_title": "聖誕驚奇夜",
+    "raw_titles": [
+      "聖誕驚奇夜"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "Ti West",
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 1567605
+  },
+  "1b346a74342d": {
+    "normalized_title": "鬼聲泣0",
+    "raw_titles": [
+      "鬼聲泣0"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "ณฤทธิ์ ยุวบูรณ์",
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 1556321
   },
   "f60f3db2cd86": {
     "normalized_title": "進擊的鼓手",
