@@ -56,6 +56,18 @@
     "original_title": "Wisdom of Happiness:A Heart-to-Heart with the Dalai Lama",
     "year": 2024
   },
+  "71809ca145d5": {
+    "normalized_title": "雞智逃亡生活",
+    "raw_titles": [
+      "雞智逃亡生活"
+    ],
+    "sources": [
+      "spot.org.tw"
+    ],
+    "director": "喬治帕爾菲 Pálfi György",
+    "original_title": "HEN",
+    "year": 2025
+  },
   "ef4d61de7af4": {
     "normalized_title": "Jim Queen:肌情四射",
     "raw_titles": [
@@ -69,6 +81,20 @@
     "original_title": null,
     "year": 2026,
     "tmdb_id": 1061798
+  },
+  "d62a3d135985": {
+    "normalized_title": "屍控片場性愛死",
+    "raw_titles": [
+      "（特別場）屍控片場性愛死",
+      "屍控片場性愛死"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "Jane Schoenbrun",
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 1240889
   },
   "537472b4b77e": {
     "normalized_title": "名偵探柯南 第30號殺人事件",
@@ -96,6 +122,19 @@
     "year": 2026,
     "tmdb_id": 1381071
   },
+  "c244aa1e219b": {
+    "normalized_title": "讓子彈飛",
+    "raw_titles": [
+      "（特別場）讓子彈飛"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "姜文",
+    "original_title": null,
+    "year": 2010,
+    "tmdb_id": 51533
+  },
   "cea22efb829d": {
     "normalized_title": "泥面人",
     "raw_titles": [
@@ -108,6 +147,97 @@
     "original_title": null,
     "year": 2026,
     "tmdb_id": 1400940
+  },
+  "074ef29ad927": {
+    "normalized_title": "搶銀行先修班",
+    "raw_titles": [
+      "搶銀行先修班"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "大衛·雷奇",
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 1437511
+  },
+  "18d7fce24cc2": {
+    "normalized_title": "沙丘:第二部",
+    "raw_titles": [
+      "沙丘：第二部（重映版）"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "丹尼·維勒納夫",
+    "original_title": null,
+    "year": 2024,
+    "tmdb_id": 693134
+  },
+  "cb997e21678a": {
+    "normalized_title": "沙丘",
+    "raw_titles": [
+      "沙丘（重映版）"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "丹尼·維勒納夫",
+    "original_title": null,
+    "year": 2021,
+    "tmdb_id": 438631
+  },
+  "9199633a65cf": {
+    "normalized_title": "六個說謊的大學生",
+    "raw_titles": [
+      "六個說謊的大學生"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "김정훈",
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 1545057
+  },
+  "08cd0c0f47a7": {
+    "normalized_title": "有用的人",
+    "raw_titles": [
+      "有用的人"
+    ],
+    "sources": [
+      "ambassador.com.tw",
+      "wonderful.movie.com.tw"
+    ],
+    "director": "李芸嬋",
+    "original_title": null,
+    "year": 2026
+  },
+  "6a724fb32c14": {
+    "normalized_title": "聖誕驚奇夜",
+    "raw_titles": [
+      "聖誕驚奇夜"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "Ti West",
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 1567605
+  },
+  "1b346a74342d": {
+    "normalized_title": "鬼聲泣0",
+    "raw_titles": [
+      "鬼聲泣0"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "ณฤทธิ์ ยุวบูรณ์",
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 1556321
   },
   "985f63f4b933": {
     "normalized_title": "樂園追放",
@@ -329,20 +459,6 @@
     "year": 2026,
     "tmdb_id": 1481451
   },
-  "d62a3d135985": {
-    "normalized_title": "屍控片場性愛死",
-    "raw_titles": [
-      "屍控片場性愛死",
-      "（特別場）屍控片場性愛死"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "Jane Schoenbrun",
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1240889
-  },
   "029fef000be7": {
     "normalized_title": "社群清算",
     "raw_titles": [
@@ -460,58 +576,6 @@
     "year": 2026,
     "tmdb_id": 1423191
   },
-  "074ef29ad927": {
-    "normalized_title": "搶銀行先修班",
-    "raw_titles": [
-      "搶銀行先修班"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "大衛·雷奇",
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1437511
-  },
-  "9199633a65cf": {
-    "normalized_title": "六個說謊的大學生",
-    "raw_titles": [
-      "六個說謊的大學生"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "김정훈",
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1545057
-  },
-  "6a724fb32c14": {
-    "normalized_title": "聖誕驚奇夜",
-    "raw_titles": [
-      "聖誕驚奇夜"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "Ti West",
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1567605
-  },
-  "1b346a74342d": {
-    "normalized_title": "鬼聲泣0",
-    "raw_titles": [
-      "鬼聲泣0"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "ณฤทธิ์ ยุวบูรณ์",
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1556321
-  },
   "f60f3db2cd86": {
     "normalized_title": "進擊的鼓手",
     "raw_titles": [
@@ -584,6 +648,30 @@
     "original_title": null,
     "year": 2026
   },
+  "aba4383c4270": {
+    "normalized_title": "高校人形金字塔",
+    "raw_titles": [
+      "高校人形金字塔"
+    ],
+    "sources": [
+      "wonderful.movie.com.tw"
+    ],
+    "director": "下津優太",
+    "original_title": null,
+    "year": 2026
+  },
+  "b1b03656633f": {
+    "normalized_title": "放送禁止:一夫三妻",
+    "raw_titles": [
+      "放送禁止：一夫三妻"
+    ],
+    "sources": [
+      "wonderful.movie.com.tw"
+    ],
+    "director": "長江俊和",
+    "original_title": null,
+    "year": 2026
+  },
   "8050004b6781": {
     "normalized_title": "老千:惡魔之歌",
     "raw_titles": [
@@ -593,6 +681,18 @@
       "wonderful.movie.com.tw"
     ],
     "director": "崔國熙",
+    "original_title": null,
+    "year": 2026
+  },
+  "4c087cd2978c": {
+    "normalized_title": "我們,巴黎管弦樂團",
+    "raw_titles": [
+      "我們，巴黎管弦樂團"
+    ],
+    "sources": [
+      "wonderful.movie.com.tw"
+    ],
+    "director": "菲利普貝齊亞（Philippe Béziat）",
     "original_title": null,
     "year": 2026
   },
