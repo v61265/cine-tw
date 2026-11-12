@@ -62,7 +62,8 @@
       "雞智逃亡生活"
     ],
     "sources": [
-      "spot.org.tw"
+      "spot.org.tw",
+      "ambassador.com.tw"
     ],
     "director": "喬治帕爾菲 Pálfi György",
     "original_title": "HEN",
@@ -81,6 +82,32 @@
     "original_title": null,
     "year": 2026,
     "tmdb_id": 1061798
+  },
+  "57a7b8a379a8": {
+    "normalized_title": "黑球",
+    "raw_titles": [
+      "（特別場）黑球"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "Javier Ambrossi",
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 1422041
+  },
+  "c244aa1e219b": {
+    "normalized_title": "讓子彈飛",
+    "raw_titles": [
+      "（應援特別場）讓子彈飛"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "姜文",
+    "original_title": null,
+    "year": 2010,
+    "tmdb_id": 51533
   },
   "d62a3d135985": {
     "normalized_title": "屍控片場性愛死",
@@ -122,19 +149,6 @@
     "year": 2026,
     "tmdb_id": 1381071
   },
-  "c244aa1e219b": {
-    "normalized_title": "讓子彈飛",
-    "raw_titles": [
-      "（特別場）讓子彈飛"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "姜文",
-    "original_title": null,
-    "year": 2010,
-    "tmdb_id": 51533
-  },
   "cea22efb829d": {
     "normalized_title": "泥面人",
     "raw_titles": [
@@ -160,6 +174,32 @@
     "original_title": null,
     "year": 2026,
     "tmdb_id": 1437511
+  },
+  "404579ab8190": {
+    "normalized_title": "告別的年代",
+    "raw_titles": [
+      "告別的年代"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "Edmund Yeo",
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 1613284
+  },
+  "b6772d9da84b": {
+    "normalized_title": "跟我一起玩吧?",
+    "raw_titles": [
+      "跟我一起玩吧？"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "清水崇",
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 1658226
   },
   "18d7fce24cc2": {
     "normalized_title": "沙丘:第二部",
@@ -200,6 +240,45 @@
     "year": 2026,
     "tmdb_id": 1545057
   },
+  "aba4383c4270": {
+    "normalized_title": "高校人形金字塔",
+    "raw_titles": [
+      "高校人形金字塔"
+    ],
+    "sources": [
+      "ambassador.com.tw",
+      "wonderful.movie.com.tw"
+    ],
+    "director": "下津優太",
+    "original_title": null,
+    "year": 2026
+  },
+  "1041fa7c3824": {
+    "normalized_title": "黑潮",
+    "raw_titles": [
+      "黑潮"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "Kethsvin Chee",
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 1630206
+  },
+  "b1b03656633f": {
+    "normalized_title": "放送禁止:一夫三妻",
+    "raw_titles": [
+      "放送禁止：一夫三妻"
+    ],
+    "sources": [
+      "ambassador.com.tw",
+      "wonderful.movie.com.tw"
+    ],
+    "director": "長江俊和",
+    "original_title": null,
+    "year": 2026
+  },
   "08cd0c0f47a7": {
     "normalized_title": "有用的人",
     "raw_titles": [
@@ -238,6 +317,19 @@
     "original_title": null,
     "year": 2026,
     "tmdb_id": 1556321
+  },
+  "4c087cd2978c": {
+    "normalized_title": "我們,巴黎管弦樂團",
+    "raw_titles": [
+      "我們，巴黎管弦樂團"
+    ],
+    "sources": [
+      "ambassador.com.tw",
+      "wonderful.movie.com.tw"
+    ],
+    "director": "菲利普貝齊亞（Philippe Béziat）",
+    "original_title": null,
+    "year": 2026
   },
   "985f63f4b933": {
     "normalized_title": "樂園追放",
@@ -600,18 +692,6 @@
     "original_title": null,
     "year": 2026
   },
-  "dc8dfc00cd38": {
-    "normalized_title": "幸福路上",
-    "raw_titles": [
-      "幸福路上"
-    ],
-    "sources": [
-      "wonderful.movie.com.tw"
-    ],
-    "director": "宋欣穎",
-    "original_title": null,
-    "year": 2026
-  },
   "6117f6d88984": {
     "normalized_title": "水花四濺4K修復版",
     "raw_titles": [
@@ -648,30 +728,6 @@
     "original_title": null,
     "year": 2026
   },
-  "aba4383c4270": {
-    "normalized_title": "高校人形金字塔",
-    "raw_titles": [
-      "高校人形金字塔"
-    ],
-    "sources": [
-      "wonderful.movie.com.tw"
-    ],
-    "director": "下津優太",
-    "original_title": null,
-    "year": 2026
-  },
-  "b1b03656633f": {
-    "normalized_title": "放送禁止:一夫三妻",
-    "raw_titles": [
-      "放送禁止：一夫三妻"
-    ],
-    "sources": [
-      "wonderful.movie.com.tw"
-    ],
-    "director": "長江俊和",
-    "original_title": null,
-    "year": 2026
-  },
   "8050004b6781": {
     "normalized_title": "老千:惡魔之歌",
     "raw_titles": [
@@ -681,18 +737,6 @@
       "wonderful.movie.com.tw"
     ],
     "director": "崔國熙",
-    "original_title": null,
-    "year": 2026
-  },
-  "4c087cd2978c": {
-    "normalized_title": "我們,巴黎管弦樂團",
-    "raw_titles": [
-      "我們，巴黎管弦樂團"
-    ],
-    "sources": [
-      "wonderful.movie.com.tw"
-    ],
-    "director": "菲利普貝齊亞（Philippe Béziat）",
     "original_title": null,
     "year": 2026
   },
