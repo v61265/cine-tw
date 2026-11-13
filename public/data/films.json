@@ -78,7 +78,7 @@
     "sources": [
       "ambassador.com.tw"
     ],
-    "director": "Nicolas Athané",
+    "director": "Marco Nguyen",
     "original_title": null,
     "year": 2026,
     "tmdb_id": 1061798
@@ -331,31 +331,6 @@
     "original_title": null,
     "year": 2026
   },
-  "985f63f4b933": {
-    "normalized_title": "樂園追放",
-    "raw_titles": [
-      "樂園追放"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "水島精二",
-    "original_title": null,
-    "year": 2014,
-    "tmdb_id": 304023
-  },
-  "1255070838ea": {
-    "normalized_title": "同級生:十週年重映",
-    "raw_titles": [
-      "同級生：十週年重映"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": null,
-    "original_title": null,
-    "year": null
-  },
   "4874ad1dae75": {
     "normalized_title": "貓貓影片節CVF 2026",
     "raw_titles": [
@@ -382,71 +357,6 @@
     "year": 2009,
     "tmdb_id": 20453
   },
-  "828c146c9234": {
-    "normalized_title": "全家就弒你家",
-    "raw_titles": [
-      "全家就弒你家"
-    ],
-    "sources": [
-      "ambassador.com.tw",
-      "wonderful.movie.com.tw"
-    ],
-    "director": "岩崎裕介",
-    "original_title": null,
-    "year": 2026
-  },
-  "0415008f562d": {
-    "normalized_title": "UFO離奇命案",
-    "raw_titles": [
-      "UFO離奇命案"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "郭嘉熹",
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1573705
-  },
-  "15ad2346194c": {
-    "normalized_title": "我要當總統",
-    "raw_titles": [
-      "我要當總統"
-    ],
-    "sources": [
-      "ambassador.com.tw",
-      "wonderful.movie.com.tw"
-    ],
-    "director": "鳴瀨聖人",
-    "original_title": null,
-    "year": 2026
-  },
-  "ee5349e8a7cc": {
-    "normalized_title": "暮光禁地",
-    "raw_titles": [
-      "暮光禁地"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "Justin Powell",
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1634905
-  },
-  "021da96d1123": {
-    "normalized_title": "完美配對謀殺案:真愛",
-    "raw_titles": [
-      "完美配對謀殺案：真愛"
-    ],
-    "sources": [
-      "ambassador.com.tw",
-      "wonderful.movie.com.tw"
-    ],
-    "director": "內田英治",
-    "original_title": null,
-    "year": 2026
-  },
   "4bb21075e153": {
     "normalized_title": "致遙不可及彼方的你",
     "raw_titles": [
@@ -459,19 +369,6 @@
     "original_title": null,
     "year": 2026,
     "tmdb_id": 1632015
-  },
-  "0021571b7c29": {
-    "normalized_title": "薩滿的最後告解",
-    "raw_titles": [
-      "薩滿的最後告解"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "Nattanont Cholumpi",
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1536008
   },
   "c4928983b431": {
     "normalized_title": "即刻狂飆",
@@ -551,97 +448,6 @@
     "year": 2026,
     "tmdb_id": 1481451
   },
-  "029fef000be7": {
-    "normalized_title": "社群清算",
-    "raw_titles": [
-      "社群清算"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "Aaron Sorkin",
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1281331
-  },
-  "214657120f91": {
-    "normalized_title": "鬼降靈",
-    "raw_titles": [
-      "鬼降靈"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "Hùng Trần",
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1575667
-  },
-  "8d3eddf56c59": {
-    "normalized_title": "逃出鯨吞",
-    "raw_titles": [
-      "逃出鯨吞"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "Brian Duffield",
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1255833
-  },
-  "1743962b4041": {
-    "normalized_title": "快打旋風",
-    "raw_titles": [
-      "快打旋風"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "櫻井北尾",
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1153576
-  },
-  "80a53c39a2dc": {
-    "normalized_title": "沙央",
-    "raw_titles": [
-      "沙央",
-      "沙央 SAYANG"
-    ],
-    "sources": [
-      "ambassador.com.tw",
-      "kfa.kcg.gov.tw"
-    ],
-    "director": "湯湘竹 TANG Shiang-chu",
-    "original_title": null,
-    "year": 2026
-  },
-  "4bc9f60144a6": {
-    "normalized_title": "進擊的鼓手 4K重映",
-    "raw_titles": [
-      "進擊的鼓手  4K重映"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": null,
-    "original_title": null,
-    "year": null
-  },
-  "d5394313c49b": {
-    "normalized_title": "宛如星辰的你",
-    "raw_titles": [
-      "宛如星辰的你"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "藤井道人",
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1590933
-  },
   "756ea6d55545": {
     "normalized_title": "挖掘者",
     "raw_titles": [
@@ -655,52 +461,27 @@
     "year": 2026,
     "tmdb_id": 1248832
   },
-  "650a1ea2e6ff": {
-    "normalized_title": "惡靈古堡:爆發夜",
+  "021da96d1123": {
+    "normalized_title": "完美配對謀殺案:真愛",
     "raw_titles": [
-      "惡靈古堡：爆發夜"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "札克·克瑞格",
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1423191
-  },
-  "f60f3db2cd86": {
-    "normalized_title": "進擊的鼓手",
-    "raw_titles": [
-      "進擊的鼓手(4K重映)"
+      "完美配對謀殺案：真愛"
     ],
     "sources": [
       "wonderful.movie.com.tw"
     ],
-    "director": "達米恩查澤雷 Damien Chazelle",
+    "director": "內田英治",
     "original_title": null,
     "year": 2026
   },
-  "e1bd3379db3e": {
-    "normalized_title": "金三角 孤軍淚",
+  "828c146c9234": {
+    "normalized_title": "全家就弒你家",
     "raw_titles": [
-      "金三角 孤軍淚"
+      "全家就弒你家"
     ],
     "sources": [
       "wonderful.movie.com.tw"
     ],
-    "director": "吳平海",
-    "original_title": null,
-    "year": 2026
-  },
-  "6117f6d88984": {
-    "normalized_title": "水花四濺4K修復版",
-    "raw_titles": [
-      "水花四濺4K修復版"
-    ],
-    "sources": [
-      "wonderful.movie.com.tw"
-    ],
-    "director": "傑克·哈贊（Jack Hazan）",
+    "director": "岩崎裕介",
     "original_title": null,
     "year": 2026
   },
@@ -713,18 +494,6 @@
       "wonderful.movie.com.tw"
     ],
     "director": "芭芭拉米勒   菲力浦德拉奎斯",
-    "original_title": null,
-    "year": 2026
-  },
-  "75aa9b646538": {
-    "normalized_title": "貓貓影片節",
-    "raw_titles": [
-      "貓貓影片節"
-    ],
-    "sources": [
-      "wonderful.movie.com.tw"
-    ],
-    "director": "Will Braden",
     "original_title": null,
     "year": 2026
   },
@@ -763,6 +532,18 @@
     "director": "克里斯多夫奇士勞斯基 Krzysztof KIESLOWSKI",
     "original_title": null,
     "year": 1994
+  },
+  "80a53c39a2dc": {
+    "normalized_title": "沙央",
+    "raw_titles": [
+      "沙央 SAYANG"
+    ],
+    "sources": [
+      "kfa.kcg.gov.tw"
+    ],
+    "director": "湯湘竹 TANG Shiang-chu",
+    "original_title": null,
+    "year": 2026
   },
   "177294a73f3f": {
     "normalized_title": "與畢諾許共舞",
