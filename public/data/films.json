@@ -69,20 +69,6 @@
     "original_title": "HEN",
     "year": 2025
   },
-  "ef4d61de7af4": {
-    "normalized_title": "Jim Queen:肌情四射",
-    "raw_titles": [
-      "（加開特別場）Jim Queen：肌情四射",
-      "Jim Queen：肌情四射"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "Marco Nguyen",
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1061798
-  },
   "57a7b8a379a8": {
     "normalized_title": "黑球",
     "raw_titles": [
@@ -149,18 +135,19 @@
     "year": 2026,
     "tmdb_id": 1381071
   },
-  "cea22efb829d": {
-    "normalized_title": "泥面人",
+  "ef4d61de7af4": {
+    "normalized_title": "Jim Queen:肌情四射",
     "raw_titles": [
-      "泥面人"
+      "（加開特別場）Jim Queen：肌情四射",
+      "Jim Queen：肌情四射"
     ],
     "sources": [
       "ambassador.com.tw"
     ],
-    "director": "James Watkins",
+    "director": "Nicolas Athané",
     "original_title": null,
     "year": 2026,
-    "tmdb_id": 1400940
+    "tmdb_id": 1061798
   },
   "074ef29ad927": {
     "normalized_title": "搶銀行先修班",
@@ -447,6 +434,19 @@
     "original_title": null,
     "year": 2026,
     "tmdb_id": 1481451
+  },
+  "cea22efb829d": {
+    "normalized_title": "泥面人",
+    "raw_titles": [
+      "泥面人"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "James Watkins",
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 1400940
   },
   "756ea6d55545": {
     "normalized_title": "挖掘者",

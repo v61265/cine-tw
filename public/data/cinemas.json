@@ -6,13 +6,6 @@
     "address": null,
     "city": "台北市"
   },
-  "ambassador-84b87b82-b936-4a39-b91f-e88328d33b4e": {
-    "name": "國賓大戲院",
-    "chain": "ambassador",
-    "is_indie": false,
-    "address": "台北市成都路88號",
-    "city": "台北市"
-  },
   "ambassador-453b2966-f7c2-44a9-b2eb-687493855d0e": {
     "name": "台北長春國賓影城",
     "chain": "ambassador",
@@ -26,6 +19,13 @@
     "is_indie": false,
     "address": "高雄市前鎮區中山四路100號3樓",
     "city": "高雄市"
+  },
+  "ambassador-84b87b82-b936-4a39-b91f-e88328d33b4e": {
+    "name": "國賓大戲院",
+    "chain": "ambassador",
+    "is_indie": false,
+    "address": "台北市成都路88號",
+    "city": "台北市"
   },
   "ambassador-3301d822-b385-4aa8-a9eb-aa59d58e95c9": {
     "name": "新莊晶冠國賓影城",
