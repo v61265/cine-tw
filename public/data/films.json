@@ -69,18 +69,18 @@
     "original_title": "HEN",
     "year": 2025
   },
-  "57a7b8a379a8": {
-    "normalized_title": "黑球",
+  "c3b7a98fd8c6": {
+    "normalized_title": "巴霍巴利王:王者再臨",
     "raw_titles": [
-      "（特別場）黑球"
+      "（特別場）巴霍巴利王：王者再臨"
     ],
     "sources": [
       "ambassador.com.tw"
     ],
-    "director": "Javier Ambrossi",
+    "director": "ఎస్.ఎస్. రాజమౌళి",
     "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1422041
+    "year": 2025,
+    "tmdb_id": 1511417
   },
   "c244aa1e219b": {
     "normalized_title": "讓子彈飛",
@@ -144,7 +144,7 @@
     "sources": [
       "ambassador.com.tw"
     ],
-    "director": "Nicolas Athané",
+    "director": "Marco Nguyen",
     "original_title": null,
     "year": 2026,
     "tmdb_id": 1061798
