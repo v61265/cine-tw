@@ -1,52 +1,14 @@
 {
-  "efa5738201ed": {
-    "normalized_title": "蕭邦!蕭邦!",
-    "raw_titles": [
-      "蕭邦！蕭邦！"
-    ],
-    "sources": [
-      "spot.org.tw",
-      "ambassador.com.tw",
-      "wonderful.movie.com.tw"
-    ],
-    "director": "米哈烏克維欽斯基 Michał KWIECIŃSKI",
-    "original_title": "CHOPIN, CHOPIN!",
-    "year": 2025
-  },
-  "5ab280726dfd": {
-    "normalized_title": "世紀初戀 楊麗花",
-    "raw_titles": [
-      "世紀初戀 楊麗花"
-    ],
-    "sources": [
-      "spot.org.tw",
-      "ambassador.com.tw",
-      "wonderful.movie.com.tw"
-    ],
-    "director": "曾文珍 TSENG Wen-chen",
-    "original_title": "Emperor On Stage",
-    "year": 2026
-  },
-  "fbc0b79f8c61": {
-    "normalized_title": "幸福的麵包",
-    "raw_titles": [
-      "幸福的麵包"
-    ],
-    "sources": [
-      "spot.org.tw"
-    ],
-    "director": "三島有紀子 MISHIMA Yukiko",
-    "original_title": "Bread Of Happiness",
-    "year": 2012
-  },
   "b46a151b4c24": {
     "normalized_title": "與達賴喇嘛談心:尋找幸福的智慧",
     "raw_titles": [
-      "與達賴喇嘛談心：尋找幸福的智慧"
+      "與達賴喇嘛談心：尋找幸福的智慧",
+      "與達賴喇嘛談心：尋找幸福的智慧 Wisdom of Happiness"
     ],
     "sources": [
       "spot.org.tw",
-      "ambassador.com.tw"
+      "ambassador.com.tw",
+      "kfa.kcg.gov.tw"
     ],
     "director": "芭芭拉米勒 Barbara Miller菲力浦德拉奎斯 Philip Delaquis",
     "original_title": "Wisdom of Happiness:A Heart-to-Heart with the Dalai Lama",
@@ -327,6 +289,21 @@
     "year": 2009,
     "tmdb_id": 20453
   },
+  "5ab280726dfd": {
+    "normalized_title": "世紀初戀 楊麗花",
+    "raw_titles": [
+      "世紀初戀 楊麗花",
+      "世紀初戀 楊麗花 Emperor on Stage"
+    ],
+    "sources": [
+      "ambassador.com.tw",
+      "wonderful.movie.com.tw",
+      "kfa.kcg.gov.tw"
+    ],
+    "director": "曾文珍",
+    "original_title": null,
+    "year": 2026
+  },
   "4bb21075e153": {
     "normalized_title": "致遙不可及彼方的你",
     "raw_titles": [
@@ -418,6 +395,19 @@
     "year": 2026,
     "tmdb_id": 1481451
   },
+  "efa5738201ed": {
+    "normalized_title": "蕭邦!蕭邦!",
+    "raw_titles": [
+      "蕭邦！蕭邦！"
+    ],
+    "sources": [
+      "ambassador.com.tw",
+      "wonderful.movie.com.tw"
+    ],
+    "director": "米修卡威辛斯基",
+    "original_title": null,
+    "year": 2026
+  },
   "cea22efb829d": {
     "normalized_title": "泥面人",
     "raw_titles": [
@@ -491,5 +481,101 @@
     "director": "崔國熙",
     "original_title": null,
     "year": 2026
+  },
+  "57a7b8a379a8": {
+    "normalized_title": "黑球",
+    "raw_titles": [
+      "黑球(限定特典場)"
+    ],
+    "sources": [
+      "wonderful.movie.com.tw"
+    ],
+    "director": "哈維爾．安布羅西 Javier Ambrossi 哈維爾．卡爾沃 Javier Calvo",
+    "original_title": null,
+    "year": 2026
+  },
+  "2eaa5817f7cb": {
+    "normalized_title": "雙面薇若妮卡 The Double Life of Véronique",
+    "raw_titles": [
+      "雙面薇若妮卡 The Double Life of Véronique"
+    ],
+    "sources": [
+      "kfa.kcg.gov.tw"
+    ],
+    "director": "克里斯多夫奇士勞斯基 Krzysztof KIESLOWSKI",
+    "original_title": null,
+    "year": 1991
+  },
+  "f4adefccdf74": {
+    "normalized_title": "紅色情深",
+    "raw_titles": [
+      "紅色情深 Three Colors: Red"
+    ],
+    "sources": [
+      "kfa.kcg.gov.tw"
+    ],
+    "director": "克里斯多夫奇士勞斯基 Krzysztof KIESLOWSKI",
+    "original_title": null,
+    "year": 1994
+  },
+  "80a53c39a2dc": {
+    "normalized_title": "沙央",
+    "raw_titles": [
+      "沙央 SAYANG"
+    ],
+    "sources": [
+      "kfa.kcg.gov.tw"
+    ],
+    "director": "湯湘竹 TANG Shiang-chu",
+    "original_title": null,
+    "year": 2026
+  },
+  "177294a73f3f": {
+    "normalized_title": "與畢諾許共舞",
+    "raw_titles": [
+      "與畢諾許共舞 In-I in Motion"
+    ],
+    "sources": [
+      "kfa.kcg.gov.tw"
+    ],
+    "director": "茱麗葉畢諾許 Juliette BINOCHE",
+    "original_title": null,
+    "year": 2025
+  },
+  "59944675b5e7": {
+    "normalized_title": "白色情迷",
+    "raw_titles": [
+      "白色情迷 Three Colors: White"
+    ],
+    "sources": [
+      "kfa.kcg.gov.tw"
+    ],
+    "director": "克里斯多夫奇士勞斯基 Krzysztof KIESLOWSKI",
+    "original_title": null,
+    "year": 1994
+  },
+  "7c6715516088": {
+    "normalized_title": "廚師發辦",
+    "raw_titles": [
+      "廚師發辦 The Dating Menu"
+    ],
+    "sources": [
+      "kfa.kcg.gov.tw"
+    ],
+    "director": "黃浩然 Amos WHY、鍾宏杰 Frankie CHUNG",
+    "original_title": null,
+    "year": 2026
+  },
+  "3a67b79e8017": {
+    "normalized_title": "藍色情挑",
+    "raw_titles": [
+      "藍色情挑 Three Colors: Blue"
+    ],
+    "sources": [
+      "kfa.kcg.gov.tw"
+    ],
+    "director": "克里斯多夫奇士勞斯基 Krzysztof KIESLOWSKI",
+    "original_title": null,
+    "year": 1993
   }
 }
