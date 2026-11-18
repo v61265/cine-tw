@@ -27,6 +27,20 @@
     "original_title": "HEN",
     "year": 2025
   },
+  "57a7b8a379a8": {
+    "normalized_title": "黑球",
+    "raw_titles": [
+      "黑球",
+      "黑球(限定特典場)"
+    ],
+    "sources": [
+      "spot.org.tw",
+      "wonderful.movie.com.tw"
+    ],
+    "director": "哈維爾安布羅西 Javier Ambrossi",
+    "original_title": "La bola negra",
+    "year": 2026
+  },
   "c3b7a98fd8c6": {
     "normalized_title": "巴霍巴利王:王者再臨",
     "raw_titles": [
@@ -470,6 +484,30 @@
     "original_title": null,
     "year": 2026
   },
+  "afd25fdc435b": {
+    "normalized_title": "善男信女",
+    "raw_titles": [
+      "善男信女"
+    ],
+    "sources": [
+      "wonderful.movie.com.tw"
+    ],
+    "director": "楊兩全",
+    "original_title": null,
+    "year": 2026
+  },
+  "d53698b6ec94": {
+    "normalized_title": "重返巔峰北壁",
+    "raw_titles": [
+      "重返巔峰北壁"
+    ],
+    "sources": [
+      "wonderful.movie.com.tw"
+    ],
+    "director": "王一訢",
+    "original_title": null,
+    "year": 2026
+  },
   "8050004b6781": {
     "normalized_title": "老千:惡魔之歌",
     "raw_titles": [
@@ -482,15 +520,27 @@
     "original_title": null,
     "year": 2026
   },
-  "57a7b8a379a8": {
-    "normalized_title": "黑球",
+  "3e4a40093752": {
+    "normalized_title": "紙老虎",
     "raw_titles": [
-      "黑球(限定特典場)"
+      "紙老虎"
     ],
     "sources": [
       "wonderful.movie.com.tw"
     ],
-    "director": "哈維爾．安布羅西 Javier Ambrossi 哈維爾．卡爾沃 Javier Calvo",
+    "director": "詹姆士葛雷 James Gray",
+    "original_title": null,
+    "year": 2026
+  },
+  "508f387a8e7b": {
+    "normalized_title": "皎潔深宵之月",
+    "raw_titles": [
+      "皎潔深宵之月"
+    ],
+    "sources": [
+      "wonderful.movie.com.tw"
+    ],
+    "director": "竹村謙太郎",
     "original_title": null,
     "year": 2026
   },
