@@ -20,6 +20,13 @@
     "address": "新北市林口區文化三路一段402巷2號4F",
     "city": "新北市"
   },
+  "ambassador-84b87b82-b936-4a39-b91f-e88328d33b4e": {
+    "name": "國賓大戲院",
+    "chain": "ambassador",
+    "is_indie": false,
+    "address": "台北市成都路88號",
+    "city": "台北市"
+  },
   "ambassador-1e42d235-c3cf-4f75-a382-af60f67a4aad": {
     "name": "淡水禮萊國賓影城",
     "chain": "ambassador",
@@ -61,13 +68,6 @@
     "is_indie": false,
     "address": "屏東市仁愛路90號6樓",
     "city": "屏東市"
-  },
-  "ambassador-84b87b82-b936-4a39-b91f-e88328d33b4e": {
-    "name": "國賓大戲院",
-    "chain": "ambassador",
-    "is_indie": false,
-    "address": "台北市成都路88號",
-    "city": "台北市"
   },
   "wonderful-taipei": {
     "name": "真善美劇院（台北）",

@@ -35,24 +35,53 @@
     ],
     "sources": [
       "spot.org.tw",
+      "ambassador.com.tw",
       "wonderful.movie.com.tw"
     ],
     "director": "哈維爾安布羅西 Javier Ambrossi",
     "original_title": "La bola negra",
     "year": 2026
   },
-  "c3b7a98fd8c6": {
-    "normalized_title": "巴霍巴利王:王者再臨",
+  "3e4a40093752": {
+    "normalized_title": "紙老虎",
     "raw_titles": [
-      "（特別場）巴霍巴利王：王者再臨"
+      "（特別場）紙老虎",
+      "紙老虎"
+    ],
+    "sources": [
+      "ambassador.com.tw",
+      "wonderful.movie.com.tw"
+    ],
+    "director": "詹姆士葛雷 James Gray",
+    "original_title": null,
+    "year": 2026
+  },
+  "ba8b8dfd2b42": {
+    "normalized_title": "飢餓遊戲:黎明收割",
+    "raw_titles": [
+      "飢餓遊戲：黎明收割"
     ],
     "sources": [
       "ambassador.com.tw"
     ],
-    "director": "ఎస్.ఎస్. రాజమౌళి",
+    "director": "弗朗西斯·勞倫斯",
     "original_title": null,
-    "year": 2025,
-    "tmdb_id": 1511417
+    "year": 2026,
+    "tmdb_id": 1300968
+  },
+  "ef4d61de7af4": {
+    "normalized_title": "Jim Queen:肌情四射",
+    "raw_titles": [
+      "（加開特別場）Jim Queen：肌情四射",
+      "Jim Queen：肌情四射"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "Marco Nguyen",
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 1061798
   },
   "d62a3d135985": {
     "normalized_title": "屍控片場性愛死",
@@ -94,19 +123,122 @@
     "year": 2026,
     "tmdb_id": 1381071
   },
-  "ef4d61de7af4": {
-    "normalized_title": "Jim Queen:肌情四射",
+  "c3b7a98fd8c6": {
+    "normalized_title": "巴霍巴利王:王者再臨",
     "raw_titles": [
-      "（加開特別場）Jim Queen：肌情四射",
-      "Jim Queen：肌情四射"
+      "（特別場）巴霍巴利王：王者再臨",
+      "巴霍巴利王：王者再臨"
     ],
     "sources": [
       "ambassador.com.tw"
     ],
-    "director": "Marco Nguyen",
+    "director": "ఎస్.ఎస్. రాజమౌళి",
+    "original_title": null,
+    "year": 2025,
+    "tmdb_id": 1511417
+  },
+  "afd25fdc435b": {
+    "normalized_title": "善男信女",
+    "raw_titles": [
+      "善男信女"
+    ],
+    "sources": [
+      "ambassador.com.tw",
+      "wonderful.movie.com.tw"
+    ],
+    "director": "楊兩全",
+    "original_title": null,
+    "year": 2026
+  },
+  "f942eb137e7b": {
+    "normalized_title": "偵戰",
+    "raw_titles": [
+      "偵戰"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "James Hung",
     "original_title": null,
     "year": 2026,
-    "tmdb_id": 1061798
+    "tmdb_id": 1387772
+  },
+  "508f387a8e7b": {
+    "normalized_title": "皎潔深宵之月",
+    "raw_titles": [
+      "皎潔深宵之月"
+    ],
+    "sources": [
+      "ambassador.com.tw",
+      "wonderful.movie.com.tw"
+    ],
+    "director": "竹村謙太郎",
+    "original_title": null,
+    "year": 2026
+  },
+  "805771cffc0c": {
+    "normalized_title": "樂園追放 心之共鳴",
+    "raw_titles": [
+      "樂園追放 心之共鳴"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "水島精二",
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 1236857
+  },
+  "d1c7e2cd9e5f": {
+    "normalized_title": "純愛上等!",
+    "raw_titles": [
+      "純愛上等！"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "八重樫風雅",
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 1467982
+  },
+  "ec0058ece279": {
+    "normalized_title": "第四幕",
+    "raw_titles": [
+      "第四幕"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "Keane Wong Tak-Kin",
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 1569664
+  },
+  "33db484670f8": {
+    "normalized_title": "劇場版 來自深淵:覺醒的神祕",
+    "raw_titles": [
+      "劇場版 來自深淵：覺醒的神祕"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": null,
+    "original_title": null,
+    "year": null
+  },
+  "d53698b6ec94": {
+    "normalized_title": "重返巔峰北壁",
+    "raw_titles": [
+      "重返巔峰北壁"
+    ],
+    "sources": [
+      "ambassador.com.tw",
+      "wonderful.movie.com.tw"
+    ],
+    "director": "王一訢",
+    "original_title": null,
+    "year": 2026
   },
   "074ef29ad927": {
     "normalized_title": "搶銀行先修班",
@@ -448,18 +580,6 @@
     "year": 2026,
     "tmdb_id": 1248832
   },
-  "021da96d1123": {
-    "normalized_title": "完美配對謀殺案:真愛",
-    "raw_titles": [
-      "完美配對謀殺案：真愛"
-    ],
-    "sources": [
-      "wonderful.movie.com.tw"
-    ],
-    "director": "內田英治",
-    "original_title": null,
-    "year": 2026
-  },
   "828c146c9234": {
     "normalized_title": "全家就弒你家",
     "raw_titles": [
@@ -484,30 +604,6 @@
     "original_title": null,
     "year": 2026
   },
-  "afd25fdc435b": {
-    "normalized_title": "善男信女",
-    "raw_titles": [
-      "善男信女"
-    ],
-    "sources": [
-      "wonderful.movie.com.tw"
-    ],
-    "director": "楊兩全",
-    "original_title": null,
-    "year": 2026
-  },
-  "d53698b6ec94": {
-    "normalized_title": "重返巔峰北壁",
-    "raw_titles": [
-      "重返巔峰北壁"
-    ],
-    "sources": [
-      "wonderful.movie.com.tw"
-    ],
-    "director": "王一訢",
-    "original_title": null,
-    "year": 2026
-  },
   "8050004b6781": {
     "normalized_title": "老千:惡魔之歌",
     "raw_titles": [
@@ -517,30 +613,6 @@
       "wonderful.movie.com.tw"
     ],
     "director": "崔國熙",
-    "original_title": null,
-    "year": 2026
-  },
-  "3e4a40093752": {
-    "normalized_title": "紙老虎",
-    "raw_titles": [
-      "紙老虎"
-    ],
-    "sources": [
-      "wonderful.movie.com.tw"
-    ],
-    "director": "詹姆士葛雷 James Gray",
-    "original_title": null,
-    "year": 2026
-  },
-  "508f387a8e7b": {
-    "normalized_title": "皎潔深宵之月",
-    "raw_titles": [
-      "皎潔深宵之月"
-    ],
-    "sources": [
-      "wonderful.movie.com.tw"
-    ],
-    "director": "竹村謙太郎",
     "original_title": null,
     "year": 2026
   },
