@@ -30,8 +30,7 @@
   "57a7b8a379a8": {
     "normalized_title": "黑球",
     "raw_titles": [
-      "黑球",
-      "黑球(限定特典場)"
+      "黑球"
     ],
     "sources": [
       "spot.org.tw",
@@ -72,8 +71,7 @@
   "ef4d61de7af4": {
     "normalized_title": "Jim Queen:肌情四射",
     "raw_titles": [
-      "（加開特別場）Jim Queen：肌情四射",
-      "Jim Queen：肌情四射"
+      "（加開特別場）Jim Queen：肌情四射"
     ],
     "sources": [
       "ambassador.com.tw"
@@ -82,20 +80,6 @@
     "original_title": null,
     "year": 2026,
     "tmdb_id": 1061798
-  },
-  "d62a3d135985": {
-    "normalized_title": "屍控片場性愛死",
-    "raw_titles": [
-      "（特別場）屍控片場性愛死",
-      "屍控片場性愛死"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "Jane Schoenbrun",
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1240889
   },
   "537472b4b77e": {
     "normalized_title": "名偵探柯南 第30號殺人事件",
@@ -122,6 +106,19 @@
     "original_title": null,
     "year": 2026,
     "tmdb_id": 1381071
+  },
+  "8652a357ee33": {
+    "normalized_title": "歡迎光臨魔法秘境",
+    "raw_titles": [
+      "歡迎光臨魔法秘境"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "Jason Hand",
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 1538497
   },
   "c3b7a98fd8c6": {
     "normalized_title": "巴霍巴利王:王者再臨",
@@ -266,19 +263,6 @@
     "year": 2026,
     "tmdb_id": 1613284
   },
-  "b6772d9da84b": {
-    "normalized_title": "跟我一起玩吧?",
-    "raw_titles": [
-      "跟我一起玩吧？"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "清水崇",
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1658226
-  },
   "18d7fce24cc2": {
     "normalized_title": "沙丘:第二部",
     "raw_titles": [
@@ -291,19 +275,6 @@
     "original_title": null,
     "year": 2024,
     "tmdb_id": 693134
-  },
-  "cb997e21678a": {
-    "normalized_title": "沙丘",
-    "raw_titles": [
-      "沙丘（重映版）"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "丹尼·維勒納夫",
-    "original_title": null,
-    "year": 2021,
-    "tmdb_id": 438631
   },
   "9199633a65cf": {
     "normalized_title": "六個說謊的大學生",
@@ -318,19 +289,6 @@
     "year": 2026,
     "tmdb_id": 1545057
   },
-  "aba4383c4270": {
-    "normalized_title": "高校人形金字塔",
-    "raw_titles": [
-      "高校人形金字塔"
-    ],
-    "sources": [
-      "ambassador.com.tw",
-      "wonderful.movie.com.tw"
-    ],
-    "director": "下津優太",
-    "original_title": null,
-    "year": 2026
-  },
   "1041fa7c3824": {
     "normalized_title": "黑潮",
     "raw_titles": [
@@ -343,19 +301,6 @@
     "original_title": null,
     "year": 2026,
     "tmdb_id": 1630206
-  },
-  "b1b03656633f": {
-    "normalized_title": "放送禁止:一夫三妻",
-    "raw_titles": [
-      "放送禁止：一夫三妻"
-    ],
-    "sources": [
-      "ambassador.com.tw",
-      "wonderful.movie.com.tw"
-    ],
-    "director": "長江俊和",
-    "original_title": null,
-    "year": 2026
   },
   "08cd0c0f47a7": {
     "normalized_title": "有用的人",
@@ -409,32 +354,6 @@
     "original_title": null,
     "year": 2026
   },
-  "4874ad1dae75": {
-    "normalized_title": "貓貓影片節CVF 2026",
-    "raw_titles": [
-      "貓貓影片節CVF 2026"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "Will Braden",
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1711224
-  },
-  "480fadd15f7d": {
-    "normalized_title": "三個傻瓜.",
-    "raw_titles": [
-      "三個傻瓜."
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "Rajkumar Hirani",
-    "original_title": null,
-    "year": 2009,
-    "tmdb_id": 20453
-  },
   "5ab280726dfd": {
     "normalized_title": "世紀初戀 楊麗花",
     "raw_titles": [
@@ -449,58 +368,6 @@
     "director": "曾文珍",
     "original_title": null,
     "year": 2026
-  },
-  "4bb21075e153": {
-    "normalized_title": "致遙不可及彼方的你",
-    "raw_titles": [
-      "致遙不可及彼方的你"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "和田純一",
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1632015
-  },
-  "c4928983b431": {
-    "normalized_title": "即刻狂飆",
-    "raw_titles": [
-      "即刻狂飆"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "Mark Vanselow",
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1294189
-  },
-  "f56e2b6c299c": {
-    "normalized_title": "出賣影子的女人",
-    "raw_titles": [
-      "出賣影子的女人"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": null,
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1797620
-  },
-  "5fb96a178e6e": {
-    "normalized_title": "歡迎來到朵莉之家",
-    "raw_titles": [
-      "歡迎來到朵莉之家"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "Rady Fu",
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1473553
   },
   "06f7d5b5aa67": {
     "normalized_title": "歐威爾:2+2=5",
@@ -528,18 +395,18 @@
     "year": 2010,
     "tmdb_id": 51533
   },
-  "22bb158c4023": {
-    "normalized_title": "消失的金鳳娜",
+  "d62a3d135985": {
+    "normalized_title": "屍控片場性愛死",
     "raw_titles": [
-      "消失的金鳳娜"
+      "屍控片場性愛死"
     ],
     "sources": [
       "ambassador.com.tw"
     ],
-    "director": "謝庭菡",
+    "director": "Jane Schoenbrun",
     "original_title": null,
     "year": 2026,
-    "tmdb_id": 1481451
+    "tmdb_id": 1240889
   },
   "efa5738201ed": {
     "normalized_title": "蕭邦!蕭邦!",
@@ -580,18 +447,6 @@
     "year": 2026,
     "tmdb_id": 1248832
   },
-  "828c146c9234": {
-    "normalized_title": "全家就弒你家",
-    "raw_titles": [
-      "全家就弒你家"
-    ],
-    "sources": [
-      "wonderful.movie.com.tw"
-    ],
-    "director": "岩崎裕介",
-    "original_title": null,
-    "year": 2026
-  },
   "c867b35a9236": {
     "normalized_title": "與達賴喇嘛談心:尋找幸福的智",
     "raw_titles": [
@@ -601,18 +456,6 @@
       "wonderful.movie.com.tw"
     ],
     "director": "芭芭拉米勒   菲力浦德拉奎斯",
-    "original_title": null,
-    "year": 2026
-  },
-  "8050004b6781": {
-    "normalized_title": "老千:惡魔之歌",
-    "raw_titles": [
-      "老千：惡魔之歌"
-    ],
-    "sources": [
-      "wonderful.movie.com.tw"
-    ],
-    "director": "崔國熙",
     "original_title": null,
     "year": 2026
   },
