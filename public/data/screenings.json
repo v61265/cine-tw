@@ -2,36 +2,6 @@
   {
     "film_id": "b46a151b4c24",
     "cinema_id": "spot-taipei",
-    "datetime_start": "2026-11-17T19:05:00",
-    "format_raw": null,
-    "language": null,
-    "booking_url": null,
-    "booking_platform": "onsite",
-    "source": "spot.org.tw"
-  },
-  {
-    "film_id": "b46a151b4c24",
-    "cinema_id": "spot-taipei",
-    "datetime_start": "2026-11-18T13:25:00",
-    "format_raw": null,
-    "language": null,
-    "booking_url": null,
-    "booking_platform": "onsite",
-    "source": "spot.org.tw"
-  },
-  {
-    "film_id": "b46a151b4c24",
-    "cinema_id": "spot-taipei",
-    "datetime_start": "2026-11-19T11:00:00",
-    "format_raw": null,
-    "language": null,
-    "booking_url": null,
-    "booking_platform": "onsite",
-    "source": "spot.org.tw"
-  },
-  {
-    "film_id": "b46a151b4c24",
-    "cinema_id": "spot-taipei",
     "datetime_start": "2026-11-20T16:10:00",
     "format_raw": null,
     "language": null,
@@ -93,26 +63,6 @@
     "film_id": "b46a151b4c24",
     "cinema_id": "spot-taipei",
     "datetime_start": "2026-11-26T21:05:00",
-    "format_raw": null,
-    "language": null,
-    "booking_url": null,
-    "booking_platform": "onsite",
-    "source": "spot.org.tw"
-  },
-  {
-    "film_id": "71809ca145d5",
-    "cinema_id": "spot-taipei",
-    "datetime_start": "2026-11-18T15:15:00",
-    "format_raw": null,
-    "language": null,
-    "booking_url": null,
-    "booking_platform": "onsite",
-    "source": "spot.org.tw"
-  },
-  {
-    "film_id": "71809ca145d5",
-    "cinema_id": "spot-taipei",
-    "datetime_start": "2026-11-19T21:30:00",
     "format_raw": null,
     "language": null,
     "booking_url": null,
@@ -266,946 +216,6 @@
     "format_raw": "(數位‧英文版)（特別場）紙老虎",
     "language": "英文版",
     "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=453b2966-f7c2-44a9-b2eb-687493855d0e&DT=2026/11/21",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "ba8b8dfd2b42",
-    "cinema_id": "ambassador-453b2966-f7c2-44a9-b2eb-687493855d0e",
-    "datetime_start": "2026-11-20T10:50:00",
-    "format_raw": "(數位‧英文版)飢餓遊戲：黎明收割",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=453b2966-f7c2-44a9-b2eb-687493855d0e&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "ba8b8dfd2b42",
-    "cinema_id": "ambassador-453b2966-f7c2-44a9-b2eb-687493855d0e",
-    "datetime_start": "2026-11-20T11:40:00",
-    "format_raw": "(數位‧英文版)飢餓遊戲：黎明收割",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=453b2966-f7c2-44a9-b2eb-687493855d0e&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "ba8b8dfd2b42",
-    "cinema_id": "ambassador-453b2966-f7c2-44a9-b2eb-687493855d0e",
-    "datetime_start": "2026-11-20T12:50:00",
-    "format_raw": "(數位‧英文版)飢餓遊戲：黎明收割",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=453b2966-f7c2-44a9-b2eb-687493855d0e&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "ba8b8dfd2b42",
-    "cinema_id": "ambassador-453b2966-f7c2-44a9-b2eb-687493855d0e",
-    "datetime_start": "2026-11-20T14:35:00",
-    "format_raw": "(數位‧英文版)飢餓遊戲：黎明收割",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=453b2966-f7c2-44a9-b2eb-687493855d0e&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "ba8b8dfd2b42",
-    "cinema_id": "ambassador-453b2966-f7c2-44a9-b2eb-687493855d0e",
-    "datetime_start": "2026-11-20T15:25:00",
-    "format_raw": "(數位‧英文版)飢餓遊戲：黎明收割",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=453b2966-f7c2-44a9-b2eb-687493855d0e&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "ba8b8dfd2b42",
-    "cinema_id": "ambassador-453b2966-f7c2-44a9-b2eb-687493855d0e",
-    "datetime_start": "2026-11-20T16:40:00",
-    "format_raw": "(數位‧英文版)飢餓遊戲：黎明收割",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=453b2966-f7c2-44a9-b2eb-687493855d0e&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "ba8b8dfd2b42",
-    "cinema_id": "ambassador-453b2966-f7c2-44a9-b2eb-687493855d0e",
-    "datetime_start": "2026-11-20T17:30:00",
-    "format_raw": "(數位‧英文版)飢餓遊戲：黎明收割",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=453b2966-f7c2-44a9-b2eb-687493855d0e&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "ba8b8dfd2b42",
-    "cinema_id": "ambassador-453b2966-f7c2-44a9-b2eb-687493855d0e",
-    "datetime_start": "2026-11-20T19:35:00",
-    "format_raw": "(數位‧英文版)飢餓遊戲：黎明收割",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=453b2966-f7c2-44a9-b2eb-687493855d0e&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "ba8b8dfd2b42",
-    "cinema_id": "ambassador-453b2966-f7c2-44a9-b2eb-687493855d0e",
-    "datetime_start": "2026-11-20T20:30:00",
-    "format_raw": "(數位‧英文版)飢餓遊戲：黎明收割",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=453b2966-f7c2-44a9-b2eb-687493855d0e&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "ba8b8dfd2b42",
-    "cinema_id": "ambassador-453b2966-f7c2-44a9-b2eb-687493855d0e",
-    "datetime_start": "2026-11-20T21:30:00",
-    "format_raw": "(數位‧英文版)飢餓遊戲：黎明收割",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=453b2966-f7c2-44a9-b2eb-687493855d0e&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "ba8b8dfd2b42",
-    "cinema_id": "ambassador-453b2966-f7c2-44a9-b2eb-687493855d0e",
-    "datetime_start": "2026-11-20T22:30:00",
-    "format_raw": "(數位‧英文版)飢餓遊戲：黎明收割",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=453b2966-f7c2-44a9-b2eb-687493855d0e&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "ba8b8dfd2b42",
-    "cinema_id": "ambassador-9383c5fa-b4f3-4ba8-ba7a-c25c7df95fd0",
-    "datetime_start": "2026-11-20T14:30:00",
-    "format_raw": "(數位‧英文版)飢餓遊戲：黎明收割",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=9383c5fa-b4f3-4ba8-ba7a-c25c7df95fd0&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "ba8b8dfd2b42",
-    "cinema_id": "ambassador-9383c5fa-b4f3-4ba8-ba7a-c25c7df95fd0",
-    "datetime_start": "2026-11-20T15:25:00",
-    "format_raw": "(數位‧英文版)飢餓遊戲：黎明收割",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=9383c5fa-b4f3-4ba8-ba7a-c25c7df95fd0&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "ba8b8dfd2b42",
-    "cinema_id": "ambassador-9383c5fa-b4f3-4ba8-ba7a-c25c7df95fd0",
-    "datetime_start": "2026-11-20T17:25:00",
-    "format_raw": "(數位‧英文版)飢餓遊戲：黎明收割",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=9383c5fa-b4f3-4ba8-ba7a-c25c7df95fd0&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "ba8b8dfd2b42",
-    "cinema_id": "ambassador-9383c5fa-b4f3-4ba8-ba7a-c25c7df95fd0",
-    "datetime_start": "2026-11-20T18:20:00",
-    "format_raw": "(數位‧英文版)飢餓遊戲：黎明收割",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=9383c5fa-b4f3-4ba8-ba7a-c25c7df95fd0&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "ba8b8dfd2b42",
-    "cinema_id": "ambassador-9383c5fa-b4f3-4ba8-ba7a-c25c7df95fd0",
-    "datetime_start": "2026-11-20T20:20:00",
-    "format_raw": "(數位‧英文版)飢餓遊戲：黎明收割",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=9383c5fa-b4f3-4ba8-ba7a-c25c7df95fd0&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "ba8b8dfd2b42",
-    "cinema_id": "ambassador-9383c5fa-b4f3-4ba8-ba7a-c25c7df95fd0",
-    "datetime_start": "2026-11-20T21:15:00",
-    "format_raw": "(數位‧英文版)飢餓遊戲：黎明收割",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=9383c5fa-b4f3-4ba8-ba7a-c25c7df95fd0&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "ba8b8dfd2b42",
-    "cinema_id": "ambassador-9383c5fa-b4f3-4ba8-ba7a-c25c7df95fd0",
-    "datetime_start": "2026-11-20T13:20:00",
-    "format_raw": "(數位‧英文版)飢餓遊戲：黎明收割",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=9383c5fa-b4f3-4ba8-ba7a-c25c7df95fd0&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "ba8b8dfd2b42",
-    "cinema_id": "ambassador-9383c5fa-b4f3-4ba8-ba7a-c25c7df95fd0",
-    "datetime_start": "2026-11-20T16:20:00",
-    "format_raw": "(數位‧英文版)飢餓遊戲：黎明收割",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=9383c5fa-b4f3-4ba8-ba7a-c25c7df95fd0&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "ba8b8dfd2b42",
-    "cinema_id": "ambassador-9383c5fa-b4f3-4ba8-ba7a-c25c7df95fd0",
-    "datetime_start": "2026-11-20T19:20:00",
-    "format_raw": "(數位‧英文版)飢餓遊戲：黎明收割",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=9383c5fa-b4f3-4ba8-ba7a-c25c7df95fd0&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "ba8b8dfd2b42",
-    "cinema_id": "ambassador-9383c5fa-b4f3-4ba8-ba7a-c25c7df95fd0",
-    "datetime_start": "2026-11-20T22:20:00",
-    "format_raw": "(數位‧英文版)飢餓遊戲：黎明收割",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=9383c5fa-b4f3-4ba8-ba7a-c25c7df95fd0&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "ba8b8dfd2b42",
-    "cinema_id": "ambassador-84b87b82-b936-4a39-b91f-e88328d33b4e",
-    "datetime_start": "2026-11-20T20:00:00",
-    "format_raw": "(數位‧英文版)飢餓遊戲：黎明收割",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=84b87b82-b936-4a39-b91f-e88328d33b4e&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "ba8b8dfd2b42",
-    "cinema_id": "ambassador-84b87b82-b936-4a39-b91f-e88328d33b4e",
-    "datetime_start": "2026-11-20T22:55:00",
-    "format_raw": "(數位‧英文版)飢餓遊戲：黎明收割",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=84b87b82-b936-4a39-b91f-e88328d33b4e&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "ba8b8dfd2b42",
-    "cinema_id": "ambassador-84b87b82-b936-4a39-b91f-e88328d33b4e",
-    "datetime_start": "2026-11-20T10:00:00",
-    "format_raw": "(數位‧英文版)飢餓遊戲：黎明收割",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=84b87b82-b936-4a39-b91f-e88328d33b4e&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "ba8b8dfd2b42",
-    "cinema_id": "ambassador-84b87b82-b936-4a39-b91f-e88328d33b4e",
-    "datetime_start": "2026-11-20T13:00:00",
-    "format_raw": "(數位‧英文版)飢餓遊戲：黎明收割",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=84b87b82-b936-4a39-b91f-e88328d33b4e&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "ba8b8dfd2b42",
-    "cinema_id": "ambassador-84b87b82-b936-4a39-b91f-e88328d33b4e",
-    "datetime_start": "2026-11-20T16:00:00",
-    "format_raw": "(數位‧英文版)飢餓遊戲：黎明收割",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=84b87b82-b936-4a39-b91f-e88328d33b4e&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "ba8b8dfd2b42",
-    "cinema_id": "ambassador-84b87b82-b936-4a39-b91f-e88328d33b4e",
-    "datetime_start": "2026-11-20T19:00:00",
-    "format_raw": "(數位‧英文版)飢餓遊戲：黎明收割",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=84b87b82-b936-4a39-b91f-e88328d33b4e&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "ba8b8dfd2b42",
-    "cinema_id": "ambassador-84b87b82-b936-4a39-b91f-e88328d33b4e",
-    "datetime_start": "2026-11-20T22:00:00",
-    "format_raw": "(數位‧英文版)飢餓遊戲：黎明收割",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=84b87b82-b936-4a39-b91f-e88328d33b4e&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "ba8b8dfd2b42",
-    "cinema_id": "ambassador-1e42d235-c3cf-4f75-a382-af60f67a4aad",
-    "datetime_start": "2026-11-20T13:20:00",
-    "format_raw": "(數位‧英文版)飢餓遊戲：黎明收割",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=1e42d235-c3cf-4f75-a382-af60f67a4aad&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "ba8b8dfd2b42",
-    "cinema_id": "ambassador-1e42d235-c3cf-4f75-a382-af60f67a4aad",
-    "datetime_start": "2026-11-20T14:30:00",
-    "format_raw": "(數位‧英文版)飢餓遊戲：黎明收割",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=1e42d235-c3cf-4f75-a382-af60f67a4aad&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "ba8b8dfd2b42",
-    "cinema_id": "ambassador-1e42d235-c3cf-4f75-a382-af60f67a4aad",
-    "datetime_start": "2026-11-20T15:25:00",
-    "format_raw": "(數位‧英文版)飢餓遊戲：黎明收割",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=1e42d235-c3cf-4f75-a382-af60f67a4aad&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "ba8b8dfd2b42",
-    "cinema_id": "ambassador-1e42d235-c3cf-4f75-a382-af60f67a4aad",
-    "datetime_start": "2026-11-20T16:20:00",
-    "format_raw": "(數位‧英文版)飢餓遊戲：黎明收割",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=1e42d235-c3cf-4f75-a382-af60f67a4aad&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "ba8b8dfd2b42",
-    "cinema_id": "ambassador-1e42d235-c3cf-4f75-a382-af60f67a4aad",
-    "datetime_start": "2026-11-20T17:25:00",
-    "format_raw": "(數位‧英文版)飢餓遊戲：黎明收割",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=1e42d235-c3cf-4f75-a382-af60f67a4aad&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "ba8b8dfd2b42",
-    "cinema_id": "ambassador-1e42d235-c3cf-4f75-a382-af60f67a4aad",
-    "datetime_start": "2026-11-20T18:20:00",
-    "format_raw": "(數位‧英文版)飢餓遊戲：黎明收割",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=1e42d235-c3cf-4f75-a382-af60f67a4aad&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "ba8b8dfd2b42",
-    "cinema_id": "ambassador-1e42d235-c3cf-4f75-a382-af60f67a4aad",
-    "datetime_start": "2026-11-20T19:20:00",
-    "format_raw": "(數位‧英文版)飢餓遊戲：黎明收割",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=1e42d235-c3cf-4f75-a382-af60f67a4aad&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "ba8b8dfd2b42",
-    "cinema_id": "ambassador-1e42d235-c3cf-4f75-a382-af60f67a4aad",
-    "datetime_start": "2026-11-20T20:20:00",
-    "format_raw": "(數位‧英文版)飢餓遊戲：黎明收割",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=1e42d235-c3cf-4f75-a382-af60f67a4aad&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "ba8b8dfd2b42",
-    "cinema_id": "ambassador-1e42d235-c3cf-4f75-a382-af60f67a4aad",
-    "datetime_start": "2026-11-20T21:15:00",
-    "format_raw": "(數位‧英文版)飢餓遊戲：黎明收割",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=1e42d235-c3cf-4f75-a382-af60f67a4aad&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "ba8b8dfd2b42",
-    "cinema_id": "ambassador-1e42d235-c3cf-4f75-a382-af60f67a4aad",
-    "datetime_start": "2026-11-20T22:20:00",
-    "format_raw": "(數位‧英文版)飢餓遊戲：黎明收割",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=1e42d235-c3cf-4f75-a382-af60f67a4aad&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "ba8b8dfd2b42",
-    "cinema_id": "ambassador-3301d822-b385-4aa8-a9eb-aa59d58e95c9",
-    "datetime_start": "2026-11-20T10:50:00",
-    "format_raw": "(數位‧英文版)飢餓遊戲：黎明收割",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=3301d822-b385-4aa8-a9eb-aa59d58e95c9&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "ba8b8dfd2b42",
-    "cinema_id": "ambassador-3301d822-b385-4aa8-a9eb-aa59d58e95c9",
-    "datetime_start": "2026-11-20T13:00:00",
-    "format_raw": "(數位‧英文版)飢餓遊戲：黎明收割",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=3301d822-b385-4aa8-a9eb-aa59d58e95c9&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "ba8b8dfd2b42",
-    "cinema_id": "ambassador-3301d822-b385-4aa8-a9eb-aa59d58e95c9",
-    "datetime_start": "2026-11-20T13:45:00",
-    "format_raw": "(數位‧英文版)飢餓遊戲：黎明收割",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=3301d822-b385-4aa8-a9eb-aa59d58e95c9&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "ba8b8dfd2b42",
-    "cinema_id": "ambassador-3301d822-b385-4aa8-a9eb-aa59d58e95c9",
-    "datetime_start": "2026-11-20T15:15:00",
-    "format_raw": "(數位‧英文版)飢餓遊戲：黎明收割",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=3301d822-b385-4aa8-a9eb-aa59d58e95c9&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "ba8b8dfd2b42",
-    "cinema_id": "ambassador-3301d822-b385-4aa8-a9eb-aa59d58e95c9",
-    "datetime_start": "2026-11-20T15:55:00",
-    "format_raw": "(數位‧英文版)飢餓遊戲：黎明收割",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=3301d822-b385-4aa8-a9eb-aa59d58e95c9&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "ba8b8dfd2b42",
-    "cinema_id": "ambassador-3301d822-b385-4aa8-a9eb-aa59d58e95c9",
-    "datetime_start": "2026-11-20T16:40:00",
-    "format_raw": "(數位‧英文版)飢餓遊戲：黎明收割",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=3301d822-b385-4aa8-a9eb-aa59d58e95c9&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "ba8b8dfd2b42",
-    "cinema_id": "ambassador-3301d822-b385-4aa8-a9eb-aa59d58e95c9",
-    "datetime_start": "2026-11-20T18:10:00",
-    "format_raw": "(數位‧英文版)飢餓遊戲：黎明收割",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=3301d822-b385-4aa8-a9eb-aa59d58e95c9&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "ba8b8dfd2b42",
-    "cinema_id": "ambassador-3301d822-b385-4aa8-a9eb-aa59d58e95c9",
-    "datetime_start": "2026-11-20T18:50:00",
-    "format_raw": "(數位‧英文版)飢餓遊戲：黎明收割",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=3301d822-b385-4aa8-a9eb-aa59d58e95c9&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "ba8b8dfd2b42",
-    "cinema_id": "ambassador-3301d822-b385-4aa8-a9eb-aa59d58e95c9",
-    "datetime_start": "2026-11-20T19:35:00",
-    "format_raw": "(數位‧英文版)飢餓遊戲：黎明收割",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=3301d822-b385-4aa8-a9eb-aa59d58e95c9&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "ba8b8dfd2b42",
-    "cinema_id": "ambassador-3301d822-b385-4aa8-a9eb-aa59d58e95c9",
-    "datetime_start": "2026-11-20T21:05:00",
-    "format_raw": "(數位‧英文版)飢餓遊戲：黎明收割",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=3301d822-b385-4aa8-a9eb-aa59d58e95c9&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "ba8b8dfd2b42",
-    "cinema_id": "ambassador-3301d822-b385-4aa8-a9eb-aa59d58e95c9",
-    "datetime_start": "2026-11-20T14:25:00",
-    "format_raw": "(數位‧英文版)飢餓遊戲：黎明收割",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=3301d822-b385-4aa8-a9eb-aa59d58e95c9&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "ba8b8dfd2b42",
-    "cinema_id": "ambassador-3301d822-b385-4aa8-a9eb-aa59d58e95c9",
-    "datetime_start": "2026-11-20T17:20:00",
-    "format_raw": "(數位‧英文版)飢餓遊戲：黎明收割",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=3301d822-b385-4aa8-a9eb-aa59d58e95c9&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "ba8b8dfd2b42",
-    "cinema_id": "ambassador-3301d822-b385-4aa8-a9eb-aa59d58e95c9",
-    "datetime_start": "2026-11-20T20:15:00",
-    "format_raw": "(數位‧英文版)飢餓遊戲：黎明收割",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=3301d822-b385-4aa8-a9eb-aa59d58e95c9&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "ba8b8dfd2b42",
-    "cinema_id": "ambassador-8fda9934-73d4-4c14-b1c4-386c2b81045c",
-    "datetime_start": "2026-11-20T11:40:00",
-    "format_raw": "(數位‧英文版)飢餓遊戲：黎明收割",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=8fda9934-73d4-4c14-b1c4-386c2b81045c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "ba8b8dfd2b42",
-    "cinema_id": "ambassador-8fda9934-73d4-4c14-b1c4-386c2b81045c",
-    "datetime_start": "2026-11-20T12:30:00",
-    "format_raw": "(數位‧英文版)飢餓遊戲：黎明收割",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=8fda9934-73d4-4c14-b1c4-386c2b81045c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "ba8b8dfd2b42",
-    "cinema_id": "ambassador-8fda9934-73d4-4c14-b1c4-386c2b81045c",
-    "datetime_start": "2026-11-20T14:40:00",
-    "format_raw": "(數位‧英文版)飢餓遊戲：黎明收割",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=8fda9934-73d4-4c14-b1c4-386c2b81045c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "ba8b8dfd2b42",
-    "cinema_id": "ambassador-8fda9934-73d4-4c14-b1c4-386c2b81045c",
-    "datetime_start": "2026-11-20T15:25:00",
-    "format_raw": "(數位‧英文版)飢餓遊戲：黎明收割",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=8fda9934-73d4-4c14-b1c4-386c2b81045c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "ba8b8dfd2b42",
-    "cinema_id": "ambassador-8fda9934-73d4-4c14-b1c4-386c2b81045c",
-    "datetime_start": "2026-11-20T17:35:00",
-    "format_raw": "(數位‧英文版)飢餓遊戲：黎明收割",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=8fda9934-73d4-4c14-b1c4-386c2b81045c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "ba8b8dfd2b42",
-    "cinema_id": "ambassador-8fda9934-73d4-4c14-b1c4-386c2b81045c",
-    "datetime_start": "2026-11-20T18:20:00",
-    "format_raw": "(數位‧英文版)飢餓遊戲：黎明收割",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=8fda9934-73d4-4c14-b1c4-386c2b81045c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "ba8b8dfd2b42",
-    "cinema_id": "ambassador-8fda9934-73d4-4c14-b1c4-386c2b81045c",
-    "datetime_start": "2026-11-20T20:30:00",
-    "format_raw": "(數位‧英文版)飢餓遊戲：黎明收割",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=8fda9934-73d4-4c14-b1c4-386c2b81045c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "ba8b8dfd2b42",
-    "cinema_id": "ambassador-8fda9934-73d4-4c14-b1c4-386c2b81045c",
-    "datetime_start": "2026-11-20T21:15:00",
-    "format_raw": "(數位‧英文版)飢餓遊戲：黎明收割",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=8fda9934-73d4-4c14-b1c4-386c2b81045c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "ba8b8dfd2b42",
-    "cinema_id": "ambassador-8fda9934-73d4-4c14-b1c4-386c2b81045c",
-    "datetime_start": "2026-11-20T10:50:00",
-    "format_raw": "(數位‧英文版)飢餓遊戲：黎明收割",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=8fda9934-73d4-4c14-b1c4-386c2b81045c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "ba8b8dfd2b42",
-    "cinema_id": "ambassador-8fda9934-73d4-4c14-b1c4-386c2b81045c",
-    "datetime_start": "2026-11-20T13:45:00",
-    "format_raw": "(數位‧英文版)飢餓遊戲：黎明收割",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=8fda9934-73d4-4c14-b1c4-386c2b81045c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "ba8b8dfd2b42",
-    "cinema_id": "ambassador-8fda9934-73d4-4c14-b1c4-386c2b81045c",
-    "datetime_start": "2026-11-20T16:40:00",
-    "format_raw": "(數位‧英文版)飢餓遊戲：黎明收割",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=8fda9934-73d4-4c14-b1c4-386c2b81045c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "ba8b8dfd2b42",
-    "cinema_id": "ambassador-8fda9934-73d4-4c14-b1c4-386c2b81045c",
-    "datetime_start": "2026-11-20T19:35:00",
-    "format_raw": "(數位‧英文版)飢餓遊戲：黎明收割",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=8fda9934-73d4-4c14-b1c4-386c2b81045c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "ba8b8dfd2b42",
-    "cinema_id": "ambassador-8fda9934-73d4-4c14-b1c4-386c2b81045c",
-    "datetime_start": "2026-11-20T22:30:00",
-    "format_raw": "(數位‧英文版)飢餓遊戲：黎明收割",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=8fda9934-73d4-4c14-b1c4-386c2b81045c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "ba8b8dfd2b42",
-    "cinema_id": "ambassador-f760950a-94b6-4e04-9573-831ed7283c5c",
-    "datetime_start": "2026-11-20T14:30:00",
-    "format_raw": "(數位‧英文版)飢餓遊戲：黎明收割",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=f760950a-94b6-4e04-9573-831ed7283c5c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "ba8b8dfd2b42",
-    "cinema_id": "ambassador-f760950a-94b6-4e04-9573-831ed7283c5c",
-    "datetime_start": "2026-11-20T15:30:00",
-    "format_raw": "(數位‧英文版)飢餓遊戲：黎明收割",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=f760950a-94b6-4e04-9573-831ed7283c5c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "ba8b8dfd2b42",
-    "cinema_id": "ambassador-f760950a-94b6-4e04-9573-831ed7283c5c",
-    "datetime_start": "2026-11-20T17:25:00",
-    "format_raw": "(數位‧英文版)飢餓遊戲：黎明收割",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=f760950a-94b6-4e04-9573-831ed7283c5c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "ba8b8dfd2b42",
-    "cinema_id": "ambassador-f760950a-94b6-4e04-9573-831ed7283c5c",
-    "datetime_start": "2026-11-20T18:25:00",
-    "format_raw": "(數位‧英文版)飢餓遊戲：黎明收割",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=f760950a-94b6-4e04-9573-831ed7283c5c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "ba8b8dfd2b42",
-    "cinema_id": "ambassador-f760950a-94b6-4e04-9573-831ed7283c5c",
-    "datetime_start": "2026-11-20T20:20:00",
-    "format_raw": "(數位‧英文版)飢餓遊戲：黎明收割",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=f760950a-94b6-4e04-9573-831ed7283c5c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "ba8b8dfd2b42",
-    "cinema_id": "ambassador-f760950a-94b6-4e04-9573-831ed7283c5c",
-    "datetime_start": "2026-11-20T21:20:00",
-    "format_raw": "(數位‧英文版)飢餓遊戲：黎明收割",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=f760950a-94b6-4e04-9573-831ed7283c5c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "ba8b8dfd2b42",
-    "cinema_id": "ambassador-f760950a-94b6-4e04-9573-831ed7283c5c",
-    "datetime_start": "2026-11-20T13:30:00",
-    "format_raw": "(數位‧英文版)飢餓遊戲：黎明收割",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=f760950a-94b6-4e04-9573-831ed7283c5c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "ba8b8dfd2b42",
-    "cinema_id": "ambassador-f760950a-94b6-4e04-9573-831ed7283c5c",
-    "datetime_start": "2026-11-20T16:30:00",
-    "format_raw": "(數位‧英文版)飢餓遊戲：黎明收割",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=f760950a-94b6-4e04-9573-831ed7283c5c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "ba8b8dfd2b42",
-    "cinema_id": "ambassador-f760950a-94b6-4e04-9573-831ed7283c5c",
-    "datetime_start": "2026-11-20T19:25:00",
-    "format_raw": "(數位‧英文版)飢餓遊戲：黎明收割",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=f760950a-94b6-4e04-9573-831ed7283c5c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "ba8b8dfd2b42",
-    "cinema_id": "ambassador-f760950a-94b6-4e04-9573-831ed7283c5c",
-    "datetime_start": "2026-11-20T22:20:00",
-    "format_raw": "(數位‧英文版)飢餓遊戲：黎明收割",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=f760950a-94b6-4e04-9573-831ed7283c5c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "ba8b8dfd2b42",
-    "cinema_id": "ambassador-ec07626b-b382-474e-be39-ad45eac5cd1c",
-    "datetime_start": "2026-11-20T13:50:00",
-    "format_raw": "(數位‧英文版)飢餓遊戲：黎明收割",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=ec07626b-b382-474e-be39-ad45eac5cd1c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "ba8b8dfd2b42",
-    "cinema_id": "ambassador-ec07626b-b382-474e-be39-ad45eac5cd1c",
-    "datetime_start": "2026-11-20T14:40:00",
-    "format_raw": "(數位‧英文版)飢餓遊戲：黎明收割",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=ec07626b-b382-474e-be39-ad45eac5cd1c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "ba8b8dfd2b42",
-    "cinema_id": "ambassador-ec07626b-b382-474e-be39-ad45eac5cd1c",
-    "datetime_start": "2026-11-20T16:45:00",
-    "format_raw": "(數位‧英文版)飢餓遊戲：黎明收割",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=ec07626b-b382-474e-be39-ad45eac5cd1c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "ba8b8dfd2b42",
-    "cinema_id": "ambassador-ec07626b-b382-474e-be39-ad45eac5cd1c",
-    "datetime_start": "2026-11-20T17:35:00",
-    "format_raw": "(數位‧英文版)飢餓遊戲：黎明收割",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=ec07626b-b382-474e-be39-ad45eac5cd1c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "ba8b8dfd2b42",
-    "cinema_id": "ambassador-ec07626b-b382-474e-be39-ad45eac5cd1c",
-    "datetime_start": "2026-11-20T19:40:00",
-    "format_raw": "(數位‧英文版)飢餓遊戲：黎明收割",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=ec07626b-b382-474e-be39-ad45eac5cd1c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "ba8b8dfd2b42",
-    "cinema_id": "ambassador-ec07626b-b382-474e-be39-ad45eac5cd1c",
-    "datetime_start": "2026-11-20T20:30:00",
-    "format_raw": "(數位‧英文版)飢餓遊戲：黎明收割",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=ec07626b-b382-474e-be39-ad45eac5cd1c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "ba8b8dfd2b42",
-    "cinema_id": "ambassador-ec07626b-b382-474e-be39-ad45eac5cd1c",
-    "datetime_start": "2026-11-20T15:30:00",
-    "format_raw": "(數位‧英文版)飢餓遊戲：黎明收割",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=ec07626b-b382-474e-be39-ad45eac5cd1c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "ba8b8dfd2b42",
-    "cinema_id": "ambassador-ec07626b-b382-474e-be39-ad45eac5cd1c",
-    "datetime_start": "2026-11-20T18:25:00",
-    "format_raw": "(數位‧英文版)飢餓遊戲：黎明收割",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=ec07626b-b382-474e-be39-ad45eac5cd1c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "ba8b8dfd2b42",
-    "cinema_id": "ambassador-41aae717-4464-49f4-ac26-fec2d16acbd6",
-    "datetime_start": "2026-11-20T10:50:00",
-    "format_raw": "(數位‧英文版)飢餓遊戲：黎明收割",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=41aae717-4464-49f4-ac26-fec2d16acbd6&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "ba8b8dfd2b42",
-    "cinema_id": "ambassador-41aae717-4464-49f4-ac26-fec2d16acbd6",
-    "datetime_start": "2026-11-20T12:35:00",
-    "format_raw": "(數位‧英文版)飢餓遊戲：黎明收割",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=41aae717-4464-49f4-ac26-fec2d16acbd6&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "ba8b8dfd2b42",
-    "cinema_id": "ambassador-41aae717-4464-49f4-ac26-fec2d16acbd6",
-    "datetime_start": "2026-11-20T13:45:00",
-    "format_raw": "(數位‧英文版)飢餓遊戲：黎明收割",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=41aae717-4464-49f4-ac26-fec2d16acbd6&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "ba8b8dfd2b42",
-    "cinema_id": "ambassador-41aae717-4464-49f4-ac26-fec2d16acbd6",
-    "datetime_start": "2026-11-20T14:40:00",
-    "format_raw": "(數位‧英文版)飢餓遊戲：黎明收割",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=41aae717-4464-49f4-ac26-fec2d16acbd6&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "ba8b8dfd2b42",
-    "cinema_id": "ambassador-41aae717-4464-49f4-ac26-fec2d16acbd6",
-    "datetime_start": "2026-11-20T15:30:00",
-    "format_raw": "(數位‧英文版)飢餓遊戲：黎明收割",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=41aae717-4464-49f4-ac26-fec2d16acbd6&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "ba8b8dfd2b42",
-    "cinema_id": "ambassador-41aae717-4464-49f4-ac26-fec2d16acbd6",
-    "datetime_start": "2026-11-20T16:40:00",
-    "format_raw": "(數位‧英文版)飢餓遊戲：黎明收割",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=41aae717-4464-49f4-ac26-fec2d16acbd6&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "ba8b8dfd2b42",
-    "cinema_id": "ambassador-41aae717-4464-49f4-ac26-fec2d16acbd6",
-    "datetime_start": "2026-11-20T17:35:00",
-    "format_raw": "(數位‧英文版)飢餓遊戲：黎明收割",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=41aae717-4464-49f4-ac26-fec2d16acbd6&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "ba8b8dfd2b42",
-    "cinema_id": "ambassador-41aae717-4464-49f4-ac26-fec2d16acbd6",
-    "datetime_start": "2026-11-20T18:25:00",
-    "format_raw": "(數位‧英文版)飢餓遊戲：黎明收割",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=41aae717-4464-49f4-ac26-fec2d16acbd6&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "ba8b8dfd2b42",
-    "cinema_id": "ambassador-41aae717-4464-49f4-ac26-fec2d16acbd6",
-    "datetime_start": "2026-11-20T19:35:00",
-    "format_raw": "(數位‧英文版)飢餓遊戲：黎明收割",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=41aae717-4464-49f4-ac26-fec2d16acbd6&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "ba8b8dfd2b42",
-    "cinema_id": "ambassador-41aae717-4464-49f4-ac26-fec2d16acbd6",
-    "datetime_start": "2026-11-20T20:30:00",
-    "format_raw": "(數位‧英文版)飢餓遊戲：黎明收割",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=41aae717-4464-49f4-ac26-fec2d16acbd6&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "ba8b8dfd2b42",
-    "cinema_id": "ambassador-41aae717-4464-49f4-ac26-fec2d16acbd6",
-    "datetime_start": "2026-11-20T21:20:00",
-    "format_raw": "(數位‧英文版)飢餓遊戲：黎明收割",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=41aae717-4464-49f4-ac26-fec2d16acbd6&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "ba8b8dfd2b42",
-    "cinema_id": "ambassador-41aae717-4464-49f4-ac26-fec2d16acbd6",
-    "datetime_start": "2026-11-20T22:30:00",
-    "format_raw": "(數位‧英文版)飢餓遊戲：黎明收割",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=41aae717-4464-49f4-ac26-fec2d16acbd6&DT=2026/11/20",
     "booking_platform": "self",
     "source": "ambassador.com.tw"
   },
@@ -6952,176 +5962,6 @@
   {
     "film_id": "3e4a40093752",
     "cinema_id": "ambassador-453b2966-f7c2-44a9-b2eb-687493855d0e",
-    "datetime_start": "2026-11-20T13:00:00",
-    "format_raw": "(數位‧英文版)紙老虎",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=453b2966-f7c2-44a9-b2eb-687493855d0e&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "3e4a40093752",
-    "cinema_id": "ambassador-453b2966-f7c2-44a9-b2eb-687493855d0e",
-    "datetime_start": "2026-11-20T15:10:00",
-    "format_raw": "(數位‧英文版)紙老虎",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=453b2966-f7c2-44a9-b2eb-687493855d0e&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "3e4a40093752",
-    "cinema_id": "ambassador-453b2966-f7c2-44a9-b2eb-687493855d0e",
-    "datetime_start": "2026-11-20T20:50:00",
-    "format_raw": "(數位‧英文版)紙老虎",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=453b2966-f7c2-44a9-b2eb-687493855d0e&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "3e4a40093752",
-    "cinema_id": "ambassador-9383c5fa-b4f3-4ba8-ba7a-c25c7df95fd0",
-    "datetime_start": "2026-11-20T15:35:00",
-    "format_raw": "(數位‧英文版)紙老虎",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=9383c5fa-b4f3-4ba8-ba7a-c25c7df95fd0&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "3e4a40093752",
-    "cinema_id": "ambassador-9383c5fa-b4f3-4ba8-ba7a-c25c7df95fd0",
-    "datetime_start": "2026-11-20T20:00:00",
-    "format_raw": "(數位‧英文版)紙老虎",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=9383c5fa-b4f3-4ba8-ba7a-c25c7df95fd0&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "3e4a40093752",
-    "cinema_id": "ambassador-1e42d235-c3cf-4f75-a382-af60f67a4aad",
-    "datetime_start": "2026-11-20T15:35:00",
-    "format_raw": "(數位‧英文版)紙老虎",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=1e42d235-c3cf-4f75-a382-af60f67a4aad&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "3e4a40093752",
-    "cinema_id": "ambassador-1e42d235-c3cf-4f75-a382-af60f67a4aad",
-    "datetime_start": "2026-11-20T20:00:00",
-    "format_raw": "(數位‧英文版)紙老虎",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=1e42d235-c3cf-4f75-a382-af60f67a4aad&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "3e4a40093752",
-    "cinema_id": "ambassador-3301d822-b385-4aa8-a9eb-aa59d58e95c9",
-    "datetime_start": "2026-11-20T12:40:00",
-    "format_raw": "(數位‧英文版)紙老虎",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=3301d822-b385-4aa8-a9eb-aa59d58e95c9&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "3e4a40093752",
-    "cinema_id": "ambassador-3301d822-b385-4aa8-a9eb-aa59d58e95c9",
-    "datetime_start": "2026-11-20T14:50:00",
-    "format_raw": "(數位‧英文版)紙老虎",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=3301d822-b385-4aa8-a9eb-aa59d58e95c9&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "3e4a40093752",
-    "cinema_id": "ambassador-3301d822-b385-4aa8-a9eb-aa59d58e95c9",
-    "datetime_start": "2026-11-20T19:10:00",
-    "format_raw": "(數位‧英文版)紙老虎",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=3301d822-b385-4aa8-a9eb-aa59d58e95c9&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "3e4a40093752",
-    "cinema_id": "ambassador-8fda9934-73d4-4c14-b1c4-386c2b81045c",
-    "datetime_start": "2026-11-20T10:40:00",
-    "format_raw": "(數位‧英文版)紙老虎",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=8fda9934-73d4-4c14-b1c4-386c2b81045c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "3e4a40093752",
-    "cinema_id": "ambassador-8fda9934-73d4-4c14-b1c4-386c2b81045c",
-    "datetime_start": "2026-11-20T15:00:00",
-    "format_raw": "(數位‧英文版)紙老虎",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=8fda9934-73d4-4c14-b1c4-386c2b81045c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "3e4a40093752",
-    "cinema_id": "ambassador-8fda9934-73d4-4c14-b1c4-386c2b81045c",
-    "datetime_start": "2026-11-20T19:20:00",
-    "format_raw": "(數位‧英文版)紙老虎",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=8fda9934-73d4-4c14-b1c4-386c2b81045c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "3e4a40093752",
-    "cinema_id": "ambassador-f760950a-94b6-4e04-9573-831ed7283c5c",
-    "datetime_start": "2026-11-20T15:35:00",
-    "format_raw": "(數位‧英文版)紙老虎",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=f760950a-94b6-4e04-9573-831ed7283c5c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "3e4a40093752",
-    "cinema_id": "ambassador-f760950a-94b6-4e04-9573-831ed7283c5c",
-    "datetime_start": "2026-11-20T19:50:00",
-    "format_raw": "(數位‧英文版)紙老虎",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=f760950a-94b6-4e04-9573-831ed7283c5c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "3e4a40093752",
-    "cinema_id": "ambassador-ec07626b-b382-474e-be39-ad45eac5cd1c",
-    "datetime_start": "2026-11-20T15:35:00",
-    "format_raw": "(數位‧英文版)紙老虎",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=ec07626b-b382-474e-be39-ad45eac5cd1c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "3e4a40093752",
-    "cinema_id": "ambassador-ec07626b-b382-474e-be39-ad45eac5cd1c",
-    "datetime_start": "2026-11-20T19:50:00",
-    "format_raw": "(數位‧英文版)紙老虎",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=ec07626b-b382-474e-be39-ad45eac5cd1c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "3e4a40093752",
-    "cinema_id": "ambassador-453b2966-f7c2-44a9-b2eb-687493855d0e",
     "datetime_start": "2026-11-21T15:10:00",
     "format_raw": "(數位‧英文版)紙老虎",
     "language": "英文版",
@@ -8146,236 +6986,6 @@
     "format_raw": "(數位‧中文版)（加開特別場）Jim Queen：肌情四射",
     "language": "中文版",
     "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=f760950a-94b6-4e04-9573-831ed7283c5c&DT=2026/11/21",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "537472b4b77e",
-    "cinema_id": "ambassador-453b2966-f7c2-44a9-b2eb-687493855d0e",
-    "datetime_start": "2026-11-20T11:00:00",
-    "format_raw": "(數位‧日文版)名偵探柯南 第30號殺人事件",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=453b2966-f7c2-44a9-b2eb-687493855d0e&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "537472b4b77e",
-    "cinema_id": "ambassador-453b2966-f7c2-44a9-b2eb-687493855d0e",
-    "datetime_start": "2026-11-20T14:50:00",
-    "format_raw": "(數位‧日文版)名偵探柯南 第30號殺人事件",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=453b2966-f7c2-44a9-b2eb-687493855d0e&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "537472b4b77e",
-    "cinema_id": "ambassador-453b2966-f7c2-44a9-b2eb-687493855d0e",
-    "datetime_start": "2026-11-20T21:00:00",
-    "format_raw": "(數位‧日文版)名偵探柯南 第30號殺人事件",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=453b2966-f7c2-44a9-b2eb-687493855d0e&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "537472b4b77e",
-    "cinema_id": "ambassador-9383c5fa-b4f3-4ba8-ba7a-c25c7df95fd0",
-    "datetime_start": "2026-11-20T15:45:00",
-    "format_raw": "(數位‧日文版)名偵探柯南 第30號殺人事件",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=9383c5fa-b4f3-4ba8-ba7a-c25c7df95fd0&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "537472b4b77e",
-    "cinema_id": "ambassador-9383c5fa-b4f3-4ba8-ba7a-c25c7df95fd0",
-    "datetime_start": "2026-11-20T19:30:00",
-    "format_raw": "(數位‧日文版)名偵探柯南 第30號殺人事件",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=9383c5fa-b4f3-4ba8-ba7a-c25c7df95fd0&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "537472b4b77e",
-    "cinema_id": "ambassador-1e42d235-c3cf-4f75-a382-af60f67a4aad",
-    "datetime_start": "2026-11-20T15:45:00",
-    "format_raw": "(數位‧日文版)名偵探柯南 第30號殺人事件",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=1e42d235-c3cf-4f75-a382-af60f67a4aad&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "537472b4b77e",
-    "cinema_id": "ambassador-1e42d235-c3cf-4f75-a382-af60f67a4aad",
-    "datetime_start": "2026-11-20T19:30:00",
-    "format_raw": "(數位‧日文版)名偵探柯南 第30號殺人事件",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=1e42d235-c3cf-4f75-a382-af60f67a4aad&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "537472b4b77e",
-    "cinema_id": "ambassador-3301d822-b385-4aa8-a9eb-aa59d58e95c9",
-    "datetime_start": "2026-11-20T10:50:00",
-    "format_raw": "(數位‧日文版)名偵探柯南 第30號殺人事件",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=3301d822-b385-4aa8-a9eb-aa59d58e95c9&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "537472b4b77e",
-    "cinema_id": "ambassador-3301d822-b385-4aa8-a9eb-aa59d58e95c9",
-    "datetime_start": "2026-11-20T14:50:00",
-    "format_raw": "(數位‧日文版)名偵探柯南 第30號殺人事件",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=3301d822-b385-4aa8-a9eb-aa59d58e95c9&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "537472b4b77e",
-    "cinema_id": "ambassador-3301d822-b385-4aa8-a9eb-aa59d58e95c9",
-    "datetime_start": "2026-11-20T18:50:00",
-    "format_raw": "(數位‧日文版)名偵探柯南 第30號殺人事件",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=3301d822-b385-4aa8-a9eb-aa59d58e95c9&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "537472b4b77e",
-    "cinema_id": "ambassador-8fda9934-73d4-4c14-b1c4-386c2b81045c",
-    "datetime_start": "2026-11-20T14:30:00",
-    "format_raw": "(數位‧日文版)名偵探柯南 第30號殺人事件",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=8fda9934-73d4-4c14-b1c4-386c2b81045c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "537472b4b77e",
-    "cinema_id": "ambassador-8fda9934-73d4-4c14-b1c4-386c2b81045c",
-    "datetime_start": "2026-11-20T16:20:00",
-    "format_raw": "(數位‧日文版)名偵探柯南 第30號殺人事件",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=8fda9934-73d4-4c14-b1c4-386c2b81045c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "537472b4b77e",
-    "cinema_id": "ambassador-8fda9934-73d4-4c14-b1c4-386c2b81045c",
-    "datetime_start": "2026-11-20T20:10:00",
-    "format_raw": "(數位‧日文版)名偵探柯南 第30號殺人事件",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=8fda9934-73d4-4c14-b1c4-386c2b81045c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "537472b4b77e",
-    "cinema_id": "ambassador-f760950a-94b6-4e04-9573-831ed7283c5c",
-    "datetime_start": "2026-11-20T13:20:00",
-    "format_raw": "(數位‧日文版)名偵探柯南 第30號殺人事件",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=f760950a-94b6-4e04-9573-831ed7283c5c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "537472b4b77e",
-    "cinema_id": "ambassador-f760950a-94b6-4e04-9573-831ed7283c5c",
-    "datetime_start": "2026-11-20T15:10:00",
-    "format_raw": "(數位‧日文版)名偵探柯南 第30號殺人事件",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=f760950a-94b6-4e04-9573-831ed7283c5c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "537472b4b77e",
-    "cinema_id": "ambassador-f760950a-94b6-4e04-9573-831ed7283c5c",
-    "datetime_start": "2026-11-20T19:00:00",
-    "format_raw": "(數位‧日文版)名偵探柯南 第30號殺人事件",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=f760950a-94b6-4e04-9573-831ed7283c5c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "537472b4b77e",
-    "cinema_id": "ambassador-ec07626b-b382-474e-be39-ad45eac5cd1c",
-    "datetime_start": "2026-11-20T13:20:00",
-    "format_raw": "(數位‧日文版)名偵探柯南 第30號殺人事件",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=ec07626b-b382-474e-be39-ad45eac5cd1c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "537472b4b77e",
-    "cinema_id": "ambassador-ec07626b-b382-474e-be39-ad45eac5cd1c",
-    "datetime_start": "2026-11-20T15:10:00",
-    "format_raw": "(數位‧日文版)名偵探柯南 第30號殺人事件",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=ec07626b-b382-474e-be39-ad45eac5cd1c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "537472b4b77e",
-    "cinema_id": "ambassador-ec07626b-b382-474e-be39-ad45eac5cd1c",
-    "datetime_start": "2026-11-20T19:00:00",
-    "format_raw": "(數位‧日文版)名偵探柯南 第30號殺人事件",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=ec07626b-b382-474e-be39-ad45eac5cd1c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "537472b4b77e",
-    "cinema_id": "ambassador-41aae717-4464-49f4-ac26-fec2d16acbd6",
-    "datetime_start": "2026-11-20T12:30:00",
-    "format_raw": "(數位‧日文版)名偵探柯南 第30號殺人事件",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=41aae717-4464-49f4-ac26-fec2d16acbd6&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "537472b4b77e",
-    "cinema_id": "ambassador-41aae717-4464-49f4-ac26-fec2d16acbd6",
-    "datetime_start": "2026-11-20T15:00:00",
-    "format_raw": "(數位‧日文版)名偵探柯南 第30號殺人事件",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=41aae717-4464-49f4-ac26-fec2d16acbd6&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "537472b4b77e",
-    "cinema_id": "ambassador-41aae717-4464-49f4-ac26-fec2d16acbd6",
-    "datetime_start": "2026-11-20T16:50:00",
-    "format_raw": "(數位‧日文版)名偵探柯南 第30號殺人事件",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=41aae717-4464-49f4-ac26-fec2d16acbd6&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "537472b4b77e",
-    "cinema_id": "ambassador-41aae717-4464-49f4-ac26-fec2d16acbd6",
-    "datetime_start": "2026-11-20T20:50:00",
-    "format_raw": "(數位‧日文版)名偵探柯南 第30號殺人事件",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=41aae717-4464-49f4-ac26-fec2d16acbd6&DT=2026/11/20",
     "booking_platform": "self",
     "source": "ambassador.com.tw"
   },
@@ -9846,656 +8456,6 @@
     "format_raw": "(數位‧日文版)名偵探柯南 第30號殺人事件",
     "language": "日文版",
     "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=41aae717-4464-49f4-ac26-fec2d16acbd6&DT=2026/11/26",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "cf2735859d4b",
-    "cinema_id": "ambassador-453b2966-f7c2-44a9-b2eb-687493855d0e",
-    "datetime_start": "2026-11-20T11:10:00",
-    "format_raw": "(數位‧日文版)哥吉拉-0.0",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=453b2966-f7c2-44a9-b2eb-687493855d0e&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "cf2735859d4b",
-    "cinema_id": "ambassador-453b2966-f7c2-44a9-b2eb-687493855d0e",
-    "datetime_start": "2026-11-20T13:40:00",
-    "format_raw": "(數位‧日文版)哥吉拉-0.0",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=453b2966-f7c2-44a9-b2eb-687493855d0e&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "cf2735859d4b",
-    "cinema_id": "ambassador-453b2966-f7c2-44a9-b2eb-687493855d0e",
-    "datetime_start": "2026-11-20T15:00:00",
-    "format_raw": "(數位‧日文版)哥吉拉-0.0",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=453b2966-f7c2-44a9-b2eb-687493855d0e&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "cf2735859d4b",
-    "cinema_id": "ambassador-453b2966-f7c2-44a9-b2eb-687493855d0e",
-    "datetime_start": "2026-11-20T16:10:00",
-    "format_raw": "(數位‧日文版)哥吉拉-0.0",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=453b2966-f7c2-44a9-b2eb-687493855d0e&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "cf2735859d4b",
-    "cinema_id": "ambassador-453b2966-f7c2-44a9-b2eb-687493855d0e",
-    "datetime_start": "2026-11-20T19:00:00",
-    "format_raw": "(數位‧日文版)哥吉拉-0.0",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=453b2966-f7c2-44a9-b2eb-687493855d0e&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "cf2735859d4b",
-    "cinema_id": "ambassador-453b2966-f7c2-44a9-b2eb-687493855d0e",
-    "datetime_start": "2026-11-20T20:00:00",
-    "format_raw": "(數位‧日文版)哥吉拉-0.0",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=453b2966-f7c2-44a9-b2eb-687493855d0e&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "cf2735859d4b",
-    "cinema_id": "ambassador-453b2966-f7c2-44a9-b2eb-687493855d0e",
-    "datetime_start": "2026-11-20T21:30:00",
-    "format_raw": "(數位‧日文版)哥吉拉-0.0",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=453b2966-f7c2-44a9-b2eb-687493855d0e&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "cf2735859d4b",
-    "cinema_id": "ambassador-453b2966-f7c2-44a9-b2eb-687493855d0e",
-    "datetime_start": "2026-11-20T22:30:00",
-    "format_raw": "(數位‧日文版)哥吉拉-0.0",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=453b2966-f7c2-44a9-b2eb-687493855d0e&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "cf2735859d4b",
-    "cinema_id": "ambassador-9383c5fa-b4f3-4ba8-ba7a-c25c7df95fd0",
-    "datetime_start": "2026-11-20T13:40:00",
-    "format_raw": "(數位‧日文版)哥吉拉-0.0",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=9383c5fa-b4f3-4ba8-ba7a-c25c7df95fd0&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "cf2735859d4b",
-    "cinema_id": "ambassador-9383c5fa-b4f3-4ba8-ba7a-c25c7df95fd0",
-    "datetime_start": "2026-11-20T15:00:00",
-    "format_raw": "(數位‧日文版)哥吉拉-0.0",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=9383c5fa-b4f3-4ba8-ba7a-c25c7df95fd0&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "cf2735859d4b",
-    "cinema_id": "ambassador-9383c5fa-b4f3-4ba8-ba7a-c25c7df95fd0",
-    "datetime_start": "2026-11-20T16:10:00",
-    "format_raw": "(數位‧日文版)哥吉拉-0.0",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=9383c5fa-b4f3-4ba8-ba7a-c25c7df95fd0&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "cf2735859d4b",
-    "cinema_id": "ambassador-9383c5fa-b4f3-4ba8-ba7a-c25c7df95fd0",
-    "datetime_start": "2026-11-20T19:00:00",
-    "format_raw": "(數位‧日文版)哥吉拉-0.0",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=9383c5fa-b4f3-4ba8-ba7a-c25c7df95fd0&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "cf2735859d4b",
-    "cinema_id": "ambassador-9383c5fa-b4f3-4ba8-ba7a-c25c7df95fd0",
-    "datetime_start": "2026-11-20T20:00:00",
-    "format_raw": "(數位‧日文版)哥吉拉-0.0",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=9383c5fa-b4f3-4ba8-ba7a-c25c7df95fd0&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "cf2735859d4b",
-    "cinema_id": "ambassador-9383c5fa-b4f3-4ba8-ba7a-c25c7df95fd0",
-    "datetime_start": "2026-11-20T21:30:00",
-    "format_raw": "(數位‧日文版)哥吉拉-0.0",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=9383c5fa-b4f3-4ba8-ba7a-c25c7df95fd0&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "cf2735859d4b",
-    "cinema_id": "ambassador-9383c5fa-b4f3-4ba8-ba7a-c25c7df95fd0",
-    "datetime_start": "2026-11-20T22:30:00",
-    "format_raw": "(數位‧日文版)哥吉拉-0.0",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=9383c5fa-b4f3-4ba8-ba7a-c25c7df95fd0&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "cf2735859d4b",
-    "cinema_id": "ambassador-84b87b82-b936-4a39-b91f-e88328d33b4e",
-    "datetime_start": "2026-11-20T10:00:00",
-    "format_raw": "(數位‧日文版)哥吉拉-0.0",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=84b87b82-b936-4a39-b91f-e88328d33b4e&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "cf2735859d4b",
-    "cinema_id": "ambassador-84b87b82-b936-4a39-b91f-e88328d33b4e",
-    "datetime_start": "2026-11-20T12:30:00",
-    "format_raw": "(數位‧日文版)哥吉拉-0.0",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=84b87b82-b936-4a39-b91f-e88328d33b4e&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "cf2735859d4b",
-    "cinema_id": "ambassador-84b87b82-b936-4a39-b91f-e88328d33b4e",
-    "datetime_start": "2026-11-20T15:00:00",
-    "format_raw": "(數位‧日文版)哥吉拉-0.0",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=84b87b82-b936-4a39-b91f-e88328d33b4e&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "cf2735859d4b",
-    "cinema_id": "ambassador-84b87b82-b936-4a39-b91f-e88328d33b4e",
-    "datetime_start": "2026-11-20T17:30:00",
-    "format_raw": "(數位‧日文版)哥吉拉-0.0",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=84b87b82-b936-4a39-b91f-e88328d33b4e&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "cf2735859d4b",
-    "cinema_id": "ambassador-1e42d235-c3cf-4f75-a382-af60f67a4aad",
-    "datetime_start": "2026-11-20T13:40:00",
-    "format_raw": "(數位‧日文版)哥吉拉-0.0",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=1e42d235-c3cf-4f75-a382-af60f67a4aad&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "cf2735859d4b",
-    "cinema_id": "ambassador-1e42d235-c3cf-4f75-a382-af60f67a4aad",
-    "datetime_start": "2026-11-20T15:00:00",
-    "format_raw": "(數位‧日文版)哥吉拉-0.0",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=1e42d235-c3cf-4f75-a382-af60f67a4aad&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "cf2735859d4b",
-    "cinema_id": "ambassador-1e42d235-c3cf-4f75-a382-af60f67a4aad",
-    "datetime_start": "2026-11-20T16:10:00",
-    "format_raw": "(數位‧日文版)哥吉拉-0.0",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=1e42d235-c3cf-4f75-a382-af60f67a4aad&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "cf2735859d4b",
-    "cinema_id": "ambassador-1e42d235-c3cf-4f75-a382-af60f67a4aad",
-    "datetime_start": "2026-11-20T19:00:00",
-    "format_raw": "(數位‧日文版)哥吉拉-0.0",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=1e42d235-c3cf-4f75-a382-af60f67a4aad&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "cf2735859d4b",
-    "cinema_id": "ambassador-1e42d235-c3cf-4f75-a382-af60f67a4aad",
-    "datetime_start": "2026-11-20T20:00:00",
-    "format_raw": "(數位‧日文版)哥吉拉-0.0",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=1e42d235-c3cf-4f75-a382-af60f67a4aad&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "cf2735859d4b",
-    "cinema_id": "ambassador-1e42d235-c3cf-4f75-a382-af60f67a4aad",
-    "datetime_start": "2026-11-20T21:30:00",
-    "format_raw": "(數位‧日文版)哥吉拉-0.0",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=1e42d235-c3cf-4f75-a382-af60f67a4aad&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "cf2735859d4b",
-    "cinema_id": "ambassador-1e42d235-c3cf-4f75-a382-af60f67a4aad",
-    "datetime_start": "2026-11-20T22:30:00",
-    "format_raw": "(數位‧日文版)哥吉拉-0.0",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=1e42d235-c3cf-4f75-a382-af60f67a4aad&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "cf2735859d4b",
-    "cinema_id": "ambassador-3301d822-b385-4aa8-a9eb-aa59d58e95c9",
-    "datetime_start": "2026-11-20T11:20:00",
-    "format_raw": "(數位‧日文版)哥吉拉-0.0",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=3301d822-b385-4aa8-a9eb-aa59d58e95c9&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "cf2735859d4b",
-    "cinema_id": "ambassador-3301d822-b385-4aa8-a9eb-aa59d58e95c9",
-    "datetime_start": "2026-11-20T13:50:00",
-    "format_raw": "(數位‧日文版)哥吉拉-0.0",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=3301d822-b385-4aa8-a9eb-aa59d58e95c9&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "cf2735859d4b",
-    "cinema_id": "ambassador-3301d822-b385-4aa8-a9eb-aa59d58e95c9",
-    "datetime_start": "2026-11-20T14:50:00",
-    "format_raw": "(數位‧日文版)哥吉拉-0.0",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=3301d822-b385-4aa8-a9eb-aa59d58e95c9&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "cf2735859d4b",
-    "cinema_id": "ambassador-3301d822-b385-4aa8-a9eb-aa59d58e95c9",
-    "datetime_start": "2026-11-20T16:40:00",
-    "format_raw": "(數位‧日文版)哥吉拉-0.0",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=3301d822-b385-4aa8-a9eb-aa59d58e95c9&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "cf2735859d4b",
-    "cinema_id": "ambassador-3301d822-b385-4aa8-a9eb-aa59d58e95c9",
-    "datetime_start": "2026-11-20T17:30:00",
-    "format_raw": "(數位‧日文版)哥吉拉-0.0",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=3301d822-b385-4aa8-a9eb-aa59d58e95c9&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "cf2735859d4b",
-    "cinema_id": "ambassador-3301d822-b385-4aa8-a9eb-aa59d58e95c9",
-    "datetime_start": "2026-11-20T19:10:00",
-    "format_raw": "(數位‧日文版)哥吉拉-0.0",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=3301d822-b385-4aa8-a9eb-aa59d58e95c9&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "cf2735859d4b",
-    "cinema_id": "ambassador-3301d822-b385-4aa8-a9eb-aa59d58e95c9",
-    "datetime_start": "2026-11-20T20:00:00",
-    "format_raw": "(數位‧日文版)哥吉拉-0.0",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=3301d822-b385-4aa8-a9eb-aa59d58e95c9&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "cf2735859d4b",
-    "cinema_id": "ambassador-3301d822-b385-4aa8-a9eb-aa59d58e95c9",
-    "datetime_start": "2026-11-20T15:50:00",
-    "format_raw": "(數位‧日文版)哥吉拉-0.0",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=3301d822-b385-4aa8-a9eb-aa59d58e95c9&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "cf2735859d4b",
-    "cinema_id": "ambassador-3301d822-b385-4aa8-a9eb-aa59d58e95c9",
-    "datetime_start": "2026-11-20T18:20:00",
-    "format_raw": "(數位‧日文版)哥吉拉-0.0",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=3301d822-b385-4aa8-a9eb-aa59d58e95c9&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "cf2735859d4b",
-    "cinema_id": "ambassador-3301d822-b385-4aa8-a9eb-aa59d58e95c9",
-    "datetime_start": "2026-11-20T20:50:00",
-    "format_raw": "(數位‧日文版)哥吉拉-0.0",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=3301d822-b385-4aa8-a9eb-aa59d58e95c9&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "cf2735859d4b",
-    "cinema_id": "ambassador-8fda9934-73d4-4c14-b1c4-386c2b81045c",
-    "datetime_start": "2026-11-20T10:20:00",
-    "format_raw": "(ATMOS‧數位‧日文版)哥吉拉-0.0",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=8fda9934-73d4-4c14-b1c4-386c2b81045c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "cf2735859d4b",
-    "cinema_id": "ambassador-8fda9934-73d4-4c14-b1c4-386c2b81045c",
-    "datetime_start": "2026-11-20T12:50:00",
-    "format_raw": "(ATMOS‧數位‧日文版)哥吉拉-0.0",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=8fda9934-73d4-4c14-b1c4-386c2b81045c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "cf2735859d4b",
-    "cinema_id": "ambassador-8fda9934-73d4-4c14-b1c4-386c2b81045c",
-    "datetime_start": "2026-11-20T15:20:00",
-    "format_raw": "(ATMOS‧數位‧日文版)哥吉拉-0.0",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=8fda9934-73d4-4c14-b1c4-386c2b81045c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "cf2735859d4b",
-    "cinema_id": "ambassador-8fda9934-73d4-4c14-b1c4-386c2b81045c",
-    "datetime_start": "2026-11-20T17:50:00",
-    "format_raw": "(ATMOS‧數位‧日文版)哥吉拉-0.0",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=8fda9934-73d4-4c14-b1c4-386c2b81045c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "cf2735859d4b",
-    "cinema_id": "ambassador-8fda9934-73d4-4c14-b1c4-386c2b81045c",
-    "datetime_start": "2026-11-20T20:20:00",
-    "format_raw": "(ATMOS‧數位‧日文版)哥吉拉-0.0",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=8fda9934-73d4-4c14-b1c4-386c2b81045c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "cf2735859d4b",
-    "cinema_id": "ambassador-8fda9934-73d4-4c14-b1c4-386c2b81045c",
-    "datetime_start": "2026-11-20T22:50:00",
-    "format_raw": "(ATMOS‧數位‧日文版)哥吉拉-0.0",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=8fda9934-73d4-4c14-b1c4-386c2b81045c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "cf2735859d4b",
-    "cinema_id": "ambassador-8fda9934-73d4-4c14-b1c4-386c2b81045c",
-    "datetime_start": "2026-11-20T14:10:00",
-    "format_raw": "(ATMOS‧數位‧日文版)哥吉拉-0.0",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=8fda9934-73d4-4c14-b1c4-386c2b81045c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "cf2735859d4b",
-    "cinema_id": "ambassador-8fda9934-73d4-4c14-b1c4-386c2b81045c",
-    "datetime_start": "2026-11-20T16:40:00",
-    "format_raw": "(ATMOS‧數位‧日文版)哥吉拉-0.0",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=8fda9934-73d4-4c14-b1c4-386c2b81045c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "cf2735859d4b",
-    "cinema_id": "ambassador-8fda9934-73d4-4c14-b1c4-386c2b81045c",
-    "datetime_start": "2026-11-20T19:10:00",
-    "format_raw": "(ATMOS‧數位‧日文版)哥吉拉-0.0",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=8fda9934-73d4-4c14-b1c4-386c2b81045c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "cf2735859d4b",
-    "cinema_id": "ambassador-8fda9934-73d4-4c14-b1c4-386c2b81045c",
-    "datetime_start": "2026-11-20T21:40:00",
-    "format_raw": "(ATMOS‧數位‧日文版)哥吉拉-0.0",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=8fda9934-73d4-4c14-b1c4-386c2b81045c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "cf2735859d4b",
-    "cinema_id": "ambassador-f760950a-94b6-4e04-9573-831ed7283c5c",
-    "datetime_start": "2026-11-20T13:40:00",
-    "format_raw": "(ATMOS‧數位‧日文版)哥吉拉-0.0",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=f760950a-94b6-4e04-9573-831ed7283c5c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "cf2735859d4b",
-    "cinema_id": "ambassador-f760950a-94b6-4e04-9573-831ed7283c5c",
-    "datetime_start": "2026-11-20T16:10:00",
-    "format_raw": "(ATMOS‧數位‧日文版)哥吉拉-0.0",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=f760950a-94b6-4e04-9573-831ed7283c5c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "cf2735859d4b",
-    "cinema_id": "ambassador-f760950a-94b6-4e04-9573-831ed7283c5c",
-    "datetime_start": "2026-11-20T19:00:00",
-    "format_raw": "(ATMOS‧數位‧日文版)哥吉拉-0.0",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=f760950a-94b6-4e04-9573-831ed7283c5c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "cf2735859d4b",
-    "cinema_id": "ambassador-f760950a-94b6-4e04-9573-831ed7283c5c",
-    "datetime_start": "2026-11-20T21:30:00",
-    "format_raw": "(ATMOS‧數位‧日文版)哥吉拉-0.0",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=f760950a-94b6-4e04-9573-831ed7283c5c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "cf2735859d4b",
-    "cinema_id": "ambassador-f760950a-94b6-4e04-9573-831ed7283c5c",
-    "datetime_start": "2026-11-20T14:30:00",
-    "format_raw": "(ATMOS‧數位‧日文版)哥吉拉-0.0",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=f760950a-94b6-4e04-9573-831ed7283c5c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "cf2735859d4b",
-    "cinema_id": "ambassador-f760950a-94b6-4e04-9573-831ed7283c5c",
-    "datetime_start": "2026-11-20T20:10:00",
-    "format_raw": "(ATMOS‧數位‧日文版)哥吉拉-0.0",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=f760950a-94b6-4e04-9573-831ed7283c5c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "cf2735859d4b",
-    "cinema_id": "ambassador-f760950a-94b6-4e04-9573-831ed7283c5c",
-    "datetime_start": "2026-11-20T22:40:00",
-    "format_raw": "(ATMOS‧數位‧日文版)哥吉拉-0.0",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=f760950a-94b6-4e04-9573-831ed7283c5c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "cf2735859d4b",
-    "cinema_id": "ambassador-ec07626b-b382-474e-be39-ad45eac5cd1c",
-    "datetime_start": "2026-11-20T13:20:00",
-    "format_raw": "(數位‧日文版)哥吉拉-0.0",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=ec07626b-b382-474e-be39-ad45eac5cd1c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "cf2735859d4b",
-    "cinema_id": "ambassador-ec07626b-b382-474e-be39-ad45eac5cd1c",
-    "datetime_start": "2026-11-20T15:50:00",
-    "format_raw": "(數位‧日文版)哥吉拉-0.0",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=ec07626b-b382-474e-be39-ad45eac5cd1c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "cf2735859d4b",
-    "cinema_id": "ambassador-ec07626b-b382-474e-be39-ad45eac5cd1c",
-    "datetime_start": "2026-11-20T18:20:00",
-    "format_raw": "(數位‧日文版)哥吉拉-0.0",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=ec07626b-b382-474e-be39-ad45eac5cd1c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "cf2735859d4b",
-    "cinema_id": "ambassador-ec07626b-b382-474e-be39-ad45eac5cd1c",
-    "datetime_start": "2026-11-20T20:50:00",
-    "format_raw": "(數位‧日文版)哥吉拉-0.0",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=ec07626b-b382-474e-be39-ad45eac5cd1c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "cf2735859d4b",
-    "cinema_id": "ambassador-ec07626b-b382-474e-be39-ad45eac5cd1c",
-    "datetime_start": "2026-11-20T14:10:00",
-    "format_raw": "(數位‧日文版)哥吉拉-0.0",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=ec07626b-b382-474e-be39-ad45eac5cd1c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "cf2735859d4b",
-    "cinema_id": "ambassador-ec07626b-b382-474e-be39-ad45eac5cd1c",
-    "datetime_start": "2026-11-20T19:50:00",
-    "format_raw": "(數位‧日文版)哥吉拉-0.0",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=ec07626b-b382-474e-be39-ad45eac5cd1c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "cf2735859d4b",
-    "cinema_id": "ambassador-41aae717-4464-49f4-ac26-fec2d16acbd6",
-    "datetime_start": "2026-11-20T10:20:00",
-    "format_raw": "(數位‧日文版)哥吉拉-0.0",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=41aae717-4464-49f4-ac26-fec2d16acbd6&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "cf2735859d4b",
-    "cinema_id": "ambassador-41aae717-4464-49f4-ac26-fec2d16acbd6",
-    "datetime_start": "2026-11-20T12:50:00",
-    "format_raw": "(數位‧日文版)哥吉拉-0.0",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=41aae717-4464-49f4-ac26-fec2d16acbd6&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "cf2735859d4b",
-    "cinema_id": "ambassador-41aae717-4464-49f4-ac26-fec2d16acbd6",
-    "datetime_start": "2026-11-20T15:20:00",
-    "format_raw": "(數位‧日文版)哥吉拉-0.0",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=41aae717-4464-49f4-ac26-fec2d16acbd6&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "cf2735859d4b",
-    "cinema_id": "ambassador-41aae717-4464-49f4-ac26-fec2d16acbd6",
-    "datetime_start": "2026-11-20T17:50:00",
-    "format_raw": "(數位‧日文版)哥吉拉-0.0",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=41aae717-4464-49f4-ac26-fec2d16acbd6&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "cf2735859d4b",
-    "cinema_id": "ambassador-41aae717-4464-49f4-ac26-fec2d16acbd6",
-    "datetime_start": "2026-11-20T20:20:00",
-    "format_raw": "(數位‧日文版)哥吉拉-0.0",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=41aae717-4464-49f4-ac26-fec2d16acbd6&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "cf2735859d4b",
-    "cinema_id": "ambassador-41aae717-4464-49f4-ac26-fec2d16acbd6",
-    "datetime_start": "2026-11-20T22:50:00",
-    "format_raw": "(數位‧日文版)哥吉拉-0.0",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=41aae717-4464-49f4-ac26-fec2d16acbd6&DT=2026/11/20",
     "booking_platform": "self",
     "source": "ambassador.com.tw"
   },
@@ -15220,22 +13180,332 @@
     "source": "ambassador.com.tw"
   },
   {
-    "film_id": "c3b7a98fd8c6",
+    "film_id": "8652a357ee33",
     "cinema_id": "ambassador-453b2966-f7c2-44a9-b2eb-687493855d0e",
-    "datetime_start": "2026-11-21T13:00:00",
-    "format_raw": "(數位‧印度語版)（特別場）巴霍巴利王：王者再臨",
-    "language": null,
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=453b2966-f7c2-44a9-b2eb-687493855d0e&DT=2026/11/21",
+    "datetime_start": "2026-11-27T10:50:00",
+    "format_raw": "(數位‧英文版)歡迎光臨魔法秘境",
+    "language": "英文版",
+    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=453b2966-f7c2-44a9-b2eb-687493855d0e&DT=2026/11/27",
+    "booking_platform": "self",
+    "source": "ambassador.com.tw"
+  },
+  {
+    "film_id": "8652a357ee33",
+    "cinema_id": "ambassador-453b2966-f7c2-44a9-b2eb-687493855d0e",
+    "datetime_start": "2026-11-27T15:05:00",
+    "format_raw": "(數位‧英文版)歡迎光臨魔法秘境",
+    "language": "英文版",
+    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=453b2966-f7c2-44a9-b2eb-687493855d0e&DT=2026/11/27",
+    "booking_platform": "self",
+    "source": "ambassador.com.tw"
+  },
+  {
+    "film_id": "8652a357ee33",
+    "cinema_id": "ambassador-453b2966-f7c2-44a9-b2eb-687493855d0e",
+    "datetime_start": "2026-11-27T19:15:00",
+    "format_raw": "(數位‧英文版)歡迎光臨魔法秘境",
+    "language": "英文版",
+    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=453b2966-f7c2-44a9-b2eb-687493855d0e&DT=2026/11/27",
+    "booking_platform": "self",
+    "source": "ambassador.com.tw"
+  },
+  {
+    "film_id": "8652a357ee33",
+    "cinema_id": "ambassador-453b2966-f7c2-44a9-b2eb-687493855d0e",
+    "datetime_start": "2026-11-27T21:20:00",
+    "format_raw": "(數位‧英文版)歡迎光臨魔法秘境",
+    "language": "英文版",
+    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=453b2966-f7c2-44a9-b2eb-687493855d0e&DT=2026/11/27",
+    "booking_platform": "self",
+    "source": "ambassador.com.tw"
+  },
+  {
+    "film_id": "8652a357ee33",
+    "cinema_id": "ambassador-9383c5fa-b4f3-4ba8-ba7a-c25c7df95fd0",
+    "datetime_start": "2026-11-27T15:25:00",
+    "format_raw": "(數位‧英文版)歡迎光臨魔法秘境",
+    "language": "英文版",
+    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=9383c5fa-b4f3-4ba8-ba7a-c25c7df95fd0&DT=2026/11/27",
+    "booking_platform": "self",
+    "source": "ambassador.com.tw"
+  },
+  {
+    "film_id": "8652a357ee33",
+    "cinema_id": "ambassador-9383c5fa-b4f3-4ba8-ba7a-c25c7df95fd0",
+    "datetime_start": "2026-11-27T19:35:00",
+    "format_raw": "(數位‧英文版)歡迎光臨魔法秘境",
+    "language": "英文版",
+    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=9383c5fa-b4f3-4ba8-ba7a-c25c7df95fd0&DT=2026/11/27",
+    "booking_platform": "self",
+    "source": "ambassador.com.tw"
+  },
+  {
+    "film_id": "8652a357ee33",
+    "cinema_id": "ambassador-9383c5fa-b4f3-4ba8-ba7a-c25c7df95fd0",
+    "datetime_start": "2026-11-27T21:40:00",
+    "format_raw": "(數位‧英文版)歡迎光臨魔法秘境",
+    "language": "英文版",
+    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=9383c5fa-b4f3-4ba8-ba7a-c25c7df95fd0&DT=2026/11/27",
+    "booking_platform": "self",
+    "source": "ambassador.com.tw"
+  },
+  {
+    "film_id": "8652a357ee33",
+    "cinema_id": "ambassador-1e42d235-c3cf-4f75-a382-af60f67a4aad",
+    "datetime_start": "2026-11-27T15:25:00",
+    "format_raw": "(數位‧英文版)歡迎光臨魔法秘境",
+    "language": "英文版",
+    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=1e42d235-c3cf-4f75-a382-af60f67a4aad&DT=2026/11/27",
+    "booking_platform": "self",
+    "source": "ambassador.com.tw"
+  },
+  {
+    "film_id": "8652a357ee33",
+    "cinema_id": "ambassador-1e42d235-c3cf-4f75-a382-af60f67a4aad",
+    "datetime_start": "2026-11-27T19:35:00",
+    "format_raw": "(數位‧英文版)歡迎光臨魔法秘境",
+    "language": "英文版",
+    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=1e42d235-c3cf-4f75-a382-af60f67a4aad&DT=2026/11/27",
+    "booking_platform": "self",
+    "source": "ambassador.com.tw"
+  },
+  {
+    "film_id": "8652a357ee33",
+    "cinema_id": "ambassador-1e42d235-c3cf-4f75-a382-af60f67a4aad",
+    "datetime_start": "2026-11-27T21:40:00",
+    "format_raw": "(數位‧英文版)歡迎光臨魔法秘境",
+    "language": "英文版",
+    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=1e42d235-c3cf-4f75-a382-af60f67a4aad&DT=2026/11/27",
+    "booking_platform": "self",
+    "source": "ambassador.com.tw"
+  },
+  {
+    "film_id": "8652a357ee33",
+    "cinema_id": "ambassador-3301d822-b385-4aa8-a9eb-aa59d58e95c9",
+    "datetime_start": "2026-11-27T11:20:00",
+    "format_raw": "(數位‧中文版)歡迎光臨魔法秘境",
+    "language": "中文版",
+    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=3301d822-b385-4aa8-a9eb-aa59d58e95c9&DT=2026/11/27",
+    "booking_platform": "self",
+    "source": "ambassador.com.tw"
+  },
+  {
+    "film_id": "8652a357ee33",
+    "cinema_id": "ambassador-3301d822-b385-4aa8-a9eb-aa59d58e95c9",
+    "datetime_start": "2026-11-27T13:30:00",
+    "format_raw": "(數位‧中文版)歡迎光臨魔法秘境",
+    "language": "中文版",
+    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=3301d822-b385-4aa8-a9eb-aa59d58e95c9&DT=2026/11/27",
+    "booking_platform": "self",
+    "source": "ambassador.com.tw"
+  },
+  {
+    "film_id": "8652a357ee33",
+    "cinema_id": "ambassador-3301d822-b385-4aa8-a9eb-aa59d58e95c9",
+    "datetime_start": "2026-11-27T15:35:00",
+    "format_raw": "(數位‧中文版)歡迎光臨魔法秘境",
+    "language": "中文版",
+    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=3301d822-b385-4aa8-a9eb-aa59d58e95c9&DT=2026/11/27",
+    "booking_platform": "self",
+    "source": "ambassador.com.tw"
+  },
+  {
+    "film_id": "8652a357ee33",
+    "cinema_id": "ambassador-3301d822-b385-4aa8-a9eb-aa59d58e95c9",
+    "datetime_start": "2026-11-27T17:40:00",
+    "format_raw": "(數位‧中文版)歡迎光臨魔法秘境",
+    "language": "中文版",
+    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=3301d822-b385-4aa8-a9eb-aa59d58e95c9&DT=2026/11/27",
+    "booking_platform": "self",
+    "source": "ambassador.com.tw"
+  },
+  {
+    "film_id": "8652a357ee33",
+    "cinema_id": "ambassador-3301d822-b385-4aa8-a9eb-aa59d58e95c9",
+    "datetime_start": "2026-11-27T10:50:00",
+    "format_raw": "(數位‧中文版)歡迎光臨魔法秘境",
+    "language": "中文版",
+    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=3301d822-b385-4aa8-a9eb-aa59d58e95c9&DT=2026/11/27",
+    "booking_platform": "self",
+    "source": "ambassador.com.tw"
+  },
+  {
+    "film_id": "8652a357ee33",
+    "cinema_id": "ambassador-3301d822-b385-4aa8-a9eb-aa59d58e95c9",
+    "datetime_start": "2026-11-27T13:00:00",
+    "format_raw": "(數位‧中文版)歡迎光臨魔法秘境",
+    "language": "中文版",
+    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=3301d822-b385-4aa8-a9eb-aa59d58e95c9&DT=2026/11/27",
+    "booking_platform": "self",
+    "source": "ambassador.com.tw"
+  },
+  {
+    "film_id": "8652a357ee33",
+    "cinema_id": "ambassador-3301d822-b385-4aa8-a9eb-aa59d58e95c9",
+    "datetime_start": "2026-11-27T15:05:00",
+    "format_raw": "(數位‧中文版)歡迎光臨魔法秘境",
+    "language": "中文版",
+    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=3301d822-b385-4aa8-a9eb-aa59d58e95c9&DT=2026/11/27",
+    "booking_platform": "self",
+    "source": "ambassador.com.tw"
+  },
+  {
+    "film_id": "8652a357ee33",
+    "cinema_id": "ambassador-3301d822-b385-4aa8-a9eb-aa59d58e95c9",
+    "datetime_start": "2026-11-27T17:10:00",
+    "format_raw": "(數位‧中文版)歡迎光臨魔法秘境",
+    "language": "中文版",
+    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=3301d822-b385-4aa8-a9eb-aa59d58e95c9&DT=2026/11/27",
+    "booking_platform": "self",
+    "source": "ambassador.com.tw"
+  },
+  {
+    "film_id": "8652a357ee33",
+    "cinema_id": "ambassador-3301d822-b385-4aa8-a9eb-aa59d58e95c9",
+    "datetime_start": "2026-11-27T19:15:00",
+    "format_raw": "(數位‧中文版)歡迎光臨魔法秘境",
+    "language": "中文版",
+    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=3301d822-b385-4aa8-a9eb-aa59d58e95c9&DT=2026/11/27",
+    "booking_platform": "self",
+    "source": "ambassador.com.tw"
+  },
+  {
+    "film_id": "8652a357ee33",
+    "cinema_id": "ambassador-8fda9934-73d4-4c14-b1c4-386c2b81045c",
+    "datetime_start": "2026-11-27T10:20:00",
+    "format_raw": "(數位‧中文版)歡迎光臨魔法秘境",
+    "language": "中文版",
+    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=8fda9934-73d4-4c14-b1c4-386c2b81045c&DT=2026/11/27",
+    "booking_platform": "self",
+    "source": "ambassador.com.tw"
+  },
+  {
+    "film_id": "8652a357ee33",
+    "cinema_id": "ambassador-8fda9934-73d4-4c14-b1c4-386c2b81045c",
+    "datetime_start": "2026-11-27T14:30:00",
+    "format_raw": "(數位‧中文版)歡迎光臨魔法秘境",
+    "language": "中文版",
+    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=8fda9934-73d4-4c14-b1c4-386c2b81045c&DT=2026/11/27",
+    "booking_platform": "self",
+    "source": "ambassador.com.tw"
+  },
+  {
+    "film_id": "8652a357ee33",
+    "cinema_id": "ambassador-8fda9934-73d4-4c14-b1c4-386c2b81045c",
+    "datetime_start": "2026-11-27T18:40:00",
+    "format_raw": "(數位‧中文版)歡迎光臨魔法秘境",
+    "language": "中文版",
+    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=8fda9934-73d4-4c14-b1c4-386c2b81045c&DT=2026/11/27",
+    "booking_platform": "self",
+    "source": "ambassador.com.tw"
+  },
+  {
+    "film_id": "8652a357ee33",
+    "cinema_id": "ambassador-8fda9934-73d4-4c14-b1c4-386c2b81045c",
+    "datetime_start": "2026-11-27T20:45:00",
+    "format_raw": "(數位‧中文版)歡迎光臨魔法秘境",
+    "language": "中文版",
+    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=8fda9934-73d4-4c14-b1c4-386c2b81045c&DT=2026/11/27",
+    "booking_platform": "self",
+    "source": "ambassador.com.tw"
+  },
+  {
+    "film_id": "8652a357ee33",
+    "cinema_id": "ambassador-f760950a-94b6-4e04-9573-831ed7283c5c",
+    "datetime_start": "2026-11-27T15:25:00",
+    "format_raw": "(ATMOS‧數位‧英文版)歡迎光臨魔法秘境",
+    "language": "英文版",
+    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=f760950a-94b6-4e04-9573-831ed7283c5c&DT=2026/11/27",
+    "booking_platform": "self",
+    "source": "ambassador.com.tw"
+  },
+  {
+    "film_id": "8652a357ee33",
+    "cinema_id": "ambassador-f760950a-94b6-4e04-9573-831ed7283c5c",
+    "datetime_start": "2026-11-27T19:35:00",
+    "format_raw": "(ATMOS‧數位‧英文版)歡迎光臨魔法秘境",
+    "language": "英文版",
+    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=f760950a-94b6-4e04-9573-831ed7283c5c&DT=2026/11/27",
+    "booking_platform": "self",
+    "source": "ambassador.com.tw"
+  },
+  {
+    "film_id": "8652a357ee33",
+    "cinema_id": "ambassador-f760950a-94b6-4e04-9573-831ed7283c5c",
+    "datetime_start": "2026-11-27T21:40:00",
+    "format_raw": "(ATMOS‧數位‧英文版)歡迎光臨魔法秘境",
+    "language": "英文版",
+    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=f760950a-94b6-4e04-9573-831ed7283c5c&DT=2026/11/27",
+    "booking_platform": "self",
+    "source": "ambassador.com.tw"
+  },
+  {
+    "film_id": "8652a357ee33",
+    "cinema_id": "ambassador-ec07626b-b382-474e-be39-ad45eac5cd1c",
+    "datetime_start": "2026-11-27T15:25:00",
+    "format_raw": "(數位‧英文版)歡迎光臨魔法秘境",
+    "language": "英文版",
+    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=ec07626b-b382-474e-be39-ad45eac5cd1c&DT=2026/11/27",
+    "booking_platform": "self",
+    "source": "ambassador.com.tw"
+  },
+  {
+    "film_id": "8652a357ee33",
+    "cinema_id": "ambassador-ec07626b-b382-474e-be39-ad45eac5cd1c",
+    "datetime_start": "2026-11-27T19:35:00",
+    "format_raw": "(數位‧英文版)歡迎光臨魔法秘境",
+    "language": "英文版",
+    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=ec07626b-b382-474e-be39-ad45eac5cd1c&DT=2026/11/27",
+    "booking_platform": "self",
+    "source": "ambassador.com.tw"
+  },
+  {
+    "film_id": "8652a357ee33",
+    "cinema_id": "ambassador-41aae717-4464-49f4-ac26-fec2d16acbd6",
+    "datetime_start": "2026-11-27T10:20:00",
+    "format_raw": "(數位‧中文版)歡迎光臨魔法秘境",
+    "language": "中文版",
+    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=41aae717-4464-49f4-ac26-fec2d16acbd6&DT=2026/11/27",
+    "booking_platform": "self",
+    "source": "ambassador.com.tw"
+  },
+  {
+    "film_id": "8652a357ee33",
+    "cinema_id": "ambassador-41aae717-4464-49f4-ac26-fec2d16acbd6",
+    "datetime_start": "2026-11-27T14:30:00",
+    "format_raw": "(數位‧中文版)歡迎光臨魔法秘境",
+    "language": "中文版",
+    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=41aae717-4464-49f4-ac26-fec2d16acbd6&DT=2026/11/27",
+    "booking_platform": "self",
+    "source": "ambassador.com.tw"
+  },
+  {
+    "film_id": "8652a357ee33",
+    "cinema_id": "ambassador-41aae717-4464-49f4-ac26-fec2d16acbd6",
+    "datetime_start": "2026-11-27T18:40:00",
+    "format_raw": "(數位‧中文版)歡迎光臨魔法秘境",
+    "language": "中文版",
+    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=41aae717-4464-49f4-ac26-fec2d16acbd6&DT=2026/11/27",
+    "booking_platform": "self",
+    "source": "ambassador.com.tw"
+  },
+  {
+    "film_id": "8652a357ee33",
+    "cinema_id": "ambassador-41aae717-4464-49f4-ac26-fec2d16acbd6",
+    "datetime_start": "2026-11-27T20:45:00",
+    "format_raw": "(數位‧中文版)歡迎光臨魔法秘境",
+    "language": "中文版",
+    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=41aae717-4464-49f4-ac26-fec2d16acbd6&DT=2026/11/27",
     "booking_platform": "self",
     "source": "ambassador.com.tw"
   },
   {
     "film_id": "c3b7a98fd8c6",
     "cinema_id": "ambassador-453b2966-f7c2-44a9-b2eb-687493855d0e",
-    "datetime_start": "2026-11-20T21:05:00",
-    "format_raw": "(數位‧印度語版)巴霍巴利王：王者再臨",
+    "datetime_start": "2026-11-21T13:00:00",
+    "format_raw": "(數位‧印度語版)（特別場）巴霍巴利王：王者再臨",
     "language": null,
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=453b2966-f7c2-44a9-b2eb-687493855d0e&DT=2026/11/20",
+    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=453b2966-f7c2-44a9-b2eb-687493855d0e&DT=2026/11/21",
     "booking_platform": "self",
     "source": "ambassador.com.tw"
   },
@@ -15286,26 +13556,6 @@
     "format_raw": "(數位‧印度語版)巴霍巴利王：王者再臨",
     "language": null,
     "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=453b2966-f7c2-44a9-b2eb-687493855d0e&DT=2026/11/26",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "afd25fdc435b",
-    "cinema_id": "ambassador-453b2966-f7c2-44a9-b2eb-687493855d0e",
-    "datetime_start": "2026-11-20T11:30:00",
-    "format_raw": "(數位‧粵語版)善男信女",
-    "language": null,
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=453b2966-f7c2-44a9-b2eb-687493855d0e&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "afd25fdc435b",
-    "cinema_id": "ambassador-453b2966-f7c2-44a9-b2eb-687493855d0e",
-    "datetime_start": "2026-11-20T17:15:00",
-    "format_raw": "(數位‧粵語版)善男信女",
-    "language": null,
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=453b2966-f7c2-44a9-b2eb-687493855d0e&DT=2026/11/20",
     "booking_platform": "self",
     "source": "ambassador.com.tw"
   },
@@ -15426,46 +13676,6 @@
     "format_raw": "(數位‧粵語版)善男信女",
     "language": null,
     "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=453b2966-f7c2-44a9-b2eb-687493855d0e&DT=2026/11/26",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "f942eb137e7b",
-    "cinema_id": "ambassador-453b2966-f7c2-44a9-b2eb-687493855d0e",
-    "datetime_start": "2026-11-20T13:15:00",
-    "format_raw": "(數位‧粵語版)偵戰",
-    "language": null,
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=453b2966-f7c2-44a9-b2eb-687493855d0e&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "f942eb137e7b",
-    "cinema_id": "ambassador-453b2966-f7c2-44a9-b2eb-687493855d0e",
-    "datetime_start": "2026-11-20T22:10:00",
-    "format_raw": "(數位‧粵語版)偵戰",
-    "language": null,
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=453b2966-f7c2-44a9-b2eb-687493855d0e&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "f942eb137e7b",
-    "cinema_id": "ambassador-3301d822-b385-4aa8-a9eb-aa59d58e95c9",
-    "datetime_start": "2026-11-20T20:40:00",
-    "format_raw": "(數位‧粵語版)偵戰",
-    "language": null,
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=3301d822-b385-4aa8-a9eb-aa59d58e95c9&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "f942eb137e7b",
-    "cinema_id": "ambassador-3301d822-b385-4aa8-a9eb-aa59d58e95c9",
-    "datetime_start": "2026-11-20T14:00:00",
-    "format_raw": "(數位‧粵語版)偵戰",
-    "language": null,
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=3301d822-b385-4aa8-a9eb-aa59d58e95c9&DT=2026/11/20",
     "booking_platform": "self",
     "source": "ambassador.com.tw"
   },
@@ -15706,136 +13916,6 @@
     "format_raw": "(數位‧粵語版)偵戰",
     "language": null,
     "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=3301d822-b385-4aa8-a9eb-aa59d58e95c9&DT=2026/11/26",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "508f387a8e7b",
-    "cinema_id": "ambassador-453b2966-f7c2-44a9-b2eb-687493855d0e",
-    "datetime_start": "2026-11-20T10:50:00",
-    "format_raw": "(數位‧日文版)皎潔深宵之月",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=453b2966-f7c2-44a9-b2eb-687493855d0e&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "508f387a8e7b",
-    "cinema_id": "ambassador-453b2966-f7c2-44a9-b2eb-687493855d0e",
-    "datetime_start": "2026-11-20T14:50:00",
-    "format_raw": "(數位‧日文版)皎潔深宵之月",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=453b2966-f7c2-44a9-b2eb-687493855d0e&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "508f387a8e7b",
-    "cinema_id": "ambassador-453b2966-f7c2-44a9-b2eb-687493855d0e",
-    "datetime_start": "2026-11-20T18:50:00",
-    "format_raw": "(數位‧日文版)皎潔深宵之月",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=453b2966-f7c2-44a9-b2eb-687493855d0e&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "508f387a8e7b",
-    "cinema_id": "ambassador-9383c5fa-b4f3-4ba8-ba7a-c25c7df95fd0",
-    "datetime_start": "2026-11-20T13:20:00",
-    "format_raw": "(數位‧日文版)皎潔深宵之月",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=9383c5fa-b4f3-4ba8-ba7a-c25c7df95fd0&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "508f387a8e7b",
-    "cinema_id": "ambassador-9383c5fa-b4f3-4ba8-ba7a-c25c7df95fd0",
-    "datetime_start": "2026-11-20T18:50:00",
-    "format_raw": "(數位‧日文版)皎潔深宵之月",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=9383c5fa-b4f3-4ba8-ba7a-c25c7df95fd0&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "508f387a8e7b",
-    "cinema_id": "ambassador-1e42d235-c3cf-4f75-a382-af60f67a4aad",
-    "datetime_start": "2026-11-20T13:20:00",
-    "format_raw": "(數位‧日文版)皎潔深宵之月",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=1e42d235-c3cf-4f75-a382-af60f67a4aad&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "508f387a8e7b",
-    "cinema_id": "ambassador-1e42d235-c3cf-4f75-a382-af60f67a4aad",
-    "datetime_start": "2026-11-20T18:50:00",
-    "format_raw": "(數位‧日文版)皎潔深宵之月",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=1e42d235-c3cf-4f75-a382-af60f67a4aad&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "508f387a8e7b",
-    "cinema_id": "ambassador-3301d822-b385-4aa8-a9eb-aa59d58e95c9",
-    "datetime_start": "2026-11-20T14:15:00",
-    "format_raw": "(數位‧日文版)皎潔深宵之月",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=3301d822-b385-4aa8-a9eb-aa59d58e95c9&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "508f387a8e7b",
-    "cinema_id": "ambassador-3301d822-b385-4aa8-a9eb-aa59d58e95c9",
-    "datetime_start": "2026-11-20T18:25:00",
-    "format_raw": "(數位‧日文版)皎潔深宵之月",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=3301d822-b385-4aa8-a9eb-aa59d58e95c9&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "508f387a8e7b",
-    "cinema_id": "ambassador-3301d822-b385-4aa8-a9eb-aa59d58e95c9",
-    "datetime_start": "2026-11-20T21:20:00",
-    "format_raw": "(數位‧日文版)皎潔深宵之月",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=3301d822-b385-4aa8-a9eb-aa59d58e95c9&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "508f387a8e7b",
-    "cinema_id": "ambassador-f760950a-94b6-4e04-9573-831ed7283c5c",
-    "datetime_start": "2026-11-20T13:20:00",
-    "format_raw": "(數位‧日文版)皎潔深宵之月",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=f760950a-94b6-4e04-9573-831ed7283c5c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "508f387a8e7b",
-    "cinema_id": "ambassador-f760950a-94b6-4e04-9573-831ed7283c5c",
-    "datetime_start": "2026-11-20T17:15:00",
-    "format_raw": "(數位‧日文版)皎潔深宵之月",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=f760950a-94b6-4e04-9573-831ed7283c5c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "508f387a8e7b",
-    "cinema_id": "ambassador-f760950a-94b6-4e04-9573-831ed7283c5c",
-    "datetime_start": "2026-11-20T22:25:00",
-    "format_raw": "(數位‧日文版)皎潔深宵之月",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=f760950a-94b6-4e04-9573-831ed7283c5c&DT=2026/11/20",
     "booking_platform": "self",
     "source": "ambassador.com.tw"
   },
@@ -16612,86 +14692,6 @@
   {
     "film_id": "805771cffc0c",
     "cinema_id": "ambassador-453b2966-f7c2-44a9-b2eb-687493855d0e",
-    "datetime_start": "2026-11-20T13:25:00",
-    "format_raw": "(數位‧日文版)樂園追放 心之共鳴",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=453b2966-f7c2-44a9-b2eb-687493855d0e&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "805771cffc0c",
-    "cinema_id": "ambassador-453b2966-f7c2-44a9-b2eb-687493855d0e",
-    "datetime_start": "2026-11-20T17:45:00",
-    "format_raw": "(數位‧日文版)樂園追放 心之共鳴",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=453b2966-f7c2-44a9-b2eb-687493855d0e&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "805771cffc0c",
-    "cinema_id": "ambassador-3301d822-b385-4aa8-a9eb-aa59d58e95c9",
-    "datetime_start": "2026-11-20T12:00:00",
-    "format_raw": "(數位‧日文版)樂園追放 心之共鳴",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=3301d822-b385-4aa8-a9eb-aa59d58e95c9&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "805771cffc0c",
-    "cinema_id": "ambassador-3301d822-b385-4aa8-a9eb-aa59d58e95c9",
-    "datetime_start": "2026-11-20T17:20:00",
-    "format_raw": "(數位‧日文版)樂園追放 心之共鳴",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=3301d822-b385-4aa8-a9eb-aa59d58e95c9&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "805771cffc0c",
-    "cinema_id": "ambassador-8fda9934-73d4-4c14-b1c4-386c2b81045c",
-    "datetime_start": "2026-11-20T12:05:00",
-    "format_raw": "(數位‧日文版)樂園追放 心之共鳴",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=8fda9934-73d4-4c14-b1c4-386c2b81045c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "805771cffc0c",
-    "cinema_id": "ambassador-8fda9934-73d4-4c14-b1c4-386c2b81045c",
-    "datetime_start": "2026-11-20T17:40:00",
-    "format_raw": "(數位‧日文版)樂園追放 心之共鳴",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=8fda9934-73d4-4c14-b1c4-386c2b81045c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "805771cffc0c",
-    "cinema_id": "ambassador-f760950a-94b6-4e04-9573-831ed7283c5c",
-    "datetime_start": "2026-11-20T14:10:00",
-    "format_raw": "(數位‧日文版)樂園追放 心之共鳴",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=f760950a-94b6-4e04-9573-831ed7283c5c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "805771cffc0c",
-    "cinema_id": "ambassador-f760950a-94b6-4e04-9573-831ed7283c5c",
-    "datetime_start": "2026-11-20T18:10:00",
-    "format_raw": "(數位‧日文版)樂園追放 心之共鳴",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=f760950a-94b6-4e04-9573-831ed7283c5c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "805771cffc0c",
-    "cinema_id": "ambassador-453b2966-f7c2-44a9-b2eb-687493855d0e",
     "datetime_start": "2026-11-21T13:25:00",
     "format_raw": "(數位‧日文版)樂園追放 心之共鳴",
     "language": "日文版",
@@ -17206,186 +15206,6 @@
     "format_raw": "(數位‧日文版)樂園追放 心之共鳴",
     "language": "日文版",
     "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=f760950a-94b6-4e04-9573-831ed7283c5c&DT=2026/11/26",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "d1c7e2cd9e5f",
-    "cinema_id": "ambassador-453b2966-f7c2-44a9-b2eb-687493855d0e",
-    "datetime_start": "2026-11-20T11:30:00",
-    "format_raw": "(數位‧日文版)純愛上等！",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=453b2966-f7c2-44a9-b2eb-687493855d0e&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "d1c7e2cd9e5f",
-    "cinema_id": "ambassador-453b2966-f7c2-44a9-b2eb-687493855d0e",
-    "datetime_start": "2026-11-20T15:50:00",
-    "format_raw": "(數位‧日文版)純愛上等！",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=453b2966-f7c2-44a9-b2eb-687493855d0e&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "d1c7e2cd9e5f",
-    "cinema_id": "ambassador-453b2966-f7c2-44a9-b2eb-687493855d0e",
-    "datetime_start": "2026-11-20T20:10:00",
-    "format_raw": "(數位‧日文版)純愛上等！",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=453b2966-f7c2-44a9-b2eb-687493855d0e&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "d1c7e2cd9e5f",
-    "cinema_id": "ambassador-9383c5fa-b4f3-4ba8-ba7a-c25c7df95fd0",
-    "datetime_start": "2026-11-20T13:50:00",
-    "format_raw": "(數位‧日文版)純愛上等！",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=9383c5fa-b4f3-4ba8-ba7a-c25c7df95fd0&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "d1c7e2cd9e5f",
-    "cinema_id": "ambassador-9383c5fa-b4f3-4ba8-ba7a-c25c7df95fd0",
-    "datetime_start": "2026-11-20T17:35:00",
-    "format_raw": "(數位‧日文版)純愛上等！",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=9383c5fa-b4f3-4ba8-ba7a-c25c7df95fd0&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "d1c7e2cd9e5f",
-    "cinema_id": "ambassador-1e42d235-c3cf-4f75-a382-af60f67a4aad",
-    "datetime_start": "2026-11-20T13:50:00",
-    "format_raw": "(數位‧日文版)純愛上等！",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=1e42d235-c3cf-4f75-a382-af60f67a4aad&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "d1c7e2cd9e5f",
-    "cinema_id": "ambassador-1e42d235-c3cf-4f75-a382-af60f67a4aad",
-    "datetime_start": "2026-11-20T17:35:00",
-    "format_raw": "(數位‧日文版)純愛上等！",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=1e42d235-c3cf-4f75-a382-af60f67a4aad&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "d1c7e2cd9e5f",
-    "cinema_id": "ambassador-3301d822-b385-4aa8-a9eb-aa59d58e95c9",
-    "datetime_start": "2026-11-20T12:20:00",
-    "format_raw": "(數位‧日文版)純愛上等！",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=3301d822-b385-4aa8-a9eb-aa59d58e95c9&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "d1c7e2cd9e5f",
-    "cinema_id": "ambassador-3301d822-b385-4aa8-a9eb-aa59d58e95c9",
-    "datetime_start": "2026-11-20T16:30:00",
-    "format_raw": "(數位‧日文版)純愛上等！",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=3301d822-b385-4aa8-a9eb-aa59d58e95c9&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "d1c7e2cd9e5f",
-    "cinema_id": "ambassador-3301d822-b385-4aa8-a9eb-aa59d58e95c9",
-    "datetime_start": "2026-11-20T20:40:00",
-    "format_raw": "(數位‧日文版)純愛上等！",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=3301d822-b385-4aa8-a9eb-aa59d58e95c9&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "d1c7e2cd9e5f",
-    "cinema_id": "ambassador-8fda9934-73d4-4c14-b1c4-386c2b81045c",
-    "datetime_start": "2026-11-20T10:20:00",
-    "format_raw": "(數位‧日文版)純愛上等！",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=8fda9934-73d4-4c14-b1c4-386c2b81045c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "d1c7e2cd9e5f",
-    "cinema_id": "ambassador-8fda9934-73d4-4c14-b1c4-386c2b81045c",
-    "datetime_start": "2026-11-20T18:10:00",
-    "format_raw": "(數位‧日文版)純愛上等！",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=8fda9934-73d4-4c14-b1c4-386c2b81045c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "d1c7e2cd9e5f",
-    "cinema_id": "ambassador-f760950a-94b6-4e04-9573-831ed7283c5c",
-    "datetime_start": "2026-11-20T17:00:00",
-    "format_raw": "(數位‧日文版)純愛上等！",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=f760950a-94b6-4e04-9573-831ed7283c5c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "d1c7e2cd9e5f",
-    "cinema_id": "ambassador-f760950a-94b6-4e04-9573-831ed7283c5c",
-    "datetime_start": "2026-11-20T20:50:00",
-    "format_raw": "(數位‧日文版)純愛上等！",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=f760950a-94b6-4e04-9573-831ed7283c5c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "d1c7e2cd9e5f",
-    "cinema_id": "ambassador-ec07626b-b382-474e-be39-ad45eac5cd1c",
-    "datetime_start": "2026-11-20T17:00:00",
-    "format_raw": "(數位‧日文版)純愛上等！",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=ec07626b-b382-474e-be39-ad45eac5cd1c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "d1c7e2cd9e5f",
-    "cinema_id": "ambassador-ec07626b-b382-474e-be39-ad45eac5cd1c",
-    "datetime_start": "2026-11-20T20:50:00",
-    "format_raw": "(數位‧日文版)純愛上等！",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=ec07626b-b382-474e-be39-ad45eac5cd1c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "d1c7e2cd9e5f",
-    "cinema_id": "ambassador-41aae717-4464-49f4-ac26-fec2d16acbd6",
-    "datetime_start": "2026-11-20T10:40:00",
-    "format_raw": "(數位‧日文版)純愛上等！",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=41aae717-4464-49f4-ac26-fec2d16acbd6&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "d1c7e2cd9e5f",
-    "cinema_id": "ambassador-41aae717-4464-49f4-ac26-fec2d16acbd6",
-    "datetime_start": "2026-11-20T20:35:00",
-    "format_raw": "(數位‧日文版)純愛上等！",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=41aae717-4464-49f4-ac26-fec2d16acbd6&DT=2026/11/20",
     "booking_platform": "self",
     "source": "ambassador.com.tw"
   },
@@ -18472,46 +16292,6 @@
   {
     "film_id": "ec0058ece279",
     "cinema_id": "ambassador-453b2966-f7c2-44a9-b2eb-687493855d0e",
-    "datetime_start": "2026-11-20T15:05:00",
-    "format_raw": "(數位‧粵語版)第四幕",
-    "language": null,
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=453b2966-f7c2-44a9-b2eb-687493855d0e&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "ec0058ece279",
-    "cinema_id": "ambassador-453b2966-f7c2-44a9-b2eb-687493855d0e",
-    "datetime_start": "2026-11-20T20:50:00",
-    "format_raw": "(數位‧粵語版)第四幕",
-    "language": null,
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=453b2966-f7c2-44a9-b2eb-687493855d0e&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "ec0058ece279",
-    "cinema_id": "ambassador-3301d822-b385-4aa8-a9eb-aa59d58e95c9",
-    "datetime_start": "2026-11-20T11:00:00",
-    "format_raw": "(數位‧粵語版)第四幕",
-    "language": null,
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=3301d822-b385-4aa8-a9eb-aa59d58e95c9&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "ec0058ece279",
-    "cinema_id": "ambassador-3301d822-b385-4aa8-a9eb-aa59d58e95c9",
-    "datetime_start": "2026-11-20T17:00:00",
-    "format_raw": "(數位‧粵語版)第四幕",
-    "language": null,
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=3301d822-b385-4aa8-a9eb-aa59d58e95c9&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "ec0058ece279",
-    "cinema_id": "ambassador-453b2966-f7c2-44a9-b2eb-687493855d0e",
     "datetime_start": "2026-11-21T15:05:00",
     "format_raw": "(數位‧粵語版)第四幕",
     "language": null,
@@ -18746,176 +16526,6 @@
     "format_raw": "(數位‧粵語版)第四幕",
     "language": null,
     "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=3301d822-b385-4aa8-a9eb-aa59d58e95c9&DT=2026/11/26",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "33db484670f8",
-    "cinema_id": "ambassador-3301d822-b385-4aa8-a9eb-aa59d58e95c9",
-    "datetime_start": "2026-11-20T14:45:00",
-    "format_raw": "(數位‧日文版)劇場版 來自深淵：覺醒的神祕",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=3301d822-b385-4aa8-a9eb-aa59d58e95c9&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "33db484670f8",
-    "cinema_id": "ambassador-3301d822-b385-4aa8-a9eb-aa59d58e95c9",
-    "datetime_start": "2026-11-20T16:20:00",
-    "format_raw": "(數位‧日文版)劇場版 來自深淵：覺醒的神祕",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=3301d822-b385-4aa8-a9eb-aa59d58e95c9&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "33db484670f8",
-    "cinema_id": "ambassador-3301d822-b385-4aa8-a9eb-aa59d58e95c9",
-    "datetime_start": "2026-11-20T18:00:00",
-    "format_raw": "(數位‧日文版)劇場版 來自深淵：覺醒的神祕",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=3301d822-b385-4aa8-a9eb-aa59d58e95c9&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "33db484670f8",
-    "cinema_id": "ambassador-3301d822-b385-4aa8-a9eb-aa59d58e95c9",
-    "datetime_start": "2026-11-20T19:35:00",
-    "format_raw": "(數位‧日文版)劇場版 來自深淵：覺醒的神祕",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=3301d822-b385-4aa8-a9eb-aa59d58e95c9&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "33db484670f8",
-    "cinema_id": "ambassador-8fda9934-73d4-4c14-b1c4-386c2b81045c",
-    "datetime_start": "2026-11-20T10:30:00",
-    "format_raw": "(數位‧日文版)劇場版 來自深淵：覺醒的神祕",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=8fda9934-73d4-4c14-b1c4-386c2b81045c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "33db484670f8",
-    "cinema_id": "ambassador-8fda9934-73d4-4c14-b1c4-386c2b81045c",
-    "datetime_start": "2026-11-20T14:30:00",
-    "format_raw": "(數位‧日文版)劇場版 來自深淵：覺醒的神祕",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=8fda9934-73d4-4c14-b1c4-386c2b81045c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "33db484670f8",
-    "cinema_id": "ambassador-8fda9934-73d4-4c14-b1c4-386c2b81045c",
-    "datetime_start": "2026-11-20T16:05:00",
-    "format_raw": "(數位‧日文版)劇場版 來自深淵：覺醒的神祕",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=8fda9934-73d4-4c14-b1c4-386c2b81045c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "33db484670f8",
-    "cinema_id": "ambassador-8fda9934-73d4-4c14-b1c4-386c2b81045c",
-    "datetime_start": "2026-11-20T20:05:00",
-    "format_raw": "(數位‧日文版)劇場版 來自深淵：覺醒的神祕",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=8fda9934-73d4-4c14-b1c4-386c2b81045c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "33db484670f8",
-    "cinema_id": "ambassador-f760950a-94b6-4e04-9573-831ed7283c5c",
-    "datetime_start": "2026-11-20T13:50:00",
-    "format_raw": "(數位‧日文版)劇場版 來自深淵：覺醒的神祕",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=f760950a-94b6-4e04-9573-831ed7283c5c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "33db484670f8",
-    "cinema_id": "ambassador-f760950a-94b6-4e04-9573-831ed7283c5c",
-    "datetime_start": "2026-11-20T16:35:00",
-    "format_raw": "(數位‧日文版)劇場版 來自深淵：覺醒的神祕",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=f760950a-94b6-4e04-9573-831ed7283c5c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "33db484670f8",
-    "cinema_id": "ambassador-f760950a-94b6-4e04-9573-831ed7283c5c",
-    "datetime_start": "2026-11-20T20:35:00",
-    "format_raw": "(數位‧日文版)劇場版 來自深淵：覺醒的神祕",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=f760950a-94b6-4e04-9573-831ed7283c5c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "33db484670f8",
-    "cinema_id": "ambassador-f760950a-94b6-4e04-9573-831ed7283c5c",
-    "datetime_start": "2026-11-20T22:10:00",
-    "format_raw": "(數位‧日文版)劇場版 來自深淵：覺醒的神祕",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=f760950a-94b6-4e04-9573-831ed7283c5c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "33db484670f8",
-    "cinema_id": "ambassador-41aae717-4464-49f4-ac26-fec2d16acbd6",
-    "datetime_start": "2026-11-20T10:40:00",
-    "format_raw": "(數位‧日文版)劇場版 來自深淵：覺醒的神祕",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=41aae717-4464-49f4-ac26-fec2d16acbd6&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "33db484670f8",
-    "cinema_id": "ambassador-41aae717-4464-49f4-ac26-fec2d16acbd6",
-    "datetime_start": "2026-11-20T14:10:00",
-    "format_raw": "(數位‧日文版)劇場版 來自深淵：覺醒的神祕",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=41aae717-4464-49f4-ac26-fec2d16acbd6&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "33db484670f8",
-    "cinema_id": "ambassador-41aae717-4464-49f4-ac26-fec2d16acbd6",
-    "datetime_start": "2026-11-20T15:45:00",
-    "format_raw": "(數位‧日文版)劇場版 來自深淵：覺醒的神祕",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=41aae717-4464-49f4-ac26-fec2d16acbd6&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "33db484670f8",
-    "cinema_id": "ambassador-41aae717-4464-49f4-ac26-fec2d16acbd6",
-    "datetime_start": "2026-11-20T17:20:00",
-    "format_raw": "(數位‧日文版)劇場版 來自深淵：覺醒的神祕",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=41aae717-4464-49f4-ac26-fec2d16acbd6&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "33db484670f8",
-    "cinema_id": "ambassador-41aae717-4464-49f4-ac26-fec2d16acbd6",
-    "datetime_start": "2026-11-20T19:00:00",
-    "format_raw": "(數位‧日文版)劇場版 來自深淵：覺醒的神祕",
-    "language": "日文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=41aae717-4464-49f4-ac26-fec2d16acbd6&DT=2026/11/20",
     "booking_platform": "self",
     "source": "ambassador.com.tw"
   },
@@ -19932,36 +17542,6 @@
   {
     "film_id": "d53698b6ec94",
     "cinema_id": "ambassador-453b2966-f7c2-44a9-b2eb-687493855d0e",
-    "datetime_start": "2026-11-20T13:05:00",
-    "format_raw": "(數位‧中文版)重返巔峰北壁",
-    "language": "中文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=453b2966-f7c2-44a9-b2eb-687493855d0e&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "d53698b6ec94",
-    "cinema_id": "ambassador-453b2966-f7c2-44a9-b2eb-687493855d0e",
-    "datetime_start": "2026-11-20T17:05:00",
-    "format_raw": "(數位‧中文版)重返巔峰北壁",
-    "language": "中文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=453b2966-f7c2-44a9-b2eb-687493855d0e&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "d53698b6ec94",
-    "cinema_id": "ambassador-84b87b82-b936-4a39-b91f-e88328d33b4e",
-    "datetime_start": "2026-11-20T17:35:00",
-    "format_raw": "(數位‧中文版)重返巔峰北壁",
-    "language": "中文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=84b87b82-b936-4a39-b91f-e88328d33b4e&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "d53698b6ec94",
-    "cinema_id": "ambassador-453b2966-f7c2-44a9-b2eb-687493855d0e",
     "datetime_start": "2026-11-21T13:05:00",
     "format_raw": "(數位‧中文版)重返巔峰北壁",
     "language": "中文版",
@@ -20136,116 +17716,6 @@
     "format_raw": "(數位‧中文版)重返巔峰北壁",
     "language": "中文版",
     "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=84b87b82-b936-4a39-b91f-e88328d33b4e&DT=2026/11/26",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "57a7b8a379a8",
-    "cinema_id": "ambassador-453b2966-f7c2-44a9-b2eb-687493855d0e",
-    "datetime_start": "2026-11-20T10:50:00",
-    "format_raw": "(數位‧西班牙語版)黑球",
-    "language": null,
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=453b2966-f7c2-44a9-b2eb-687493855d0e&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "57a7b8a379a8",
-    "cinema_id": "ambassador-453b2966-f7c2-44a9-b2eb-687493855d0e",
-    "datetime_start": "2026-11-20T13:45:00",
-    "format_raw": "(數位‧西班牙語版)黑球",
-    "language": null,
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=453b2966-f7c2-44a9-b2eb-687493855d0e&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "57a7b8a379a8",
-    "cinema_id": "ambassador-453b2966-f7c2-44a9-b2eb-687493855d0e",
-    "datetime_start": "2026-11-20T16:40:00",
-    "format_raw": "(數位‧西班牙語版)黑球",
-    "language": null,
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=453b2966-f7c2-44a9-b2eb-687493855d0e&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "57a7b8a379a8",
-    "cinema_id": "ambassador-453b2966-f7c2-44a9-b2eb-687493855d0e",
-    "datetime_start": "2026-11-20T19:35:00",
-    "format_raw": "(數位‧西班牙語版)黑球",
-    "language": null,
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=453b2966-f7c2-44a9-b2eb-687493855d0e&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "57a7b8a379a8",
-    "cinema_id": "ambassador-453b2966-f7c2-44a9-b2eb-687493855d0e",
-    "datetime_start": "2026-11-20T22:30:00",
-    "format_raw": "(數位‧西班牙語版)黑球",
-    "language": null,
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=453b2966-f7c2-44a9-b2eb-687493855d0e&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "57a7b8a379a8",
-    "cinema_id": "ambassador-84b87b82-b936-4a39-b91f-e88328d33b4e",
-    "datetime_start": "2026-11-20T14:40:00",
-    "format_raw": "(數位‧西班牙語版)黑球",
-    "language": null,
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=84b87b82-b936-4a39-b91f-e88328d33b4e&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "57a7b8a379a8",
-    "cinema_id": "ambassador-84b87b82-b936-4a39-b91f-e88328d33b4e",
-    "datetime_start": "2026-11-20T22:30:00",
-    "format_raw": "(數位‧西班牙語版)黑球",
-    "language": null,
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=84b87b82-b936-4a39-b91f-e88328d33b4e&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "57a7b8a379a8",
-    "cinema_id": "ambassador-3301d822-b385-4aa8-a9eb-aa59d58e95c9",
-    "datetime_start": "2026-11-20T14:25:00",
-    "format_raw": "(數位‧西班牙語版)黑球",
-    "language": null,
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=3301d822-b385-4aa8-a9eb-aa59d58e95c9&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "57a7b8a379a8",
-    "cinema_id": "ambassador-3301d822-b385-4aa8-a9eb-aa59d58e95c9",
-    "datetime_start": "2026-11-20T19:45:00",
-    "format_raw": "(數位‧西班牙語版)黑球",
-    "language": null,
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=3301d822-b385-4aa8-a9eb-aa59d58e95c9&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "57a7b8a379a8",
-    "cinema_id": "ambassador-f760950a-94b6-4e04-9573-831ed7283c5c",
-    "datetime_start": "2026-11-20T14:20:00",
-    "format_raw": "(數位‧西班牙語版)黑球",
-    "language": null,
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=f760950a-94b6-4e04-9573-831ed7283c5c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "57a7b8a379a8",
-    "cinema_id": "ambassador-f760950a-94b6-4e04-9573-831ed7283c5c",
-    "datetime_start": "2026-11-20T19:30:00",
-    "format_raw": "(數位‧西班牙語版)黑球",
-    "language": null,
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=f760950a-94b6-4e04-9573-831ed7283c5c&DT=2026/11/20",
     "booking_platform": "self",
     "source": "ambassador.com.tw"
   },
@@ -20896,166 +18366,6 @@
     "format_raw": "(數位‧西班牙語版)黑球",
     "language": null,
     "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=f760950a-94b6-4e04-9573-831ed7283c5c&DT=2026/11/26",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "074ef29ad927",
-    "cinema_id": "ambassador-453b2966-f7c2-44a9-b2eb-687493855d0e",
-    "datetime_start": "2026-11-20T13:20:00",
-    "format_raw": "(數位‧英文版)搶銀行先修班",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=453b2966-f7c2-44a9-b2eb-687493855d0e&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "074ef29ad927",
-    "cinema_id": "ambassador-453b2966-f7c2-44a9-b2eb-687493855d0e",
-    "datetime_start": "2026-11-20T17:25:00",
-    "format_raw": "(數位‧英文版)搶銀行先修班",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=453b2966-f7c2-44a9-b2eb-687493855d0e&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "074ef29ad927",
-    "cinema_id": "ambassador-9383c5fa-b4f3-4ba8-ba7a-c25c7df95fd0",
-    "datetime_start": "2026-11-20T17:45:00",
-    "format_raw": "(數位‧英文版)搶銀行先修班",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=9383c5fa-b4f3-4ba8-ba7a-c25c7df95fd0&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "074ef29ad927",
-    "cinema_id": "ambassador-9383c5fa-b4f3-4ba8-ba7a-c25c7df95fd0",
-    "datetime_start": "2026-11-20T22:10:00",
-    "format_raw": "(數位‧英文版)搶銀行先修班",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=9383c5fa-b4f3-4ba8-ba7a-c25c7df95fd0&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "074ef29ad927",
-    "cinema_id": "ambassador-1e42d235-c3cf-4f75-a382-af60f67a4aad",
-    "datetime_start": "2026-11-20T17:45:00",
-    "format_raw": "(數位‧英文版)搶銀行先修班",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=1e42d235-c3cf-4f75-a382-af60f67a4aad&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "074ef29ad927",
-    "cinema_id": "ambassador-1e42d235-c3cf-4f75-a382-af60f67a4aad",
-    "datetime_start": "2026-11-20T22:10:00",
-    "format_raw": "(數位‧英文版)搶銀行先修班",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=1e42d235-c3cf-4f75-a382-af60f67a4aad&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "074ef29ad927",
-    "cinema_id": "ambassador-3301d822-b385-4aa8-a9eb-aa59d58e95c9",
-    "datetime_start": "2026-11-20T13:20:00",
-    "format_raw": "(數位‧英文版)搶銀行先修班",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=3301d822-b385-4aa8-a9eb-aa59d58e95c9&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "074ef29ad927",
-    "cinema_id": "ambassador-3301d822-b385-4aa8-a9eb-aa59d58e95c9",
-    "datetime_start": "2026-11-20T17:45:00",
-    "format_raw": "(數位‧英文版)搶銀行先修班",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=3301d822-b385-4aa8-a9eb-aa59d58e95c9&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "074ef29ad927",
-    "cinema_id": "ambassador-8fda9934-73d4-4c14-b1c4-386c2b81045c",
-    "datetime_start": "2026-11-20T12:15:00",
-    "format_raw": "(數位‧英文版)搶銀行先修班",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=8fda9934-73d4-4c14-b1c4-386c2b81045c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "074ef29ad927",
-    "cinema_id": "ambassador-8fda9934-73d4-4c14-b1c4-386c2b81045c",
-    "datetime_start": "2026-11-20T22:00:00",
-    "format_raw": "(數位‧英文版)搶銀行先修班",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=8fda9934-73d4-4c14-b1c4-386c2b81045c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "074ef29ad927",
-    "cinema_id": "ambassador-f760950a-94b6-4e04-9573-831ed7283c5c",
-    "datetime_start": "2026-11-20T14:00:00",
-    "format_raw": "(數位‧英文版)搶銀行先修班",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=f760950a-94b6-4e04-9573-831ed7283c5c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "074ef29ad927",
-    "cinema_id": "ambassador-f760950a-94b6-4e04-9573-831ed7283c5c",
-    "datetime_start": "2026-11-20T18:25:00",
-    "format_raw": "(數位‧英文版)搶銀行先修班",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=f760950a-94b6-4e04-9573-831ed7283c5c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "074ef29ad927",
-    "cinema_id": "ambassador-ec07626b-b382-474e-be39-ad45eac5cd1c",
-    "datetime_start": "2026-11-20T13:40:00",
-    "format_raw": "(數位‧英文版)搶銀行先修班",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=ec07626b-b382-474e-be39-ad45eac5cd1c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "074ef29ad927",
-    "cinema_id": "ambassador-ec07626b-b382-474e-be39-ad45eac5cd1c",
-    "datetime_start": "2026-11-20T18:05:00",
-    "format_raw": "(數位‧英文版)搶銀行先修班",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=ec07626b-b382-474e-be39-ad45eac5cd1c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "074ef29ad927",
-    "cinema_id": "ambassador-41aae717-4464-49f4-ac26-fec2d16acbd6",
-    "datetime_start": "2026-11-20T12:40:00",
-    "format_raw": "(數位‧英文版)搶銀行先修班",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=41aae717-4464-49f4-ac26-fec2d16acbd6&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "074ef29ad927",
-    "cinema_id": "ambassador-41aae717-4464-49f4-ac26-fec2d16acbd6",
-    "datetime_start": "2026-11-20T22:40:00",
-    "format_raw": "(數位‧英文版)搶銀行先修班",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=41aae717-4464-49f4-ac26-fec2d16acbd6&DT=2026/11/20",
     "booking_platform": "self",
     "source": "ambassador.com.tw"
   },
@@ -22072,46 +19382,6 @@
   {
     "film_id": "404579ab8190",
     "cinema_id": "ambassador-453b2966-f7c2-44a9-b2eb-687493855d0e",
-    "datetime_start": "2026-11-20T12:00:00",
-    "format_raw": "(數位‧中文版)告別的年代",
-    "language": "中文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=453b2966-f7c2-44a9-b2eb-687493855d0e&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "404579ab8190",
-    "cinema_id": "ambassador-453b2966-f7c2-44a9-b2eb-687493855d0e",
-    "datetime_start": "2026-11-20T16:40:00",
-    "format_raw": "(數位‧中文版)告別的年代",
-    "language": "中文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=453b2966-f7c2-44a9-b2eb-687493855d0e&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "404579ab8190",
-    "cinema_id": "ambassador-453b2966-f7c2-44a9-b2eb-687493855d0e",
-    "datetime_start": "2026-11-20T19:15:00",
-    "format_raw": "(數位‧中文版)告別的年代",
-    "language": "中文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=453b2966-f7c2-44a9-b2eb-687493855d0e&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "404579ab8190",
-    "cinema_id": "ambassador-453b2966-f7c2-44a9-b2eb-687493855d0e",
-    "datetime_start": "2026-11-20T21:50:00",
-    "format_raw": "(數位‧中文版)告別的年代",
-    "language": "中文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=453b2966-f7c2-44a9-b2eb-687493855d0e&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "404579ab8190",
-    "cinema_id": "ambassador-453b2966-f7c2-44a9-b2eb-687493855d0e",
     "datetime_start": "2026-11-21T12:00:00",
     "format_raw": "(數位‧中文版)告別的年代",
     "language": "中文版",
@@ -22216,86 +19486,6 @@
     "format_raw": "(數位‧中文版)告別的年代",
     "language": "中文版",
     "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=453b2966-f7c2-44a9-b2eb-687493855d0e&DT=2026/11/26",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "18d7fce24cc2",
-    "cinema_id": "ambassador-453b2966-f7c2-44a9-b2eb-687493855d0e",
-    "datetime_start": "2026-11-20T15:45:00",
-    "format_raw": "(數位‧英文版)沙丘：第二部（重映版）",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=453b2966-f7c2-44a9-b2eb-687493855d0e&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "18d7fce24cc2",
-    "cinema_id": "ambassador-9383c5fa-b4f3-4ba8-ba7a-c25c7df95fd0",
-    "datetime_start": "2026-11-20T15:40:00",
-    "format_raw": "(數位‧英文版)沙丘：第二部（重映版）",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=9383c5fa-b4f3-4ba8-ba7a-c25c7df95fd0&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "18d7fce24cc2",
-    "cinema_id": "ambassador-1e42d235-c3cf-4f75-a382-af60f67a4aad",
-    "datetime_start": "2026-11-20T15:40:00",
-    "format_raw": "(數位‧英文版)沙丘：第二部（重映版）",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=1e42d235-c3cf-4f75-a382-af60f67a4aad&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "18d7fce24cc2",
-    "cinema_id": "ambassador-3301d822-b385-4aa8-a9eb-aa59d58e95c9",
-    "datetime_start": "2026-11-20T11:10:00",
-    "format_raw": "(金鑽貴賓廳‧數位‧英文版)沙丘：第二部（重映版）",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=3301d822-b385-4aa8-a9eb-aa59d58e95c9&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "18d7fce24cc2",
-    "cinema_id": "ambassador-8fda9934-73d4-4c14-b1c4-386c2b81045c",
-    "datetime_start": "2026-11-20T11:00:00",
-    "format_raw": "(數位‧英文版)沙丘：第二部（重映版）",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=8fda9934-73d4-4c14-b1c4-386c2b81045c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "18d7fce24cc2",
-    "cinema_id": "ambassador-f760950a-94b6-4e04-9573-831ed7283c5c",
-    "datetime_start": "2026-11-20T17:00:00",
-    "format_raw": "(數位‧英文版)沙丘：第二部（重映版）",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=f760950a-94b6-4e04-9573-831ed7283c5c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "18d7fce24cc2",
-    "cinema_id": "ambassador-ec07626b-b382-474e-be39-ad45eac5cd1c",
-    "datetime_start": "2026-11-20T16:40:00",
-    "format_raw": "(金鑽貴賓廳‧數位‧英文版)沙丘：第二部（重映版）",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=ec07626b-b382-474e-be39-ad45eac5cd1c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "18d7fce24cc2",
-    "cinema_id": "ambassador-41aae717-4464-49f4-ac26-fec2d16acbd6",
-    "datetime_start": "2026-11-20T11:00:00",
-    "format_raw": "(數位‧英文版)沙丘：第二部（重映版）",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=41aae717-4464-49f4-ac26-fec2d16acbd6&DT=2026/11/20",
     "booking_platform": "self",
     "source": "ambassador.com.tw"
   },
@@ -22782,26 +19972,6 @@
   {
     "film_id": "9199633a65cf",
     "cinema_id": "ambassador-453b2966-f7c2-44a9-b2eb-687493855d0e",
-    "datetime_start": "2026-11-20T11:20:00",
-    "format_raw": "(數位‧韓語版)六個說謊的大學生",
-    "language": null,
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=453b2966-f7c2-44a9-b2eb-687493855d0e&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "9199633a65cf",
-    "cinema_id": "ambassador-3301d822-b385-4aa8-a9eb-aa59d58e95c9",
-    "datetime_start": "2026-11-20T12:50:00",
-    "format_raw": "(數位‧韓語版)六個說謊的大學生",
-    "language": null,
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=3301d822-b385-4aa8-a9eb-aa59d58e95c9&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "9199633a65cf",
-    "cinema_id": "ambassador-453b2966-f7c2-44a9-b2eb-687493855d0e",
     "datetime_start": "2026-11-21T21:50:00",
     "format_raw": "(數位‧韓語版)六個說謊的大學生",
     "language": null,
@@ -22946,26 +20116,6 @@
     "format_raw": "(數位‧韓語版)六個說謊的大學生",
     "language": null,
     "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=453b2966-f7c2-44a9-b2eb-687493855d0e&DT=2026/11/26",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "1041fa7c3824",
-    "cinema_id": "ambassador-453b2966-f7c2-44a9-b2eb-687493855d0e",
-    "datetime_start": "2026-11-20T11:00:00",
-    "format_raw": "(數位‧中文版)黑潮",
-    "language": "中文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=453b2966-f7c2-44a9-b2eb-687493855d0e&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "1041fa7c3824",
-    "cinema_id": "ambassador-3301d822-b385-4aa8-a9eb-aa59d58e95c9",
-    "datetime_start": "2026-11-20T12:00:00",
-    "format_raw": "(金鑽貴賓廳‧數位‧中文版)黑潮",
-    "language": "中文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=3301d822-b385-4aa8-a9eb-aa59d58e95c9&DT=2026/11/20",
     "booking_platform": "self",
     "source": "ambassador.com.tw"
   },
@@ -23136,46 +20286,6 @@
     "format_raw": "(金鑽貴賓廳‧數位‧中文版)黑潮",
     "language": "中文版",
     "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=3301d822-b385-4aa8-a9eb-aa59d58e95c9&DT=2026/11/26",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "08cd0c0f47a7",
-    "cinema_id": "ambassador-453b2966-f7c2-44a9-b2eb-687493855d0e",
-    "datetime_start": "2026-11-20T13:20:00",
-    "format_raw": "(數位‧中文版)有用的人",
-    "language": "中文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=453b2966-f7c2-44a9-b2eb-687493855d0e&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "08cd0c0f47a7",
-    "cinema_id": "ambassador-453b2966-f7c2-44a9-b2eb-687493855d0e",
-    "datetime_start": "2026-11-20T21:20:00",
-    "format_raw": "(數位‧中文版)有用的人",
-    "language": "中文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=453b2966-f7c2-44a9-b2eb-687493855d0e&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "08cd0c0f47a7",
-    "cinema_id": "ambassador-3301d822-b385-4aa8-a9eb-aa59d58e95c9",
-    "datetime_start": "2026-11-20T12:40:00",
-    "format_raw": "(數位‧中文版)有用的人",
-    "language": "中文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=3301d822-b385-4aa8-a9eb-aa59d58e95c9&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "08cd0c0f47a7",
-    "cinema_id": "ambassador-f760950a-94b6-4e04-9573-831ed7283c5c",
-    "datetime_start": "2026-11-20T22:45:00",
-    "format_raw": "(數位‧中文版)有用的人",
-    "language": "中文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=f760950a-94b6-4e04-9573-831ed7283c5c&DT=2026/11/20",
     "booking_platform": "self",
     "source": "ambassador.com.tw"
   },
@@ -23406,186 +20516,6 @@
     "format_raw": "(數位‧中文版)有用的人",
     "language": "中文版",
     "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=f760950a-94b6-4e04-9573-831ed7283c5c&DT=2026/11/26",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "6a724fb32c14",
-    "cinema_id": "ambassador-453b2966-f7c2-44a9-b2eb-687493855d0e",
-    "datetime_start": "2026-11-20T17:20:00",
-    "format_raw": "(數位‧英文版)聖誕驚奇夜",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=453b2966-f7c2-44a9-b2eb-687493855d0e&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "6a724fb32c14",
-    "cinema_id": "ambassador-453b2966-f7c2-44a9-b2eb-687493855d0e",
-    "datetime_start": "2026-11-20T22:20:00",
-    "format_raw": "(數位‧英文版)聖誕驚奇夜",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=453b2966-f7c2-44a9-b2eb-687493855d0e&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "6a724fb32c14",
-    "cinema_id": "ambassador-9383c5fa-b4f3-4ba8-ba7a-c25c7df95fd0",
-    "datetime_start": "2026-11-20T13:30:00",
-    "format_raw": "(數位‧英文版)聖誕驚奇夜",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=9383c5fa-b4f3-4ba8-ba7a-c25c7df95fd0&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "6a724fb32c14",
-    "cinema_id": "ambassador-9383c5fa-b4f3-4ba8-ba7a-c25c7df95fd0",
-    "datetime_start": "2026-11-20T21:05:00",
-    "format_raw": "(數位‧英文版)聖誕驚奇夜",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=9383c5fa-b4f3-4ba8-ba7a-c25c7df95fd0&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "6a724fb32c14",
-    "cinema_id": "ambassador-84b87b82-b936-4a39-b91f-e88328d33b4e",
-    "datetime_start": "2026-11-20T12:30:00",
-    "format_raw": "(數位‧英文版)聖誕驚奇夜",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=84b87b82-b936-4a39-b91f-e88328d33b4e&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "6a724fb32c14",
-    "cinema_id": "ambassador-1e42d235-c3cf-4f75-a382-af60f67a4aad",
-    "datetime_start": "2026-11-20T13:30:00",
-    "format_raw": "(數位‧英文版)聖誕驚奇夜",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=1e42d235-c3cf-4f75-a382-af60f67a4aad&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "6a724fb32c14",
-    "cinema_id": "ambassador-1e42d235-c3cf-4f75-a382-af60f67a4aad",
-    "datetime_start": "2026-11-20T21:05:00",
-    "format_raw": "(數位‧英文版)聖誕驚奇夜",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=1e42d235-c3cf-4f75-a382-af60f67a4aad&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "6a724fb32c14",
-    "cinema_id": "ambassador-3301d822-b385-4aa8-a9eb-aa59d58e95c9",
-    "datetime_start": "2026-11-20T11:10:00",
-    "format_raw": "(數位‧英文版)聖誕驚奇夜",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=3301d822-b385-4aa8-a9eb-aa59d58e95c9&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "6a724fb32c14",
-    "cinema_id": "ambassador-3301d822-b385-4aa8-a9eb-aa59d58e95c9",
-    "datetime_start": "2026-11-20T15:35:00",
-    "format_raw": "(數位‧英文版)聖誕驚奇夜",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=3301d822-b385-4aa8-a9eb-aa59d58e95c9&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "6a724fb32c14",
-    "cinema_id": "ambassador-3301d822-b385-4aa8-a9eb-aa59d58e95c9",
-    "datetime_start": "2026-11-20T20:00:00",
-    "format_raw": "(數位‧英文版)聖誕驚奇夜",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=3301d822-b385-4aa8-a9eb-aa59d58e95c9&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "6a724fb32c14",
-    "cinema_id": "ambassador-8fda9934-73d4-4c14-b1c4-386c2b81045c",
-    "datetime_start": "2026-11-20T12:50:00",
-    "format_raw": "(數位‧英文版)聖誕驚奇夜",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=8fda9934-73d4-4c14-b1c4-386c2b81045c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "6a724fb32c14",
-    "cinema_id": "ambassador-8fda9934-73d4-4c14-b1c4-386c2b81045c",
-    "datetime_start": "2026-11-20T21:30:00",
-    "format_raw": "(數位‧英文版)聖誕驚奇夜",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=8fda9934-73d4-4c14-b1c4-386c2b81045c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "6a724fb32c14",
-    "cinema_id": "ambassador-f760950a-94b6-4e04-9573-831ed7283c5c",
-    "datetime_start": "2026-11-20T16:15:00",
-    "format_raw": "(數位‧英文版)聖誕驚奇夜",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=f760950a-94b6-4e04-9573-831ed7283c5c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "6a724fb32c14",
-    "cinema_id": "ambassador-f760950a-94b6-4e04-9573-831ed7283c5c",
-    "datetime_start": "2026-11-20T20:40:00",
-    "format_raw": "(數位‧英文版)聖誕驚奇夜",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=f760950a-94b6-4e04-9573-831ed7283c5c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "6a724fb32c14",
-    "cinema_id": "ambassador-ec07626b-b382-474e-be39-ad45eac5cd1c",
-    "datetime_start": "2026-11-20T15:55:00",
-    "format_raw": "(數位‧英文版)聖誕驚奇夜",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=ec07626b-b382-474e-be39-ad45eac5cd1c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "6a724fb32c14",
-    "cinema_id": "ambassador-ec07626b-b382-474e-be39-ad45eac5cd1c",
-    "datetime_start": "2026-11-20T20:20:00",
-    "format_raw": "(數位‧英文版)聖誕驚奇夜",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=ec07626b-b382-474e-be39-ad45eac5cd1c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "6a724fb32c14",
-    "cinema_id": "ambassador-41aae717-4464-49f4-ac26-fec2d16acbd6",
-    "datetime_start": "2026-11-20T10:30:00",
-    "format_raw": "(數位‧英文版)聖誕驚奇夜",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=41aae717-4464-49f4-ac26-fec2d16acbd6&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "6a724fb32c14",
-    "cinema_id": "ambassador-41aae717-4464-49f4-ac26-fec2d16acbd6",
-    "datetime_start": "2026-11-20T18:40:00",
-    "format_raw": "(數位‧英文版)聖誕驚奇夜",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=41aae717-4464-49f4-ac26-fec2d16acbd6&DT=2026/11/20",
     "booking_platform": "self",
     "source": "ambassador.com.tw"
   },
@@ -24652,96 +21582,6 @@
   {
     "film_id": "1b346a74342d",
     "cinema_id": "ambassador-453b2966-f7c2-44a9-b2eb-687493855d0e",
-    "datetime_start": "2026-11-20T21:45:00",
-    "format_raw": "(數位‧泰語版)鬼聲泣0",
-    "language": null,
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=453b2966-f7c2-44a9-b2eb-687493855d0e&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "1b346a74342d",
-    "cinema_id": "ambassador-9383c5fa-b4f3-4ba8-ba7a-c25c7df95fd0",
-    "datetime_start": "2026-11-20T17:30:00",
-    "format_raw": "(數位‧泰語版)鬼聲泣0",
-    "language": null,
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=9383c5fa-b4f3-4ba8-ba7a-c25c7df95fd0&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "1b346a74342d",
-    "cinema_id": "ambassador-1e42d235-c3cf-4f75-a382-af60f67a4aad",
-    "datetime_start": "2026-11-20T17:30:00",
-    "format_raw": "(數位‧泰語版)鬼聲泣0",
-    "language": null,
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=1e42d235-c3cf-4f75-a382-af60f67a4aad&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "1b346a74342d",
-    "cinema_id": "ambassador-3301d822-b385-4aa8-a9eb-aa59d58e95c9",
-    "datetime_start": "2026-11-20T16:40:00",
-    "format_raw": "(數位‧泰語版)鬼聲泣0",
-    "language": null,
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=3301d822-b385-4aa8-a9eb-aa59d58e95c9&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "1b346a74342d",
-    "cinema_id": "ambassador-8fda9934-73d4-4c14-b1c4-386c2b81045c",
-    "datetime_start": "2026-11-20T21:40:00",
-    "format_raw": "(數位‧泰語版)鬼聲泣0",
-    "language": null,
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=8fda9934-73d4-4c14-b1c4-386c2b81045c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "1b346a74342d",
-    "cinema_id": "ambassador-f760950a-94b6-4e04-9573-831ed7283c5c",
-    "datetime_start": "2026-11-20T17:45:00",
-    "format_raw": "(數位‧泰語版)鬼聲泣0",
-    "language": null,
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=f760950a-94b6-4e04-9573-831ed7283c5c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "1b346a74342d",
-    "cinema_id": "ambassador-f760950a-94b6-4e04-9573-831ed7283c5c",
-    "datetime_start": "2026-11-20T22:50:00",
-    "format_raw": "(數位‧泰語版)鬼聲泣0",
-    "language": null,
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=f760950a-94b6-4e04-9573-831ed7283c5c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "1b346a74342d",
-    "cinema_id": "ambassador-ec07626b-b382-474e-be39-ad45eac5cd1c",
-    "datetime_start": "2026-11-20T17:45:00",
-    "format_raw": "(數位‧泰語版)鬼聲泣0",
-    "language": null,
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=ec07626b-b382-474e-be39-ad45eac5cd1c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "1b346a74342d",
-    "cinema_id": "ambassador-41aae717-4464-49f4-ac26-fec2d16acbd6",
-    "datetime_start": "2026-11-20T22:30:00",
-    "format_raw": "(數位‧泰語版)鬼聲泣0",
-    "language": null,
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=41aae717-4464-49f4-ac26-fec2d16acbd6&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "1b346a74342d",
-    "cinema_id": "ambassador-453b2966-f7c2-44a9-b2eb-687493855d0e",
     "datetime_start": "2026-11-21T22:40:00",
     "format_raw": "(數位‧泰語版)鬼聲泣0",
     "language": null,
@@ -25272,16 +22112,6 @@
   {
     "film_id": "71809ca145d5",
     "cinema_id": "ambassador-453b2966-f7c2-44a9-b2eb-687493855d0e",
-    "datetime_start": "2026-11-20T15:35:00",
-    "format_raw": "(數位‧其他語版)雞智逃亡生活",
-    "language": null,
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=453b2966-f7c2-44a9-b2eb-687493855d0e&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "71809ca145d5",
-    "cinema_id": "ambassador-453b2966-f7c2-44a9-b2eb-687493855d0e",
     "datetime_start": "2026-11-21T20:00:00",
     "format_raw": "(數位‧其他語版)雞智逃亡生活",
     "language": null,
@@ -25342,16 +22172,6 @@
   {
     "film_id": "4c087cd2978c",
     "cinema_id": "ambassador-453b2966-f7c2-44a9-b2eb-687493855d0e",
-    "datetime_start": "2026-11-20T11:30:00",
-    "format_raw": "(數位‧法語版)我們，巴黎管弦樂團",
-    "language": null,
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=453b2966-f7c2-44a9-b2eb-687493855d0e&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "4c087cd2978c",
-    "cinema_id": "ambassador-453b2966-f7c2-44a9-b2eb-687493855d0e",
     "datetime_start": "2026-11-21T18:05:00",
     "format_raw": "(數位‧法語版)我們，巴黎管弦樂團",
     "language": null,
@@ -25376,36 +22196,6 @@
     "format_raw": "(數位‧法語版)我們，巴黎管弦樂團",
     "language": null,
     "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=453b2966-f7c2-44a9-b2eb-687493855d0e&DT=2026/11/25",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "b46a151b4c24",
-    "cinema_id": "ambassador-453b2966-f7c2-44a9-b2eb-687493855d0e",
-    "datetime_start": "2026-11-20T13:20:00",
-    "format_raw": "(數位‧英文版)與達賴喇嘛談心：尋找幸福的智慧",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=453b2966-f7c2-44a9-b2eb-687493855d0e&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "b46a151b4c24",
-    "cinema_id": "ambassador-453b2966-f7c2-44a9-b2eb-687493855d0e",
-    "datetime_start": "2026-11-20T19:05:00",
-    "format_raw": "(數位‧英文版)與達賴喇嘛談心：尋找幸福的智慧",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=453b2966-f7c2-44a9-b2eb-687493855d0e&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "b46a151b4c24",
-    "cinema_id": "ambassador-3301d822-b385-4aa8-a9eb-aa59d58e95c9",
-    "datetime_start": "2026-11-20T13:00:00",
-    "format_raw": "(數位‧英文版)與達賴喇嘛談心：尋找幸福的智慧",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=3301d822-b385-4aa8-a9eb-aa59d58e95c9&DT=2026/11/20",
     "booking_platform": "self",
     "source": "ambassador.com.tw"
   },
@@ -25606,26 +22396,6 @@
     "format_raw": "(數位‧英文版)與達賴喇嘛談心：尋找幸福的智慧",
     "language": "英文版",
     "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=3301d822-b385-4aa8-a9eb-aa59d58e95c9&DT=2026/11/26",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "5ab280726dfd",
-    "cinema_id": "ambassador-453b2966-f7c2-44a9-b2eb-687493855d0e",
-    "datetime_start": "2026-11-20T12:50:00",
-    "format_raw": "(數位‧中文版)世紀初戀 楊麗花",
-    "language": "中文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=453b2966-f7c2-44a9-b2eb-687493855d0e&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "5ab280726dfd",
-    "cinema_id": "ambassador-453b2966-f7c2-44a9-b2eb-687493855d0e",
-    "datetime_start": "2026-11-20T16:40:00",
-    "format_raw": "(數位‧中文版)世紀初戀 楊麗花",
-    "language": "中文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=453b2966-f7c2-44a9-b2eb-687493855d0e&DT=2026/11/20",
     "booking_platform": "self",
     "source": "ambassador.com.tw"
   },
@@ -25842,26 +22612,6 @@
   {
     "film_id": "f89dc85a021a",
     "cinema_id": "ambassador-453b2966-f7c2-44a9-b2eb-687493855d0e",
-    "datetime_start": "2026-11-20T17:30:00",
-    "format_raw": "(數位‧中文版)讓子彈飛.",
-    "language": "中文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=453b2966-f7c2-44a9-b2eb-687493855d0e&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "f89dc85a021a",
-    "cinema_id": "ambassador-84b87b82-b936-4a39-b91f-e88328d33b4e",
-    "datetime_start": "2026-11-20T10:00:00",
-    "format_raw": "(數位‧中文版)讓子彈飛.",
-    "language": "中文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=84b87b82-b936-4a39-b91f-e88328d33b4e&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "f89dc85a021a",
-    "cinema_id": "ambassador-453b2966-f7c2-44a9-b2eb-687493855d0e",
     "datetime_start": "2026-11-21T17:30:00",
     "format_raw": "(數位‧中文版)讓子彈飛.",
     "language": "中文版",
@@ -26032,16 +22782,6 @@
   {
     "film_id": "d62a3d135985",
     "cinema_id": "ambassador-453b2966-f7c2-44a9-b2eb-687493855d0e",
-    "datetime_start": "2026-11-20T22:50:00",
-    "format_raw": "(數位‧英文版)屍控片場性愛死",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=453b2966-f7c2-44a9-b2eb-687493855d0e&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "d62a3d135985",
-    "cinema_id": "ambassador-453b2966-f7c2-44a9-b2eb-687493855d0e",
     "datetime_start": "2026-11-21T20:30:00",
     "format_raw": "(數位‧英文版)屍控片場性愛死",
     "language": "英文版",
@@ -26102,16 +22842,6 @@
   {
     "film_id": "efa5738201ed",
     "cinema_id": "ambassador-453b2966-f7c2-44a9-b2eb-687493855d0e",
-    "datetime_start": "2026-11-20T13:15:00",
-    "format_raw": "(數位‧波蘭語版)蕭邦！蕭邦！",
-    "language": null,
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=453b2966-f7c2-44a9-b2eb-687493855d0e&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "efa5738201ed",
-    "cinema_id": "ambassador-453b2966-f7c2-44a9-b2eb-687493855d0e",
     "datetime_start": "2026-11-21T13:00:00",
     "format_raw": "(數位‧波蘭語版)蕭邦！蕭邦！",
     "language": null,
@@ -26166,96 +22896,6 @@
     "format_raw": "(數位‧波蘭語版)蕭邦！蕭邦！",
     "language": null,
     "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=453b2966-f7c2-44a9-b2eb-687493855d0e&DT=2026/11/26",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "cea22efb829d",
-    "cinema_id": "ambassador-453b2966-f7c2-44a9-b2eb-687493855d0e",
-    "datetime_start": "2026-11-20T15:25:00",
-    "format_raw": "(數位‧英文版)泥面人",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=453b2966-f7c2-44a9-b2eb-687493855d0e&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "cea22efb829d",
-    "cinema_id": "ambassador-453b2966-f7c2-44a9-b2eb-687493855d0e",
-    "datetime_start": "2026-11-20T19:40:00",
-    "format_raw": "(數位‧英文版)泥面人",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=453b2966-f7c2-44a9-b2eb-687493855d0e&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "cea22efb829d",
-    "cinema_id": "ambassador-9383c5fa-b4f3-4ba8-ba7a-c25c7df95fd0",
-    "datetime_start": "2026-11-20T21:20:00",
-    "format_raw": "(數位‧英文版)泥面人",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=9383c5fa-b4f3-4ba8-ba7a-c25c7df95fd0&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "cea22efb829d",
-    "cinema_id": "ambassador-1e42d235-c3cf-4f75-a382-af60f67a4aad",
-    "datetime_start": "2026-11-20T21:20:00",
-    "format_raw": "(數位‧英文版)泥面人",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=1e42d235-c3cf-4f75-a382-af60f67a4aad&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "cea22efb829d",
-    "cinema_id": "ambassador-3301d822-b385-4aa8-a9eb-aa59d58e95c9",
-    "datetime_start": "2026-11-20T13:10:00",
-    "format_raw": "(數位‧英文版)泥面人",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=3301d822-b385-4aa8-a9eb-aa59d58e95c9&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "cea22efb829d",
-    "cinema_id": "ambassador-3301d822-b385-4aa8-a9eb-aa59d58e95c9",
-    "datetime_start": "2026-11-20T21:10:00",
-    "format_raw": "(數位‧英文版)泥面人",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=3301d822-b385-4aa8-a9eb-aa59d58e95c9&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "cea22efb829d",
-    "cinema_id": "ambassador-8fda9934-73d4-4c14-b1c4-386c2b81045c",
-    "datetime_start": "2026-11-20T17:10:00",
-    "format_raw": "(數位‧英文版)泥面人",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=8fda9934-73d4-4c14-b1c4-386c2b81045c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "cea22efb829d",
-    "cinema_id": "ambassador-f760950a-94b6-4e04-9573-831ed7283c5c",
-    "datetime_start": "2026-11-20T22:00:00",
-    "format_raw": "(數位‧英文版)泥面人",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=f760950a-94b6-4e04-9573-831ed7283c5c&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "cea22efb829d",
-    "cinema_id": "ambassador-ec07626b-b382-474e-be39-ad45eac5cd1c",
-    "datetime_start": "2026-11-20T13:30:00",
-    "format_raw": "(數位‧英文版)泥面人",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=ec07626b-b382-474e-be39-ad45eac5cd1c&DT=2026/11/20",
     "booking_platform": "self",
     "source": "ambassador.com.tw"
   },
@@ -26802,16 +23442,6 @@
   {
     "film_id": "756ea6d55545",
     "cinema_id": "ambassador-453b2966-f7c2-44a9-b2eb-687493855d0e",
-    "datetime_start": "2026-11-20T10:50:00",
-    "format_raw": "(數位‧英文版)挖掘者",
-    "language": "英文版",
-    "booking_url": "https://www.ambassador.com.tw/home/Showtime?ID=453b2966-f7c2-44a9-b2eb-687493855d0e&DT=2026/11/20",
-    "booking_platform": "self",
-    "source": "ambassador.com.tw"
-  },
-  {
-    "film_id": "756ea6d55545",
-    "cinema_id": "ambassador-453b2966-f7c2-44a9-b2eb-687493855d0e",
     "datetime_start": "2026-11-21T10:50:00",
     "format_raw": "(數位‧英文版)挖掘者",
     "language": "英文版",
@@ -26902,16 +23532,6 @@
   {
     "film_id": "efa5738201ed",
     "cinema_id": "wonderful-taipei",
-    "datetime_start": "2026-11-20T12:00:00",
-    "format_raw": null,
-    "language": null,
-    "booking_url": "https://www.ezding.com.tw/cinemabooking?cinemaid=f644412efbb811e58858f2128151146f",
-    "booking_platform": "ezding",
-    "source": "wonderful.movie.com.tw"
-  },
-  {
-    "film_id": "efa5738201ed",
-    "cinema_id": "wonderful-taipei",
     "datetime_start": "2026-11-21T12:00:00",
     "format_raw": null,
     "language": null,
@@ -26963,26 +23583,6 @@
     "film_id": "efa5738201ed",
     "cinema_id": "wonderful-taipei",
     "datetime_start": "2026-11-26T12:00:00",
-    "format_raw": null,
-    "language": null,
-    "booking_url": "https://www.ezding.com.tw/cinemabooking?cinemaid=f644412efbb811e58858f2128151146f",
-    "booking_platform": "ezding",
-    "source": "wonderful.movie.com.tw"
-  },
-  {
-    "film_id": "c867b35a9236",
-    "cinema_id": "wonderful-taipei",
-    "datetime_start": "2026-11-20T10:25:00",
-    "format_raw": null,
-    "language": null,
-    "booking_url": "https://www.ezding.com.tw/cinemabooking?cinemaid=f644412efbb811e58858f2128151146f",
-    "booking_platform": "ezding",
-    "source": "wonderful.movie.com.tw"
-  },
-  {
-    "film_id": "c867b35a9236",
-    "cinema_id": "wonderful-taipei",
-    "datetime_start": "2026-11-20T16:45:00",
     "format_raw": null,
     "language": null,
     "booking_url": "https://www.ezding.com.tw/cinemabooking?cinemaid=f644412efbb811e58858f2128151146f",
@@ -27162,16 +23762,6 @@
   {
     "film_id": "afd25fdc435b",
     "cinema_id": "wonderful-taipei",
-    "datetime_start": "2026-11-20T14:00:00",
-    "format_raw": null,
-    "language": null,
-    "booking_url": "https://www.ezding.com.tw/cinemabooking?cinemaid=f644412efbb811e58858f2128151146f",
-    "booking_platform": "ezding",
-    "source": "wonderful.movie.com.tw"
-  },
-  {
-    "film_id": "afd25fdc435b",
-    "cinema_id": "wonderful-taipei",
     "datetime_start": "2026-11-22T14:00:00",
     "format_raw": null,
     "language": null,
@@ -27213,26 +23803,6 @@
     "film_id": "afd25fdc435b",
     "cinema_id": "wonderful-taipei",
     "datetime_start": "2026-11-26T14:00:00",
-    "format_raw": null,
-    "language": null,
-    "booking_url": "https://www.ezding.com.tw/cinemabooking?cinemaid=f644412efbb811e58858f2128151146f",
-    "booking_platform": "ezding",
-    "source": "wonderful.movie.com.tw"
-  },
-  {
-    "film_id": "d53698b6ec94",
-    "cinema_id": "wonderful-taipei",
-    "datetime_start": "2026-11-20T12:25:00",
-    "format_raw": null,
-    "language": null,
-    "booking_url": "https://www.ezding.com.tw/cinemabooking?cinemaid=f644412efbb811e58858f2128151146f",
-    "booking_platform": "ezding",
-    "source": "wonderful.movie.com.tw"
-  },
-  {
-    "film_id": "d53698b6ec94",
-    "cinema_id": "wonderful-taipei",
-    "datetime_start": "2026-11-20T17:20:00",
     "format_raw": null,
     "language": null,
     "booking_url": "https://www.ezding.com.tw/cinemabooking?cinemaid=f644412efbb811e58858f2128151146f",
@@ -27362,16 +23932,6 @@
   {
     "film_id": "4c087cd2978c",
     "cinema_id": "wonderful-taipei",
-    "datetime_start": "2026-11-20T15:40:00",
-    "format_raw": null,
-    "language": null,
-    "booking_url": "https://www.ezding.com.tw/cinemabooking?cinemaid=f644412efbb811e58858f2128151146f",
-    "booking_platform": "ezding",
-    "source": "wonderful.movie.com.tw"
-  },
-  {
-    "film_id": "4c087cd2978c",
-    "cinema_id": "wonderful-taipei",
     "datetime_start": "2026-11-23T15:40:00",
     "format_raw": null,
     "language": null,
@@ -27383,26 +23943,6 @@
     "film_id": "4c087cd2978c",
     "cinema_id": "wonderful-taipei",
     "datetime_start": "2026-11-25T15:40:00",
-    "format_raw": null,
-    "language": null,
-    "booking_url": "https://www.ezding.com.tw/cinemabooking?cinemaid=f644412efbb811e58858f2128151146f",
-    "booking_platform": "ezding",
-    "source": "wonderful.movie.com.tw"
-  },
-  {
-    "film_id": "57a7b8a379a8",
-    "cinema_id": "wonderful-taipei",
-    "datetime_start": "2026-11-20T14:00:00",
-    "format_raw": null,
-    "language": null,
-    "booking_url": "https://www.ezding.com.tw/cinemabooking?cinemaid=f644412efbb811e58858f2128151146f",
-    "booking_platform": "ezding",
-    "source": "wonderful.movie.com.tw"
-  },
-  {
-    "film_id": "57a7b8a379a8",
-    "cinema_id": "wonderful-taipei",
-    "datetime_start": "2026-11-20T20:20:00",
     "format_raw": null,
     "language": null,
     "booking_url": "https://www.ezding.com.tw/cinemabooking?cinemaid=f644412efbb811e58858f2128151146f",
@@ -27532,26 +24072,6 @@
   {
     "film_id": "3e4a40093752",
     "cinema_id": "wonderful-taipei",
-    "datetime_start": "2026-11-20T10:25:00",
-    "format_raw": null,
-    "language": null,
-    "booking_url": "https://www.ezding.com.tw/cinemabooking?cinemaid=f644412efbb811e58858f2128151146f",
-    "booking_platform": "ezding",
-    "source": "wonderful.movie.com.tw"
-  },
-  {
-    "film_id": "3e4a40093752",
-    "cinema_id": "wonderful-taipei",
-    "datetime_start": "2026-11-20T20:50:00",
-    "format_raw": null,
-    "language": null,
-    "booking_url": "https://www.ezding.com.tw/cinemabooking?cinemaid=f644412efbb811e58858f2128151146f",
-    "booking_platform": "ezding",
-    "source": "wonderful.movie.com.tw"
-  },
-  {
-    "film_id": "3e4a40093752",
-    "cinema_id": "wonderful-taipei",
     "datetime_start": "2026-11-21T11:50:00",
     "format_raw": null,
     "language": null,
@@ -27653,16 +24173,6 @@
     "film_id": "3e4a40093752",
     "cinema_id": "wonderful-taipei",
     "datetime_start": "2026-11-26T19:00:00",
-    "format_raw": null,
-    "language": null,
-    "booking_url": "https://www.ezding.com.tw/cinemabooking?cinemaid=f644412efbb811e58858f2128151146f",
-    "booking_platform": "ezding",
-    "source": "wonderful.movie.com.tw"
-  },
-  {
-    "film_id": "508f387a8e7b",
-    "cinema_id": "wonderful-taipei",
-    "datetime_start": "2026-11-20T18:20:00",
     "format_raw": null,
     "language": null,
     "booking_url": "https://www.ezding.com.tw/cinemabooking?cinemaid=f644412efbb811e58858f2128151146f",
