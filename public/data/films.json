@@ -41,20 +41,6 @@
     "original_title": "La bola negra",
     "year": 2026
   },
-  "3e4a40093752": {
-    "normalized_title": "紙老虎",
-    "raw_titles": [
-      "（特別場）紙老虎",
-      "紙老虎"
-    ],
-    "sources": [
-      "ambassador.com.tw",
-      "wonderful.movie.com.tw"
-    ],
-    "director": "詹姆士葛雷 James Gray",
-    "original_title": null,
-    "year": 2026
-  },
   "ba8b8dfd2b42": {
     "normalized_title": "飢餓遊戲:黎明收割",
     "raw_titles": [
@@ -68,18 +54,18 @@
     "year": 2026,
     "tmdb_id": 1300968
   },
-  "ef4d61de7af4": {
-    "normalized_title": "Jim Queen:肌情四射",
+  "3e4a40093752": {
+    "normalized_title": "紙老虎",
     "raw_titles": [
-      "（加開特別場）Jim Queen：肌情四射"
+      "紙老虎"
     ],
     "sources": [
-      "ambassador.com.tw"
+      "ambassador.com.tw",
+      "wonderful.movie.com.tw"
     ],
-    "director": "Marco Nguyen",
+    "director": "詹姆士葛雷 James Gray",
     "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1061798
+    "year": 2026
   },
   "537472b4b77e": {
     "normalized_title": "名偵探柯南 第30號殺人事件",
@@ -123,7 +109,6 @@
   "c3b7a98fd8c6": {
     "normalized_title": "巴霍巴利王:王者再臨",
     "raw_titles": [
-      "（特別場）巴霍巴利王：王者再臨",
       "巴霍巴利王：王者再臨"
     ],
     "sources": [
