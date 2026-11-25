@@ -15,7 +15,8 @@
   "57a7b8a379a8": {
     "normalized_title": "黑球",
     "raw_titles": [
-      "黑球"
+      "黑球",
+      "（限定場）黑球"
     ],
     "sources": [
       "spot.org.tw",
@@ -44,7 +45,8 @@
       "神隱少女"
     ],
     "sources": [
-      "spot.org.tw"
+      "spot.org.tw",
+      "ambassador.com.tw"
     ],
     "director": "宮﨑駿 Hayao Miyazaki",
     "original_title": "Spirited Away",
@@ -53,28 +55,56 @@
   "ada4b7c71e4f": {
     "normalized_title": "盧丹的惡魔",
     "raw_titles": [
+      "盧丹的惡魔",
       "（特別場）盧丹的惡魔"
     ],
     "sources": [
-      "ambassador.com.tw"
+      "ambassador.com.tw",
+      "wonderful.movie.com.tw"
     ],
-    "director": "Ken Russell",
+    "director": "肯羅素",
     "original_title": null,
-    "year": 1971,
-    "tmdb_id": 31767
+    "year": 2026
   },
-  "add67f60aecb": {
-    "normalized_title": "我們不是陌生人",
+  "0314ae5e446d": {
+    "normalized_title": "門當父不對之親家駕到",
     "raw_titles": [
-      "我們不是陌生人"
+      "門當父不對之親家駕到"
     ],
     "sources": [
       "ambassador.com.tw"
     ],
-    "director": "陳哲藝",
+    "director": "John Hamburg",
     "original_title": null,
     "year": 2026,
-    "tmdb_id": 884692
+    "tmdb_id": 1400336
+  },
+  "cabf4a707a42": {
+    "normalized_title": "庫洛魔法使 劇場版:被封印的卡片",
+    "raw_titles": [
+      "庫洛魔法使 劇場版：被封印的卡片"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "浅香守生",
+    "original_title": null,
+    "year": 2000,
+    "tmdb_id": 31347
+  },
+  "0478cc591884": {
+    "normalized_title": "袒裎相見",
+    "raw_titles": [
+      "（口碑場）袒裎相見",
+      "袒裎相見(口碑場)"
+    ],
+    "sources": [
+      "ambassador.com.tw",
+      "wonderful.movie.com.tw"
+    ],
+    "director": "蘭斯奧本海姆",
+    "original_title": null,
+    "year": 2026
   },
   "ba8b8dfd2b42": {
     "normalized_title": "飢餓遊戲:黎明收割",
@@ -88,19 +118,6 @@
     "original_title": null,
     "year": 2026,
     "tmdb_id": 1300968
-  },
-  "3e4a40093752": {
-    "normalized_title": "紙老虎",
-    "raw_titles": [
-      "紙老虎"
-    ],
-    "sources": [
-      "ambassador.com.tw",
-      "wonderful.movie.com.tw"
-    ],
-    "director": "詹姆士葛雷 James Gray",
-    "original_title": null,
-    "year": 2026
   },
   "537472b4b77e": {
     "normalized_title": "名偵探柯南 第30號殺人事件",
@@ -128,6 +145,46 @@
     "year": 2026,
     "tmdb_id": 1381071
   },
+  "add67f60aecb": {
+    "normalized_title": "我們不是陌生人",
+    "raw_titles": [
+      "我們不是陌生人"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "陳哲藝",
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 884692
+  },
+  "e0813a8b1d06": {
+    "normalized_title": "比爾艾文斯三重奏變",
+    "raw_titles": [
+      "比爾艾文斯三重奏變"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "Grant Gee",
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 1378791
+  },
+  "fadca19c1761": {
+    "normalized_title": "麥可傑克森:流行樂之王",
+    "raw_titles": [
+      "麥可傑克森：流行樂之王",
+      "麥可傑克森:流行樂之王"
+    ],
+    "sources": [
+      "ambassador.com.tw",
+      "wonderful.movie.com.tw"
+    ],
+    "director": "桑妮雅・安德森",
+    "original_title": null,
+    "year": 2026
+  },
   "2571c1aee3ed": {
     "normalized_title": "晚窒息",
     "raw_titles": [
@@ -140,6 +197,19 @@
     "original_title": null,
     "year": 2026,
     "tmdb_id": 1433055
+  },
+  "26fd12273579": {
+    "normalized_title": "綻放的巴黎之星",
+    "raw_titles": [
+      "綻放的巴黎之星"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": "谷口悟朗",
+    "original_title": null,
+    "year": 2026,
+    "tmdb_id": 1526874
   },
   "76913f17f611": {
     "normalized_title": "屍蹤拼圖",
@@ -166,6 +236,18 @@
     "original_title": null,
     "year": 2026,
     "tmdb_id": 1491083
+  },
+  "5aaa899fb7d2": {
+    "normalized_title": "窗外有藍天 4K全新修復",
+    "raw_titles": [
+      "窗外有藍天 4K全新修復"
+    ],
+    "sources": [
+      "ambassador.com.tw"
+    ],
+    "director": null,
+    "original_title": null,
+    "year": null
   },
   "8652a357ee33": {
     "normalized_title": "歡迎光臨魔法秘境",
@@ -218,6 +300,19 @@
     "original_title": null,
     "year": 2026,
     "tmdb_id": 1387772
+  },
+  "3e4a40093752": {
+    "normalized_title": "紙老虎",
+    "raw_titles": [
+      "紙老虎"
+    ],
+    "sources": [
+      "ambassador.com.tw",
+      "wonderful.movie.com.tw"
+    ],
+    "director": "詹姆士葛雷 James Gray",
+    "original_title": null,
+    "year": 2026
   },
   "508f387a8e7b": {
     "normalized_title": "皎潔深宵之月",
@@ -529,15 +624,27 @@
     "original_title": null,
     "year": 2026
   },
-  "0478cc591884": {
-    "normalized_title": "袒裎相見",
+  "f460095223bf": {
+    "normalized_title": "窗外有藍天 4K全新數位修復",
     "raw_titles": [
-      "袒裎相見(口碑場)"
+      "窗外有藍天 4K全新數位修復"
     ],
     "sources": [
       "wonderful.movie.com.tw"
     ],
-    "director": "蘭斯奧本海姆",
+    "director": "詹姆士艾佛利 James Ivory",
+    "original_title": null,
+    "year": 2026
+  },
+  "02498c409309": {
+    "normalized_title": "被消失的家園",
+    "raw_titles": [
+      "被消失的家園"
+    ],
+    "sources": [
+      "wonderful.movie.com.tw"
+    ],
+    "director": "雀倫達比斯（Cherien Dabis）",
     "original_title": null,
     "year": 2026
   },
@@ -640,7 +747,7 @@
   "30b11e967567": {
     "normalized_title": "東京教父 4K修復",
     "raw_titles": [
-      "東京教父 4K修復 Tokyo Godfathers  4K Restoration"
+      "東京教父 4K修復 Tokyo Godfathers 4K Restoration"
     ],
     "sources": [
       "kfa.kcg.gov.tw"

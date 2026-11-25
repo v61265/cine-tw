@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-11-24T06:00:29.784235+00:00",
+  "generated_at": "2026-11-25T05:03:40.396519+00:00",
   "sources": {
     "spot.org.tw": {
-      "scraped_at": "2026-11-24T05:46:20.157069+00:00",
+      "scraped_at": "2026-11-25T04:48:39.552277+00:00",
       "screening_count": 30
     },
     "ambassador.com.tw": {
-      "scraped_at": "2026-11-24T05:59:44.553486+00:00",
-      "screening_count": 1300
+      "scraped_at": "2026-11-25T05:02:56.978804+00:00",
+      "screening_count": 2769
     },
     "wonderful.movie.com.tw": {
-      "scraped_at": "2026-11-24T06:00:05.933603+00:00",
-      "screening_count": 42
+      "scraped_at": "2026-11-25T05:03:22.084854+00:00",
+      "screening_count": 99
     },
     "kfa.kcg.gov.tw": {
-      "scraped_at": "2026-11-24T06:00:27.768492+00:00",
+      "scraped_at": "2026-11-25T05:03:37.864821+00:00",
       "screening_count": 24
     },
     "cloud.culture.tw": {
-      "scraped_at": "2026-11-24T06:00:29.704276+00:00",
+      "scraped_at": "2026-11-25T05:03:40.288167+00:00",
       "screening_count": 0
     }
   }
