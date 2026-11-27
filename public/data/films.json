@@ -262,19 +262,6 @@
     "year": 2026,
     "tmdb_id": 1538497
   },
-  "c3b7a98fd8c6": {
-    "normalized_title": "巴霍巴利王:王者再臨",
-    "raw_titles": [
-      "巴霍巴利王：王者再臨"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "ఎస్.ఎస్. రాజమౌళి",
-    "original_title": null,
-    "year": 2025,
-    "tmdb_id": 1511417
-  },
   "afd25fdc435b": {
     "normalized_title": "善男信女",
     "raw_titles": [
@@ -287,19 +274,6 @@
     "director": "楊兩全",
     "original_title": null,
     "year": 2026
-  },
-  "f942eb137e7b": {
-    "normalized_title": "偵戰",
-    "raw_titles": [
-      "偵戰"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "James Hung",
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1387772
   },
   "3e4a40093752": {
     "normalized_title": "紙老虎",
@@ -326,32 +300,6 @@
     "director": "竹村謙太郎",
     "original_title": null,
     "year": 2026
-  },
-  "805771cffc0c": {
-    "normalized_title": "樂園追放 心之共鳴",
-    "raw_titles": [
-      "樂園追放 心之共鳴"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "水島精二",
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1236857
-  },
-  "d1c7e2cd9e5f": {
-    "normalized_title": "純愛上等!",
-    "raw_titles": [
-      "純愛上等！"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "八重樫風雅",
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1467982
   },
   "ec0058ece279": {
     "normalized_title": "第四幕",
@@ -404,45 +352,6 @@
     "year": 2026,
     "tmdb_id": 1437511
   },
-  "404579ab8190": {
-    "normalized_title": "告別的年代",
-    "raw_titles": [
-      "告別的年代"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "Edmund Yeo",
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1613284
-  },
-  "18d7fce24cc2": {
-    "normalized_title": "沙丘:第二部",
-    "raw_titles": [
-      "沙丘：第二部（重映版）"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "丹尼·維勒納夫",
-    "original_title": null,
-    "year": 2024,
-    "tmdb_id": 693134
-  },
-  "9199633a65cf": {
-    "normalized_title": "六個說謊的大學生",
-    "raw_titles": [
-      "六個說謊的大學生"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "김정훈",
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1545057
-  },
   "1041fa7c3824": {
     "normalized_title": "黑潮",
     "raw_titles": [
@@ -456,19 +365,6 @@
     "year": 2026,
     "tmdb_id": 1630206
   },
-  "08cd0c0f47a7": {
-    "normalized_title": "有用的人",
-    "raw_titles": [
-      "有用的人"
-    ],
-    "sources": [
-      "ambassador.com.tw",
-      "wonderful.movie.com.tw"
-    ],
-    "director": "李芸嬋",
-    "original_title": null,
-    "year": 2026
-  },
   "6a724fb32c14": {
     "normalized_title": "聖誕驚奇夜",
     "raw_titles": [
@@ -481,32 +377,6 @@
     "original_title": null,
     "year": 2026,
     "tmdb_id": 1567605
-  },
-  "1b346a74342d": {
-    "normalized_title": "鬼聲泣0",
-    "raw_titles": [
-      "鬼聲泣0"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "ณฤทธิ์ ยุวบูรณ์",
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1556321
-  },
-  "71809ca145d5": {
-    "normalized_title": "雞智逃亡生活",
-    "raw_titles": [
-      "雞智逃亡生活"
-    ],
-    "sources": [
-      "ambassador.com.tw"
-    ],
-    "director": "Pálfi György",
-    "original_title": null,
-    "year": 2026,
-    "tmdb_id": 1382513
   },
   "4c087cd2978c": {
     "normalized_title": "我們,巴黎管弦樂團",
