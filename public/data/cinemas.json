@@ -75,12 +75,5 @@
     "is_indie": true,
     "address": null,
     "city": "台北市"
-  },
-  "kaohsiung-film-archive": {
-    "name": "高雄市電影館",
-    "chain": null,
-    "is_indie": true,
-    "address": null,
-    "city": "高雄市"
   }
 }
